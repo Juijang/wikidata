@@ -1,0 +1,648 @@
+[
+  { 
+    "name": "A band of mad alchemists",
+    "bounds": [
+      -189,
+      -30,
+      -15,
+      102
+    ],
+    "marker": [
+      -102,
+      36
+    ],
+    "difficultyMin": 1,
+    "difficultyMax": 5,
+    "waveCount": 5,
+    "firstWave": "MadAlchemists_Wave1"
+  },
+  {
+    "name": "A clutter of spiders",
+    "bounds": [
+      1,
+      20,
+      100,
+      150
+    ],
+    "marker": [
+      50,
+      85
+    ],
+    "difficultyMin": 1,
+    "difficultyMax": 6,
+    "waveCount": 6,
+    "firstWave": "Spider_Purge_Wave1"
+  },
+  {
+    "name": "A horde of darfari cannibals",
+    "bounds": [
+      -200,
+      100,
+      160,
+      260
+    ],
+    "marker": [
+      -20,
+      180
+    ],
+    "difficultyMin": 1,
+    "difficultyMax": 4,
+    "waveCount": 9,
+    "firstWave": "Darfari_Purge_Wave1"
+  },
+  {
+    "name": "A horde of darfari cannibals (Ostriches)",
+    "bounds": [
+      -200,
+      100,
+      160,
+      260
+    ],
+    "marker": [
+      -20,
+      180
+    ],
+    "difficultyMin": 1,
+    "difficultyMax": 4,
+    "waveCount": 9,
+    "firstWave": "DarfariOstriches_Purge_Wave1"
+  },
+  {
+    "name": "A gang of degenerate Lemurians",
+    "bounds": [
+      145,
+      100,
+      370,
+      230
+    ],
+    "marker": [
+      257,
+      165
+    ],
+    "difficultyMin": 1,
+    "difficultyMax": 4,
+    "waveCount": 9,
+    "firstWave": "Lemurian_Purge_Wave1"
+  },
+  {
+    "name": "The Forgotten Clan",
+    "bounds": [
+      -310,
+      -300,
+      -100,
+      -30
+    ],
+    "marker": [
+      -205,
+      -165
+    ],
+    "difficultyMin": 1,
+    "difficultyMax": 4,
+    "waveCount": 9,
+    "firstWave": "LostTribe_Purge_Wave1"
+  },
+  {
+    "name": "A throng of yetis",
+    "bounds": [
+      -300,
+      -280,
+      66,
+      -60
+    ],
+    "marker": [
+      -117,
+      -170
+    ],
+    "difficultyMin": 1,
+    "difficultyMax": 6,
+    "waveCount": 2,
+    "firstWave": "Yeti_Wave1"
+  },
+  {
+    "name": "A group of Vanir hunters",
+    "bounds": [
+      -168,
+      -95,
+      81,
+      20
+    ],
+    "marker": [
+      -43,
+      -37
+    ],
+    "difficultyMin": 1,
+    "difficultyMax": 6,
+    "waveCount": 5,
+    "firstWave": "VanirHunters_Wave1"
+  },
+  {
+    "name": "A pack of wolves",
+    "bounds": [
+      -80,
+      -30,
+      110,
+      30
+    ],
+    "marker": [
+      15,
+      0
+    ],
+    "difficultyMin": 1,
+    "difficultyMax": 6,
+    "waveCount": 2,
+    "firstWave": "Wolves_Purge_Wave1"
+  },
+  {
+    "name": "A nest of scorpions",
+    "bounds": [
+      -250,
+      20,
+      -33,
+      200
+    ],
+    "marker": [
+      -141,
+      110
+    ],
+    "difficultyMin": 1,
+    "difficultyMax": 6,
+    "waveCount": 3,
+    "firstWave": "Scorpions_Purge_Wave1"
+  },
+  {
+    "name": "A band of desperate exiles",
+    "bounds": [
+      -150,
+      130,
+      155,
+      350
+    ],
+    "marker": [
+      2,
+      240
+    ],
+    "difficultyMin": 1,
+    "difficultyMax": 4,
+    "waveCount": 9,
+    "firstWave": "Exile_Purge_Wave1"
+  },
+  {
+    "name": "Disciples of Jhebbal Sag",
+    "bounds": [
+      -189,
+      -30,
+      -15,
+      102
+    ],
+    "marker": [
+      -102,
+      36
+    ],
+    "difficultyMin": 1,
+    "difficultyMax": 6,
+    "waveCount": 5,
+    "firstWave": "JhebbalSagWorshippers_Wave1"
+  },
+  {
+    "name": "A cackle of Hyenas",
+    "bounds": [
+      -135,
+      110,
+      145,
+      245
+    ],
+    "marker": [
+      5,
+      177
+    ],
+    "difficultyMin": 1,
+    "difficultyMax": 6,
+    "waveCount": 6,
+    "firstWave": "Hyena_Purge_Wave1"
+  },
+  {
+    "name": "A raid of Relic Hunters",
+    "bounds": [
+      -300,
+      10,
+      -200,
+      160
+    ],
+    "marker": [
+      -250,
+      85
+    ],
+    "difficultyMin": 1,
+    "difficultyMax": 4,
+    "waveCount": 9,
+    "firstWave": "RelicHunter_Purge_Wave1"
+  },
+  {
+    "name": "A clan of nordheimers",
+    "bounds": [
+      -47,
+      -80,
+      120,
+      9
+    ],
+    "marker": [
+      36,
+      -35
+    ],
+    "difficultyMin": 1,
+    "difficultyMax": 4,
+    "waveCount": 9,
+    "firstWave": "HeirsToTheNorth_Purge_Wave1"
+  },
+  {
+    "name": "A band of starved exiles",
+    "bounds": [
+      -146,
+      32,
+      265,
+      259
+    ],
+    "marker": [
+      59,
+      145
+    ],
+    "difficultyMin": 1,
+    "difficultyMax": 4,
+    "waveCount": 9,
+    "firstWave": "StarvedExiles_Wave1"
+  },
+  {
+    "name": "A troop of grey apes",
+    "bounds": [
+      165,
+      10,
+      420,
+      200
+    ],
+    "marker": [
+      292,
+      105
+    ],
+    "difficultyMin": 1,
+    "difficultyMax": 6,
+    "waveCount": 3,
+    "firstWave": "GrayApe_Purge_Wave1"
+  },
+  {
+    "name": "A swarm of imps",
+    "bounds": [
+      -110,
+      170,
+      300,
+      290
+    ],
+    "marker": [
+      95,
+      230
+    ],
+    "difficultyMin": 1,
+    "difficultyMax": 6,
+    "waveCount": 5,
+    "firstWave": "Imp_Purge_Wave1"
+  },
+  {
+    "name": "A bask of lizards",
+    "bounds": [
+      -100,
+      81,
+      360,
+      198
+    ],
+    "marker": [
+      130,
+      139
+    ],
+    "difficultyMin": 1,
+    "difficultyMax": 6,
+    "waveCount": 2,
+    "firstWave": "CrocodilePurge_Wave1"
+  },
+  {
+    "name": "An avalanche of Rocknoses",
+    "bounds": [
+      -189,
+      -30,
+      105,
+      174
+    ],
+    "marker": [
+      -42,
+      72
+    ],
+    "difficultyMin": 1,
+    "difficultyMax": 6,
+    "waveCount": 5,
+    "firstWave": "Rocknoses_Wave1"
+  },
+  {
+    "name": "A tide of Undead",
+    "bounds": [
+      -300,
+      -180,
+      -153,
+      -51
+    ],
+    "marker": [
+      -226,
+      -115
+    ],
+    "difficultyMin": 1,
+    "difficultyMax": 6,
+    "waveCount": 6,
+    "firstWave": "ServantOfTheRing_Wave1"
+  },
+  {
+    "name": "A band of Frost Giants",
+    "bounds": [
+      -280,
+      -350,
+      -40,
+      -115
+    ],
+    "marker": [
+      -160,
+      -232
+    ],
+    "difficultyMin": 1,
+    "difficultyMax": 6,
+    "waveCount": 6,
+    "firstWave": "FrostGiants_Purge_Wave1"
+  },
+  {
+    "name": "The Children of Jhil",
+    "bounds": [
+      1,
+      -145,
+      66,
+      -60
+    ],
+    "marker": [
+      33,
+      -102
+    ],
+    "difficultyMin": 1,
+    "difficultyMax": 6,
+    "waveCount": 3,
+    "firstWave": "ChildrenOfJhil_Wave1"
+  },
+  {
+    "name": "A crew of Black Hand Pirates (Swamp)",
+    "bounds": [
+      110,
+      -35,
+      435,
+      150
+    ],
+    "marker": [
+      272,
+      57
+    ],
+    "difficultyMin": 1,
+    "difficultyMax": 4,
+    "waveCount": 9,
+    "firstWave": "BlackHandPir_Purge_Wave1"
+  },
+  {
+    "name": "Relic Hunter scouts",
+    "bounds": [
+      -350,
+      -40,
+      -134,
+      210
+    ],
+    "marker": [
+      -242,
+      85
+    ],
+    "difficultyMin": 1,
+    "difficultyMax": 4,
+    "waveCount": 9,
+    "firstWave": "RelicHunterScouts_Purge_Wave1"
+  },
+  {
+    "name": "A plague of locusts (Desert East)",
+    "bounds": [
+      25,
+      50,
+      155,
+      110
+    ],
+    "marker": [
+      90,
+      80
+    ],
+    "difficultyMin": 1,
+    "difficultyMax": 6,
+    "waveCount": 6,
+    "firstWave": "LocustDesertEast_Purge_Wave1"
+  },
+  {
+    "name": "A gang of roaming bandits",
+    "bounds": [
+      -300,
+      -280,
+      373,
+      237
+    ],
+    "marker": [
+      36,
+      -21
+    ],
+    "difficultyMin": 1,
+    "difficultyMax": 4,
+    "waveCount": 9,
+    "firstWave": "BanditsPurge_Wave1"
+  },
+  {
+    "name": "The Silent Legion",
+    "bounds": [
+      -165,
+      -210,
+      100,
+      -85
+    ],
+    "marker": [
+      -32,
+      -147
+    ],
+    "difficultyMin": 1,
+    "difficultyMax": 6,
+    "waveCount": 6,
+    "firstWave": "UndeadHighlands_Purge_Wave1"
+  },
+  {
+    "name": "A nest of snakes",
+    "bounds": [
+      123,
+      -15,
+      373,
+      237
+    ],
+    "marker": [
+      248,
+      111
+    ],
+    "difficultyMin": 1,
+    "difficultyMax": 6,
+    "waveCount": 3,
+    "firstWave": "JungleSnakes_Wave1"
+  },
+  {
+    "name": "A plague of locusts (Swamp)",
+    "bounds": [
+      150,
+      -18,
+      280,
+      65
+    ],
+    "marker": [
+      215,
+      23
+    ],
+    "difficultyMin": 1,
+    "difficultyMax": 6,
+    "waveCount": 6,
+    "firstWave": "LocustSwamp_Purge_Wave1"
+  },
+  {
+    "name": "A crew of Black Hand Pirates",
+    "bounds": [
+      20,
+      40,
+      190,
+      115
+    ],
+    "marker": [
+      105,
+      77
+    ],
+    "difficultyMin": 1,
+    "difficultyMax": 4,
+    "waveCount": 9,
+    "firstWave": "BlackHand_Purge_Wave1"
+  },
+  {
+    "name": "A legion of demons",
+    "bounds": [
+      -180,
+      35,
+      -70,
+      180
+    ],
+    "marker": [
+      -125,
+      107
+    ],
+    "difficultyMin": 1,
+    "difficultyMax": 6,
+    "waveCount": 6,
+    "firstWave": "Demonic_Purge_Wave1"
+  },
+  {
+    "name": "A Dogs of the Desert pack",
+    "bounds": [
+      -180,
+      5,
+      -10,
+      100
+    ],
+    "marker": [
+      -95,
+      52
+    ],
+    "difficultyMin": 1,
+    "difficultyMax": 4,
+    "waveCount": 9,
+    "firstWave": "DogsOfTheDesert_Purge_Wave1"
+  },
+  {
+    "name": "A plague of locusts (Desert West)",
+    "bounds": [
+      -290,
+      -6,
+      -160,
+      90
+    ],
+    "marker": [
+      -225,
+      42
+    ],
+    "difficultyMin": 1,
+    "difficultyMax": 6,
+    "waveCount": 6,
+    "firstWave": "LocustDesertWest_Purge_Wave1"
+  },
+  {
+    "name": "A shambling mass of undead",
+    "bounds": [
+      -215,
+      70,
+      -55,
+      170
+    ],
+    "marker": [
+      -135,
+      120
+    ],
+    "difficultyMin": 1,
+    "difficultyMax": 6,
+    "waveCount": 6,
+    "firstWave": "UndeadDesert_Purge_Wave1"
+  },
+  {
+    "name": "A clan of Cimmerian beast-tamers",
+    "bounds": [
+      -300,
+      -280,
+      81,
+      20
+    ],
+    "marker": [
+      -109,
+      -130
+    ],
+    "difficultyMin": 1,
+    "difficultyMax": 6,
+    "waveCount": 5,
+    "firstWave": "WhiteDragon_Wave1"
+  },
+  {
+    "name": "A cabal of Votaries of Skelos",
+    "bounds": [
+      -150,
+      -400,
+      160,
+      -180
+    ],
+    "marker": [
+      5,
+      -290
+    ],
+    "difficultyMin": 1,
+    "difficultyMax": 4,
+    "waveCount": 9,
+    "firstWave": "Votaries_Purge_Wave1"
+  },
+  {
+    "name": "An outcast Vanir chieftain",
+    "bounds": [
+      -139,
+      -150,
+      110,
+      18
+    ],
+    "marker": [
+      -14,
+      -66
+    ],
+    "difficultyMin": 1,
+    "difficultyMax": 6,
+    "waveCount": 5,
+    "firstWave": "VanirChieftain_Wave1"
+  }
+]
