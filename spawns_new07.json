@@ -1094,9 +1094,6 @@
         "id": "Wildlife_Miniboss_Tiger"
       },
       {
-        "name": "Fighter II"
-      },
-      {
         "name": "Tiger Cub",
         "type": "Critter",
         "chance": "10%",
@@ -1117,9 +1114,6 @@
         "type": "MiniBoss",
         "chance": "2%",
         "id": "Wildlife_Miniboss_Tiger"
-      },
-      {
-        "name": "Fighter II"
       },
       {
         "name": "Tiger Cub",
@@ -1448,9 +1442,6 @@
         "id": "Wildlife_Miniboss_Tiger"
       },
       {
-        "name": "Fighter II"
-      },
-      {
         "name": "Tiger Cub",
         "type": "Critter",
         "chance": "10%",
@@ -1489,9 +1480,6 @@
         "id": "Wildlife_Miniboss_Tiger"
       },
       {
-        "name": "Fighter II"
-      },
-      {
         "name": "Tiger Cub",
         "type": "Critter",
         "chance": "10%",
@@ -1514,9 +1502,6 @@
         "id": "Wildlife_Miniboss_Tiger"
       },
       {
-        "name": "Fighter II"
-      },
-      {
         "name": "Tiger Cub",
         "type": "Critter",
         "chance": "10%",
@@ -1537,9 +1522,6 @@
         "type": "MiniBoss",
         "chance": "2%",
         "id": "Wildlife_Miniboss_Tiger"
-      },
-      {
-        "name": "Fighter II"
       },
       {
         "name": "Tiger Cub",
@@ -1596,9 +1578,6 @@
         "id": "Wildlife_Miniboss_Tiger"
       },
       {
-        "name": "Fighter II"
-      },
-      {
         "name": "Tiger Cub",
         "type": "Critter",
         "chance": "10%",
@@ -1619,9 +1598,6 @@
         "type": "MiniBoss",
         "chance": "2%",
         "id": "Wildlife_Miniboss_Tiger"
-      },
-      {
-        "name": "Fighter II"
       },
       {
         "name": "Tiger Cub",
@@ -1779,9 +1755,6 @@
         "type": "MiniBoss",
         "chance": "2%",
         "id": "Wildlife_Miniboss_Wolf"
-      },
-      {
-        "name": "Fighter II"
       },
       {
         "name": "Wolf Pup",
@@ -3618,61 +3591,25 @@
         "name": "Relic Hunter Treasure Seeker",
         "type": "Fighter",
         "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker3"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Archer",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker13"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Archer",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker15"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Fighter",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker2"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Archer",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker10"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Fighter",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker8"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Archer",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker11"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Fighter",
-        "chance": "7%",
         "id": "Relic_Hunter_Treasureseeker7"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Archer",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker12"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Archer",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker14"
       },
       {
         "name": "Relic Hunter Treasure Seeker",
         "type": "Fighter",
         "chance": "7%",
         "id": "Relic_Hunter_Treasureseeker5"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Fighter",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker6"
       },
       {
         "name": "Relic Hunter Treasure Seeker",
@@ -3684,25 +3621,61 @@
         "name": "Relic Hunter Treasure Seeker",
         "type": "Fighter",
         "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker3"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Fighter",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker8"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Archer",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker13"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Fighter",
+        "chance": "7%",
         "id": "Relic_Hunter_Treasureseeker4"
       },
       {
         "name": "Relic Hunter Treasure Seeker",
         "type": "Archer",
         "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker12"
+        "id": "Relic_Hunter_Treasureseeker11"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Fighter",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker2"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Archer",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker15"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Fighter",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker6"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Archer",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker10"
       },
       {
         "name": "Relic Hunter Treasure Seeker",
         "type": "Fighter",
         "chance": "7%",
         "id": "Relic_Hunter_Treasureseeker1"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Archer",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker14"
       }
     ]
   },
@@ -3718,61 +3691,25 @@
         "name": "Relic Hunter Treasure Seeker",
         "type": "Fighter",
         "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker3"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Archer",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker13"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Archer",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker15"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Fighter",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker2"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Archer",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker10"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Fighter",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker8"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Archer",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker11"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Fighter",
-        "chance": "7%",
         "id": "Relic_Hunter_Treasureseeker7"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Archer",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker12"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Archer",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker14"
       },
       {
         "name": "Relic Hunter Treasure Seeker",
         "type": "Fighter",
         "chance": "7%",
         "id": "Relic_Hunter_Treasureseeker5"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Fighter",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker6"
       },
       {
         "name": "Relic Hunter Treasure Seeker",
@@ -3784,25 +3721,61 @@
         "name": "Relic Hunter Treasure Seeker",
         "type": "Fighter",
         "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker3"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Fighter",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker8"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Archer",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker13"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Fighter",
+        "chance": "7%",
         "id": "Relic_Hunter_Treasureseeker4"
       },
       {
         "name": "Relic Hunter Treasure Seeker",
         "type": "Archer",
         "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker12"
+        "id": "Relic_Hunter_Treasureseeker11"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Fighter",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker2"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Archer",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker15"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Fighter",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker6"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Archer",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker10"
       },
       {
         "name": "Relic Hunter Treasure Seeker",
         "type": "Fighter",
         "chance": "7%",
         "id": "Relic_Hunter_Treasureseeker1"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Archer",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker14"
       }
     ]
   },
@@ -3818,61 +3791,25 @@
         "name": "Relic Hunter Treasure Seeker",
         "type": "Fighter",
         "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker3"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Archer",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker13"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Archer",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker15"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Fighter",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker2"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Archer",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker10"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Fighter",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker8"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Archer",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker11"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Fighter",
-        "chance": "7%",
         "id": "Relic_Hunter_Treasureseeker7"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Archer",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker12"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Archer",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker14"
       },
       {
         "name": "Relic Hunter Treasure Seeker",
         "type": "Fighter",
         "chance": "7%",
         "id": "Relic_Hunter_Treasureseeker5"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Fighter",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker6"
       },
       {
         "name": "Relic Hunter Treasure Seeker",
@@ -3884,25 +3821,61 @@
         "name": "Relic Hunter Treasure Seeker",
         "type": "Fighter",
         "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker3"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Fighter",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker8"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Archer",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker13"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Fighter",
+        "chance": "7%",
         "id": "Relic_Hunter_Treasureseeker4"
       },
       {
         "name": "Relic Hunter Treasure Seeker",
         "type": "Archer",
         "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker12"
+        "id": "Relic_Hunter_Treasureseeker11"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Fighter",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker2"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Archer",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker15"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Fighter",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker6"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Archer",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker10"
       },
       {
         "name": "Relic Hunter Treasure Seeker",
         "type": "Fighter",
         "chance": "7%",
         "id": "Relic_Hunter_Treasureseeker1"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Archer",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker14"
       }
     ]
   },
@@ -4844,19 +4817,6 @@
     ]
   },
   {
-    "id": "Wildlife_SpiderGrey",
-    "marker": [
-      152565,
-      -19411,
-      -26152
-    ],
-    "spawns": [
-      {
-        "name": "Fighter II"
-      }
-    ]
-  },
-  {
     "id": "DarfariArcher_Random",
     "marker": [
       -86479,
@@ -5023,32 +4983,19 @@
         "name": "Follower of Jhebbal Sag",
         "type": "Fighter",
         "chance": "33%",
-        "id": "DungeonSag_Dogs_Fighter_3_Zamorian"
-      },
-      {
-        "name": "Follower of Jhebbal Sag",
-        "type": "Fighter",
-        "chance": "33%",
         "id": "DungeonSag_Dogs_Fighter_3_Stygian"
       },
       {
         "name": "Follower of Jhebbal Sag",
         "type": "Fighter",
         "chance": "33%",
-        "id": "DungeonSag_Dogs_Fighter_3_Shemite"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_SpiderWidowGreen",
-    "marker": [
-      60957,
-      156154,
-      -17826
-    ],
-    "spawns": [
+        "id": "DungeonSag_Dogs_Fighter_3_Zamorian"
+      },
       {
-        "name": "Fighter II"
+        "name": "Follower of Jhebbal Sag",
+        "type": "Fighter",
+        "chance": "33%",
+        "id": "DungeonSag_Dogs_Fighter_3_Shemite"
       }
     ]
   },
@@ -5156,19 +5103,6 @@
     ]
   },
   {
-    "id": "Wildlife_SpiderWidowRed",
-    "marker": [
-      193074,
-      5776,
-      -19643
-    ],
-    "spawns": [
-      {
-        "name": "Fighter II"
-      }
-    ]
-  },
-  {
     "id": "Wildlife_Wild_Boar",
     "marker": [
       50419,
@@ -5205,13 +5139,13 @@
         "name": "Follower of Jhebbal Sag",
         "type": "Archer",
         "chance": "33%",
-        "id": "DungeonSag_Dogs_Archer_3_Zamorian"
+        "id": "DungeonSag_Dogs_Archer_3_Stygian"
       },
       {
         "name": "Follower of Jhebbal Sag",
         "type": "Archer",
         "chance": "33%",
-        "id": "DungeonSag_Dogs_Archer_3_Stygian"
+        "id": "DungeonSag_Dogs_Archer_3_Zamorian"
       },
       {
         "name": "Follower of Jhebbal Sag",
@@ -5250,32 +5184,6 @@
         "type": "MiniBoss",
         "chance": "2%",
         "id": "Wildlife_Miniboss_JungleBird_Grey"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_SpiderWidowBlack",
-    "marker": [
-      63565,
-      156460,
-      -17992
-    ],
-    "spawns": [
-      {
-        "name": "Fighter II"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_SpiderWidowRed",
-    "marker": [
-      171546,
-      -2583,
-      -20240
-    ],
-    "spawns": [
-      {
-        "name": "Fighter II"
       }
     ]
   },
@@ -5348,13 +5256,13 @@
         "name": "Follower of Jhebbal Sag",
         "type": "Fighter",
         "chance": "33%",
-        "id": "DungeonSag_Dogs_Fighter_3_Zamorian"
+        "id": "DungeonSag_Dogs_Fighter_3_Stygian"
       },
       {
         "name": "Follower of Jhebbal Sag",
         "type": "Fighter",
         "chance": "33%",
-        "id": "DungeonSag_Dogs_Fighter_3_Stygian"
+        "id": "DungeonSag_Dogs_Fighter_3_Zamorian"
       },
       {
         "name": "Follower of Jhebbal Sag",
@@ -5472,13 +5380,13 @@
         "name": "Follower of Jhebbal Sag",
         "type": "Fighter",
         "chance": "33%",
-        "id": "DungeonSag_Dogs_Fighter_3_Zamorian"
+        "id": "DungeonSag_Dogs_Fighter_3_Stygian"
       },
       {
         "name": "Follower of Jhebbal Sag",
         "type": "Fighter",
         "chance": "33%",
-        "id": "DungeonSag_Dogs_Fighter_3_Stygian"
+        "id": "DungeonSag_Dogs_Fighter_3_Zamorian"
       },
       {
         "name": "Follower of Jhebbal Sag",
@@ -5646,13 +5554,13 @@
         "name": "Follower of Jhebbal Sag",
         "type": "Archer",
         "chance": "33%",
-        "id": "DungeonSag_Dogs_Archer_3_Zamorian"
+        "id": "DungeonSag_Dogs_Archer_3_Stygian"
       },
       {
         "name": "Follower of Jhebbal Sag",
         "type": "Archer",
         "chance": "33%",
-        "id": "DungeonSag_Dogs_Archer_3_Stygian"
+        "id": "DungeonSag_Dogs_Archer_3_Zamorian"
       },
       {
         "name": "Follower of Jhebbal Sag",
@@ -5715,61 +5623,25 @@
         "name": "Relic Hunter Treasure Seeker",
         "type": "Fighter",
         "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker3"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Archer",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker13"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Archer",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker15"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Fighter",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker2"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Archer",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker10"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Fighter",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker8"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Archer",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker11"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Fighter",
-        "chance": "7%",
         "id": "Relic_Hunter_Treasureseeker7"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Archer",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker12"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Archer",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker14"
       },
       {
         "name": "Relic Hunter Treasure Seeker",
         "type": "Fighter",
         "chance": "7%",
         "id": "Relic_Hunter_Treasureseeker5"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Fighter",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker6"
       },
       {
         "name": "Relic Hunter Treasure Seeker",
@@ -5781,25 +5653,61 @@
         "name": "Relic Hunter Treasure Seeker",
         "type": "Fighter",
         "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker3"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Fighter",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker8"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Archer",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker13"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Fighter",
+        "chance": "7%",
         "id": "Relic_Hunter_Treasureseeker4"
       },
       {
         "name": "Relic Hunter Treasure Seeker",
         "type": "Archer",
         "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker12"
+        "id": "Relic_Hunter_Treasureseeker11"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Fighter",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker2"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Archer",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker15"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Fighter",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker6"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Archer",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker10"
       },
       {
         "name": "Relic Hunter Treasure Seeker",
         "type": "Fighter",
         "chance": "7%",
         "id": "Relic_Hunter_Treasureseeker1"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Archer",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker14"
       }
     ]
   },
@@ -5828,13 +5736,13 @@
         "name": "Follower of Jhebbal Sag",
         "type": "Fighter",
         "chance": "33%",
-        "id": "DungeonSag_Dogs_Fighter_3_Zamorian"
+        "id": "DungeonSag_Dogs_Fighter_3_Stygian"
       },
       {
         "name": "Follower of Jhebbal Sag",
         "type": "Fighter",
         "chance": "33%",
-        "id": "DungeonSag_Dogs_Fighter_3_Stygian"
+        "id": "DungeonSag_Dogs_Fighter_3_Zamorian"
       },
       {
         "name": "Follower of Jhebbal Sag",
@@ -5872,61 +5780,25 @@
         "name": "Relic Hunter Treasure Seeker",
         "type": "Fighter",
         "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker3"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Archer",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker13"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Archer",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker15"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Fighter",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker2"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Archer",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker10"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Fighter",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker8"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Archer",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker11"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Fighter",
-        "chance": "7%",
         "id": "Relic_Hunter_Treasureseeker7"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Archer",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker12"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Archer",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker14"
       },
       {
         "name": "Relic Hunter Treasure Seeker",
         "type": "Fighter",
         "chance": "7%",
         "id": "Relic_Hunter_Treasureseeker5"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Fighter",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker6"
       },
       {
         "name": "Relic Hunter Treasure Seeker",
@@ -5938,25 +5810,61 @@
         "name": "Relic Hunter Treasure Seeker",
         "type": "Fighter",
         "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker3"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Fighter",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker8"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Archer",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker13"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Fighter",
+        "chance": "7%",
         "id": "Relic_Hunter_Treasureseeker4"
       },
       {
         "name": "Relic Hunter Treasure Seeker",
         "type": "Archer",
         "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker12"
+        "id": "Relic_Hunter_Treasureseeker11"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Fighter",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker2"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Archer",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker15"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Fighter",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker6"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Archer",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker10"
       },
       {
         "name": "Relic Hunter Treasure Seeker",
         "type": "Fighter",
         "chance": "7%",
         "id": "Relic_Hunter_Treasureseeker1"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Archer",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker14"
       }
     ]
   },
@@ -6042,13 +5950,13 @@
         "name": "Follower of Jhebbal Sag",
         "type": "Fighter",
         "chance": "33%",
-        "id": "DungeonSag_Dogs_Fighter_3_Zamorian"
+        "id": "DungeonSag_Dogs_Fighter_3_Stygian"
       },
       {
         "name": "Follower of Jhebbal Sag",
         "type": "Fighter",
         "chance": "33%",
-        "id": "DungeonSag_Dogs_Fighter_3_Stygian"
+        "id": "DungeonSag_Dogs_Fighter_3_Zamorian"
       },
       {
         "name": "Follower of Jhebbal Sag",
@@ -6086,61 +5994,25 @@
         "name": "Relic Hunter Treasure Seeker",
         "type": "Fighter",
         "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker3"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Archer",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker13"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Archer",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker15"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Fighter",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker2"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Archer",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker10"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Fighter",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker8"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Archer",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker11"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Fighter",
-        "chance": "7%",
         "id": "Relic_Hunter_Treasureseeker7"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Archer",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker12"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Archer",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker14"
       },
       {
         "name": "Relic Hunter Treasure Seeker",
         "type": "Fighter",
         "chance": "7%",
         "id": "Relic_Hunter_Treasureseeker5"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Fighter",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker6"
       },
       {
         "name": "Relic Hunter Treasure Seeker",
@@ -6152,25 +6024,61 @@
         "name": "Relic Hunter Treasure Seeker",
         "type": "Fighter",
         "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker3"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Fighter",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker8"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Archer",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker13"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Fighter",
+        "chance": "7%",
         "id": "Relic_Hunter_Treasureseeker4"
       },
       {
         "name": "Relic Hunter Treasure Seeker",
         "type": "Archer",
         "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker12"
+        "id": "Relic_Hunter_Treasureseeker11"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Fighter",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker2"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Archer",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker15"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Fighter",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker6"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Archer",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker10"
       },
       {
         "name": "Relic Hunter Treasure Seeker",
         "type": "Fighter",
         "chance": "7%",
         "id": "Relic_Hunter_Treasureseeker1"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Archer",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker14"
       }
     ]
   },
@@ -6300,13 +6208,13 @@
         "name": "Follower of Jhebbal Sag",
         "type": "Fighter",
         "chance": "33%",
-        "id": "DungeonSag_Dogs_Fighter_3_Zamorian"
+        "id": "DungeonSag_Dogs_Fighter_3_Stygian"
       },
       {
         "name": "Follower of Jhebbal Sag",
         "type": "Fighter",
         "chance": "33%",
-        "id": "DungeonSag_Dogs_Fighter_3_Stygian"
+        "id": "DungeonSag_Dogs_Fighter_3_Zamorian"
       },
       {
         "name": "Follower of Jhebbal Sag",
@@ -6541,61 +6449,25 @@
         "name": "Relic Hunter Treasure Seeker",
         "type": "Fighter",
         "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker3"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Archer",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker13"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Archer",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker15"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Fighter",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker2"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Archer",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker10"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Fighter",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker8"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Archer",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker11"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Fighter",
-        "chance": "7%",
         "id": "Relic_Hunter_Treasureseeker7"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Archer",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker12"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Archer",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker14"
       },
       {
         "name": "Relic Hunter Treasure Seeker",
         "type": "Fighter",
         "chance": "7%",
         "id": "Relic_Hunter_Treasureseeker5"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Fighter",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker6"
       },
       {
         "name": "Relic Hunter Treasure Seeker",
@@ -6607,25 +6479,61 @@
         "name": "Relic Hunter Treasure Seeker",
         "type": "Fighter",
         "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker3"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Fighter",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker8"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Archer",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker13"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Fighter",
+        "chance": "7%",
         "id": "Relic_Hunter_Treasureseeker4"
       },
       {
         "name": "Relic Hunter Treasure Seeker",
         "type": "Archer",
         "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker12"
+        "id": "Relic_Hunter_Treasureseeker11"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Fighter",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker2"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Archer",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker15"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Fighter",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker6"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Archer",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker10"
       },
       {
         "name": "Relic Hunter Treasure Seeker",
         "type": "Fighter",
         "chance": "7%",
         "id": "Relic_Hunter_Treasureseeker1"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Archer",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker14"
       }
     ]
   },
@@ -7205,19 +7113,6 @@
     ]
   },
   {
-    "id": "Wildlife_SpiderGrey",
-    "marker": [
-      148428,
-      -21033,
-      -26152
-    ],
-    "spawns": [
-      {
-        "name": "Fighter II"
-      }
-    ]
-  },
-  {
     "id": "HeirsToTheNorthArcher_Random",
     "marker": [
       -157175,
@@ -7343,13 +7238,13 @@
         "name": "Follower of Jhebbal Sag",
         "type": "Fighter",
         "chance": "33%",
-        "id": "DungeonSag_Dogs_Fighter_3_Zamorian"
+        "id": "DungeonSag_Dogs_Fighter_3_Stygian"
       },
       {
         "name": "Follower of Jhebbal Sag",
         "type": "Fighter",
         "chance": "33%",
-        "id": "DungeonSag_Dogs_Fighter_3_Stygian"
+        "id": "DungeonSag_Dogs_Fighter_3_Zamorian"
       },
       {
         "name": "Follower of Jhebbal Sag",
@@ -7463,61 +7358,25 @@
         "name": "Relic Hunter Treasure Seeker",
         "type": "Fighter",
         "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker3"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Archer",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker13"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Archer",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker15"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Fighter",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker2"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Archer",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker10"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Fighter",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker8"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Archer",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker11"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Fighter",
-        "chance": "7%",
         "id": "Relic_Hunter_Treasureseeker7"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Archer",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker12"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Archer",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker14"
       },
       {
         "name": "Relic Hunter Treasure Seeker",
         "type": "Fighter",
         "chance": "7%",
         "id": "Relic_Hunter_Treasureseeker5"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Fighter",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker6"
       },
       {
         "name": "Relic Hunter Treasure Seeker",
@@ -7529,25 +7388,61 @@
         "name": "Relic Hunter Treasure Seeker",
         "type": "Fighter",
         "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker3"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Fighter",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker8"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Archer",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker13"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Fighter",
+        "chance": "7%",
         "id": "Relic_Hunter_Treasureseeker4"
       },
       {
         "name": "Relic Hunter Treasure Seeker",
         "type": "Archer",
         "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker12"
+        "id": "Relic_Hunter_Treasureseeker11"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Fighter",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker2"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Archer",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker15"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Fighter",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker6"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Archer",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker10"
       },
       {
         "name": "Relic Hunter Treasure Seeker",
         "type": "Fighter",
         "chance": "7%",
         "id": "Relic_Hunter_Treasureseeker1"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Archer",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker14"
       }
     ]
   },
@@ -7626,61 +7521,25 @@
         "name": "Relic Hunter Treasure Seeker",
         "type": "Fighter",
         "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker3"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Archer",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker13"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Archer",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker15"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Fighter",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker2"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Archer",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker10"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Fighter",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker8"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Archer",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker11"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Fighter",
-        "chance": "7%",
         "id": "Relic_Hunter_Treasureseeker7"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Archer",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker12"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Archer",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker14"
       },
       {
         "name": "Relic Hunter Treasure Seeker",
         "type": "Fighter",
         "chance": "7%",
         "id": "Relic_Hunter_Treasureseeker5"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Fighter",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker6"
       },
       {
         "name": "Relic Hunter Treasure Seeker",
@@ -7692,25 +7551,61 @@
         "name": "Relic Hunter Treasure Seeker",
         "type": "Fighter",
         "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker3"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Fighter",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker8"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Archer",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker13"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Fighter",
+        "chance": "7%",
         "id": "Relic_Hunter_Treasureseeker4"
       },
       {
         "name": "Relic Hunter Treasure Seeker",
         "type": "Archer",
         "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker12"
+        "id": "Relic_Hunter_Treasureseeker11"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Fighter",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker2"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Archer",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker15"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Fighter",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker6"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Archer",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker10"
       },
       {
         "name": "Relic Hunter Treasure Seeker",
         "type": "Fighter",
         "chance": "7%",
         "id": "Relic_Hunter_Treasureseeker1"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Archer",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker14"
       }
     ]
   },
@@ -7796,61 +7691,25 @@
         "name": "Relic Hunter Treasure Seeker",
         "type": "Fighter",
         "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker3"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Archer",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker13"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Archer",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker15"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Fighter",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker2"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Archer",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker10"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Fighter",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker8"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Archer",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker11"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Fighter",
-        "chance": "7%",
         "id": "Relic_Hunter_Treasureseeker7"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Archer",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker12"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Archer",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker14"
       },
       {
         "name": "Relic Hunter Treasure Seeker",
         "type": "Fighter",
         "chance": "7%",
         "id": "Relic_Hunter_Treasureseeker5"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Fighter",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker6"
       },
       {
         "name": "Relic Hunter Treasure Seeker",
@@ -7862,25 +7721,61 @@
         "name": "Relic Hunter Treasure Seeker",
         "type": "Fighter",
         "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker3"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Fighter",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker8"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Archer",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker13"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Fighter",
+        "chance": "7%",
         "id": "Relic_Hunter_Treasureseeker4"
       },
       {
         "name": "Relic Hunter Treasure Seeker",
         "type": "Archer",
         "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker12"
+        "id": "Relic_Hunter_Treasureseeker11"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Fighter",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker2"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Archer",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker15"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Fighter",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker6"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Archer",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker10"
       },
       {
         "name": "Relic Hunter Treasure Seeker",
         "type": "Fighter",
         "chance": "7%",
         "id": "Relic_Hunter_Treasureseeker1"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Archer",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker14"
       }
     ]
   },
@@ -7988,61 +7883,25 @@
         "name": "Relic Hunter Treasure Seeker",
         "type": "Fighter",
         "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker3"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Archer",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker13"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Archer",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker15"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Fighter",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker2"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Archer",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker10"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Fighter",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker8"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Archer",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker11"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Fighter",
-        "chance": "7%",
         "id": "Relic_Hunter_Treasureseeker7"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Archer",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker12"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Archer",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker14"
       },
       {
         "name": "Relic Hunter Treasure Seeker",
         "type": "Fighter",
         "chance": "7%",
         "id": "Relic_Hunter_Treasureseeker5"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Fighter",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker6"
       },
       {
         "name": "Relic Hunter Treasure Seeker",
@@ -8054,25 +7913,61 @@
         "name": "Relic Hunter Treasure Seeker",
         "type": "Fighter",
         "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker3"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Fighter",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker8"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Archer",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker13"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Fighter",
+        "chance": "7%",
         "id": "Relic_Hunter_Treasureseeker4"
       },
       {
         "name": "Relic Hunter Treasure Seeker",
         "type": "Archer",
         "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker12"
+        "id": "Relic_Hunter_Treasureseeker11"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Fighter",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker2"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Archer",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker15"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Fighter",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker6"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Archer",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker10"
       },
       {
         "name": "Relic Hunter Treasure Seeker",
         "type": "Fighter",
         "chance": "7%",
         "id": "Relic_Hunter_Treasureseeker1"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Archer",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker14"
       }
     ]
   },
@@ -8319,61 +8214,25 @@
         "name": "Relic Hunter Treasure Seeker",
         "type": "Fighter",
         "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker3"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Archer",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker13"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Archer",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker15"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Fighter",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker2"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Archer",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker10"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Fighter",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker8"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Archer",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker11"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Fighter",
-        "chance": "7%",
         "id": "Relic_Hunter_Treasureseeker7"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Archer",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker12"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Archer",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker14"
       },
       {
         "name": "Relic Hunter Treasure Seeker",
         "type": "Fighter",
         "chance": "7%",
         "id": "Relic_Hunter_Treasureseeker5"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Fighter",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker6"
       },
       {
         "name": "Relic Hunter Treasure Seeker",
@@ -8385,25 +8244,61 @@
         "name": "Relic Hunter Treasure Seeker",
         "type": "Fighter",
         "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker3"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Fighter",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker8"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Archer",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker13"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Fighter",
+        "chance": "7%",
         "id": "Relic_Hunter_Treasureseeker4"
       },
       {
         "name": "Relic Hunter Treasure Seeker",
         "type": "Archer",
         "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker12"
+        "id": "Relic_Hunter_Treasureseeker11"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Fighter",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker2"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Archer",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker15"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Fighter",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker6"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Archer",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker10"
       },
       {
         "name": "Relic Hunter Treasure Seeker",
         "type": "Fighter",
         "chance": "7%",
         "id": "Relic_Hunter_Treasureseeker1"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Archer",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker14"
       }
     ]
   },
@@ -8469,19 +8364,6 @@
     ]
   },
   {
-    "id": "Wildlife_SpiderWidowGreen",
-    "marker": [
-      55527,
-      157357,
-      -15567
-    ],
-    "spawns": [
-      {
-        "name": "Fighter II"
-      }
-    ]
-  },
-  {
     "id": "AbandonedCity_RelicHunter_Treasureseeker",
     "marker": [
       -120615,
@@ -8493,61 +8375,25 @@
         "name": "Relic Hunter Treasure Seeker",
         "type": "Fighter",
         "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker3"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Archer",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker13"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Archer",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker15"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Fighter",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker2"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Archer",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker10"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Fighter",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker8"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Archer",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker11"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Fighter",
-        "chance": "7%",
         "id": "Relic_Hunter_Treasureseeker7"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Archer",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker12"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Archer",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker14"
       },
       {
         "name": "Relic Hunter Treasure Seeker",
         "type": "Fighter",
         "chance": "7%",
         "id": "Relic_Hunter_Treasureseeker5"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Fighter",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker6"
       },
       {
         "name": "Relic Hunter Treasure Seeker",
@@ -8559,25 +8405,61 @@
         "name": "Relic Hunter Treasure Seeker",
         "type": "Fighter",
         "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker3"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Fighter",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker8"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Archer",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker13"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Fighter",
+        "chance": "7%",
         "id": "Relic_Hunter_Treasureseeker4"
       },
       {
         "name": "Relic Hunter Treasure Seeker",
         "type": "Archer",
         "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker12"
+        "id": "Relic_Hunter_Treasureseeker11"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Fighter",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker2"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Archer",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker15"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Fighter",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker6"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Archer",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker10"
       },
       {
         "name": "Relic Hunter Treasure Seeker",
         "type": "Fighter",
         "chance": "7%",
         "id": "Relic_Hunter_Treasureseeker1"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Archer",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker14"
       }
     ]
   },
@@ -8657,19 +8539,6 @@
     ]
   },
   {
-    "id": "Wildlife_SpiderWidowGreen",
-    "marker": [
-      52577,
-      157972,
-      -9816
-    ],
-    "spawns": [
-      {
-        "name": "Fighter II"
-      }
-    ]
-  },
-  {
     "id": "AbandonedCity_RelicHunter_Treasureseeker",
     "marker": [
       -118263,
@@ -8681,61 +8550,25 @@
         "name": "Relic Hunter Treasure Seeker",
         "type": "Fighter",
         "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker3"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Archer",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker13"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Archer",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker15"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Fighter",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker2"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Archer",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker10"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Fighter",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker8"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Archer",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker11"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Fighter",
-        "chance": "7%",
         "id": "Relic_Hunter_Treasureseeker7"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Archer",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker12"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Archer",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker14"
       },
       {
         "name": "Relic Hunter Treasure Seeker",
         "type": "Fighter",
         "chance": "7%",
         "id": "Relic_Hunter_Treasureseeker5"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Fighter",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker6"
       },
       {
         "name": "Relic Hunter Treasure Seeker",
@@ -8747,25 +8580,61 @@
         "name": "Relic Hunter Treasure Seeker",
         "type": "Fighter",
         "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker3"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Fighter",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker8"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Archer",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker13"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Fighter",
+        "chance": "7%",
         "id": "Relic_Hunter_Treasureseeker4"
       },
       {
         "name": "Relic Hunter Treasure Seeker",
         "type": "Archer",
         "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker12"
+        "id": "Relic_Hunter_Treasureseeker11"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Fighter",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker2"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Archer",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker15"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Fighter",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker6"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Archer",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker10"
       },
       {
         "name": "Relic Hunter Treasure Seeker",
         "type": "Fighter",
         "chance": "7%",
         "id": "Relic_Hunter_Treasureseeker1"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Archer",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker14"
       }
     ]
   },
@@ -8828,9 +8697,6 @@
         "id": "Wildlife_Miniboss_Wolf"
       },
       {
-        "name": "Fighter II"
-      },
-      {
         "name": "Wolf Pup",
         "type": "Critter",
         "chance": "10%",
@@ -8868,19 +8734,6 @@
     ]
   },
   {
-    "id": "Wildlife_SpiderWidowGreen",
-    "marker": [
-      48847,
-      152238,
-      -9816
-    ],
-    "spawns": [
-      {
-        "name": "Fighter II"
-      }
-    ]
-  },
-  {
     "id": "AbandonedCity_RelicHunter_Treasureseeker",
     "marker": [
       -121047,
@@ -8892,61 +8745,25 @@
         "name": "Relic Hunter Treasure Seeker",
         "type": "Fighter",
         "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker3"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Archer",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker13"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Archer",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker15"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Fighter",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker2"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Archer",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker10"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Fighter",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker8"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Archer",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker11"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Fighter",
-        "chance": "7%",
         "id": "Relic_Hunter_Treasureseeker7"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Archer",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker12"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Archer",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker14"
       },
       {
         "name": "Relic Hunter Treasure Seeker",
         "type": "Fighter",
         "chance": "7%",
         "id": "Relic_Hunter_Treasureseeker5"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Fighter",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker6"
       },
       {
         "name": "Relic Hunter Treasure Seeker",
@@ -8958,25 +8775,61 @@
         "name": "Relic Hunter Treasure Seeker",
         "type": "Fighter",
         "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker3"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Fighter",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker8"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Archer",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker13"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Fighter",
+        "chance": "7%",
         "id": "Relic_Hunter_Treasureseeker4"
       },
       {
         "name": "Relic Hunter Treasure Seeker",
         "type": "Archer",
         "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker12"
+        "id": "Relic_Hunter_Treasureseeker11"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Fighter",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker2"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Archer",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker15"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Fighter",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker6"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Archer",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker10"
       },
       {
         "name": "Relic Hunter Treasure Seeker",
         "type": "Fighter",
         "chance": "7%",
         "id": "Relic_Hunter_Treasureseeker1"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Archer",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker14"
       }
     ]
   },
@@ -9039,9 +8892,6 @@
         "id": "Wildlife_Miniboss_Wolf"
       },
       {
-        "name": "Fighter II"
-      },
-      {
         "name": "Wolf Pup",
         "type": "Critter",
         "chance": "10%",
@@ -9078,19 +8928,6 @@
         "type": "MiniBoss",
         "chance": "100%",
         "id": "Black_Hand_Fighter_3_BlackCorsair"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_SpiderWidowGreen",
-    "marker": [
-      52703,
-      151331,
-      -9816
-    ],
-    "spawns": [
-      {
-        "name": "Fighter II"
       }
     ]
   },
@@ -9193,9 +9030,6 @@
         "type": "MiniBoss",
         "chance": "2%",
         "id": "Wildlife_Miniboss_Wolf"
-      },
-      {
-        "name": "Fighter II"
       },
       {
         "name": "Wolf Pup",
@@ -9903,9 +9737,6 @@
         "id": "Wildlife_Miniboss_Wolf"
       },
       {
-        "name": "Fighter II"
-      },
-      {
         "name": "Wolf Pup",
         "type": "Critter",
         "chance": "10%",
@@ -9925,61 +9756,25 @@
         "name": "Relic Hunter Treasure Seeker",
         "type": "Fighter",
         "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker3"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Archer",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker13"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Archer",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker15"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Fighter",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker2"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Archer",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker10"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Fighter",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker8"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Archer",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker11"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Fighter",
-        "chance": "7%",
         "id": "Relic_Hunter_Treasureseeker7"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Archer",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker12"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Archer",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker14"
       },
       {
         "name": "Relic Hunter Treasure Seeker",
         "type": "Fighter",
         "chance": "7%",
         "id": "Relic_Hunter_Treasureseeker5"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Fighter",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker6"
       },
       {
         "name": "Relic Hunter Treasure Seeker",
@@ -9991,25 +9786,61 @@
         "name": "Relic Hunter Treasure Seeker",
         "type": "Fighter",
         "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker3"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Fighter",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker8"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Archer",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker13"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Fighter",
+        "chance": "7%",
         "id": "Relic_Hunter_Treasureseeker4"
       },
       {
         "name": "Relic Hunter Treasure Seeker",
         "type": "Archer",
         "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker12"
+        "id": "Relic_Hunter_Treasureseeker11"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Fighter",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker2"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Archer",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker15"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Fighter",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker6"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Archer",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker10"
       },
       {
         "name": "Relic Hunter Treasure Seeker",
         "type": "Fighter",
         "chance": "7%",
         "id": "Relic_Hunter_Treasureseeker1"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Archer",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker14"
       }
     ]
   },
@@ -10126,61 +9957,25 @@
         "name": "Relic Hunter Treasure Seeker",
         "type": "Fighter",
         "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker3"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Archer",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker13"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Archer",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker15"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Fighter",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker2"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Archer",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker10"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Fighter",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker8"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Archer",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker11"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Fighter",
-        "chance": "7%",
         "id": "Relic_Hunter_Treasureseeker7"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Archer",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker12"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Archer",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker14"
       },
       {
         "name": "Relic Hunter Treasure Seeker",
         "type": "Fighter",
         "chance": "7%",
         "id": "Relic_Hunter_Treasureseeker5"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Fighter",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker6"
       },
       {
         "name": "Relic Hunter Treasure Seeker",
@@ -10192,25 +9987,61 @@
         "name": "Relic Hunter Treasure Seeker",
         "type": "Fighter",
         "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker3"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Fighter",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker8"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Archer",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker13"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Fighter",
+        "chance": "7%",
         "id": "Relic_Hunter_Treasureseeker4"
       },
       {
         "name": "Relic Hunter Treasure Seeker",
         "type": "Archer",
         "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker12"
+        "id": "Relic_Hunter_Treasureseeker11"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Fighter",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker2"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Archer",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker15"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Fighter",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker6"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Archer",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker10"
       },
       {
         "name": "Relic Hunter Treasure Seeker",
         "type": "Fighter",
         "chance": "7%",
         "id": "Relic_Hunter_Treasureseeker1"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Archer",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker14"
       }
     ]
   },
@@ -10248,9 +10079,6 @@
         "id": "Wildlife_Miniboss_Wolf"
       },
       {
-        "name": "Fighter II"
-      },
-      {
         "name": "Wolf Pup",
         "type": "Critter",
         "chance": "10%",
@@ -10286,13 +10114,13 @@
         "name": "Follower of Jhebbal Sag",
         "type": "Archer",
         "chance": "33%",
-        "id": "DungeonSag_Dogs_Archer_3_Zamorian"
+        "id": "DungeonSag_Dogs_Archer_3_Stygian"
       },
       {
         "name": "Follower of Jhebbal Sag",
         "type": "Archer",
         "chance": "33%",
-        "id": "DungeonSag_Dogs_Archer_3_Stygian"
+        "id": "DungeonSag_Dogs_Archer_3_Zamorian"
       },
       {
         "name": "Follower of Jhebbal Sag",
@@ -10352,61 +10180,25 @@
         "name": "Relic Hunter Treasure Seeker",
         "type": "Fighter",
         "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker3"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Archer",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker13"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Archer",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker15"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Fighter",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker2"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Archer",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker10"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Fighter",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker8"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Archer",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker11"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Fighter",
-        "chance": "7%",
         "id": "Relic_Hunter_Treasureseeker7"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Archer",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker12"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Archer",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker14"
       },
       {
         "name": "Relic Hunter Treasure Seeker",
         "type": "Fighter",
         "chance": "7%",
         "id": "Relic_Hunter_Treasureseeker5"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Fighter",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker6"
       },
       {
         "name": "Relic Hunter Treasure Seeker",
@@ -10418,25 +10210,61 @@
         "name": "Relic Hunter Treasure Seeker",
         "type": "Fighter",
         "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker3"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Fighter",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker8"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Archer",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker13"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Fighter",
+        "chance": "7%",
         "id": "Relic_Hunter_Treasureseeker4"
       },
       {
         "name": "Relic Hunter Treasure Seeker",
         "type": "Archer",
         "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker12"
+        "id": "Relic_Hunter_Treasureseeker11"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Fighter",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker2"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Archer",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker15"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Fighter",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker6"
+      },
+      {
+        "name": "Relic Hunter Treasure Seeker",
+        "type": "Archer",
+        "chance": "7%",
+        "id": "Relic_Hunter_Treasureseeker10"
       },
       {
         "name": "Relic Hunter Treasure Seeker",
         "type": "Fighter",
         "chance": "7%",
         "id": "Relic_Hunter_Treasureseeker1"
-      },
-      {
-        "name": "Relic Hunter Treasure Seeker",
-        "type": "Archer",
-        "chance": "7%",
-        "id": "Relic_Hunter_Treasureseeker14"
       }
     ]
   },
@@ -10472,9 +10300,6 @@
         "type": "MiniBoss",
         "chance": "2%",
         "id": "Wildlife_Miniboss_Wolf"
-      },
-      {
-        "name": "Fighter II"
       },
       {
         "name": "Wolf Pup",
@@ -10585,9 +10410,6 @@
         "type": "MiniBoss",
         "chance": "2%",
         "id": "Wildlife_Miniboss_Wolf"
-      },
-      {
-        "name": "Fighter II"
       },
       {
         "name": "Wolf Pup",
@@ -10762,9 +10584,6 @@
         "id": "Wildlife_Miniboss_Wolf"
       },
       {
-        "name": "Fighter II"
-      },
-      {
         "name": "Wolf Pup",
         "type": "Critter",
         "chance": "10%",
@@ -10932,9 +10751,6 @@
         "id": "Wildlife_Miniboss_Wolf"
       },
       {
-        "name": "Fighter II"
-      },
-      {
         "name": "Wolf Pup",
         "type": "Critter",
         "chance": "10%",
@@ -11084,9 +10900,6 @@
         "id": "Wildlife_Miniboss_Wolf"
       },
       {
-        "name": "Fighter II"
-      },
-      {
         "name": "Wolf Pup",
         "type": "Critter",
         "chance": "10%",
@@ -11148,9 +10961,6 @@
         "type": "MiniBoss",
         "chance": "2%",
         "id": "Wildlife_Miniboss_Wolf"
-      },
-      {
-        "name": "Fighter II"
       },
       {
         "name": "Wolf Pup",
@@ -11982,13 +11792,13 @@
         "name": "Follower of Jhebbal Sag",
         "type": "Archer",
         "chance": "33%",
-        "id": "DungeonSag_Dogs_Archer_3_Zamorian"
+        "id": "DungeonSag_Dogs_Archer_3_Stygian"
       },
       {
         "name": "Follower of Jhebbal Sag",
         "type": "Archer",
         "chance": "33%",
-        "id": "DungeonSag_Dogs_Archer_3_Stygian"
+        "id": "DungeonSag_Dogs_Archer_3_Zamorian"
       },
       {
         "name": "Follower of Jhebbal Sag",
@@ -12223,13 +12033,13 @@
         "name": "Follower of Jhebbal Sag",
         "type": "Fighter",
         "chance": "33%",
-        "id": "DungeonSag_Dogs_Fighter_3_Zamorian"
+        "id": "DungeonSag_Dogs_Fighter_3_Stygian"
       },
       {
         "name": "Follower of Jhebbal Sag",
         "type": "Fighter",
         "chance": "33%",
-        "id": "DungeonSag_Dogs_Fighter_3_Stygian"
+        "id": "DungeonSag_Dogs_Fighter_3_Zamorian"
       },
       {
         "name": "Follower of Jhebbal Sag",
@@ -12346,13 +12156,13 @@
         "name": "Follower of Jhebbal Sag",
         "type": "Archer",
         "chance": "33%",
-        "id": "DungeonSag_Dogs_Archer_3_Zamorian"
+        "id": "DungeonSag_Dogs_Archer_3_Stygian"
       },
       {
         "name": "Follower of Jhebbal Sag",
         "type": "Archer",
         "chance": "33%",
-        "id": "DungeonSag_Dogs_Archer_3_Stygian"
+        "id": "DungeonSag_Dogs_Archer_3_Zamorian"
       },
       {
         "name": "Follower of Jhebbal Sag",
@@ -12613,13 +12423,13 @@
         "name": "Follower of Jhebbal Sag",
         "type": "Fighter",
         "chance": "33%",
-        "id": "DungeonSag_Dogs_Fighter_3_Zamorian"
+        "id": "DungeonSag_Dogs_Fighter_3_Stygian"
       },
       {
         "name": "Follower of Jhebbal Sag",
         "type": "Fighter",
         "chance": "33%",
-        "id": "DungeonSag_Dogs_Fighter_3_Stygian"
+        "id": "DungeonSag_Dogs_Fighter_3_Zamorian"
       },
       {
         "name": "Follower of Jhebbal Sag",
@@ -12815,13 +12625,13 @@
         "name": "Follower of Jhebbal Sag",
         "type": "Fighter",
         "chance": "33%",
-        "id": "DungeonSag_Dogs_Fighter_3_Zamorian"
+        "id": "DungeonSag_Dogs_Fighter_3_Stygian"
       },
       {
         "name": "Follower of Jhebbal Sag",
         "type": "Fighter",
         "chance": "33%",
-        "id": "DungeonSag_Dogs_Fighter_3_Stygian"
+        "id": "DungeonSag_Dogs_Fighter_3_Zamorian"
       },
       {
         "name": "Follower of Jhebbal Sag",
@@ -12916,13 +12726,13 @@
         "name": "Follower of Jhebbal Sag",
         "type": "Fighter",
         "chance": "33%",
-        "id": "DungeonSag_Dogs_Fighter_3_Zamorian"
+        "id": "DungeonSag_Dogs_Fighter_3_Stygian"
       },
       {
         "name": "Follower of Jhebbal Sag",
         "type": "Fighter",
         "chance": "33%",
-        "id": "DungeonSag_Dogs_Fighter_3_Stygian"
+        "id": "DungeonSag_Dogs_Fighter_3_Zamorian"
       },
       {
         "name": "Follower of Jhebbal Sag",
@@ -13033,13 +12843,13 @@
         "name": "Follower of Jhebbal Sag",
         "type": "Archer",
         "chance": "33%",
-        "id": "DungeonSag_Dogs_Archer_3_Zamorian"
+        "id": "DungeonSag_Dogs_Archer_3_Stygian"
       },
       {
         "name": "Follower of Jhebbal Sag",
         "type": "Archer",
         "chance": "33%",
-        "id": "DungeonSag_Dogs_Archer_3_Stygian"
+        "id": "DungeonSag_Dogs_Archer_3_Zamorian"
       },
       {
         "name": "Follower of Jhebbal Sag",
@@ -13616,13 +13426,13 @@
         "name": "Follower of Jhebbal Sag",
         "type": "Fighter",
         "chance": "33%",
-        "id": "DungeonSag_Dogs_Fighter_3_Zamorian"
+        "id": "DungeonSag_Dogs_Fighter_3_Stygian"
       },
       {
         "name": "Follower of Jhebbal Sag",
         "type": "Fighter",
         "chance": "33%",
-        "id": "DungeonSag_Dogs_Fighter_3_Stygian"
+        "id": "DungeonSag_Dogs_Fighter_3_Zamorian"
       },
       {
         "name": "Follower of Jhebbal Sag",
@@ -13883,13 +13693,13 @@
         "name": "Follower of Jhebbal Sag",
         "type": "Archer",
         "chance": "33%",
-        "id": "DungeonSag_Dogs_Archer_3_Zamorian"
+        "id": "DungeonSag_Dogs_Archer_3_Stygian"
       },
       {
         "name": "Follower of Jhebbal Sag",
         "type": "Archer",
         "chance": "33%",
-        "id": "DungeonSag_Dogs_Archer_3_Stygian"
+        "id": "DungeonSag_Dogs_Archer_3_Zamorian"
       },
       {
         "name": "Follower of Jhebbal Sag",
@@ -14025,13 +13835,13 @@
         "name": "Follower of Jhebbal Sag",
         "type": "Archer",
         "chance": "33%",
-        "id": "DungeonSag_Dogs_Archer_3_Zamorian"
+        "id": "DungeonSag_Dogs_Archer_3_Stygian"
       },
       {
         "name": "Follower of Jhebbal Sag",
         "type": "Archer",
         "chance": "33%",
-        "id": "DungeonSag_Dogs_Archer_3_Stygian"
+        "id": "DungeonSag_Dogs_Archer_3_Zamorian"
       },
       {
         "name": "Follower of Jhebbal Sag",
@@ -14603,9 +14413,6 @@
         "id": "Wildlife_Miniboss_Wolf"
       },
       {
-        "name": "Fighter II"
-      },
-      {
         "name": "Wolf Pup",
         "type": "Critter",
         "chance": "10%",
@@ -14655,19 +14462,6 @@
         "type": "WorldBoss",
         "chance": "100%",
         "id": "AbandonedCity_Boss_TheBrute"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_SpiderWidowBlack",
-    "marker": [
-      154570,
-      -15305,
-      -26128
-    ],
-    "spawns": [
-      {
-        "name": "Fighter II"
       }
     ]
   },
@@ -14979,9 +14773,6 @@
         "type": "MiniBoss",
         "chance": "2%",
         "id": "Wildlife_Miniboss_Wolf"
-      },
-      {
-        "name": "Fighter II"
       },
       {
         "name": "Wolf Pup",
@@ -15725,13 +15516,13 @@
         "name": "Follower of Jhebbal Sag",
         "type": "Fighter",
         "chance": "33%",
-        "id": "DungeonSag_Dogs_Fighter_3_Zamorian"
+        "id": "DungeonSag_Dogs_Fighter_3_Stygian"
       },
       {
         "name": "Follower of Jhebbal Sag",
         "type": "Fighter",
         "chance": "33%",
-        "id": "DungeonSag_Dogs_Fighter_3_Stygian"
+        "id": "DungeonSag_Dogs_Fighter_3_Zamorian"
       },
       {
         "name": "Follower of Jhebbal Sag",
@@ -16248,13 +16039,13 @@
         "name": "Follower of Jhebbal Sag",
         "type": "Archer",
         "chance": "33%",
-        "id": "DungeonSag_Dogs_Archer_3_Zamorian"
+        "id": "DungeonSag_Dogs_Archer_3_Stygian"
       },
       {
         "name": "Follower of Jhebbal Sag",
         "type": "Archer",
         "chance": "33%",
-        "id": "DungeonSag_Dogs_Archer_3_Stygian"
+        "id": "DungeonSag_Dogs_Archer_3_Zamorian"
       },
       {
         "name": "Follower of Jhebbal Sag",
@@ -16482,13 +16273,13 @@
         "name": "Follower of Jhebbal Sag",
         "type": "Archer",
         "chance": "33%",
-        "id": "DungeonSag_Dogs_Archer_3_Zamorian"
+        "id": "DungeonSag_Dogs_Archer_3_Stygian"
       },
       {
         "name": "Follower of Jhebbal Sag",
         "type": "Archer",
         "chance": "33%",
-        "id": "DungeonSag_Dogs_Archer_3_Stygian"
+        "id": "DungeonSag_Dogs_Archer_3_Zamorian"
       },
       {
         "name": "Follower of Jhebbal Sag",
@@ -17563,9 +17354,6 @@
         "id": "Wildlife_Miniboss_Wolf"
       },
       {
-        "name": "Fighter II"
-      },
-      {
         "name": "Wolf Pup",
         "type": "Critter",
         "chance": "10%",
@@ -17714,9 +17502,6 @@
         "type": "MiniBoss",
         "chance": "2%",
         "id": "Wildlife_Miniboss_Wolf"
-      },
-      {
-        "name": "Fighter II"
       },
       {
         "name": "Wolf Pup",
@@ -17934,13 +17719,13 @@
         "name": "Follower of Jhebbal Sag",
         "type": "Archer",
         "chance": "33%",
-        "id": "DungeonSag_Dogs_Archer_3_Zamorian"
+        "id": "DungeonSag_Dogs_Archer_3_Stygian"
       },
       {
         "name": "Follower of Jhebbal Sag",
         "type": "Archer",
         "chance": "33%",
-        "id": "DungeonSag_Dogs_Archer_3_Stygian"
+        "id": "DungeonSag_Dogs_Archer_3_Zamorian"
       },
       {
         "name": "Follower of Jhebbal Sag",
@@ -17979,9 +17764,6 @@
         "type": "MiniBoss",
         "chance": "2%",
         "id": "Wildlife_Miniboss_Wolf"
-      },
-      {
-        "name": "Fighter II"
       },
       {
         "name": "Wolf Pup",
@@ -18025,9 +17807,6 @@
         "id": "Wildlife_Miniboss_Wolf"
       },
       {
-        "name": "Fighter II"
-      },
-      {
         "name": "Wolf Pup",
         "type": "Critter",
         "chance": "10%",
@@ -18047,13 +17826,13 @@
         "name": "Follower of Jhebbal Sag",
         "type": "Archer",
         "chance": "33%",
-        "id": "DungeonSag_Dogs_Archer_3_Zamorian"
+        "id": "DungeonSag_Dogs_Archer_3_Stygian"
       },
       {
         "name": "Follower of Jhebbal Sag",
         "type": "Archer",
         "chance": "33%",
-        "id": "DungeonSag_Dogs_Archer_3_Stygian"
+        "id": "DungeonSag_Dogs_Archer_3_Zamorian"
       },
       {
         "name": "Follower of Jhebbal Sag",
@@ -18154,9 +17933,6 @@
         "id": "Wildlife_Miniboss_Wolf"
       },
       {
-        "name": "Fighter II"
-      },
-      {
         "name": "Wolf Pup",
         "type": "Critter",
         "chance": "10%",
@@ -18239,9 +18015,6 @@
         "id": "Wildlife_Miniboss_Wolf"
       },
       {
-        "name": "Fighter II"
-      },
-      {
         "name": "Wolf Pup",
         "type": "Critter",
         "chance": "10%",
@@ -18319,9 +18092,6 @@
         "type": "MiniBoss",
         "chance": "2%",
         "id": "Wildlife_Miniboss_Wolf"
-      },
-      {
-        "name": "Fighter II"
       },
       {
         "name": "Wolf Pup",
@@ -18580,19 +18350,6 @@
     ]
   },
   {
-    "id": "Wildlife_SpiderGrey",
-    "marker": [
-      -76270,
-      174801,
-      -14206
-    ],
-    "spawns": [
-      {
-        "name": "Fighter II"
-      }
-    ]
-  },
-  {
     "id": "Wildlife_Tiger_White",
     "marker": [
       162565,
@@ -18621,9 +18378,6 @@
         "type": "MiniBoss",
         "chance": "2%",
         "id": "Wildlife_Miniboss_Wolf"
-      },
-      {
-        "name": "Fighter II"
       },
       {
         "name": "Wolf Pup",
@@ -19256,9 +19010,6 @@
         "id": "Wildlife_Miniboss_Wolf"
       },
       {
-        "name": "Fighter II"
-      },
-      {
         "name": "Wolf Pup",
         "type": "Critter",
         "chance": "10%",
@@ -19328,13 +19079,13 @@
         "name": "Follower of Jhebbal Sag",
         "type": "Archer",
         "chance": "33%",
-        "id": "DungeonSag_Dogs_Archer_3_Zamorian"
+        "id": "DungeonSag_Dogs_Archer_3_Stygian"
       },
       {
         "name": "Follower of Jhebbal Sag",
         "type": "Archer",
         "chance": "33%",
-        "id": "DungeonSag_Dogs_Archer_3_Stygian"
+        "id": "DungeonSag_Dogs_Archer_3_Zamorian"
       },
       {
         "name": "Follower of Jhebbal Sag",
@@ -19373,9 +19124,6 @@
         "type": "MiniBoss",
         "chance": "2%",
         "id": "Wildlife_Miniboss_Wolf"
-      },
-      {
-        "name": "Fighter II"
       },
       {
         "name": "Wolf Pup",
@@ -19446,9 +19194,6 @@
         "type": "MiniBoss",
         "chance": "2%",
         "id": "Wildlife_Miniboss_Wolf"
-      },
-      {
-        "name": "Fighter II"
       },
       {
         "name": "Wolf Pup",
@@ -19616,13 +19361,13 @@
         "name": "Follower of Jhebbal Sag",
         "type": "Fighter",
         "chance": "33%",
-        "id": "DungeonSag_Dogs_Fighter_3_Zamorian"
+        "id": "DungeonSag_Dogs_Fighter_3_Stygian"
       },
       {
         "name": "Follower of Jhebbal Sag",
         "type": "Fighter",
         "chance": "33%",
-        "id": "DungeonSag_Dogs_Fighter_3_Stygian"
+        "id": "DungeonSag_Dogs_Fighter_3_Zamorian"
       },
       {
         "name": "Follower of Jhebbal Sag",
@@ -19661,9 +19406,6 @@
         "type": "MiniBoss",
         "chance": "2%",
         "id": "Wildlife_Miniboss_Wolf"
-      },
-      {
-        "name": "Fighter II"
       },
       {
         "name": "Wolf Pup",
@@ -19717,13 +19459,13 @@
         "name": "Follower of Jhebbal Sag",
         "type": "Fighter",
         "chance": "33%",
-        "id": "DungeonSag_Dogs_Fighter_3_Zamorian"
+        "id": "DungeonSag_Dogs_Fighter_3_Stygian"
       },
       {
         "name": "Follower of Jhebbal Sag",
         "type": "Fighter",
         "chance": "33%",
-        "id": "DungeonSag_Dogs_Fighter_3_Stygian"
+        "id": "DungeonSag_Dogs_Fighter_3_Zamorian"
       },
       {
         "name": "Follower of Jhebbal Sag",
@@ -19762,9 +19504,6 @@
         "type": "MiniBoss",
         "chance": "2%",
         "id": "Wildlife_Miniboss_Wolf"
-      },
-      {
-        "name": "Fighter II"
       },
       {
         "name": "Wolf Pup",
@@ -19842,13 +19581,13 @@
         "name": "Follower of Jhebbal Sag",
         "type": "Archer",
         "chance": "33%",
-        "id": "DungeonSag_Dogs_Archer_3_Zamorian"
+        "id": "DungeonSag_Dogs_Archer_3_Stygian"
       },
       {
         "name": "Follower of Jhebbal Sag",
         "type": "Archer",
         "chance": "33%",
-        "id": "DungeonSag_Dogs_Archer_3_Stygian"
+        "id": "DungeonSag_Dogs_Archer_3_Zamorian"
       },
       {
         "name": "Follower of Jhebbal Sag",
@@ -19887,9 +19626,6 @@
         "type": "MiniBoss",
         "chance": "2%",
         "id": "Wildlife_Miniboss_Wolf"
-      },
-      {
-        "name": "Fighter II"
       },
       {
         "name": "Wolf Pup",
@@ -19961,9 +19697,6 @@
         "id": "Wildlife_Miniboss_Wolf"
       },
       {
-        "name": "Fighter II"
-      },
-      {
         "name": "Wolf Pup",
         "type": "Critter",
         "chance": "10%",
@@ -19983,13 +19716,13 @@
         "name": "Follower of Jhebbal Sag",
         "type": "Archer",
         "chance": "33%",
-        "id": "DungeonSag_Dogs_Archer_3_Zamorian"
+        "id": "DungeonSag_Dogs_Archer_3_Stygian"
       },
       {
         "name": "Follower of Jhebbal Sag",
         "type": "Archer",
         "chance": "33%",
-        "id": "DungeonSag_Dogs_Archer_3_Stygian"
+        "id": "DungeonSag_Dogs_Archer_3_Zamorian"
       },
       {
         "name": "Follower of Jhebbal Sag",
@@ -20226,9 +19959,6 @@
         "id": "Wildlife_Miniboss_Wolf"
       },
       {
-        "name": "Fighter II"
-      },
-      {
         "name": "Wolf Pup",
         "type": "Critter",
         "chance": "10%",
@@ -20352,9 +20082,6 @@
         "id": "Wildlife_Miniboss_Wolf"
       },
       {
-        "name": "Fighter II"
-      },
-      {
         "name": "Wolf Pup",
         "type": "Critter",
         "chance": "10%",
@@ -20388,9 +20115,6 @@
         "type": "MiniBoss",
         "chance": "2%",
         "id": "Wildlife_Miniboss_Wolf"
-      },
-      {
-        "name": "Fighter II"
       },
       {
         "name": "Wolf Pup",
@@ -20621,9 +20345,6 @@
         "id": "Wildlife_Miniboss_Wolf"
       },
       {
-        "name": "Fighter II"
-      },
-      {
         "name": "Wolf Pup",
         "type": "Critter",
         "chance": "10%",
@@ -20837,19 +20558,6 @@
     ]
   },
   {
-    "id": "Wildlife_SpiderGrey",
-    "marker": [
-      -74897,
-      172610,
-      -14970
-    ],
-    "spawns": [
-      {
-        "name": "Fighter II"
-      }
-    ]
-  },
-  {
     "id": "Wildlife_GreyApe",
     "marker": [
       347137,
@@ -20875,19 +20583,6 @@
     "spawns": [
       {
         "name": "Taskmaster II"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_SpiderGrey",
-    "marker": [
-      149685,
-      -22719,
-      -25865
-    ],
-    "spawns": [
-      {
-        "name": "Fighter II"
       }
     ]
   },
@@ -21354,13 +21049,13 @@
         "name": "Follower of Jhebbal Sag",
         "type": "Archer",
         "chance": "33%",
-        "id": "DungeonSag_Dogs_Archer_3_Zamorian"
+        "id": "DungeonSag_Dogs_Archer_3_Stygian"
       },
       {
         "name": "Follower of Jhebbal Sag",
         "type": "Archer",
         "chance": "33%",
-        "id": "DungeonSag_Dogs_Archer_3_Stygian"
+        "id": "DungeonSag_Dogs_Archer_3_Zamorian"
       },
       {
         "name": "Follower of Jhebbal Sag",
@@ -21821,9 +21516,6 @@
         "id": "Wildlife_Miniboss_Wolf"
       },
       {
-        "name": "Fighter II"
-      },
-      {
         "name": "Wolf Pup",
         "type": "Critter",
         "chance": "10%",
@@ -22012,9 +21704,6 @@
         "id": "Wildlife_Miniboss_Tiger"
       },
       {
-        "name": "Fighter II"
-      },
-      {
         "name": "Tiger Cub",
         "type": "Critter",
         "chance": "10%",
@@ -22122,19 +21811,6 @@
         "type": "MiniBoss",
         "chance": "2%",
         "id": "Wildlife_Miniboss_GreyApe"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_SpiderWidowBlack",
-    "marker": [
-      -73024,
-      172281,
-      -15085
-    ],
-    "spawns": [
-      {
-        "name": "Fighter II"
       }
     ]
   },
@@ -22255,9 +21931,6 @@
         "type": "MiniBoss",
         "chance": "2%",
         "id": "Wildlife_Miniboss_Wolf"
-      },
-      {
-        "name": "Fighter II"
       },
       {
         "name": "Wolf Pup",
@@ -23667,19 +23340,6 @@
     ]
   },
   {
-    "id": "Wildlife_SpiderGrey",
-    "marker": [
-      153399,
-      -22649,
-      -25865
-    ],
-    "spawns": [
-      {
-        "name": "Fighter II"
-      }
-    ]
-  },
-  {
     "id": "HeirsToTheNorthArtisan_Random",
     "marker": [
       -148544,
@@ -23904,13 +23564,13 @@
         "name": "Follower of Jhebbal Sag",
         "type": "Archer",
         "chance": "33%",
-        "id": "DungeonSag_Dogs_Archer_3_Zamorian"
+        "id": "DungeonSag_Dogs_Archer_3_Stygian"
       },
       {
         "name": "Follower of Jhebbal Sag",
         "type": "Archer",
         "chance": "33%",
-        "id": "DungeonSag_Dogs_Archer_3_Stygian"
+        "id": "DungeonSag_Dogs_Archer_3_Zamorian"
       },
       {
         "name": "Follower of Jhebbal Sag",
@@ -24065,9 +23725,6 @@
         "type": "MiniBoss",
         "chance": "2%",
         "id": "Wildlife_Miniboss_Tiger"
-      },
-      {
-        "name": "Fighter II"
       },
       {
         "name": "Tiger Cub",
@@ -24398,9 +24055,6 @@
         "id": "Wildlife_Miniboss_Tiger"
       },
       {
-        "name": "Fighter II"
-      },
-      {
         "name": "Tiger Cub",
         "type": "Critter",
         "chance": "10%",
@@ -24603,9 +24257,6 @@
         "id": "Wildlife_Miniboss_Tiger"
       },
       {
-        "name": "Fighter II"
-      },
-      {
         "name": "Tiger Cub",
         "type": "Critter",
         "chance": "10%",
@@ -24732,9 +24383,6 @@
         "id": "Wildlife_Miniboss_Tiger"
       },
       {
-        "name": "Fighter II"
-      },
-      {
         "name": "Tiger Cub",
         "type": "Critter",
         "chance": "10%",
@@ -24792,9 +24440,6 @@
         "type": "MiniBoss",
         "chance": "2%",
         "id": "Wildlife_Miniboss_Tiger"
-      },
-      {
-        "name": "Fighter II"
       },
       {
         "name": "Tiger Cub",
@@ -24949,9 +24594,6 @@
         "type": "MiniBoss",
         "chance": "2%",
         "id": "Wildlife_Miniboss_Tiger"
-      },
-      {
-        "name": "Fighter II"
       },
       {
         "name": "Tiger Cub",
@@ -25126,9 +24768,6 @@
         "id": "Wildlife_Miniboss_Tiger"
       },
       {
-        "name": "Fighter II"
-      },
-      {
         "name": "Tiger Cub",
         "type": "Critter",
         "chance": "10%",
@@ -25158,19 +24797,6 @@
       },
       {
         "name": "Archer I-III"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_SpiderWidowBlack",
-    "marker": [
-      -72620,
-      169167,
-      -16239
-    ],
-    "spawns": [
-      {
-        "name": "Fighter II"
       }
     ]
   },
@@ -25209,9 +24835,6 @@
         "type": "MiniBoss",
         "chance": "2%",
         "id": "Wildlife_Miniboss_Wolf"
-      },
-      {
-        "name": "Fighter II"
       },
       {
         "name": "Wolf Pup",
@@ -25525,19 +25148,6 @@
     ]
   },
   {
-    "id": "Wildlife_SpiderGrey",
-    "marker": [
-      156306,
-      -22005,
-      -25865
-    ],
-    "spawns": [
-      {
-        "name": "Fighter II"
-      }
-    ]
-  },
-  {
     "id": "DarfariCarpenter_Random",
     "marker": [
       -90161,
@@ -25568,6 +25178,12 @@
         "name": "Yog's Chosen",
         "type": "Priest",
         "chance": "3%",
+        "id": "Darfari_Cannibals_Priest_4_Darfari1"
+      },
+      {
+        "name": "Yog's Chosen",
+        "type": "Priest",
+        "chance": "3%",
         "id": "Darfari_Cannibals_Priest_4_Darfari3"
       },
       {
@@ -25575,12 +25191,6 @@
         "type": "Priest",
         "chance": "3%",
         "id": "Darfari_Cannibals_Priest_4_Darfari2"
-      },
-      {
-        "name": "Yog's Chosen",
-        "type": "Priest",
-        "chance": "3%",
-        "id": "Darfari_Cannibals_Priest_4_Darfari1"
       },
       {
         "name": "Priest I-III"
@@ -25713,9 +25323,6 @@
         "type": "MiniBoss",
         "chance": "2%",
         "id": "Wildlife_Miniboss_Tiger"
-      },
-      {
-        "name": "Fighter II"
       },
       {
         "name": "Tiger Cub",
@@ -26544,19 +26151,6 @@
     ]
   },
   {
-    "id": "Wildlife_SpiderWidowBlack",
-    "marker": [
-      -73459,
-      167644,
-      -16625
-    ],
-    "spawns": [
-      {
-        "name": "Fighter II"
-      }
-    ]
-  },
-  {
     "id": "HeirsToTheNorthArcher_Random",
     "marker": [
       -68414,
@@ -26894,13 +26488,13 @@
         "name": "Follower of Jhebbal Sag",
         "type": "Fighter",
         "chance": "33%",
-        "id": "DungeonSag_Dogs_Fighter_3_Zamorian"
+        "id": "DungeonSag_Dogs_Fighter_3_Stygian"
       },
       {
         "name": "Follower of Jhebbal Sag",
         "type": "Fighter",
         "chance": "33%",
-        "id": "DungeonSag_Dogs_Fighter_3_Stygian"
+        "id": "DungeonSag_Dogs_Fighter_3_Zamorian"
       },
       {
         "name": "Follower of Jhebbal Sag",
@@ -28187,19 +27781,6 @@
     ]
   },
   {
-    "id": "Wildlife_SpiderWidowRed",
-    "marker": [
-      -72944,
-      167820,
-      -16648
-    ],
-    "spawns": [
-      {
-        "name": "Fighter II"
-      }
-    ]
-  },
-  {
     "id": "Wildlife_HyenaStriped",
     "marker": [
       18277,
@@ -28234,9 +27815,6 @@
         "type": "MiniBoss",
         "chance": "2%",
         "id": "Wildlife_Miniboss_Wolf"
-      },
-      {
-        "name": "Fighter II"
       },
       {
         "name": "Wolf Pup",
@@ -28484,19 +28062,6 @@
       },
       {
         "name": "Armorer III"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_SpiderGrey",
-    "marker": [
-      157051,
-      -16129,
-      -25865
-    ],
-    "spawns": [
-      {
-        "name": "Fighter II"
       }
     ]
   },
@@ -29573,19 +29138,6 @@
     ]
   },
   {
-    "id": "Wildlife_SpiderWidowRed",
-    "marker": [
-      -72392,
-      165356,
-      -16419
-    ],
-    "spawns": [
-      {
-        "name": "Fighter II"
-      }
-    ]
-  },
-  {
     "id": "Wildlife_Wolf",
     "marker": [
       -3954,
@@ -29598,9 +29150,6 @@
         "type": "MiniBoss",
         "chance": "2%",
         "id": "Wildlife_Miniboss_Wolf"
-      },
-      {
-        "name": "Fighter II"
       },
       {
         "name": "Wolf Pup",
@@ -29838,19 +29387,6 @@
     "spawns": [
       {
         "name": "Fighter I-III"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_SpiderGrey",
-    "marker": [
-      158178,
-      -16442,
-      -25865
-    ],
-    "spawns": [
-      {
-        "name": "Fighter II"
       }
     ]
   },
@@ -30465,9 +30001,6 @@
         "id": "Wildlife_Miniboss_Wolf"
       },
       {
-        "name": "Fighter II"
-      },
-      {
         "name": "Wolf Pup",
         "type": "Critter",
         "chance": "10%",
@@ -30800,26 +30333,10 @@
         "id": "Wildlife_Miniboss_Wolf"
       },
       {
-        "name": "Fighter II"
-      },
-      {
         "name": "Wolf Pup",
         "type": "Critter",
         "chance": "10%",
         "id": "Wildlife_Wolf_Puppy"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_SpiderWidowGreen",
-    "marker": [
-      -259452,
-      -334221,
-      1466
-    ],
-    "spawns": [
-      {
-        "name": "Fighter II"
       }
     ]
   },
@@ -31476,19 +30993,6 @@
     ]
   },
   {
-    "id": "Wildlife_SpiderGrey",
-    "marker": [
-      -68739,
-      159657,
-      -16617
-    ],
-    "spawns": [
-      {
-        "name": "Fighter II"
-      }
-    ]
-  },
-  {
     "id": "Sobek_Archer_4",
     "marker": [
       118982,
@@ -31594,19 +31098,6 @@
     ]
   },
   {
-    "id": "Wildlife_SpiderGrey",
-    "marker": [
-      156528,
-      -11806,
-      -25865
-    ],
-    "spawns": [
-      {
-        "name": "Fighter II"
-      }
-    ]
-  },
-  {
     "id": "DarfariArtisan_Random",
     "marker": [
       -86321,
@@ -31699,9 +31190,6 @@
         "type": "MiniBoss",
         "chance": "2%",
         "id": "Wildlife_Miniboss_Wolf"
-      },
-      {
-        "name": "Fighter II"
       },
       {
         "name": "Wolf Pup",
@@ -32103,19 +31591,6 @@
     ]
   },
   {
-    "id": "Wildlife_SpiderGrey",
-    "marker": [
-      -68822,
-      160073,
-      -16610
-    ],
-    "spawns": [
-      {
-        "name": "Fighter II"
-      }
-    ]
-  },
-  {
     "id": "DogsFighter_Random",
     "marker": [
       -90484,
@@ -32253,19 +31728,6 @@
     ]
   },
   {
-    "id": "Wildlife_SpiderGrey",
-    "marker": [
-      155546,
-      -15418,
-      -25324
-    ],
-    "spawns": [
-      {
-        "name": "Fighter II"
-      }
-    ]
-  },
-  {
     "id": "DarfariArcher_Random",
     "marker": [
       -84707,
@@ -32315,26 +31777,10 @@
         "id": "Wildlife_Miniboss_Wolf"
       },
       {
-        "name": "Fighter II"
-      },
-      {
         "name": "Wolf Pup",
         "type": "Critter",
         "chance": "10%",
         "id": "Wildlife_Wolf_Puppy"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_SpiderWidowBlack",
-    "marker": [
-      -258855,
-      -333404,
-      1466
-    ],
-    "spawns": [
-      {
-        "name": "Fighter II"
       }
     ]
   },
@@ -32350,13 +31796,13 @@
         "name": "Follower of Jhebbal Sag",
         "type": "Archer",
         "chance": "33%",
-        "id": "DungeonSag_Dogs_Archer_3_Zamorian"
+        "id": "DungeonSag_Dogs_Archer_3_Stygian"
       },
       {
         "name": "Follower of Jhebbal Sag",
         "type": "Archer",
         "chance": "33%",
-        "id": "DungeonSag_Dogs_Archer_3_Stygian"
+        "id": "DungeonSag_Dogs_Archer_3_Zamorian"
       },
       {
         "name": "Follower of Jhebbal Sag",
@@ -32941,19 +32387,6 @@
     ]
   },
   {
-    "id": "Wildlife_SpiderGrey",
-    "marker": [
-      -71279,
-      159152,
-      -16561
-    ],
-    "spawns": [
-      {
-        "name": "Fighter II"
-      }
-    ]
-  },
-  {
     "id": "Sobek_Archer_4",
     "marker": [
       118045,
@@ -33157,9 +32590,6 @@
         "id": "Wildlife_Miniboss_Wolf"
       },
       {
-        "name": "Fighter II"
-      },
-      {
         "name": "Wolf Pup",
         "type": "Critter",
         "chance": "10%",
@@ -33179,13 +32609,13 @@
         "name": "Follower of Jhebbal Sag",
         "type": "Archer",
         "chance": "33%",
-        "id": "DungeonSag_Dogs_Archer_3_Zamorian"
+        "id": "DungeonSag_Dogs_Archer_3_Stygian"
       },
       {
         "name": "Follower of Jhebbal Sag",
         "type": "Archer",
         "chance": "33%",
-        "id": "DungeonSag_Dogs_Archer_3_Stygian"
+        "id": "DungeonSag_Dogs_Archer_3_Zamorian"
       },
       {
         "name": "Follower of Jhebbal Sag",
@@ -33540,19 +32970,6 @@
     ]
   },
   {
-    "id": "Wildlife_SpiderWidowBlack",
-    "marker": [
-      -45127,
-      61519,
-      -13452
-    ],
-    "spawns": [
-      {
-        "name": "Fighter II"
-      }
-    ]
-  },
-  {
     "id": "RelicHunterFighter_Random",
     "marker": [
       -245501,
@@ -33562,19 +32979,6 @@
     "spawns": [
       {
         "name": "Fighter I-III"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_SpiderWidowRed",
-    "marker": [
-      -71274,
-      158104,
-      -16503
-    ],
-    "spawns": [
-      {
-        "name": "Fighter II"
       }
     ]
   },
@@ -33771,19 +33175,6 @@
     ]
   },
   {
-    "id": "Wildlife_SpiderGrey",
-    "marker": [
-      151412,
-      -17867,
-      -25324
-    ],
-    "spawns": [
-      {
-        "name": "Fighter II"
-      }
-    ]
-  },
-  {
     "id": "Wildlife_Wolf",
     "marker": [
       -267,
@@ -33796,9 +33187,6 @@
         "type": "MiniBoss",
         "chance": "2%",
         "id": "Wildlife_Miniboss_Wolf"
-      },
-      {
-        "name": "Fighter II"
       },
       {
         "name": "Wolf Pup",
@@ -33827,19 +33215,6 @@
         "type": "Critter",
         "chance": "10%",
         "id": "Wildlife_HyenaSpotted_Puppy"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_SpiderWidowRed",
-    "marker": [
-      -70287,
-      160901,
-      -16499
-    ],
-    "spawns": [
-      {
-        "name": "Fighter II"
       }
     ]
   },
@@ -34564,12 +33939,6 @@
         "name": "Cultist of Dagon",
         "type": "Fighter",
         "chance": "25%",
-        "id": "DungeonDagon_Wildlife_DeepOne_Human1"
-      },
-      {
-        "name": "Cultist of Dagon",
-        "type": "Fighter",
-        "chance": "25%",
         "id": "DungeonDagon_Wildlife_DeepOne_Human3"
       },
       {
@@ -34583,6 +33952,12 @@
         "type": "Fighter",
         "chance": "25%",
         "id": "DungeonDagon_Wildlife_DeepOne_Human2"
+      },
+      {
+        "name": "Cultist of Dagon",
+        "type": "Fighter",
+        "chance": "25%",
+        "id": "DungeonDagon_Wildlife_DeepOne_Human1"
       }
     ]
   },
@@ -34725,13 +34100,13 @@
         "name": "Follower of Jhebbal Sag",
         "type": "Fighter",
         "chance": "33%",
-        "id": "DungeonSag_Dogs_Fighter_3_Zamorian"
+        "id": "DungeonSag_Dogs_Fighter_3_Stygian"
       },
       {
         "name": "Follower of Jhebbal Sag",
         "type": "Fighter",
         "chance": "33%",
-        "id": "DungeonSag_Dogs_Fighter_3_Stygian"
+        "id": "DungeonSag_Dogs_Fighter_3_Zamorian"
       },
       {
         "name": "Follower of Jhebbal Sag",
@@ -34787,19 +34162,6 @@
     ]
   },
   {
-    "id": "Wildlife_SpiderGrey",
-    "marker": [
-      149750,
-      -18881,
-      -25324
-    ],
-    "spawns": [
-      {
-        "name": "Fighter II"
-      }
-    ]
-  },
-  {
     "id": "DarfariCombat_High",
     "marker": [
       19502,
@@ -34828,9 +34190,6 @@
         "type": "MiniBoss",
         "chance": "2%",
         "id": "Wildlife_Miniboss_Wolf"
-      },
-      {
-        "name": "Fighter II"
       },
       {
         "name": "Wolf Pup",
@@ -35386,19 +34745,6 @@
     ]
   },
   {
-    "id": "Wildlife_SpiderWidowRed",
-    "marker": [
-      380744,
-      107699,
-      -20215
-    ],
-    "spawns": [
-      {
-        "name": "Fighter II"
-      }
-    ]
-  },
-  {
     "id": "Wildlife_Death_Knight",
     "marker": [
       -262394,
@@ -35834,19 +35180,6 @@
     ]
   },
   {
-    "id": "Wildlife_SpiderWidowBlack",
-    "marker": [
-      387988,
-      108087,
-      -20193
-    ],
-    "spawns": [
-      {
-        "name": "Fighter II"
-      }
-    ]
-  },
-  {
     "id": "Wildlife_HyenaStriped",
     "marker": [
       -35110,
@@ -35865,19 +35198,6 @@
         "type": "Critter",
         "chance": "10%",
         "id": "Wildlife_HyenaStriped_Puppy"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_SpiderWidowBlack",
-    "marker": [
-      -50169,
-      59712,
-      -15138
-    ],
-    "spawns": [
-      {
-        "name": "Fighter II"
       }
     ]
   },
@@ -35907,9 +35227,6 @@
         "type": "MiniBoss",
         "chance": "2%",
         "id": "Wildlife_Miniboss_Wolf"
-      },
-      {
-        "name": "Fighter II"
       },
       {
         "name": "Wolf Pup",
@@ -36190,9 +35507,6 @@
         "type": "MiniBoss",
         "chance": "2%",
         "id": "Wildlife_Miniboss_Wolf"
-      },
-      {
-        "name": "Fighter II"
       },
       {
         "name": "Wolf Pup",
@@ -36891,9 +36205,6 @@
         "id": "Wildlife_Miniboss_Wolf"
       },
       {
-        "name": "Fighter II"
-      },
-      {
         "name": "Wolf Pup",
         "type": "Critter",
         "chance": "10%",
@@ -36913,13 +36224,13 @@
         "name": "Follower of Jhebbal Sag",
         "type": "Archer",
         "chance": "33%",
-        "id": "DungeonSag_Dogs_Archer_3_Zamorian"
+        "id": "DungeonSag_Dogs_Archer_3_Stygian"
       },
       {
         "name": "Follower of Jhebbal Sag",
         "type": "Archer",
         "chance": "33%",
-        "id": "DungeonSag_Dogs_Archer_3_Stygian"
+        "id": "DungeonSag_Dogs_Archer_3_Zamorian"
       },
       {
         "name": "Follower of Jhebbal Sag",
@@ -37095,19 +36406,6 @@
         "type": "MiniBoss",
         "chance": "2%",
         "id": "Wildlife_Miniboss_JungleBird_Grey"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_SpiderWidowRed",
-    "marker": [
-      385813,
-      120197,
-      -20144
-    ],
-    "spawns": [
-      {
-        "name": "Fighter II"
       }
     ]
   },
@@ -37438,6 +36736,12 @@
         "name": "Yog's Chosen",
         "type": "Priest",
         "chance": "3%",
+        "id": "Darfari_Cannibals_Priest_4_Darfari1"
+      },
+      {
+        "name": "Yog's Chosen",
+        "type": "Priest",
+        "chance": "3%",
         "id": "Darfari_Cannibals_Priest_4_Darfari3"
       },
       {
@@ -37445,12 +36749,6 @@
         "type": "Priest",
         "chance": "3%",
         "id": "Darfari_Cannibals_Priest_4_Darfari2"
-      },
-      {
-        "name": "Yog's Chosen",
-        "type": "Priest",
-        "chance": "3%",
-        "id": "Darfari_Cannibals_Priest_4_Darfari1"
       },
       {
         "name": "Priest I-III"
@@ -37604,9 +36902,6 @@
         "type": "MiniBoss",
         "chance": "2%",
         "id": "Wildlife_Miniboss_Wolf"
-      },
-      {
-        "name": "Fighter II"
       },
       {
         "name": "Wolf Pup",
@@ -38113,19 +37408,6 @@
     "spawns": [
       {
         "name": "Archer I-II"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_SpiderWidowRed",
-    "marker": [
-      386101,
-      118294,
-      -20197
-    ],
-    "spawns": [
-      {
-        "name": "Fighter II"
       }
     ]
   },
@@ -38932,19 +38214,6 @@
     ]
   },
   {
-    "id": "Wildlife_SpiderWidowBlack",
-    "marker": [
-      -60857,
-      57437,
-      -17441
-    ],
-    "spawns": [
-      {
-        "name": "Fighter II"
-      }
-    ]
-  },
-  {
     "id": "RelicHunterFighter_Random",
     "marker": [
       -254926,
@@ -39215,13 +38484,13 @@
         "name": "Follower of Jhebbal Sag",
         "type": "Fighter",
         "chance": "33%",
-        "id": "DungeonSag_Dogs_Fighter_3_Zamorian"
+        "id": "DungeonSag_Dogs_Fighter_3_Stygian"
       },
       {
         "name": "Follower of Jhebbal Sag",
         "type": "Fighter",
         "chance": "33%",
-        "id": "DungeonSag_Dogs_Fighter_3_Stygian"
+        "id": "DungeonSag_Dogs_Fighter_3_Zamorian"
       },
       {
         "name": "Follower of Jhebbal Sag",
@@ -41603,12 +40872,6 @@
         "name": "Prisoner",
         "type": "Fighter",
         "chance": "25%",
-        "id": "DungeonDagon_Wildlife_DeepOne_Prisoner4"
-      },
-      {
-        "name": "Prisoner",
-        "type": "Fighter",
-        "chance": "25%",
         "id": "DungeonDagon_Wildlife_DeepOne_Prisoner3"
       },
       {
@@ -41616,6 +40879,12 @@
         "type": "Fighter",
         "chance": "25%",
         "id": "DungeonDagon_Wildlife_DeepOne_Prisoner1"
+      },
+      {
+        "name": "Prisoner",
+        "type": "Fighter",
+        "chance": "25%",
+        "id": "DungeonDagon_Wildlife_DeepOne_Prisoner4"
       },
       {
         "name": "Prisoner",
@@ -42562,12 +41831,6 @@
         "name": "Prisoner",
         "type": "Fighter",
         "chance": "25%",
-        "id": "DungeonDagon_Wildlife_DeepOne_Prisoner4"
-      },
-      {
-        "name": "Prisoner",
-        "type": "Fighter",
-        "chance": "25%",
         "id": "DungeonDagon_Wildlife_DeepOne_Prisoner3"
       },
       {
@@ -42575,6 +41838,12 @@
         "type": "Fighter",
         "chance": "25%",
         "id": "DungeonDagon_Wildlife_DeepOne_Prisoner1"
+      },
+      {
+        "name": "Prisoner",
+        "type": "Fighter",
+        "chance": "25%",
+        "id": "DungeonDagon_Wildlife_DeepOne_Prisoner4"
       },
       {
         "name": "Prisoner",
@@ -42638,12 +41907,6 @@
         "name": "Prisoner",
         "type": "Fighter",
         "chance": "25%",
-        "id": "DungeonDagon_Wildlife_DeepOne_Prisoner4"
-      },
-      {
-        "name": "Prisoner",
-        "type": "Fighter",
-        "chance": "25%",
         "id": "DungeonDagon_Wildlife_DeepOne_Prisoner3"
       },
       {
@@ -42651,6 +41914,12 @@
         "type": "Fighter",
         "chance": "25%",
         "id": "DungeonDagon_Wildlife_DeepOne_Prisoner1"
+      },
+      {
+        "name": "Prisoner",
+        "type": "Fighter",
+        "chance": "25%",
+        "id": "DungeonDagon_Wildlife_DeepOne_Prisoner4"
       },
       {
         "name": "Prisoner",
@@ -42672,13 +41941,13 @@
         "name": "Follower of Jhebbal Sag",
         "type": "Fighter",
         "chance": "33%",
-        "id": "DungeonSag_Dogs_Fighter_3_Zamorian"
+        "id": "DungeonSag_Dogs_Fighter_3_Stygian"
       },
       {
         "name": "Follower of Jhebbal Sag",
         "type": "Fighter",
         "chance": "33%",
-        "id": "DungeonSag_Dogs_Fighter_3_Stygian"
+        "id": "DungeonSag_Dogs_Fighter_3_Zamorian"
       },
       {
         "name": "Follower of Jhebbal Sag",
@@ -43336,9 +42605,6 @@
         "id": "Wildlife_Miniboss_Wolf"
       },
       {
-        "name": "Fighter II"
-      },
-      {
         "name": "Wolf Pup",
         "type": "Critter",
         "chance": "10%",
@@ -43564,12 +42830,6 @@
         "name": "Cultist of Dagon",
         "type": "Fighter",
         "chance": "25%",
-        "id": "DungeonDagon_Wildlife_DeepOne_Human1"
-      },
-      {
-        "name": "Cultist of Dagon",
-        "type": "Fighter",
-        "chance": "25%",
         "id": "DungeonDagon_Wildlife_DeepOne_Human3"
       },
       {
@@ -43583,6 +42843,12 @@
         "type": "Fighter",
         "chance": "25%",
         "id": "DungeonDagon_Wildlife_DeepOne_Human2"
+      },
+      {
+        "name": "Cultist of Dagon",
+        "type": "Fighter",
+        "chance": "25%",
+        "id": "DungeonDagon_Wildlife_DeepOne_Human1"
       }
     ]
   },
@@ -43757,12 +43023,6 @@
         "name": "Prisoner",
         "type": "Fighter",
         "chance": "25%",
-        "id": "DungeonDagon_Wildlife_DeepOne_Prisoner4"
-      },
-      {
-        "name": "Prisoner",
-        "type": "Fighter",
-        "chance": "25%",
         "id": "DungeonDagon_Wildlife_DeepOne_Prisoner3"
       },
       {
@@ -43770,6 +43030,12 @@
         "type": "Fighter",
         "chance": "25%",
         "id": "DungeonDagon_Wildlife_DeepOne_Prisoner1"
+      },
+      {
+        "name": "Prisoner",
+        "type": "Fighter",
+        "chance": "25%",
+        "id": "DungeonDagon_Wildlife_DeepOne_Prisoner4"
       },
       {
         "name": "Prisoner",
@@ -44049,9 +43315,6 @@
         "type": "MiniBoss",
         "chance": "2%",
         "id": "Wildlife_Miniboss_Tiger"
-      },
-      {
-        "name": "Fighter II"
       },
       {
         "name": "Tiger Cub",
@@ -44425,9 +43688,6 @@
         "id": "Wildlife_Miniboss_Wolf"
       },
       {
-        "name": "Fighter II"
-      },
-      {
         "name": "Wolf Pup",
         "type": "Critter",
         "chance": "10%",
@@ -44447,12 +43707,6 @@
         "name": "Prisoner",
         "type": "Fighter",
         "chance": "25%",
-        "id": "DungeonDagon_Wildlife_DeepOne_Prisoner4"
-      },
-      {
-        "name": "Prisoner",
-        "type": "Fighter",
-        "chance": "25%",
         "id": "DungeonDagon_Wildlife_DeepOne_Prisoner3"
       },
       {
@@ -44460,6 +43714,12 @@
         "type": "Fighter",
         "chance": "25%",
         "id": "DungeonDagon_Wildlife_DeepOne_Prisoner1"
+      },
+      {
+        "name": "Prisoner",
+        "type": "Fighter",
+        "chance": "25%",
+        "id": "DungeonDagon_Wildlife_DeepOne_Prisoner4"
       },
       {
         "name": "Prisoner",
@@ -44482,9 +43742,6 @@
         "type": "MiniBoss",
         "chance": "2%",
         "id": "Wildlife_Miniboss_Tiger"
-      },
-      {
-        "name": "Fighter II"
       },
       {
         "name": "Tiger Cub",
@@ -44797,12 +44054,6 @@
         "name": "Prisoner",
         "type": "Fighter",
         "chance": "25%",
-        "id": "DungeonDagon_Wildlife_DeepOne_Prisoner4"
-      },
-      {
-        "name": "Prisoner",
-        "type": "Fighter",
-        "chance": "25%",
         "id": "DungeonDagon_Wildlife_DeepOne_Prisoner3"
       },
       {
@@ -44810,6 +44061,12 @@
         "type": "Fighter",
         "chance": "25%",
         "id": "DungeonDagon_Wildlife_DeepOne_Prisoner1"
+      },
+      {
+        "name": "Prisoner",
+        "type": "Fighter",
+        "chance": "25%",
+        "id": "DungeonDagon_Wildlife_DeepOne_Prisoner4"
       },
       {
         "name": "Prisoner",
@@ -44832,9 +44089,6 @@
         "type": "MiniBoss",
         "chance": "2%",
         "id": "Wildlife_Miniboss_Tiger"
-      },
-      {
-        "name": "Fighter II"
       },
       {
         "name": "Tiger Cub",
@@ -44953,19 +44207,6 @@
     ]
   },
   {
-    "id": "Wildlife_SpiderWidowBlack",
-    "marker": [
-      -65590,
-      79041,
-      -14544
-    ],
-    "spawns": [
-      {
-        "name": "Fighter II"
-      }
-    ]
-  },
-  {
     "id": "RelicHunterCook_Random",
     "marker": [
       -246540,
@@ -44997,9 +44238,6 @@
         "type": "MiniBoss",
         "chance": "2%",
         "id": "Wildlife_Miniboss_Wolf"
-      },
-      {
-        "name": "Fighter II"
       },
       {
         "name": "Wolf Pup",
@@ -45357,9 +44595,6 @@
         "id": "Wildlife_Miniboss_Wolf"
       },
       {
-        "name": "Fighter II"
-      },
-      {
         "name": "Wolf Pup",
         "type": "Critter",
         "chance": "10%",
@@ -45379,12 +44614,6 @@
         "name": "Prisoner",
         "type": "Fighter",
         "chance": "25%",
-        "id": "DungeonDagon_Wildlife_DeepOne_Prisoner4"
-      },
-      {
-        "name": "Prisoner",
-        "type": "Fighter",
-        "chance": "25%",
         "id": "DungeonDagon_Wildlife_DeepOne_Prisoner3"
       },
       {
@@ -45392,6 +44621,12 @@
         "type": "Fighter",
         "chance": "25%",
         "id": "DungeonDagon_Wildlife_DeepOne_Prisoner1"
+      },
+      {
+        "name": "Prisoner",
+        "type": "Fighter",
+        "chance": "25%",
+        "id": "DungeonDagon_Wildlife_DeepOne_Prisoner4"
       },
       {
         "name": "Prisoner",
@@ -46067,9 +45302,6 @@
         "id": "Wildlife_Miniboss_Wolf"
       },
       {
-        "name": "Fighter II"
-      },
-      {
         "name": "Wolf Pup",
         "type": "Critter",
         "chance": "10%",
@@ -46141,9 +45373,6 @@
         "type": "MiniBoss",
         "chance": "2%",
         "id": "Wildlife_Miniboss_Wolf"
-      },
-      {
-        "name": "Fighter II"
       },
       {
         "name": "Wolf Pup",
@@ -46427,12 +45656,6 @@
         "name": "Prisoner",
         "type": "Fighter",
         "chance": "25%",
-        "id": "DungeonDagon_Wildlife_DeepOne_Prisoner4"
-      },
-      {
-        "name": "Prisoner",
-        "type": "Fighter",
-        "chance": "25%",
         "id": "DungeonDagon_Wildlife_DeepOne_Prisoner3"
       },
       {
@@ -46440,6 +45663,12 @@
         "type": "Fighter",
         "chance": "25%",
         "id": "DungeonDagon_Wildlife_DeepOne_Prisoner1"
+      },
+      {
+        "name": "Prisoner",
+        "type": "Fighter",
+        "chance": "25%",
+        "id": "DungeonDagon_Wildlife_DeepOne_Prisoner4"
       },
       {
         "name": "Prisoner",
@@ -46461,13 +45690,13 @@
         "name": "Follower of Jhebbal Sag",
         "type": "Archer",
         "chance": "33%",
-        "id": "DungeonSag_Dogs_Archer_3_Zamorian"
+        "id": "DungeonSag_Dogs_Archer_3_Stygian"
       },
       {
         "name": "Follower of Jhebbal Sag",
         "type": "Archer",
         "chance": "33%",
-        "id": "DungeonSag_Dogs_Archer_3_Stygian"
+        "id": "DungeonSag_Dogs_Archer_3_Zamorian"
       },
       {
         "name": "Follower of Jhebbal Sag",
@@ -46543,19 +45772,6 @@
       },
       {
         "name": "Fighter I-III"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_SpiderWidowBlack",
-    "marker": [
-      -381270,
-      38667,
-      4808
-    ],
-    "spawns": [
-      {
-        "name": "Fighter II"
       }
     ]
   },
@@ -46730,9 +45946,6 @@
         "id": "Wildlife_Miniboss_Tiger"
       },
       {
-        "name": "Fighter II"
-      },
-      {
         "name": "Tiger Cub",
         "type": "Critter",
         "chance": "10%",
@@ -46813,19 +46026,6 @@
     ]
   },
   {
-    "id": "Wildlife_SpiderWidowBlack",
-    "marker": [
-      -380862,
-      38578,
-      4808
-    ],
-    "spawns": [
-      {
-        "name": "Fighter II"
-      }
-    ]
-  },
-  {
     "id": "DarfariCombat_Low",
     "marker": [
       -119517,
@@ -46877,19 +46077,6 @@
     ]
   },
   {
-    "id": "Wildlife_SpiderWidowRed",
-    "marker": [
-      -72421,
-      68784,
-      -18871
-    ],
-    "spawns": [
-      {
-        "name": "Fighter II"
-      }
-    ]
-  },
-  {
     "id": "DarfariArcher_Random",
     "marker": [
       35230,
@@ -46914,12 +46101,6 @@
         "name": "Prisoner",
         "type": "Fighter",
         "chance": "25%",
-        "id": "DungeonDagon_Wildlife_DeepOne_Prisoner4"
-      },
-      {
-        "name": "Prisoner",
-        "type": "Fighter",
-        "chance": "25%",
         "id": "DungeonDagon_Wildlife_DeepOne_Prisoner3"
       },
       {
@@ -46927,6 +46108,12 @@
         "type": "Fighter",
         "chance": "25%",
         "id": "DungeonDagon_Wildlife_DeepOne_Prisoner1"
+      },
+      {
+        "name": "Prisoner",
+        "type": "Fighter",
+        "chance": "25%",
+        "id": "DungeonDagon_Wildlife_DeepOne_Prisoner4"
       },
       {
         "name": "Prisoner",
@@ -46948,13 +46135,13 @@
         "name": "Follower of Jhebbal Sag",
         "type": "Archer",
         "chance": "33%",
-        "id": "DungeonSag_Dogs_Archer_3_Zamorian"
+        "id": "DungeonSag_Dogs_Archer_3_Stygian"
       },
       {
         "name": "Follower of Jhebbal Sag",
         "type": "Archer",
         "chance": "33%",
-        "id": "DungeonSag_Dogs_Archer_3_Stygian"
+        "id": "DungeonSag_Dogs_Archer_3_Zamorian"
       },
       {
         "name": "Follower of Jhebbal Sag",
@@ -47369,19 +46556,6 @@
     ]
   },
   {
-    "id": "Wildlife_SpiderWidowBlack",
-    "marker": [
-      -383027,
-      43253,
-      4808
-    ],
-    "spawns": [
-      {
-        "name": "Fighter II"
-      }
-    ]
-  },
-  {
     "id": "Wildlife_GreyApe",
     "marker": [
       344496,
@@ -47506,9 +46680,6 @@
         "type": "MiniBoss",
         "chance": "2%",
         "id": "Wildlife_Miniboss_Wolf"
-      },
-      {
-        "name": "Fighter II"
       },
       {
         "name": "Wolf Pup",
@@ -47653,12 +46824,6 @@
         "name": "Cultist of Dagon",
         "type": "Fighter",
         "chance": "25%",
-        "id": "DungeonDagon_Wildlife_DeepOne_Human1"
-      },
-      {
-        "name": "Cultist of Dagon",
-        "type": "Fighter",
-        "chance": "25%",
         "id": "DungeonDagon_Wildlife_DeepOne_Human3"
       },
       {
@@ -47672,6 +46837,12 @@
         "type": "Fighter",
         "chance": "25%",
         "id": "DungeonDagon_Wildlife_DeepOne_Human2"
+      },
+      {
+        "name": "Cultist of Dagon",
+        "type": "Fighter",
+        "chance": "25%",
+        "id": "DungeonDagon_Wildlife_DeepOne_Human1"
       }
     ]
   },
@@ -47770,19 +46941,6 @@
       },
       {
         "name": "Fighter I-III"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_SpiderGrey",
-    "marker": [
-      154878,
-      -18045,
-      -26152
-    ],
-    "spawns": [
-      {
-        "name": "Fighter II"
       }
     ]
   },
@@ -48250,9 +47408,6 @@
         "id": "Wildlife_Miniboss_Wolf"
       },
       {
-        "name": "Fighter II"
-      },
-      {
         "name": "Wolf Pup",
         "type": "Critter",
         "chance": "10%",
@@ -48272,12 +47427,6 @@
         "name": "Prisoner",
         "type": "Fighter",
         "chance": "25%",
-        "id": "DungeonDagon_Wildlife_DeepOne_Prisoner4"
-      },
-      {
-        "name": "Prisoner",
-        "type": "Fighter",
-        "chance": "25%",
         "id": "DungeonDagon_Wildlife_DeepOne_Prisoner3"
       },
       {
@@ -48285,6 +47434,12 @@
         "type": "Fighter",
         "chance": "25%",
         "id": "DungeonDagon_Wildlife_DeepOne_Prisoner1"
+      },
+      {
+        "name": "Prisoner",
+        "type": "Fighter",
+        "chance": "25%",
+        "id": "DungeonDagon_Wildlife_DeepOne_Prisoner4"
       },
       {
         "name": "Prisoner",
@@ -48463,19 +47618,6 @@
     ]
   },
   {
-    "id": "Wildlife_SpiderWidowBlack",
-    "marker": [
-      -382501,
-      42924,
-      4808
-    ],
-    "spawns": [
-      {
-        "name": "Fighter II"
-      }
-    ]
-  },
-  {
     "id": "Wildlife_GreyApe",
     "marker": [
       331141,
@@ -48605,13 +47747,13 @@
         "name": "Follower of Jhebbal Sag",
         "type": "Fighter",
         "chance": "33%",
-        "id": "DungeonSag_Dogs_Fighter_3_Zamorian"
+        "id": "DungeonSag_Dogs_Fighter_3_Stygian"
       },
       {
         "name": "Follower of Jhebbal Sag",
         "type": "Fighter",
         "chance": "33%",
-        "id": "DungeonSag_Dogs_Fighter_3_Stygian"
+        "id": "DungeonSag_Dogs_Fighter_3_Zamorian"
       },
       {
         "name": "Follower of Jhebbal Sag",
@@ -48865,19 +48007,6 @@
     ]
   },
   {
-    "id": "Wildlife_SpiderWidowBlack",
-    "marker": [
-      -383528,
-      40851,
-      4808
-    ],
-    "spawns": [
-      {
-        "name": "Fighter II"
-      }
-    ]
-  },
-  {
     "id": "Wildlife_HoovedGazelle",
     "marker": [
       5039,
@@ -48947,9 +48076,6 @@
         "type": "MiniBoss",
         "chance": "2%",
         "id": "Wildlife_Miniboss_Wolf"
-      },
-      {
-        "name": "Fighter II"
       },
       {
         "name": "Wolf Pup",
@@ -49105,13 +48231,13 @@
         "name": "Follower of Jhebbal Sag",
         "type": "Archer",
         "chance": "33%",
-        "id": "DungeonSag_Dogs_Archer_3_Zamorian"
+        "id": "DungeonSag_Dogs_Archer_3_Stygian"
       },
       {
         "name": "Follower of Jhebbal Sag",
         "type": "Archer",
         "chance": "33%",
-        "id": "DungeonSag_Dogs_Archer_3_Stygian"
+        "id": "DungeonSag_Dogs_Archer_3_Zamorian"
       },
       {
         "name": "Follower of Jhebbal Sag",
@@ -49134,9 +48260,6 @@
         "type": "MiniBoss",
         "chance": "2%",
         "id": "Wildlife_Miniboss_Tiger"
-      },
-      {
-        "name": "Fighter II"
       },
       {
         "name": "Tiger Cub",
@@ -49254,19 +48377,6 @@
     ]
   },
   {
-    "id": "Wildlife_SpiderWidowBlack",
-    "marker": [
-      -385253,
-      45572,
-      4850
-    ],
-    "spawns": [
-      {
-        "name": "Fighter II"
-      }
-    ]
-  },
-  {
     "id": "Wildlife_HyenaStriped",
     "marker": [
       -113130,
@@ -49322,9 +48432,6 @@
         "id": "Wildlife_Miniboss_Wolf"
       },
       {
-        "name": "Fighter II"
-      },
-      {
         "name": "Wolf Pup",
         "type": "Critter",
         "chance": "10%",
@@ -49373,13 +48480,13 @@
         "name": "Follower of Jhebbal Sag",
         "type": "Archer",
         "chance": "33%",
-        "id": "DungeonSag_Dogs_Archer_3_Zamorian"
+        "id": "DungeonSag_Dogs_Archer_3_Stygian"
       },
       {
         "name": "Follower of Jhebbal Sag",
         "type": "Archer",
         "chance": "33%",
-        "id": "DungeonSag_Dogs_Archer_3_Stygian"
+        "id": "DungeonSag_Dogs_Archer_3_Zamorian"
       },
       {
         "name": "Follower of Jhebbal Sag",
@@ -49772,19 +48879,6 @@
     ]
   },
   {
-    "id": "Wildlife_SpiderWidowBlack",
-    "marker": [
-      -385308,
-      52314,
-      5516
-    ],
-    "spawns": [
-      {
-        "name": "Fighter II"
-      }
-    ]
-  },
-  {
     "id": "Wildlife_HyenaStriped",
     "marker": [
       -110355,
@@ -49832,9 +48926,6 @@
         "type": "MiniBoss",
         "chance": "2%",
         "id": "Wildlife_Miniboss_Wolf"
-      },
-      {
-        "name": "Fighter II"
       },
       {
         "name": "Wolf Pup",
@@ -49914,9 +49005,6 @@
         "type": "MiniBoss",
         "chance": "2%",
         "id": "Wildlife_Miniboss_Wolf"
-      },
-      {
-        "name": "Fighter II"
       },
       {
         "name": "Wolf Pup",
@@ -50161,19 +49249,6 @@
     ]
   },
   {
-    "id": "Wildlife_SpiderWidowBlack",
-    "marker": [
-      -379245,
-      40729,
-      4808
-    ],
-    "spawns": [
-      {
-        "name": "Fighter II"
-      }
-    ]
-  },
-  {
     "id": "Wildlife_HyenaStriped",
     "marker": [
       -110645,
@@ -50237,9 +49312,6 @@
         "type": "MiniBoss",
         "chance": "2%",
         "id": "Wildlife_Miniboss_Wolf"
-      },
-      {
-        "name": "Fighter II"
       },
       {
         "name": "Wolf Pup",
@@ -50649,9 +49721,6 @@
         "id": "Wildlife_Miniboss_Wolf"
       },
       {
-        "name": "Fighter II"
-      },
-      {
         "name": "Wolf Pup",
         "type": "Critter",
         "chance": "10%",
@@ -50684,13 +49753,13 @@
         "name": "Follower of Jhebbal Sag",
         "type": "Archer",
         "chance": "33%",
-        "id": "DungeonSag_Dogs_Archer_3_Zamorian"
+        "id": "DungeonSag_Dogs_Archer_3_Stygian"
       },
       {
         "name": "Follower of Jhebbal Sag",
         "type": "Archer",
         "chance": "33%",
-        "id": "DungeonSag_Dogs_Archer_3_Stygian"
+        "id": "DungeonSag_Dogs_Archer_3_Zamorian"
       },
       {
         "name": "Follower of Jhebbal Sag",
@@ -51221,13 +50290,13 @@
         "name": "Follower of Jhebbal Sag",
         "type": "Archer",
         "chance": "33%",
-        "id": "DungeonSag_Dogs_Archer_3_Zamorian"
+        "id": "DungeonSag_Dogs_Archer_3_Stygian"
       },
       {
         "name": "Follower of Jhebbal Sag",
         "type": "Archer",
         "chance": "33%",
-        "id": "DungeonSag_Dogs_Archer_3_Stygian"
+        "id": "DungeonSag_Dogs_Archer_3_Zamorian"
       },
       {
         "name": "Follower of Jhebbal Sag",
@@ -51570,9 +50639,6 @@
         "type": "MiniBoss",
         "chance": "2%",
         "id": "Wildlife_Miniboss_Tiger"
-      },
-      {
-        "name": "Fighter II"
       },
       {
         "name": "Tiger Cub",
@@ -51927,13 +50993,13 @@
         "name": "Follower of Jhebbal Sag",
         "type": "Fighter",
         "chance": "33%",
-        "id": "DungeonSag_Dogs_Fighter_3_Zamorian"
+        "id": "DungeonSag_Dogs_Fighter_3_Stygian"
       },
       {
         "name": "Follower of Jhebbal Sag",
         "type": "Fighter",
         "chance": "33%",
-        "id": "DungeonSag_Dogs_Fighter_3_Stygian"
+        "id": "DungeonSag_Dogs_Fighter_3_Zamorian"
       },
       {
         "name": "Follower of Jhebbal Sag",
@@ -52107,12 +51173,6 @@
         "name": "Cultist of Dagon",
         "type": "Fighter",
         "chance": "25%",
-        "id": "DungeonDagon_Wildlife_DeepOne_Human1"
-      },
-      {
-        "name": "Cultist of Dagon",
-        "type": "Fighter",
-        "chance": "25%",
         "id": "DungeonDagon_Wildlife_DeepOne_Human3"
       },
       {
@@ -52126,6 +51186,12 @@
         "type": "Fighter",
         "chance": "25%",
         "id": "DungeonDagon_Wildlife_DeepOne_Human2"
+      },
+      {
+        "name": "Cultist of Dagon",
+        "type": "Fighter",
+        "chance": "25%",
+        "id": "DungeonDagon_Wildlife_DeepOne_Human1"
       }
     ]
   },
@@ -52225,19 +51291,6 @@
         "type": "MiniBoss",
         "chance": "2%",
         "id": "Wildlife_Miniboss_GreyApe"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_SpiderGrey",
-    "marker": [
-      159379,
-      -16359,
-      -26152
-    ],
-    "spawns": [
-      {
-        "name": "Fighter II"
       }
     ]
   },
@@ -52797,13 +51850,13 @@
         "name": "Follower of Jhebbal Sag",
         "type": "Archer",
         "chance": "33%",
-        "id": "DungeonSag_Dogs_Archer_3_Zamorian"
+        "id": "DungeonSag_Dogs_Archer_3_Stygian"
       },
       {
         "name": "Follower of Jhebbal Sag",
         "type": "Archer",
         "chance": "33%",
-        "id": "DungeonSag_Dogs_Archer_3_Stygian"
+        "id": "DungeonSag_Dogs_Archer_3_Zamorian"
       },
       {
         "name": "Follower of Jhebbal Sag",
@@ -53622,6 +52675,12 @@
         "name": "Yog's Chosen",
         "type": "Priest",
         "chance": "3%",
+        "id": "Darfari_Cannibals_Priest_4_Darfari1"
+      },
+      {
+        "name": "Yog's Chosen",
+        "type": "Priest",
+        "chance": "3%",
         "id": "Darfari_Cannibals_Priest_4_Darfari3"
       },
       {
@@ -53629,12 +52688,6 @@
         "type": "Priest",
         "chance": "3%",
         "id": "Darfari_Cannibals_Priest_4_Darfari2"
-      },
-      {
-        "name": "Yog's Chosen",
-        "type": "Priest",
-        "chance": "3%",
-        "id": "Darfari_Cannibals_Priest_4_Darfari1"
       },
       {
         "name": "Priest I-III"
@@ -53654,9 +52707,6 @@
         "type": "MiniBoss",
         "chance": "2%",
         "id": "Wildlife_Miniboss_Wolf"
-      },
-      {
-        "name": "Fighter II"
       },
       {
         "name": "Wolf Pup",
@@ -53878,9 +52928,6 @@
         "id": "Wildlife_Miniboss_Wolf"
       },
       {
-        "name": "Fighter II"
-      },
-      {
         "name": "Wolf Pup",
         "type": "Critter",
         "chance": "10%",
@@ -53964,9 +53011,6 @@
         "type": "MiniBoss",
         "chance": "2%",
         "id": "Wildlife_Miniboss_Wolf"
-      },
-      {
-        "name": "Fighter II"
       },
       {
         "name": "Wolf Pup",
@@ -54207,9 +53251,6 @@
         "id": "Wildlife_Miniboss_Wolf"
       },
       {
-        "name": "Fighter II"
-      },
-      {
         "name": "Wolf Pup",
         "type": "Critter",
         "chance": "10%",
@@ -54229,13 +53270,13 @@
         "name": "Follower of Jhebbal Sag",
         "type": "Archer",
         "chance": "33%",
-        "id": "DungeonSag_Dogs_Archer_3_Zamorian"
+        "id": "DungeonSag_Dogs_Archer_3_Stygian"
       },
       {
         "name": "Follower of Jhebbal Sag",
         "type": "Archer",
         "chance": "33%",
-        "id": "DungeonSag_Dogs_Archer_3_Stygian"
+        "id": "DungeonSag_Dogs_Archer_3_Zamorian"
       },
       {
         "name": "Follower of Jhebbal Sag",
@@ -54393,9 +53434,6 @@
         "id": "Wildlife_Miniboss_Wolf"
       },
       {
-        "name": "Fighter II"
-      },
-      {
         "name": "Wolf Pup",
         "type": "Critter",
         "chance": "10%",
@@ -54550,9 +53588,6 @@
         "type": "MiniBoss",
         "chance": "2%",
         "id": "Wildlife_Miniboss_Wolf"
-      },
-      {
-        "name": "Fighter II"
       },
       {
         "name": "Wolf Pup",
@@ -54726,9 +53761,6 @@
         "id": "Wildlife_Miniboss_Wolf"
       },
       {
-        "name": "Fighter II"
-      },
-      {
         "name": "Wolf Pup",
         "type": "Critter",
         "chance": "10%",
@@ -54821,9 +53853,6 @@
         "id": "Wildlife_Miniboss_Wolf"
       },
       {
-        "name": "Fighter II"
-      },
-      {
         "name": "Wolf Pup",
         "type": "Critter",
         "chance": "10%",
@@ -54844,9 +53873,6 @@
         "type": "MiniBoss",
         "chance": "2%",
         "id": "Wildlife_Miniboss_Wolf"
-      },
-      {
-        "name": "Fighter II"
       },
       {
         "name": "Wolf Pup",
@@ -54898,9 +53924,6 @@
         "type": "MiniBoss",
         "chance": "2%",
         "id": "Wildlife_Miniboss_Tiger"
-      },
-      {
-        "name": "Fighter II"
       },
       {
         "name": "Tiger Cub",
@@ -55097,9 +54120,6 @@
         "id": "Wildlife_Miniboss_Wolf"
       },
       {
-        "name": "Fighter II"
-      },
-      {
         "name": "Wolf Pup",
         "type": "Critter",
         "chance": "10%",
@@ -55174,9 +54194,6 @@
         "type": "MiniBoss",
         "chance": "2%",
         "id": "Wildlife_Miniboss_Tiger"
-      },
-      {
-        "name": "Fighter II"
       },
       {
         "name": "Tiger Cub",
@@ -55376,9 +54393,6 @@
         "id": "Wildlife_Miniboss_Wolf"
       },
       {
-        "name": "Fighter II"
-      },
-      {
         "name": "Wolf Pup",
         "type": "Critter",
         "chance": "10%",
@@ -55539,9 +54553,6 @@
         "type": "MiniBoss",
         "chance": "2%",
         "id": "Wildlife_Miniboss_Tiger"
-      },
-      {
-        "name": "Fighter II"
       },
       {
         "name": "Tiger Cub",
@@ -56044,19 +55055,6 @@
     ]
   },
   {
-    "id": "Wildlife_SpiderGrey",
-    "marker": [
-      154193,
-      -13546,
-      -25907
-    ],
-    "spawns": [
-      {
-        "name": "Fighter II"
-      }
-    ]
-  },
-  {
     "id": "BlackHandArtisan_Random",
     "marker": [
       256600,
@@ -56357,9 +55355,6 @@
         "id": "Wildlife_Miniboss_Tiger"
       },
       {
-        "name": "Fighter II"
-      },
-      {
         "name": "Tiger Cub",
         "type": "Critter",
         "chance": "10%",
@@ -56396,9 +55391,6 @@
         "type": "MiniBoss",
         "chance": "2%",
         "id": "Wildlife_Miniboss_Wolf"
-      },
-      {
-        "name": "Fighter II"
       },
       {
         "name": "Wolf Pup",
@@ -56607,9 +55599,6 @@
         "id": "Wildlife_Miniboss_Wolf"
       },
       {
-        "name": "Fighter II"
-      },
-      {
         "name": "Wolf Pup",
         "type": "Critter",
         "chance": "10%",
@@ -56629,13 +55618,13 @@
         "name": "Follower of Jhebbal Sag",
         "type": "Archer",
         "chance": "33%",
-        "id": "DungeonSag_Dogs_Archer_3_Zamorian"
+        "id": "DungeonSag_Dogs_Archer_3_Stygian"
       },
       {
         "name": "Follower of Jhebbal Sag",
         "type": "Archer",
         "chance": "33%",
-        "id": "DungeonSag_Dogs_Archer_3_Stygian"
+        "id": "DungeonSag_Dogs_Archer_3_Zamorian"
       },
       {
         "name": "Follower of Jhebbal Sag",
@@ -56715,9 +55704,6 @@
         "type": "MiniBoss",
         "chance": "2%",
         "id": "Wildlife_Miniboss_Tiger"
-      },
-      {
-        "name": "Fighter II"
       },
       {
         "name": "Tiger Cub",
@@ -57011,9 +55997,6 @@
         "id": "Wildlife_Miniboss_Tiger"
       },
       {
-        "name": "Fighter II"
-      },
-      {
         "name": "Tiger Cub",
         "type": "Critter",
         "chance": "10%",
@@ -57050,9 +56033,6 @@
         "type": "MiniBoss",
         "chance": "2%",
         "id": "Wildlife_Miniboss_Wolf"
-      },
-      {
-        "name": "Fighter II"
       },
       {
         "name": "Wolf Pup",
@@ -57304,9 +56284,6 @@
         "type": "MiniBoss",
         "chance": "2%",
         "id": "Wildlife_Miniboss_Wolf"
-      },
-      {
-        "name": "Fighter II"
       },
       {
         "name": "Wolf Pup",
@@ -57989,9 +56966,6 @@
         "type": "MiniBoss",
         "chance": "2%",
         "id": "Wildlife_Miniboss_Wolf"
-      },
-      {
-        "name": "Fighter II"
       },
       {
         "name": "Wolf Pup",
@@ -58761,19 +57735,6 @@
     ]
   },
   {
-    "id": "Wildlife_SpiderGrey",
-    "marker": [
-      157489,
-      -12057,
-      -25802
-    ],
-    "spawns": [
-      {
-        "name": "Fighter II"
-      }
-    ]
-  },
-  {
     "id": "Relic_Hunter_Prisoner",
     "marker": [
       -267512,
@@ -58968,13 +57929,13 @@
         "name": "Follower of Jhebbal Sag",
         "type": "Fighter",
         "chance": "33%",
-        "id": "DungeonSag_Dogs_Fighter_3_Zamorian"
+        "id": "DungeonSag_Dogs_Fighter_3_Stygian"
       },
       {
         "name": "Follower of Jhebbal Sag",
         "type": "Fighter",
         "chance": "33%",
-        "id": "DungeonSag_Dogs_Fighter_3_Stygian"
+        "id": "DungeonSag_Dogs_Fighter_3_Zamorian"
       },
       {
         "name": "Follower of Jhebbal Sag",
@@ -59627,13 +58588,13 @@
         "name": "Follower of Jhebbal Sag",
         "type": "Archer",
         "chance": "33%",
-        "id": "DungeonSag_Dogs_Archer_3_Zamorian"
+        "id": "DungeonSag_Dogs_Archer_3_Stygian"
       },
       {
         "name": "Follower of Jhebbal Sag",
         "type": "Archer",
         "chance": "33%",
-        "id": "DungeonSag_Dogs_Archer_3_Stygian"
+        "id": "DungeonSag_Dogs_Archer_3_Zamorian"
       },
       {
         "name": "Follower of Jhebbal Sag",
@@ -59898,9 +58859,6 @@
         "id": "Wildlife_Miniboss_Wolf"
       },
       {
-        "name": "Fighter II"
-      },
-      {
         "name": "Wolf Pup",
         "type": "Critter",
         "chance": "10%",
@@ -59920,13 +58878,13 @@
         "name": "Follower of Jhebbal Sag",
         "type": "Archer",
         "chance": "33%",
-        "id": "DungeonSag_Dogs_Archer_3_Zamorian"
+        "id": "DungeonSag_Dogs_Archer_3_Stygian"
       },
       {
         "name": "Follower of Jhebbal Sag",
         "type": "Archer",
         "chance": "33%",
-        "id": "DungeonSag_Dogs_Archer_3_Stygian"
+        "id": "DungeonSag_Dogs_Archer_3_Zamorian"
       },
       {
         "name": "Follower of Jhebbal Sag",
@@ -60003,9 +58961,6 @@
         "type": "MiniBoss",
         "chance": "2%",
         "id": "Wildlife_Miniboss_Wolf"
-      },
-      {
-        "name": "Fighter II"
       },
       {
         "name": "Wolf Pup",
@@ -60103,9 +59058,6 @@
         "id": "Wildlife_Miniboss_Wolf"
       },
       {
-        "name": "Fighter II"
-      },
-      {
         "name": "Wolf Pup",
         "type": "Critter",
         "chance": "10%",
@@ -60125,13 +59077,13 @@
         "name": "Follower of Jhebbal Sag",
         "type": "Archer",
         "chance": "33%",
-        "id": "DungeonSag_Dogs_Archer_3_Zamorian"
+        "id": "DungeonSag_Dogs_Archer_3_Stygian"
       },
       {
         "name": "Follower of Jhebbal Sag",
         "type": "Archer",
         "chance": "33%",
-        "id": "DungeonSag_Dogs_Archer_3_Stygian"
+        "id": "DungeonSag_Dogs_Archer_3_Zamorian"
       },
       {
         "name": "Follower of Jhebbal Sag",
@@ -60226,9 +59178,6 @@
         "id": "Wildlife_Miniboss_Wolf"
       },
       {
-        "name": "Fighter II"
-      },
-      {
         "name": "Wolf Pup",
         "type": "Critter",
         "chance": "10%",
@@ -60268,9 +59217,6 @@
         "type": "MiniBoss",
         "chance": "2%",
         "id": "Wildlife_Miniboss_Wolf"
-      },
-      {
-        "name": "Fighter II"
       },
       {
         "name": "Wolf Pup",
@@ -60362,9 +59308,6 @@
         "id": "Wildlife_Miniboss_Wolf"
       },
       {
-        "name": "Fighter II"
-      },
-      {
         "name": "Wolf Pup",
         "type": "Critter",
         "chance": "10%",
@@ -60438,9 +59381,6 @@
         "id": "Wildlife_Miniboss_Wolf"
       },
       {
-        "name": "Fighter II"
-      },
-      {
         "name": "Wolf Pup",
         "type": "Critter",
         "chance": "10%",
@@ -60495,26 +59435,10 @@
         "id": "Wildlife_Miniboss_Wolf"
       },
       {
-        "name": "Fighter II"
-      },
-      {
         "name": "Wolf Pup",
         "type": "Critter",
         "chance": "10%",
         "id": "Wildlife_Wolf_Puppy"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_SpiderWidowRed",
-    "marker": [
-      180798,
-      -8399,
-      -19229
-    ],
-    "spawns": [
-      {
-        "name": "Fighter II"
       }
     ]
   },
@@ -60660,9 +59584,6 @@
         "id": "Wildlife_Miniboss_Wolf"
       },
       {
-        "name": "Fighter II"
-      },
-      {
         "name": "Wolf Pup",
         "type": "Critter",
         "chance": "10%",
@@ -60682,13 +59603,13 @@
         "name": "Follower of Jhebbal Sag",
         "type": "Archer",
         "chance": "33%",
-        "id": "DungeonSag_Dogs_Archer_3_Zamorian"
+        "id": "DungeonSag_Dogs_Archer_3_Stygian"
       },
       {
         "name": "Follower of Jhebbal Sag",
         "type": "Archer",
         "chance": "33%",
-        "id": "DungeonSag_Dogs_Archer_3_Stygian"
+        "id": "DungeonSag_Dogs_Archer_3_Zamorian"
       },
       {
         "name": "Follower of Jhebbal Sag",
@@ -60761,26 +59682,10 @@
         "id": "Wildlife_Miniboss_Wolf"
       },
       {
-        "name": "Fighter II"
-      },
-      {
         "name": "Wolf Pup",
         "type": "Critter",
         "chance": "10%",
         "id": "Wildlife_Wolf_Puppy"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_SpiderWidowRed",
-    "marker": [
-      192947,
-      3620,
-      -19502
-    ],
-    "spawns": [
-      {
-        "name": "Fighter II"
       }
     ]
   },
@@ -61441,9 +60346,6 @@
         "id": "Wildlife_Miniboss_Wolf"
       },
       {
-        "name": "Fighter II"
-      },
-      {
         "name": "Wolf Pup",
         "type": "Critter",
         "chance": "10%",
@@ -61463,13 +60365,13 @@
         "name": "Follower of Jhebbal Sag",
         "type": "Fighter",
         "chance": "33%",
-        "id": "DungeonSag_Dogs_Fighter_3_Zamorian"
+        "id": "DungeonSag_Dogs_Fighter_3_Stygian"
       },
       {
         "name": "Follower of Jhebbal Sag",
         "type": "Fighter",
         "chance": "33%",
-        "id": "DungeonSag_Dogs_Fighter_3_Stygian"
+        "id": "DungeonSag_Dogs_Fighter_3_Zamorian"
       },
       {
         "name": "Follower of Jhebbal Sag",
@@ -61524,19 +60426,6 @@
         "type": "Critter",
         "chance": "1000%",
         "id": "Wildlife_Wolf_Puppy"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_SpiderWidowRed",
-    "marker": [
-      189127,
-      14470,
-      -20012
-    ],
-    "spawns": [
-      {
-        "name": "Fighter II"
       }
     ]
   },
@@ -61643,9 +60532,6 @@
         "id": "Wildlife_Miniboss_Wolf"
       },
       {
-        "name": "Fighter II"
-      },
-      {
         "name": "Wolf Pup",
         "type": "Critter",
         "chance": "10%",
@@ -61665,13 +60551,13 @@
         "name": "Follower of Jhebbal Sag",
         "type": "Fighter",
         "chance": "33%",
-        "id": "DungeonSag_Dogs_Fighter_3_Zamorian"
+        "id": "DungeonSag_Dogs_Fighter_3_Stygian"
       },
       {
         "name": "Follower of Jhebbal Sag",
         "type": "Fighter",
         "chance": "33%",
-        "id": "DungeonSag_Dogs_Fighter_3_Stygian"
+        "id": "DungeonSag_Dogs_Fighter_3_Zamorian"
       },
       {
         "name": "Follower of Jhebbal Sag",
@@ -61732,19 +60618,6 @@
         "type": "Critter",
         "chance": "1000%",
         "id": "Wildlife_Wolf_Puppy"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_SpiderWidowRed",
-    "marker": [
-      181121,
-      2621,
-      -20077
-    ],
-    "spawns": [
-      {
-        "name": "Fighter II"
       }
     ]
   },
@@ -61906,9 +60779,6 @@
         "id": "Wildlife_Miniboss_Wolf"
       },
       {
-        "name": "Fighter II"
-      },
-      {
         "name": "Wolf Pup",
         "type": "Critter",
         "chance": "10%",
@@ -61985,26 +60855,10 @@
         "id": "Wildlife_Miniboss_Wolf"
       },
       {
-        "name": "Fighter II"
-      },
-      {
         "name": "Wolf Pup",
         "type": "Critter",
         "chance": "10%",
         "id": "Wildlife_Wolf_Puppy"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_SpiderWidowRed",
-    "marker": [
-      176089,
-      3372,
-      -20240
-    ],
-    "spawns": [
-      {
-        "name": "Fighter II"
       }
     ]
   },
@@ -62102,9 +60956,6 @@
         "id": "Wildlife_Miniboss_Wolf"
       },
       {
-        "name": "Fighter II"
-      },
-      {
         "name": "Wolf Pup",
         "type": "Critter",
         "chance": "10%",
@@ -62124,13 +60975,13 @@
         "name": "Follower of Jhebbal Sag",
         "type": "Fighter",
         "chance": "33%",
-        "id": "DungeonSag_Dogs_Fighter_3_Zamorian"
+        "id": "DungeonSag_Dogs_Fighter_3_Stygian"
       },
       {
         "name": "Follower of Jhebbal Sag",
         "type": "Fighter",
         "chance": "33%",
-        "id": "DungeonSag_Dogs_Fighter_3_Stygian"
+        "id": "DungeonSag_Dogs_Fighter_3_Zamorian"
       },
       {
         "name": "Follower of Jhebbal Sag",
@@ -62175,19 +61026,6 @@
         "type": "MiniBoss",
         "chance": "2%",
         "id": "Wildlife_Miniboss_JungleBird_Grey"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_SpiderWidowRed",
-    "marker": [
-      172269,
-      4922,
-      -20114
-    ],
-    "spawns": [
-      {
-        "name": "Fighter II"
       }
     ]
   },
@@ -62310,9 +61148,6 @@
         "id": "Wildlife_Miniboss_Wolf"
       },
       {
-        "name": "Fighter II"
-      },
-      {
         "name": "Wolf Pup",
         "type": "Critter",
         "chance": "10%",
@@ -62332,13 +61167,13 @@
         "name": "Follower of Jhebbal Sag",
         "type": "Fighter",
         "chance": "33%",
-        "id": "DungeonSag_Dogs_Fighter_3_Zamorian"
+        "id": "DungeonSag_Dogs_Fighter_3_Stygian"
       },
       {
         "name": "Follower of Jhebbal Sag",
         "type": "Fighter",
         "chance": "33%",
-        "id": "DungeonSag_Dogs_Fighter_3_Stygian"
+        "id": "DungeonSag_Dogs_Fighter_3_Zamorian"
       },
       {
         "name": "Follower of Jhebbal Sag",
@@ -62367,19 +61202,6 @@
         "type": "Critter",
         "chance": "10%",
         "id": "Wildlife_HyenaStriped_Puppy"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_SpiderWidowRed",
-    "marker": [
-      170919,
-      133,
-      -20240
-    ],
-    "spawns": [
-      {
-        "name": "Fighter II"
       }
     ]
   },
@@ -62465,9 +61287,6 @@
         "id": "Wildlife_Miniboss_Wolf"
       },
       {
-        "name": "Fighter II"
-      },
-      {
         "name": "Wolf Pup",
         "type": "Critter",
         "chance": "10%",
@@ -62504,19 +61323,6 @@
         "type": "MiniBoss",
         "chance": "2%",
         "id": "Wildlife_Miniboss_JungleBird_Grey"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_SpiderWidowRed",
-    "marker": [
-      196325,
-      22149,
-      -20124
-    ],
-    "spawns": [
-      {
-        "name": "Fighter II"
       }
     ]
   },
@@ -62630,13 +61436,13 @@
         "name": "Follower of Jhebbal Sag",
         "type": "Fighter",
         "chance": "33%",
-        "id": "DungeonSag_Dogs_Fighter_3_Zamorian"
+        "id": "DungeonSag_Dogs_Fighter_3_Stygian"
       },
       {
         "name": "Follower of Jhebbal Sag",
         "type": "Fighter",
         "chance": "33%",
-        "id": "DungeonSag_Dogs_Fighter_3_Stygian"
+        "id": "DungeonSag_Dogs_Fighter_3_Zamorian"
       },
       {
         "name": "Follower of Jhebbal Sag",
@@ -62723,19 +61529,6 @@
     ]
   },
   {
-    "id": "Wildlife_SpiderWidowRed",
-    "marker": [
-      199685,
-      26742,
-      -18889
-    ],
-    "spawns": [
-      {
-        "name": "Fighter II"
-      }
-    ]
-  },
-  {
     "id": "Wildlife_HyenaStriped",
     "marker": [
       -65662,
@@ -62795,13 +61588,13 @@
         "name": "Follower of Jhebbal Sag",
         "type": "Fighter",
         "chance": "33%",
-        "id": "DungeonSag_Dogs_Fighter_3_Zamorian"
+        "id": "DungeonSag_Dogs_Fighter_3_Stygian"
       },
       {
         "name": "Follower of Jhebbal Sag",
         "type": "Fighter",
         "chance": "33%",
-        "id": "DungeonSag_Dogs_Fighter_3_Stygian"
+        "id": "DungeonSag_Dogs_Fighter_3_Zamorian"
       },
       {
         "name": "Follower of Jhebbal Sag",
@@ -62844,19 +61637,6 @@
     ]
   },
   {
-    "id": "Wildlife_SpiderWidowGreen",
-    "marker": [
-      64879,
-      154641,
-      -17864
-    ],
-    "spawns": [
-      {
-        "name": "Fighter II"
-      }
-    ]
-  },
-  {
     "id": "Wildlife_JungleBird_Green",
     "marker": [
       331598,
@@ -62869,19 +61649,6 @@
         "type": "MiniBoss",
         "chance": "2%",
         "id": "Wildlife_Miniboss_JungleBird_Grey"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_SpiderWidowRed",
-    "marker": [
-      206090,
-      33146,
-      -20231
-    ],
-    "spawns": [
-      {
-        "name": "Fighter II"
       }
     ]
   },
@@ -62992,32 +61759,19 @@
         "name": "Follower of Jhebbal Sag",
         "type": "Archer",
         "chance": "33%",
-        "id": "DungeonSag_Dogs_Archer_3_Zamorian"
-      },
-      {
-        "name": "Follower of Jhebbal Sag",
-        "type": "Archer",
-        "chance": "33%",
         "id": "DungeonSag_Dogs_Archer_3_Stygian"
       },
       {
         "name": "Follower of Jhebbal Sag",
         "type": "Archer",
         "chance": "33%",
-        "id": "DungeonSag_Dogs_Archer_3_Shemite"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_SpiderWidowGreen",
-    "marker": [
-      64879,
-      155694,
-      -17864
-    ],
-    "spawns": [
+        "id": "DungeonSag_Dogs_Archer_3_Zamorian"
+      },
       {
-        "name": "Fighter II"
+        "name": "Follower of Jhebbal Sag",
+        "type": "Archer",
+        "chance": "33%",
+        "id": "DungeonSag_Dogs_Archer_3_Shemite"
       }
     ]
   },
@@ -63091,19 +61845,6 @@
         "type": "MiniBoss",
         "chance": "2%",
         "id": "Wildlife_Miniboss_JungleBird_Grey"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_SpiderWidowRed",
-    "marker": [
-      205755,
-      31361,
-      -20189
-    ],
-    "spawns": [
-      {
-        "name": "Fighter II"
       }
     ]
   },
@@ -63258,32 +61999,19 @@
         "name": "Follower of Jhebbal Sag",
         "type": "Fighter",
         "chance": "33%",
-        "id": "DungeonSag_Dogs_Fighter_3_Zamorian"
-      },
-      {
-        "name": "Follower of Jhebbal Sag",
-        "type": "Fighter",
-        "chance": "33%",
         "id": "DungeonSag_Dogs_Fighter_3_Stygian"
       },
       {
         "name": "Follower of Jhebbal Sag",
         "type": "Fighter",
         "chance": "33%",
-        "id": "DungeonSag_Dogs_Fighter_3_Shemite"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_SpiderWidowGreen",
-    "marker": [
-      64511,
-      155486,
-      -17864
-    ],
-    "spawns": [
+        "id": "DungeonSag_Dogs_Fighter_3_Zamorian"
+      },
       {
-        "name": "Fighter II"
+        "name": "Follower of Jhebbal Sag",
+        "type": "Fighter",
+        "chance": "33%",
+        "id": "DungeonSag_Dogs_Fighter_3_Shemite"
       }
     ]
   },
@@ -63332,19 +62060,6 @@
         "type": "MiniBoss",
         "chance": "2%",
         "id": "Wildlife_Miniboss_JungleBird_Grey"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_SpiderWidowRed",
-    "marker": [
-      210527,
-      30056,
-      -20202
-    ],
-    "spawns": [
-      {
-        "name": "Fighter II"
       }
     ]
   },
@@ -64757,19 +63472,6 @@
         "type": "Critter",
         "chance": "10%",
         "id": "Wildlife_HoovedGazelleFawn"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_SpiderWidowBlack",
-    "marker": [
-      60959,
-      188063,
-      -14736
-    ],
-    "spawns": [
-      {
-        "name": "Fighter II"
       }
     ]
   },
@@ -66687,6 +65389,12 @@
         "name": "Yog's Chosen",
         "type": "Priest",
         "chance": "2%",
+        "id": "Darfari_Cannibals_Priest_4_Darfari1"
+      },
+      {
+        "name": "Yog's Chosen",
+        "type": "Priest",
+        "chance": "2%",
         "id": "Darfari_Cannibals_Priest_4_Darfari3"
       },
       {
@@ -66694,12 +65402,6 @@
         "type": "Priest",
         "chance": "2%",
         "id": "Darfari_Cannibals_Priest_4_Darfari2"
-      },
-      {
-        "name": "Yog's Chosen",
-        "type": "Priest",
-        "chance": "2%",
-        "id": "Darfari_Cannibals_Priest_4_Darfari1"
       },
       {
         "name": "Priest I-III"
@@ -66998,19 +65700,6 @@
     ]
   },
   {
-    "id": "Wildlife_SpiderWidowBlack",
-    "marker": [
-      381591,
-      120596,
-      -20148
-    ],
-    "spawns": [
-      {
-        "name": "Fighter II"
-      }
-    ]
-  },
-  {
     "id": "BlackHandPirFighter_Low",
     "marker": [
       329579,
@@ -67202,19 +65891,6 @@
     ]
   },
   {
-    "id": "Wildlife_SpiderWidowBlack",
-    "marker": [
-      60256,
-      189661,
-      -14748
-    ],
-    "spawns": [
-      {
-        "name": "Fighter II"
-      }
-    ]
-  },
-  {
     "id": "Wildlife_HyenaSpotted",
     "marker": [
       -38718,
@@ -67265,19 +65941,6 @@
         "type": "Critter",
         "chance": "1000%",
         "id": "Wildlife_HoovedGazelleFawn"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_SpiderWidowBlack",
-    "marker": [
-      30644,
-      184441,
-      -11602
-    ],
-    "spawns": [
-      {
-        "name": "Fighter II"
       }
     ]
   },
@@ -68164,32 +66827,6 @@
         "type": "Critter",
         "chance": "100%",
         "id": "Wildlife_KappaGreenBaby"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_SpiderWidowBlack",
-    "marker": [
-      33511,
-      167011,
-      -7007
-    ],
-    "spawns": [
-      {
-        "name": "Fighter II"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_SpiderWidowBlack",
-    "marker": [
-      59651,
-      192867,
-      -16854
-    ],
-    "spawns": [
-      {
-        "name": "Fighter II"
       }
     ]
   },
@@ -69512,9 +68149,6 @@
         "id": "Wildlife_Miniboss_Wolf"
       },
       {
-        "name": "Fighter II"
-      },
-      {
         "name": "Wolf Pup",
         "type": "Critter",
         "chance": "10%",
@@ -69573,9 +68207,6 @@
         "type": "MiniBoss",
         "chance": "2%",
         "id": "Wildlife_Miniboss_Wolf"
-      },
-      {
-        "name": "Fighter II"
       },
       {
         "name": "Wolf Pup",
@@ -69638,9 +68269,6 @@
         "id": "Wildlife_Miniboss_Wolf"
       },
       {
-        "name": "Fighter II"
-      },
-      {
         "name": "Wolf Pup",
         "type": "Critter",
         "chance": "10%",
@@ -69701,9 +68329,6 @@
         "id": "Wildlife_Miniboss_Wolf"
       },
       {
-        "name": "Fighter II"
-      },
-      {
         "name": "Wolf Pup",
         "type": "Critter",
         "chance": "10%",
@@ -69762,9 +68387,6 @@
         "type": "MiniBoss",
         "chance": "2%",
         "id": "Wildlife_Miniboss_Wolf"
-      },
-      {
-        "name": "Fighter II"
       },
       {
         "name": "Wolf Pup",
@@ -69957,9 +68579,6 @@
         "id": "Wildlife_Miniboss_Wolf"
       },
       {
-        "name": "Fighter II"
-      },
-      {
         "name": "Wolf Pup",
         "type": "Critter",
         "chance": "10%",
@@ -70018,9 +68637,6 @@
         "type": "MiniBoss",
         "chance": "2%",
         "id": "Wildlife_Miniboss_Wolf"
-      },
-      {
-        "name": "Fighter II"
       },
       {
         "name": "Wolf Pup",
@@ -70143,9 +68759,6 @@
         "id": "Wildlife_Miniboss_Wolf"
       },
       {
-        "name": "Fighter II"
-      },
-      {
         "name": "Wolf Pup",
         "type": "Critter",
         "chance": "10%",
@@ -70204,9 +68817,6 @@
         "type": "MiniBoss",
         "chance": "2%",
         "id": "Wildlife_Miniboss_Wolf"
-      },
-      {
-        "name": "Fighter II"
       },
       {
         "name": "Wolf Pup",
@@ -70269,9 +68879,6 @@
         "id": "Wildlife_Miniboss_Wolf"
       },
       {
-        "name": "Fighter II"
-      },
-      {
         "name": "Wolf Pup",
         "type": "Critter",
         "chance": "10%",
@@ -70330,9 +68937,6 @@
         "type": "MiniBoss",
         "chance": "2%",
         "id": "Wildlife_Miniboss_Wolf"
-      },
-      {
-        "name": "Fighter II"
       },
       {
         "name": "Wolf Pup",
