@@ -1836,22 +1836,6 @@
     ]
   },
   {
-    "id": "Wildlife_Rabbit",
-    "marker": [
-      7361,
-      225634,
-      -17721
-    ],
-    "spawns": [
-      {
-        "name": "Rabbit",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_Rabbit"
-      }
-    ]
-  },
-  {
     "id": "Wildlife_KappaGreenBaby",
     "marker": [
       45547,
@@ -1864,22 +1848,6 @@
         "type": "Critter",
         "chance": "100%",
         "id": "Wildlife_KappaGreenBaby"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Rabbit",
-    "marker": [
-      -62057,
-      239124,
-      -20035
-    ],
-    "spawns": [
-      {
-        "name": "Rabbit",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_Rabbit"
       }
     ]
   },
@@ -4977,12 +4945,6 @@
         "type": "Critter",
         "chance": "10%",
         "id": "Wildlife_HoovedGazelleFawn"
-      },
-      {
-        "name": "Gazelle",
-        "type": "Critter",
-        "chance": "90%",
-        "id": "Wildlife_HoovedGazelle"
       }
     ]
   },
@@ -5742,22 +5704,6 @@
     ]
   },
   {
-    "id": "Wildlife_Deer",
-    "marker": [
-      172918,
-      130727,
-      -19330
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
-      }
-    ]
-  },
-  {
     "id": "AbandonedCity_RelicHunter_Treasureseeker",
     "marker": [
       -145836,
@@ -5911,22 +5857,6 @@
         "type": "MiniBoss",
         "chance": "2%",
         "id": "Wildlife_Miniboss_Rocknose"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Deer",
-    "marker": [
-      178298,
-      130209,
-      -18936
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
       }
     ]
   },
@@ -6241,22 +6171,6 @@
         "type": "Archer",
         "chance": "7%",
         "id": "Relic_Hunter_Treasureseeker14"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Deer",
-    "marker": [
-      180668,
-      137737,
-      -19295
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
       }
     ]
   },
@@ -7446,22 +7360,6 @@
     ]
   },
   {
-    "id": "Wildlife_HoovedAntilope",
-    "marker": [
-      42475,
-      122584,
-      -12328
-    ],
-    "spawns": [
-      {
-        "name": "Antilope",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedAntilope"
-      }
-    ]
-  },
-  {
     "id": "Wildlife_HoovedGazelle",
     "marker": [
       143115,
@@ -7474,12 +7372,6 @@
         "type": "Critter",
         "chance": "10%",
         "id": "Wildlife_HoovedGazelleFawn"
-      },
-      {
-        "name": "Gazelle",
-        "type": "Critter",
-        "chance": "90%",
-        "id": "Wildlife_HoovedGazelle"
       }
     ]
   },
@@ -9203,22 +9095,6 @@
     ]
   },
   {
-    "id": "Wildlife_Deer",
-    "marker": [
-      190427,
-      141400,
-      -18071
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
-      }
-    ]
-  },
-  {
     "id": "AbandonedCity_RelicHunter_Boss",
     "marker": [
       -135875,
@@ -9963,22 +9839,6 @@
     ]
   },
   {
-    "id": "Wildlife_Rabbit",
-    "marker": [
-      45111,
-      122491,
-      -12331
-    ],
-    "spawns": [
-      {
-        "name": "Rabbit",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_Rabbit"
-      }
-    ]
-  },
-  {
     "id": "DarfariEntertainer_Random",
     "marker": [
       -126582,
@@ -10150,22 +10010,6 @@
         "type": "Archer",
         "chance": "7%",
         "id": "Relic_Hunter_Treasureseeker14"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Deer",
-    "marker": [
-      191765,
-      143762,
-      -17963
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
       }
     ]
   },
@@ -10367,22 +10211,6 @@
         "type": "Archer",
         "chance": "7%",
         "id": "Relic_Hunter_Treasureseeker14"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Deer",
-    "marker": [
-      193976,
-      143657,
-      -17959
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
       }
     ]
   },
@@ -10613,22 +10441,6 @@
     ]
   },
   {
-    "id": "Wildlife_Deer",
-    "marker": [
-      200959,
-      135429,
-      -15595
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
-      }
-    ]
-  },
-  {
     "id": "RelicHunterPriest_Random",
     "marker": [
       -234998,
@@ -10742,22 +10554,6 @@
     ]
   },
   {
-    "id": "Wildlife_Deer",
-    "marker": [
-      199492,
-      135996,
-      -15867
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
-      }
-    ]
-  },
-  {
     "id": "RelicHunterPriest_Random",
     "marker": [
       -234759,
@@ -10811,22 +10607,6 @@
     "spawns": [
       {
         "name": "Fighter I-III"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Deer",
-    "marker": [
-      199518,
-      133471,
-      -15378
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
       }
     ]
   },
@@ -11113,22 +10893,6 @@
     ]
   },
   {
-    "id": "Wildlife_Deer",
-    "marker": [
-      196788,
-      137771,
-      -16541
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
-      }
-    ]
-  },
-  {
     "id": "Votaries_Fighter_Random",
     "marker": [
       -18871,
@@ -11306,22 +11070,6 @@
     ]
   },
   {
-    "id": "Wildlife_Deer",
-    "marker": [
-      198819,
-      145288,
-      -18772
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
-      }
-    ]
-  },
-  {
     "id": "Wildlife_Wolf",
     "marker": [
       -206217,
@@ -11425,22 +11173,6 @@
         "type": "MiniBoss",
         "chance": "2%",
         "id": "Wildlife_Miniboss_Rocknose"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Deer",
-    "marker": [
-      202799,
-      153481,
-      -18019
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
       }
     ]
   },
@@ -11590,22 +11322,6 @@
     ]
   },
   {
-    "id": "Wildlife_Deer",
-    "marker": [
-      205606,
-      154507,
-      -17995
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
-      }
-    ]
-  },
-  {
     "id": "Wildlife_Elk_King",
     "marker": [
       -114185,
@@ -11651,22 +11367,6 @@
     ]
   },
   {
-    "id": "Wildlife_Deer",
-    "marker": [
-      -184045,
-      -35088,
-      -4003
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
-      }
-    ]
-  },
-  {
     "id": "Wildlife_Rocknose",
     "marker": [
       95599,
@@ -11701,22 +11401,6 @@
         "type": "Critter",
         "chance": "10%",
         "id": "Wildlife_HyenaStriped_Puppy"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Deer",
-    "marker": [
-      205501,
-      160050,
-      -19104
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
       }
     ]
   },
@@ -12287,22 +11971,6 @@
     ]
   },
   {
-    "id": "Wildlife_Deer",
-    "marker": [
-      -190581,
-      -40245,
-      -4003
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
-      }
-    ]
-  },
-  {
     "id": "DungeonSag_Archer",
     "marker": [
       380941,
@@ -12365,22 +12033,6 @@
         "type": "Critter",
         "chance": "10%",
         "id": "Wildlife_HyenaStriped_Puppy"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Deer",
-    "marker": [
-      206820,
-      159465,
-      -19039
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
       }
     ]
   },
@@ -12503,22 +12155,6 @@
     ]
   },
   {
-    "id": "Wildlife_Deer",
-    "marker": [
-      199925,
-      151643,
-      -17921
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
-      }
-    ]
-  },
-  {
     "id": "Votaries_Archer_Random",
     "marker": [
       -10801,
@@ -12572,22 +12208,6 @@
     "spawns": [
       {
         "name": "Archer II"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Deer",
-    "marker": [
-      -196598,
-      -30813,
-      -4003
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
       }
     ]
   },
@@ -12658,22 +12278,6 @@
     ]
   },
   {
-    "id": "Wildlife_Deer",
-    "marker": [
-      1407,
-      929,
-      -4352
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
-      }
-    ]
-  },
-  {
     "id": "Votaries_Archer_Random",
     "marker": [
       -10433,
@@ -12731,38 +12335,6 @@
     ]
   },
   {
-    "id": "Wildlife_Deer",
-    "marker": [
-      -196859,
-      -32167,
-      -4003
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Deer",
-    "marker": [
-      1625,
-      1970,
-      -4352
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
-      }
-    ]
-  },
-  {
     "id": "DungeonSag_Archer",
     "marker": [
       399043,
@@ -12803,12 +12375,6 @@
         "type": "Critter",
         "chance": "10%",
         "id": "Wildlife_HoovedGazelleFawn"
-      },
-      {
-        "name": "Gazelle",
-        "type": "Critter",
-        "chance": "90%",
-        "id": "Wildlife_HoovedGazelle"
       }
     ]
   },
@@ -13036,22 +12602,6 @@
     ]
   },
   {
-    "id": "Wildlife_Deer",
-    "marker": [
-      3005,
-      699,
-      -4352
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
-      }
-    ]
-  },
-  {
     "id": "DungeonSag_Fighter",
     "marker": [
       398583,
@@ -13155,22 +12705,6 @@
         "type": "Critter",
         "chance": "10%",
         "id": "Wildlife_Panther_Cub"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Deer",
-    "marker": [
-      -4619,
-      -27448,
-      -4352
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
       }
     ]
   },
@@ -13330,22 +12864,6 @@
     ]
   },
   {
-    "id": "Wildlife_Deer",
-    "marker": [
-      -13647,
-      -97767,
-      1582
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
-      }
-    ]
-  },
-  {
     "id": "Votaries_Fighter_Hostile",
     "marker": [
       -15541,
@@ -13383,22 +12901,6 @@
         "type": "Critter",
         "chance": "10%",
         "id": "Wildlife_Panther_Cub"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Deer",
-    "marker": [
-      -5626,
-      -27826,
-      -4352
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
       }
     ]
   },
@@ -13463,22 +12965,6 @@
     ]
   },
   {
-    "id": "Wildlife_Deer",
-    "marker": [
-      1262,
-      -82424,
-      2701
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
-      }
-    ]
-  },
-  {
     "id": "Votaries_Archer_Hostile",
     "marker": [
       -15594,
@@ -13532,38 +13018,6 @@
       },
       {
         "name": "Fighter I-III"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Deer",
-    "marker": [
-      1570,
-      -81508,
-      2701
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Deer",
-    "marker": [
-      -6042,
-      -26686,
-      -4352
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
       }
     ]
   },
@@ -14138,22 +13592,6 @@
     ]
   },
   {
-    "id": "Wildlife_Rabbit",
-    "marker": [
-      49595,
-      121968,
-      -12326
-    ],
-    "spawns": [
-      {
-        "name": "Rabbit",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_Rabbit"
-      }
-    ]
-  },
-  {
     "id": "Votaries_Fighter_High",
     "marker": [
       349176,
@@ -14163,22 +13601,6 @@
     "spawns": [
       {
         "name": "Fighter III"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Deer",
-    "marker": [
-      3606,
-      -82663,
-      2701
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
       }
     ]
   },
@@ -14297,22 +13719,6 @@
     ]
   },
   {
-    "id": "Wildlife_Deer",
-    "marker": [
-      -21740,
-      -22822,
-      -4352
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
-      }
-    ]
-  },
-  {
     "id": "Wildlife_HoovedGazelleFawn",
     "marker": [
       116089,
@@ -14341,22 +13747,6 @@
         "type": "Critter",
         "chance": "10%",
         "id": "Wildlife_Panther_Cub"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Deer",
-    "marker": [
-      -35279,
-      -113134,
-      6853
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
       }
     ]
   },
@@ -14392,38 +13782,6 @@
       },
       {
         "name": "Fighter I-III"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Deer",
-    "marker": [
-      -35220,
-      -113683,
-      6853
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Deer",
-    "marker": [
-      -22187,
-      -22296,
-      -4352
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
       }
     ]
   },
@@ -14514,22 +13872,6 @@
     ]
   },
   {
-    "id": "Wildlife_Deer",
-    "marker": [
-      -36246,
-      -114261,
-      6853
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
-      }
-    ]
-  },
-  {
     "id": "DungeonSag_Archer",
     "marker": [
       404323,
@@ -14570,12 +13912,6 @@
         "type": "Critter",
         "chance": "10%",
         "id": "Wildlife_HoovedGazelleFawn"
-      },
-      {
-        "name": "Gazelle",
-        "type": "Critter",
-        "chance": "90%",
-        "id": "Wildlife_HoovedGazelle"
       }
     ]
   },
@@ -14649,22 +13985,6 @@
       },
       {
         "name": "Fighter I-III"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Deer",
-    "marker": [
-      -21912,
-      -36392,
-      -4352
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
       }
     ]
   },
@@ -14770,54 +14090,6 @@
     ]
   },
   {
-    "id": "Wildlife_Deer",
-    "marker": [
-      -108284,
-      -114648,
-      1828
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Deer",
-    "marker": [
-      -108424,
-      -111508,
-      1828
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Deer",
-    "marker": [
-      -22922,
-      -36723,
-      -4352
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
-      }
-    ]
-  },
-  {
     "id": "Wildlife_Rocknose",
     "marker": [
       98744,
@@ -14903,22 +14175,6 @@
       },
       {
         "name": "Taskmaster I-III"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Deer",
-    "marker": [
-      -112544,
-      -109509,
-      1828
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
       }
     ]
   },
@@ -15024,38 +14280,6 @@
     "spawns": [
       {
         "name": "Archer I-III"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Deer",
-    "marker": [
-      -108060,
-      -103795,
-      5730
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Deer",
-    "marker": [
-      -22512,
-      -34893,
-      -4352
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
       }
     ]
   },
@@ -15171,38 +14395,6 @@
     ]
   },
   {
-    "id": "Wildlife_Deer",
-    "marker": [
-      -112003,
-      -100645,
-      5730
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Deer",
-    "marker": [
-      -51238,
-      -8128,
-      -4352
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
-      }
-    ]
-  },
-  {
     "id": "Wildlife_HoovedGazelle",
     "marker": [
       106890,
@@ -15215,12 +14407,6 @@
         "type": "Critter",
         "chance": "10%",
         "id": "Wildlife_HoovedGazelleFawn"
-      },
-      {
-        "name": "Gazelle",
-        "type": "Critter",
-        "chance": "90%",
-        "id": "Wildlife_HoovedGazelle"
       }
     ]
   },
@@ -15310,22 +14496,6 @@
       },
       {
         "name": "Fighter I-III"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Deer",
-    "marker": [
-      -124759,
-      -104861,
-      5730
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
       }
     ]
   },
@@ -15838,22 +15008,6 @@
     ]
   },
   {
-    "id": "Wildlife_HoovedAntilope",
-    "marker": [
-      51076,
-      116599,
-      -11784
-    ],
-    "spawns": [
-      {
-        "name": "Antilope",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedAntilope"
-      }
-    ]
-  },
-  {
     "id": "Votaries_Fighter_High",
     "marker": [
       351759,
@@ -15863,38 +15017,6 @@
     "spawns": [
       {
         "name": "Fighter III"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Deer",
-    "marker": [
-      -123453,
-      -107446,
-      5730
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Deer",
-    "marker": [
-      -51249,
-      -7052,
-      -4352
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
       }
     ]
   },
@@ -16049,38 +15171,6 @@
     ]
   },
   {
-    "id": "Wildlife_Deer",
-    "marker": [
-      -126205,
-      -113176,
-      5730
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Deer",
-    "marker": [
-      -50035,
-      -7051,
-      -4352
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
-      }
-    ]
-  },
-  {
     "id": "Wildlife_Rocknose",
     "marker": [
       83910,
@@ -16160,12 +15250,6 @@
         "type": "Critter",
         "chance": "10%",
         "id": "Wildlife_HoovedGazelleFawn"
-      },
-      {
-        "name": "Gazelle",
-        "type": "Critter",
-        "chance": "90%",
-        "id": "Wildlife_HoovedGazelle"
       }
     ]
   },
@@ -16258,22 +15342,6 @@
       },
       {
         "name": "Performer I-III"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Deer",
-    "marker": [
-      -41450,
-      -6156,
-      -4352
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
       }
     ]
   },
@@ -16396,22 +15464,6 @@
     ]
   },
   {
-    "id": "Wildlife_Deer",
-    "marker": [
-      -36574,
-      3767,
-      -4352
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
-      }
-    ]
-  },
-  {
     "id": "Wildlife_Rocknose",
     "marker": [
       83348,
@@ -16520,12 +15572,6 @@
         "type": "Critter",
         "chance": "10%",
         "id": "Wildlife_HoovedGazelleFawn"
-      },
-      {
-        "name": "Gazelle",
-        "type": "Critter",
-        "chance": "90%",
-        "id": "Wildlife_HoovedGazelle"
       }
     ]
   },
@@ -16708,12 +15754,6 @@
         "type": "Critter",
         "chance": "10%",
         "id": "Wildlife_HoovedGazelleFawn"
-      },
-      {
-        "name": "Gazelle",
-        "type": "Critter",
-        "chance": "90%",
-        "id": "Wildlife_HoovedGazelle"
       }
     ]
   },
@@ -20186,22 +19226,6 @@
     ]
   },
   {
-    "id": "Wildlife_Deer",
-    "marker": [
-      -168747,
-      -199255,
-      -109
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
-      }
-    ]
-  },
-  {
     "id": "Wildlife_Rocknose",
     "marker": [
       117996,
@@ -20289,22 +19313,6 @@
       },
       {
         "name": "Fighter I-III"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Deer",
-    "marker": [
-      -168103,
-      -200610,
-      -109
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
       }
     ]
   },
@@ -20597,22 +19605,6 @@
     ]
   },
   {
-    "id": "Wildlife_Deer",
-    "marker": [
-      -153950,
-      -203433,
-      2514
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
-      }
-    ]
-  },
-  {
     "id": "DungeonSag_Fighter",
     "marker": [
       409243,
@@ -20710,22 +19702,6 @@
     "spawns": [
       {
         "name": "Archer I"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Deer",
-    "marker": [
-      -156266,
-      -202740,
-      2514
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
       }
     ]
   },
@@ -20967,22 +19943,6 @@
         "type": "Critter",
         "chance": "10%",
         "id": "Wildlife_Jaguar_Cub"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Deer",
-    "marker": [
-      -153909,
-      -202731,
-      2514
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
       }
     ]
   },
@@ -21314,28 +20274,6 @@
         "type": "Critter",
         "chance": "10%",
         "id": "Wildlife_HoovedGazelleFawn"
-      },
-      {
-        "name": "Gazelle",
-        "type": "Critter",
-        "chance": "90%",
-        "id": "Wildlife_HoovedGazelle"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Deer",
-    "marker": [
-      -163273,
-      -176293,
-      -109
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
       }
     ]
   },
@@ -21500,22 +20438,6 @@
         "type": "MiniBoss",
         "chance": "2%",
         "id": "Wildlife_Miniboss_Rocknose"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Deer",
-    "marker": [
-      -164264,
-      -176511,
-      -109
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
       }
     ]
   },
@@ -22055,28 +20977,6 @@
         "type": "Critter",
         "chance": "10%",
         "id": "Wildlife_HoovedGazelleFawn"
-      },
-      {
-        "name": "Gazelle",
-        "type": "Critter",
-        "chance": "90%",
-        "id": "Wildlife_HoovedGazelle"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Deer",
-    "marker": [
-      -163551,
-      -176939,
-      -109
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
       }
     ]
   },
@@ -22178,22 +21078,6 @@
       },
       {
         "name": "Carpenter I-III"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Deer",
-    "marker": [
-      -180863,
-      -165944,
-      -109
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
       }
     ]
   },
@@ -22393,22 +21277,6 @@
     ]
   },
   {
-    "id": "Wildlife_Deer",
-    "marker": [
-      -182228,
-      -165320,
-      -109
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
-      }
-    ]
-  },
-  {
     "id": "Wildlife_HyenaStriped_Cub",
     "marker": [
       132185,
@@ -22582,22 +21450,6 @@
     ]
   },
   {
-    "id": "Wildlife_Deer",
-    "marker": [
-      -180114,
-      -176577,
-      -109
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
-      }
-    ]
-  },
-  {
     "id": "DungeonSag_Wildlife_Bear_Black_Cub",
     "marker": [
       380763,
@@ -22651,22 +21503,6 @@
       },
       {
         "name": "Alchemist I-III"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Deer",
-    "marker": [
-      -181140,
-      -178001,
-      -109
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
       }
     ]
   },
@@ -22820,22 +21656,6 @@
     ]
   },
   {
-    "id": "Wildlife_Deer",
-    "marker": [
-      -181601,
-      -176394,
-      -109
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
-      }
-    ]
-  },
-  {
     "id": "Wildlife_Rhino_Baby",
     "marker": [
       211364,
@@ -22895,22 +21715,6 @@
       },
       {
         "name": "Fighter I-III"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Deer",
-    "marker": [
-      -208221,
-      -173791,
-      2684
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
       }
     ]
   },
@@ -23553,22 +22357,6 @@
     ]
   },
   {
-    "id": "Wildlife_Deer",
-    "marker": [
-      -206847,
-      -173232,
-      2684
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
-      }
-    ]
-  },
-  {
     "id": "Wildlife_HoovedGazelleFawn",
     "marker": [
       106742,
@@ -23631,22 +22419,6 @@
       },
       {
         "name": "Fighter I-III"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Deer",
-    "marker": [
-      -209708,
-      -173608,
-      2684
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
       }
     ]
   },
@@ -23879,12 +22651,6 @@
         "type": "Critter",
         "chance": "10%",
         "id": "Wildlife_HoovedGazelleFawn"
-      },
-      {
-        "name": "Gazelle",
-        "type": "Critter",
-        "chance": "90%",
-        "id": "Wildlife_HoovedGazelle"
       }
     ]
   },
@@ -23970,12 +22736,6 @@
         "type": "Critter",
         "chance": "10%",
         "id": "Wildlife_HoovedGazelleFawn"
-      },
-      {
-        "name": "Gazelle",
-        "type": "Critter",
-        "chance": "90%",
-        "id": "Wildlife_HoovedGazelle"
       }
     ]
   },
@@ -24104,12 +22864,6 @@
         "type": "Critter",
         "chance": "10%",
         "id": "Wildlife_HoovedGazelleFawn"
-      },
-      {
-        "name": "Gazelle",
-        "type": "Critter",
-        "chance": "90%",
-        "id": "Wildlife_HoovedGazelle"
       }
     ]
   },
@@ -24229,12 +22983,6 @@
         "type": "Critter",
         "chance": "10%",
         "id": "Wildlife_HoovedGazelleFawn"
-      },
-      {
-        "name": "Gazelle",
-        "type": "Critter",
-        "chance": "90%",
-        "id": "Wildlife_HoovedGazelle"
       }
     ]
   },
@@ -24469,12 +23217,6 @@
         "type": "Critter",
         "chance": "10%",
         "id": "Wildlife_HoovedGazelleFawn"
-      },
-      {
-        "name": "Gazelle",
-        "type": "Critter",
-        "chance": "90%",
-        "id": "Wildlife_HoovedGazelle"
       }
     ]
   },
@@ -24906,22 +23648,6 @@
     ]
   },
   {
-    "id": "Wildlife_Rabbit",
-    "marker": [
-      51659,
-      111174,
-      -12203
-    ],
-    "spawns": [
-      {
-        "name": "Rabbit",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_Rabbit"
-      }
-    ]
-  },
-  {
     "id": "RelicHunter_Slavetaker",
     "marker": [
       -229909,
@@ -25323,12 +24049,6 @@
         "type": "Critter",
         "chance": "10%",
         "id": "Wildlife_HoovedGazelleFawn"
-      },
-      {
-        "name": "Gazelle",
-        "type": "Critter",
-        "chance": "90%",
-        "id": "Wildlife_HoovedGazelle"
       }
     ]
   },
@@ -25865,12 +24585,6 @@
         "type": "Critter",
         "chance": "10%",
         "id": "Wildlife_HoovedGazelleFawn"
-      },
-      {
-        "name": "Gazelle",
-        "type": "Critter",
-        "chance": "90%",
-        "id": "Wildlife_HoovedGazelle"
       }
     ]
   },
@@ -26000,12 +24714,6 @@
         "type": "Critter",
         "chance": "10%",
         "id": "Wildlife_HoovedGazelleFawn"
-      },
-      {
-        "name": "Gazelle",
-        "type": "Critter",
-        "chance": "90%",
-        "id": "Wildlife_HoovedGazelle"
       }
     ]
   },
@@ -26225,12 +24933,6 @@
         "type": "Critter",
         "chance": "10%",
         "id": "Wildlife_HoovedGazelleFawn"
-      },
-      {
-        "name": "Gazelle",
-        "type": "Critter",
-        "chance": "90%",
-        "id": "Wildlife_HoovedGazelle"
       }
     ]
   },
@@ -26995,12 +25697,6 @@
         "type": "Critter",
         "chance": "10%",
         "id": "Wildlife_HoovedGazelleFawn"
-      },
-      {
-        "name": "Gazelle",
-        "type": "Critter",
-        "chance": "90%",
-        "id": "Wildlife_HoovedGazelle"
       }
     ]
   },
@@ -27074,12 +25770,6 @@
         "type": "Critter",
         "chance": "10%",
         "id": "Wildlife_HoovedGazelleFawn"
-      },
-      {
-        "name": "Gazelle",
-        "type": "Critter",
-        "chance": "90%",
-        "id": "Wildlife_HoovedGazelle"
       }
     ]
   },
@@ -27187,12 +25877,6 @@
         "type": "Critter",
         "chance": "10%",
         "id": "Wildlife_HoovedGazelleFawn"
-      },
-      {
-        "name": "Gazelle",
-        "type": "Critter",
-        "chance": "90%",
-        "id": "Wildlife_HoovedGazelle"
       }
     ]
   },
@@ -27364,12 +26048,6 @@
         "type": "Critter",
         "chance": "10%",
         "id": "Wildlife_HoovedGazelleFawn"
-      },
-      {
-        "name": "Gazelle",
-        "type": "Critter",
-        "chance": "90%",
-        "id": "Wildlife_HoovedGazelle"
       }
     ]
   },
@@ -27553,12 +26231,6 @@
         "type": "Critter",
         "chance": "10%",
         "id": "Wildlife_HoovedGazelleFawn"
-      },
-      {
-        "name": "Gazelle",
-        "type": "Critter",
-        "chance": "90%",
-        "id": "Wildlife_HoovedGazelle"
       }
     ]
   },
@@ -27628,12 +26300,6 @@
         "type": "Critter",
         "chance": "10%",
         "id": "Wildlife_HoovedGazelleFawn"
-      },
-      {
-        "name": "Gazelle",
-        "type": "Critter",
-        "chance": "90%",
-        "id": "Wildlife_HoovedGazelle"
       }
     ]
   },
@@ -27805,12 +26471,6 @@
         "type": "Critter",
         "chance": "10%",
         "id": "Wildlife_HoovedGazelleFawn"
-      },
-      {
-        "name": "Gazelle",
-        "type": "Critter",
-        "chance": "90%",
-        "id": "Wildlife_HoovedGazelle"
       }
     ]
   },
@@ -27912,22 +26572,6 @@
       },
       {
         "name": "Archer I-III"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Deer",
-    "marker": [
-      -175308,
-      -44431,
-      -4003
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
       }
     ]
   },
@@ -28226,22 +26870,6 @@
     ]
   },
   {
-    "id": "Wildlife_Deer",
-    "marker": [
-      -174072,
-      -48637,
-      -4003
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
-      }
-    ]
-  },
-  {
     "id": "DungeonDagon_Wildlife_DeepOne_Human_trash_ranged",
     "marker": [
       -392988,
@@ -28463,12 +27091,6 @@
         "type": "Critter",
         "chance": "10%",
         "id": "Wildlife_HoovedGazelleFawn"
-      },
-      {
-        "name": "Gazelle",
-        "type": "Critter",
-        "chance": "90%",
-        "id": "Wildlife_HoovedGazelle"
       }
     ]
   },
@@ -28538,12 +27160,6 @@
         "type": "Critter",
         "chance": "10%",
         "id": "Wildlife_HoovedGazelleFawn"
-      },
-      {
-        "name": "Gazelle",
-        "type": "Critter",
-        "chance": "90%",
-        "id": "Wildlife_HoovedGazelle"
       }
     ]
   },
@@ -29535,12 +28151,6 @@
         "type": "Critter",
         "chance": "10%",
         "id": "Wildlife_HoovedGazelleFawn"
-      },
-      {
-        "name": "Gazelle",
-        "type": "Critter",
-        "chance": "90%",
-        "id": "Wildlife_HoovedGazelle"
       }
     ]
   },
@@ -30110,12 +28720,6 @@
         "type": "Critter",
         "chance": "10%",
         "id": "Wildlife_HoovedGazelleFawn"
-      },
-      {
-        "name": "Gazelle",
-        "type": "Critter",
-        "chance": "90%",
-        "id": "Wildlife_HoovedGazelle"
       }
     ]
   },
@@ -30551,12 +29155,6 @@
         "type": "Critter",
         "chance": "10%",
         "id": "Wildlife_HoovedGazelleFawn"
-      },
-      {
-        "name": "Gazelle",
-        "type": "Critter",
-        "chance": "90%",
-        "id": "Wildlife_HoovedGazelle"
       }
     ]
   },
@@ -30610,12 +29208,6 @@
         "type": "Critter",
         "chance": "10%",
         "id": "Wildlife_HoovedGazelleFawn"
-      },
-      {
-        "name": "Gazelle",
-        "type": "Critter",
-        "chance": "90%",
-        "id": "Wildlife_HoovedGazelle"
       }
     ]
   },
@@ -30691,12 +29283,6 @@
         "type": "Critter",
         "chance": "10%",
         "id": "Wildlife_HoovedGazelleFawn"
-      },
-      {
-        "name": "Gazelle",
-        "type": "Critter",
-        "chance": "90%",
-        "id": "Wildlife_HoovedGazelle"
       }
     ]
   },
@@ -30904,22 +29490,6 @@
     ]
   },
   {
-    "id": "Wildlife_Rabbit",
-    "marker": [
-      152103,
-      80445,
-      -13092
-    ],
-    "spawns": [
-      {
-        "name": "Rabbit",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_Rabbit"
-      }
-    ]
-  },
-  {
     "id": "DogsCombat_Random",
     "marker": [
       -24649,
@@ -30942,22 +29512,6 @@
     ]
   },
   {
-    "id": "Wildlife_Deer",
-    "marker": [
-      169146,
-      120892,
-      -19823
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
-      }
-    ]
-  },
-  {
     "id": "Wildlife_HoovedGazelle",
     "marker": [
       172054,
@@ -30970,60 +29524,6 @@
         "type": "Critter",
         "chance": "10%",
         "id": "Wildlife_HoovedGazelleFawn"
-      },
-      {
-        "name": "Gazelle",
-        "type": "Critter",
-        "chance": "90%",
-        "id": "Wildlife_HoovedGazelle"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Rabbit",
-    "marker": [
-      146778,
-      67771,
-      -12208
-    ],
-    "spawns": [
-      {
-        "name": "Rabbit",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_Rabbit"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Deer",
-    "marker": [
-      177000,
-      93409,
-      -15552
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Deer",
-    "marker": [
-      173026,
-      93571,
-      -15620
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
       }
     ]
   },
@@ -31040,28 +29540,6 @@
         "type": "Critter",
         "chance": "10%",
         "id": "Wildlife_HoovedGazelleFawn"
-      },
-      {
-        "name": "Gazelle",
-        "type": "Critter",
-        "chance": "90%",
-        "id": "Wildlife_HoovedGazelle"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Rabbit",
-    "marker": [
-      170141,
-      114234,
-      -19598
-    ],
-    "spawns": [
-      {
-        "name": "Rabbit",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_Rabbit"
       }
     ]
   },
@@ -34422,22 +32900,6 @@
     ]
   },
   {
-    "id": "Wildlife_Rabbit",
-    "marker": [
-      329607,
-      33963,
-      -19879
-    ],
-    "spawns": [
-      {
-        "name": "Rabbit",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_Rabbit"
-      }
-    ]
-  },
-  {
     "id": "Wildlife_Elk_King",
     "marker": [
       -137971,
@@ -34803,22 +33265,6 @@
     ]
   },
   {
-    "id": "Wildlife_Deer",
-    "marker": [
-      171771,
-      92647,
-      -15544
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
-      }
-    ]
-  },
-  {
     "id": "Wildlife_HoovedGazelle",
     "marker": [
       156742,
@@ -34831,28 +33277,6 @@
         "type": "Critter",
         "chance": "10%",
         "id": "Wildlife_HoovedGazelleFawn"
-      },
-      {
-        "name": "Gazelle",
-        "type": "Critter",
-        "chance": "90%",
-        "id": "Wildlife_HoovedGazelle"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Rabbit",
-    "marker": [
-      179525,
-      112956,
-      -19911
-    ],
-    "spawns": [
-      {
-        "name": "Rabbit",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_Rabbit"
       }
     ]
   },
@@ -35034,22 +33458,6 @@
     ]
   },
   {
-    "id": "Wildlife_Deer",
-    "marker": [
-      163971,
-      88418,
-      -15855
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
-      }
-    ]
-  },
-  {
     "id": "Wildlife_HoovedGazelle",
     "marker": [
       152759,
@@ -35062,28 +33470,6 @@
         "type": "Critter",
         "chance": "10%",
         "id": "Wildlife_HoovedGazelleFawn"
-      },
-      {
-        "name": "Gazelle",
-        "type": "Critter",
-        "chance": "90%",
-        "id": "Wildlife_HoovedGazelle"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Rabbit",
-    "marker": [
-      179816,
-      96554,
-      -17318
-    ],
-    "spawns": [
-      {
-        "name": "Rabbit",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_Rabbit"
       }
     ]
   },
@@ -36045,12 +34431,6 @@
         "type": "Critter",
         "chance": "10%",
         "id": "Wildlife_HoovedGazelleFawn"
-      },
-      {
-        "name": "Gazelle",
-        "type": "Critter",
-        "chance": "90%",
-        "id": "Wildlife_HoovedGazelle"
       }
     ]
   },
@@ -36378,22 +34758,6 @@
     ]
   },
   {
-    "id": "Wildlife_HoovedAntilope",
-    "marker": [
-      51412,
-      114446,
-      -12268
-    ],
-    "spawns": [
-      {
-        "name": "Antilope",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedAntilope"
-      }
-    ]
-  },
-  {
     "id": "Wildlife_HoovedGazelle",
     "marker": [
       122891,
@@ -36406,12 +34770,6 @@
         "type": "Critter",
         "chance": "10%",
         "id": "Wildlife_HoovedGazelleFawn"
-      },
-      {
-        "name": "Gazelle",
-        "type": "Critter",
-        "chance": "90%",
-        "id": "Wildlife_HoovedGazelle"
       }
     ]
   },
@@ -36454,22 +34812,6 @@
       },
       {
         "name": "Fighter III"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Deer",
-    "marker": [
-      -109127,
-      -12007,
-      -3867
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
       }
     ]
   },
@@ -36619,22 +34961,6 @@
     ]
   },
   {
-    "id": "Wildlife_Deer",
-    "marker": [
-      161932,
-      86135,
-      -16004
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
-      }
-    ]
-  },
-  {
     "id": "Wildlife_HoovedGazelle",
     "marker": [
       138926,
@@ -36647,28 +34973,6 @@
         "type": "Critter",
         "chance": "10%",
         "id": "Wildlife_HoovedGazelleFawn"
-      },
-      {
-        "name": "Gazelle",
-        "type": "Critter",
-        "chance": "90%",
-        "id": "Wildlife_HoovedGazelle"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Rabbit",
-    "marker": [
-      180691,
-      86726,
-      -15272
-    ],
-    "spawns": [
-      {
-        "name": "Rabbit",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_Rabbit"
       }
     ]
   },
@@ -36875,22 +35179,6 @@
     ]
   },
   {
-    "id": "Wildlife_Deer",
-    "marker": [
-      166717,
-      76637,
-      -12532
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
-      }
-    ]
-  },
-  {
     "id": "Wildlife_HoovedGazelle",
     "marker": [
       130205,
@@ -36903,44 +35191,6 @@
         "type": "Critter",
         "chance": "10%",
         "id": "Wildlife_HoovedGazelleFawn"
-      },
-      {
-        "name": "Gazelle",
-        "type": "Critter",
-        "chance": "90%",
-        "id": "Wildlife_HoovedGazelle"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Rabbit",
-    "marker": [
-      175589,
-      79311,
-      -12182
-    ],
-    "spawns": [
-      {
-        "name": "Rabbit",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_Rabbit"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Deer",
-    "marker": [
-      173843,
-      79784,
-      -12350
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
       }
     ]
   },
@@ -36957,28 +35207,6 @@
         "type": "Critter",
         "chance": "10%",
         "id": "Wildlife_HoovedGazelleFawn"
-      },
-      {
-        "name": "Gazelle",
-        "type": "Critter",
-        "chance": "90%",
-        "id": "Wildlife_HoovedGazelle"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Rabbit",
-    "marker": [
-      185684,
-      73061,
-      -11617
-    ],
-    "spawns": [
-      {
-        "name": "Rabbit",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_Rabbit"
       }
     ]
   },
@@ -37273,22 +35501,6 @@
     ]
   },
   {
-    "id": "Wildlife_Deer",
-    "marker": [
-      -109873,
-      -13304,
-      -3867
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
-      }
-    ]
-  },
-  {
     "id": "Wildlife_HyenaSpotted",
     "marker": [
       367793,
@@ -37374,22 +35586,6 @@
     ]
   },
   {
-    "id": "Wildlife_Deer",
-    "marker": [
-      181139,
-      75725,
-      -12233
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
-      }
-    ]
-  },
-  {
     "id": "Wildlife_HoovedGazelle",
     "marker": [
       138227,
@@ -37402,44 +35598,6 @@
         "type": "Critter",
         "chance": "10%",
         "id": "Wildlife_HoovedGazelleFawn"
-      },
-      {
-        "name": "Gazelle",
-        "type": "Critter",
-        "chance": "90%",
-        "id": "Wildlife_HoovedGazelle"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Rabbit",
-    "marker": [
-      187917,
-      68318,
-      -11686
-    ],
-    "spawns": [
-      {
-        "name": "Rabbit",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_Rabbit"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Deer",
-    "marker": [
-      161563,
-      69528,
-      -12233
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
       }
     ]
   },
@@ -37456,12 +35614,6 @@
         "type": "Critter",
         "chance": "10%",
         "id": "Wildlife_HoovedGazelleFawn"
-      },
-      {
-        "name": "Gazelle",
-        "type": "Critter",
-        "chance": "90%",
-        "id": "Wildlife_HoovedGazelle"
       }
     ]
   },
@@ -37491,22 +35643,6 @@
     ]
   },
   {
-    "id": "Wildlife_Deer",
-    "marker": [
-      159534,
-      71130,
-      -12253
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
-      }
-    ]
-  },
-  {
     "id": "BlackHandFighter_Random",
     "marker": [
       65988,
@@ -37528,22 +35664,6 @@
       },
       {
         "name": "Fighter I-III"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Deer",
-    "marker": [
-      171684,
-      58346,
-      -15176
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
       }
     ]
   },
@@ -37573,22 +35693,6 @@
     ]
   },
   {
-    "id": "Wildlife_Deer",
-    "marker": [
-      167628,
-      59662,
-      -15841
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
-      }
-    ]
-  },
-  {
     "id": "BlackHandFighter_Random",
     "marker": [
       64380,
@@ -37610,22 +35714,6 @@
       },
       {
         "name": "Fighter I-III"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Deer",
-    "marker": [
-      148495,
-      57584,
-      -13180
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
       }
     ]
   },
@@ -37655,22 +35743,6 @@
     ]
   },
   {
-    "id": "Wildlife_Deer",
-    "marker": [
-      149046,
-      63877,
-      -11874
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
-      }
-    ]
-  },
-  {
     "id": "BlackHandFighter_Random",
     "marker": [
       68882,
@@ -37692,22 +35764,6 @@
       },
       {
         "name": "Fighter I-III"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Deer",
-    "marker": [
-      144619,
-      62799,
-      -11918
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
       }
     ]
   },
@@ -37737,22 +35793,6 @@
     ]
   },
   {
-    "id": "Wildlife_Deer",
-    "marker": [
-      144319,
-      59578,
-      -12318
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
-      }
-    ]
-  },
-  {
     "id": "BlackHandArcher_Random",
     "marker": [
       66889,
@@ -37774,22 +35814,6 @@
       },
       {
         "name": "Archer I-III"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Deer",
-    "marker": [
-      133804,
-      64164,
-      -14472
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
       }
     ]
   },
@@ -38154,22 +36178,6 @@
     ]
   },
   {
-    "id": "Wildlife_Deer",
-    "marker": [
-      -108199,
-      -24997,
-      -3398
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
-      }
-    ]
-  },
-  {
     "id": "Wildlife_Wolf",
     "marker": [
       6505,
@@ -38264,22 +36272,6 @@
         "type": "Critter",
         "chance": "10%",
         "id": "Wildlife_ReptileCrocodile_Baby"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Deer",
-    "marker": [
-      134107,
-      69488,
-      -14548
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
       }
     ]
   },
@@ -38407,22 +36399,6 @@
       },
       {
         "name": "Tanner I-III"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Deer",
-    "marker": [
-      136548,
-      70550,
-      -14548
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
       }
     ]
   },
@@ -39094,22 +37070,6 @@
     ]
   },
   {
-    "id": "Wildlife_Deer",
-    "marker": [
-      139812,
-      76031,
-      -15030
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
-      }
-    ]
-  },
-  {
     "id": "DogsArtisan_Random",
     "marker": [
       19995,
@@ -39119,22 +37079,6 @@
     "spawns": [
       {
         "name": "Armorer I-II"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Deer",
-    "marker": [
-      142608,
-      75339,
-      -14844
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
       }
     ]
   },
@@ -39648,22 +37592,6 @@
     ]
   },
   {
-    "id": "Wildlife_Deer",
-    "marker": [
-      -109427,
-      -26380,
-      -3398
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
-      }
-    ]
-  },
-  {
     "id": "Wildlife_Wolf",
     "marker": [
       7804,
@@ -39753,22 +37681,6 @@
     ]
   },
   {
-    "id": "Wildlife_Deer",
-    "marker": [
-      179262,
-      94242,
-      -17375
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
-      }
-    ]
-  },
-  {
     "id": "Sherpa_Random",
     "marker": [
       19729,
@@ -39838,38 +37750,6 @@
       },
       {
         "name": "Bearer I-III"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Deer",
-    "marker": [
-      181122,
-      91667,
-      -17288
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Deer",
-    "marker": [
-      184681,
-      94729,
-      -16381
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
       }
     ]
   },
@@ -40499,22 +38379,6 @@
       },
       {
         "name": "Cook I-III"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Deer",
-    "marker": [
-      -99402,
-      -6780,
-      -3398
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
       }
     ]
   },
@@ -42395,22 +40259,6 @@
     ]
   },
   {
-    "id": "Wildlife_Deer",
-    "marker": [
-      -98254,
-      -8229,
-      -3398
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
-      }
-    ]
-  },
-  {
     "id": "Wildlife_Wolf_Puppy",
     "marker": [
       5970,
@@ -43898,22 +41746,6 @@
       },
       {
         "name": "Fighter I-III"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Deer",
-    "marker": [
-      -76370,
-      -3725,
-      -3398
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
       }
     ]
   },
@@ -45843,12 +43675,6 @@
         "type": "Critter",
         "chance": "10%",
         "id": "Wildlife_HoovedGazelleFawn"
-      },
-      {
-        "name": "Gazelle",
-        "type": "Critter",
-        "chance": "90%",
-        "id": "Wildlife_HoovedGazelle"
       }
     ]
   },
@@ -45900,22 +43726,6 @@
     "spawns": [
       {
         "name": "Archer I-III"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Deer",
-    "marker": [
-      -77339,
-      -5299,
-      -3398
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
       }
     ]
   },
@@ -48319,22 +46129,6 @@
     ]
   },
   {
-    "id": "Wildlife_Deer",
-    "marker": [
-      -155107,
-      -36482,
-      -4290
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
-      }
-    ]
-  },
-  {
     "id": "Wildlife_Wolf",
     "marker": [
       -46404,
@@ -48618,22 +46412,6 @@
         "type": "Critter",
         "chance": "10%",
         "id": "Wildlife_Wild_Boar_Piglet"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Deer",
-    "marker": [
-      -169323,
-      -31893,
-      -4057
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
       }
     ]
   },
@@ -49031,12 +46809,6 @@
         "type": "Critter",
         "chance": "10%",
         "id": "Wildlife_HoovedGazelleFawn"
-      },
-      {
-        "name": "Gazelle",
-        "type": "Critter",
-        "chance": "90%",
-        "id": "Wildlife_HoovedGazelle"
       }
     ]
   },
@@ -49050,22 +46822,6 @@
     "spawns": [
       {
         "name": "Fighter II"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Deer",
-    "marker": [
-      -64047,
-      -32708,
-      -1591
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
       }
     ]
   },
@@ -49237,12 +46993,6 @@
         "type": "Critter",
         "chance": "10%",
         "id": "Wildlife_HoovedGazelleFawn"
-      },
-      {
-        "name": "Gazelle",
-        "type": "Critter",
-        "chance": "90%",
-        "id": "Wildlife_HoovedGazelle"
       }
     ]
   },
@@ -49740,22 +47490,6 @@
       },
       {
         "name": "Tanner I-III"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Deer",
-    "marker": [
-      -171850,
-      -39757,
-      -2576
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
       }
     ]
   },
@@ -50383,12 +48117,6 @@
         "type": "Critter",
         "chance": "10%",
         "id": "Wildlife_HoovedGazelleFawn"
-      },
-      {
-        "name": "Gazelle",
-        "type": "Critter",
-        "chance": "90%",
-        "id": "Wildlife_HoovedGazelle"
       }
     ]
   },
@@ -50504,38 +48232,6 @@
       },
       {
         "name": "Fighter III"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Deer",
-    "marker": [
-      -65102,
-      -34613,
-      -1591
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Deer",
-    "marker": [
-      -171527,
-      -40716,
-      -2576
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
       }
     ]
   },
@@ -50885,22 +48581,6 @@
     ]
   },
   {
-    "id": "Wildlife_Deer",
-    "marker": [
-      -55665,
-      -44683,
-      -1591
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
-      }
-    ]
-  },
-  {
     "id": "DungeonDagon_Wildlife_DeepOne_HumanFish_trash",
     "marker": [
       -362865,
@@ -51210,12 +48890,6 @@
         "type": "Critter",
         "chance": "10%",
         "id": "Wildlife_HoovedGazelleFawn"
-      },
-      {
-        "name": "Gazelle",
-        "type": "Critter",
-        "chance": "90%",
-        "id": "Wildlife_HoovedGazelle"
       }
     ]
   },
@@ -51404,22 +49078,6 @@
     ]
   },
   {
-    "id": "Wildlife_Deer",
-    "marker": [
-      -174970,
-      -50918,
-      -4955
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
-      }
-    ]
-  },
-  {
     "id": "DungeonDagon_Wildlife_DeepOne_HumanFish2",
     "marker": [
       -359955,
@@ -51501,12 +49159,6 @@
         "type": "Critter",
         "chance": "10%",
         "id": "Wildlife_HoovedGazelleFawn"
-      },
-      {
-        "name": "Gazelle",
-        "type": "Critter",
-        "chance": "90%",
-        "id": "Wildlife_HoovedGazelle"
       }
     ]
   },
@@ -51690,38 +49342,6 @@
     "spawns": [
       {
         "name": "Archer I-III"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Deer",
-    "marker": [
-      -57843,
-      -44722,
-      -1591
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Deer",
-    "marker": [
-      -174713,
-      -52156,
-      -4955
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
       }
     ]
   },
@@ -52282,22 +49902,6 @@
     ]
   },
   {
-    "id": "Wildlife_Deer",
-    "marker": [
-      -90986,
-      -45926,
-      199
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
-      }
-    ]
-  },
-  {
     "id": "Wildlife_Wolf",
     "marker": [
       -26803,
@@ -52364,12 +49968,6 @@
         "type": "Critter",
         "chance": "10%",
         "id": "Wildlife_HoovedGazelleFawn"
-      },
-      {
-        "name": "Gazelle",
-        "type": "Critter",
-        "chance": "90%",
-        "id": "Wildlife_HoovedGazelle"
       }
     ]
   },
@@ -52623,22 +50221,6 @@
       },
       {
         "name": "Fighter I-III"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Deer",
-    "marker": [
-      -181935,
-      -38532,
-      -4581
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
       }
     ]
   },
@@ -53049,38 +50631,6 @@
     "spawns": [
       {
         "name": "Archer I-III"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Deer",
-    "marker": [
-      -93164,
-      -45965,
-      199
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Deer",
-    "marker": [
-      -182036,
-      -37072,
-      -4581
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
       }
     ]
   },
@@ -53660,22 +51210,6 @@
     ]
   },
   {
-    "id": "Wildlife_Deer",
-    "marker": [
-      -94948,
-      -56120,
-      473
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
-      }
-    ]
-  },
-  {
     "id": "DungeonSag_Archer",
     "marker": [
       383433,
@@ -53732,12 +51266,6 @@
         "type": "Critter",
         "chance": "10%",
         "id": "Wildlife_HoovedGazelleFawn"
-      },
-      {
-        "name": "Gazelle",
-        "type": "Critter",
-        "chance": "90%",
-        "id": "Wildlife_HoovedGazelle"
       }
     ]
   },
@@ -53991,22 +51519,6 @@
         "type": "Critter",
         "chance": "10%",
         "id": "Wildlife_HyenaStriped_Puppy"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Deer",
-    "marker": [
-      -201480,
-      -39868,
-      -3053
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
       }
     ]
   },
@@ -54378,38 +51890,6 @@
       },
       {
         "name": "Tanner I-III"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Deer",
-    "marker": [
-      -96318,
-      -57814,
-      473
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Deer",
-    "marker": [
-      -200518,
-      -39957,
-      -3053
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
       }
     ]
   },
@@ -54990,22 +52470,6 @@
     ]
   },
   {
-    "id": "Wildlife_Rabbit",
-    "marker": [
-      54700,
-      109899,
-      -12332
-    ],
-    "spawns": [
-      {
-        "name": "Rabbit",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_Rabbit"
-      }
-    ]
-  },
-  {
     "id": "Wildlife_HoovedGazelle",
     "marker": [
       135573,
@@ -55018,12 +52482,6 @@
         "type": "Critter",
         "chance": "10%",
         "id": "Wildlife_HoovedGazelleFawn"
-      },
-      {
-        "name": "Gazelle",
-        "type": "Critter",
-        "chance": "90%",
-        "id": "Wildlife_HoovedGazelle"
       }
     ]
   },
@@ -55075,22 +52533,6 @@
       },
       {
         "name": "Fighter I-III"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Deer",
-    "marker": [
-      -83996,
-      -58833,
-      473
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
       }
     ]
   },
@@ -55384,22 +52826,6 @@
         "type": "MiniBoss",
         "chance": "2%",
         "id": "Wildlife_Miniboss_KappaRed"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Deer",
-    "marker": [
-      -204710,
-      -44883,
-      -3306
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
       }
     ]
   },
@@ -55775,38 +53201,6 @@
       },
       {
         "name": "Fighter I-III"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Deer",
-    "marker": [
-      -85366,
-      -60527,
-      473
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Deer",
-    "marker": [
-      -204106,
-      -44323,
-      -3306
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
       }
     ]
   },
@@ -56558,22 +53952,6 @@
     ]
   },
   {
-    "id": "Wildlife_Deer",
-    "marker": [
-      -203360,
-      -52232,
-      -3306
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
-      }
-    ]
-  },
-  {
     "id": "Wildlife_Wolf",
     "marker": [
       -12526,
@@ -56880,22 +54258,6 @@
         "type": "MiniBoss",
         "chance": "2%",
         "id": "Wildlife_Miniboss_KappaRed"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Deer",
-    "marker": [
-      -205209,
-      -60267,
-      -1879
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
       }
     ]
   },
@@ -57470,22 +54832,6 @@
     ]
   },
   {
-    "id": "Wildlife_Deer",
-    "marker": [
-      -204516,
-      -61180,
-      -1879
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
-      }
-    ]
-  },
-  {
     "id": "Wildlife_Wolf",
     "marker": [
       -18870,
@@ -57711,22 +55057,6 @@
     "spawns": [
       {
         "name": "Fighter II-III"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Deer",
-    "marker": [
-      -202673,
-      -61849,
-      -1650
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
       }
     ]
   },
@@ -58964,12 +56294,6 @@
         "type": "Critter",
         "chance": "10%",
         "id": "Wildlife_HoovedGazelleFawn"
-      },
-      {
-        "name": "Gazelle",
-        "type": "Critter",
-        "chance": "90%",
-        "id": "Wildlife_HoovedGazelle"
       }
     ]
   },
@@ -58999,22 +56323,6 @@
     "spawns": [
       {
         "name": "Fighter I-II"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Deer",
-    "marker": [
-      -184049,
-      -91122,
-      829
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
       }
     ]
   },
@@ -59306,22 +56614,6 @@
         "type": "Critter",
         "chance": "10%",
         "id": "Wildlife_Wolf_Puppy"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Deer",
-    "marker": [
-      -182322,
-      -95930,
-      1693
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
       }
     ]
   },
@@ -60025,22 +57317,6 @@
     ]
   },
   {
-    "id": "Wildlife_Deer",
-    "marker": [
-      -183040,
-      -97072,
-      1693
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
-      }
-    ]
-  },
-  {
     "id": "Wildlife_KappaGreenBaby",
     "marker": [
       115553,
@@ -60205,22 +57481,6 @@
         "type": "Critter",
         "chance": "100%",
         "id": "Wildlife_KappaGreenBaby"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Deer",
-    "marker": [
-      -183820,
-      -106554,
-      -2671
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
       }
     ]
   },
@@ -60453,22 +57713,6 @@
     ]
   },
   {
-    "id": "Wildlife_Rabbit",
-    "marker": [
-      -91461,
-      59789,
-      -8845
-    ],
-    "spawns": [
-      {
-        "name": "Rabbit",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_Rabbit"
-      }
-    ]
-  },
-  {
     "id": "RelicHunterArcher_MidHigh",
     "marker": [
       -261970,
@@ -60568,22 +57812,6 @@
     ]
   },
   {
-    "id": "Wildlife_Deer",
-    "marker": [
-      -177476,
-      -108842,
-      -1874
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
-      }
-    ]
-  },
-  {
     "id": "Wildlife_KappaGreenBaby",
     "marker": [
       118579,
@@ -60663,22 +57891,6 @@
     ]
   },
   {
-    "id": "Wildlife_Rabbit",
-    "marker": [
-      -93503,
-      61456,
-      -8995
-    ],
-    "spawns": [
-      {
-        "name": "Rabbit",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_Rabbit"
-      }
-    ]
-  },
-  {
     "id": "RelicHunterArcher_MidHigh",
     "marker": [
       -261802,
@@ -60704,38 +57916,6 @@
       },
       {
         "name": "Fighter I-III"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Pig_Piglet",
-    "marker": [
-      316754,
-      69345,
-      -17284
-    ],
-    "spawns": [
-      {
-        "name": "Piglet",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_Pig_Piglet"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Deer",
-    "marker": [
-      -170477,
-      -109694,
-      -1874
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
       }
     ]
   },
@@ -60857,22 +58037,6 @@
     ]
   },
   {
-    "id": "Wildlife_Rabbit",
-    "marker": [
-      -93822,
-      61600,
-      -9092
-    ],
-    "spawns": [
-      {
-        "name": "Rabbit",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_Rabbit"
-      }
-    ]
-  },
-  {
     "id": "RelicHunterArcher_Random",
     "marker": [
       -262087,
@@ -60923,22 +58087,6 @@
     "spawns": [
       {
         "name": "Fighter I-III"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Pig_Piglet",
-    "marker": [
-      316168,
-      68966,
-      -17284
-    ],
-    "spawns": [
-      {
-        "name": "Piglet",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_Pig_Piglet"
       }
     ]
   },
@@ -61037,22 +58185,6 @@
       },
       {
         "name": "Performer I-III"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Rabbit",
-    "marker": [
-      -99685,
-      55845,
-      -5038
-    ],
-    "spawns": [
-      {
-        "name": "Rabbit",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_Rabbit"
       }
     ]
   },
@@ -61241,28 +58373,6 @@
         "type": "Critter",
         "chance": "10%",
         "id": "Wildlife_HoovedGazelleFawn"
-      },
-      {
-        "name": "Gazelle",
-        "type": "Critter",
-        "chance": "90%",
-        "id": "Wildlife_HoovedGazelle"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Deer",
-    "marker": [
-      -168440,
-      -109999,
-      -1874
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
       }
     ]
   },
@@ -61339,22 +58449,6 @@
       },
       {
         "name": "Fighter I-III"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Rabbit",
-    "marker": [
-      -93700,
-      61169,
-      -9064
-    ],
-    "spawns": [
-      {
-        "name": "Rabbit",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_Rabbit"
       }
     ]
   },
@@ -61837,22 +58931,6 @@
     ]
   },
   {
-    "id": "Wildlife_Rabbit",
-    "marker": [
-      40519,
-      112927,
-      -11083
-    ],
-    "spawns": [
-      {
-        "name": "Rabbit",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_Rabbit"
-      }
-    ]
-  },
-  {
     "id": "DarfariArcher_Random",
     "marker": [
       83713,
@@ -61875,22 +58953,6 @@
     "spawns": [
       {
         "name": "Fighter I-II"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Deer",
-    "marker": [
-      -167445,
-      -107048,
-      -1874
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
       }
     ]
   },
@@ -62475,22 +59537,6 @@
     ]
   },
   {
-    "id": "Wildlife_Deer",
-    "marker": [
-      -169548,
-      -106305,
-      -1874
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
-      }
-    ]
-  },
-  {
     "id": "Wildlife_HyenaStriped",
     "marker": [
       134777,
@@ -62566,22 +59612,6 @@
     "spawns": [
       {
         "name": "Archer I-III"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Deer",
-    "marker": [
-      -165101,
-      -108388,
-      -1874
-    ],
-    "spawns": [
-      {
-        "name": "Deer",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_HoovedDeer"
       }
     ]
   },
@@ -62683,22 +59713,6 @@
         "type": "MiniBoss",
         "chance": "100%",
         "id": "Wildlife_Rocknose_King_Molten"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Rabbit",
-    "marker": [
-      -96847,
-      58946,
-      -8791
-    ],
-    "spawns": [
-      {
-        "name": "Rabbit",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_Rabbit"
       }
     ]
   },
@@ -62831,22 +59845,6 @@
       },
       {
         "name": "Fighter I-III"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Rabbit",
-    "marker": [
-      -93628,
-      61722,
-      -9023
-    ],
-    "spawns": [
-      {
-        "name": "Rabbit",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_Rabbit"
       }
     ]
   },
@@ -63058,22 +60056,6 @@
       },
       {
         "name": "Fighter I-III"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Rabbit",
-    "marker": [
-      -97255,
-      48562,
-      -8025
-    ],
-    "spawns": [
-      {
-        "name": "Rabbit",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_Rabbit"
       }
     ]
   },
@@ -64384,22 +61366,6 @@
     ]
   },
   {
-    "id": "Wildlife_Rabbit",
-    "marker": [
-      36170,
-      116046,
-      -12167
-    ],
-    "spawns": [
-      {
-        "name": "Rabbit",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_Rabbit"
-      }
-    ]
-  },
-  {
     "id": "Wildlife_HoovedGazelle",
     "marker": [
       143578,
@@ -64412,12 +61378,6 @@
         "type": "Critter",
         "chance": "10%",
         "id": "Wildlife_HoovedGazelleFawn"
-      },
-      {
-        "name": "Gazelle",
-        "type": "Critter",
-        "chance": "90%",
-        "id": "Wildlife_HoovedGazelle"
       }
     ]
   },
@@ -66785,22 +63745,6 @@
     ]
   },
   {
-    "id": "Wildlife_Rabbit",
-    "marker": [
-      7733,
-      225466,
-      -17721
-    ],
-    "spawns": [
-      {
-        "name": "Rabbit",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_Rabbit"
-      }
-    ]
-  },
-  {
     "id": "Wildlife_KappaGreenBaby",
     "marker": [
       46137,
@@ -66813,22 +63757,6 @@
         "type": "Critter",
         "chance": "100%",
         "id": "Wildlife_KappaGreenBaby"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Rabbit",
-    "marker": [
-      -68507,
-      238385,
-      -19643
-    ],
-    "spawns": [
-      {
-        "name": "Rabbit",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_Rabbit"
       }
     ]
   },
@@ -66877,22 +63805,6 @@
     ]
   },
   {
-    "id": "Wildlife_Rabbit",
-    "marker": [
-      7925,
-      225150,
-      -17721
-    ],
-    "spawns": [
-      {
-        "name": "Rabbit",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_Rabbit"
-      }
-    ]
-  },
-  {
     "id": "Wildlife_KappaGreenBaby",
     "marker": [
       46356,
@@ -66905,22 +63817,6 @@
         "type": "Critter",
         "chance": "100%",
         "id": "Wildlife_KappaGreenBaby"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Rabbit",
-    "marker": [
-      -57538,
-      240553,
-      -20043
-    ],
-    "spawns": [
-      {
-        "name": "Rabbit",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_Rabbit"
       }
     ]
   },
@@ -67205,44 +64101,6 @@
         "type": "Critter",
         "chance": "10%",
         "id": "Wildlife_HoovedGazelleFawn"
-      },
-      {
-        "name": "Gazelle",
-        "type": "Critter",
-        "chance": "90%",
-        "id": "Wildlife_HoovedGazelle"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Rabbit",
-    "marker": [
-      216660,
-      91016,
-      -20067
-    ],
-    "spawns": [
-      {
-        "name": "Rabbit",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_Rabbit"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Rabbit",
-    "marker": [
-      217396,
-      96252,
-      -20167
-    ],
-    "spawns": [
-      {
-        "name": "Rabbit",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_Rabbit"
       }
     ]
   },
@@ -67335,12 +64193,6 @@
         "type": "Critter",
         "chance": "10%",
         "id": "Wildlife_HoovedGazelleFawn"
-      },
-      {
-        "name": "Gazelle",
-        "type": "Critter",
-        "chance": "90%",
-        "id": "Wildlife_HoovedGazelle"
       }
     ]
   },
@@ -67357,166 +64209,6 @@
         "type": "MiniBoss",
         "chance": "100%",
         "id": "Wildlife_ImpKing"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Rabbit",
-    "marker": [
-      218160,
-      82984,
-      -20141
-    ],
-    "spawns": [
-      {
-        "name": "Rabbit",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_Rabbit"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Rabbit",
-    "marker": [
-      223944,
-      96696,
-      -19815
-    ],
-    "spawns": [
-      {
-        "name": "Rabbit",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_Rabbit"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Rabbit",
-    "marker": [
-      163660,
-      78716,
-      -12272
-    ],
-    "spawns": [
-      {
-        "name": "Rabbit",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_Rabbit"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Rabbit",
-    "marker": [
-      145436,
-      85976,
-      -15748
-    ],
-    "spawns": [
-      {
-        "name": "Rabbit",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_Rabbit"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Rabbit",
-    "marker": [
-      166308,
-      97536,
-      -17360
-    ],
-    "spawns": [
-      {
-        "name": "Rabbit",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_Rabbit"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Rabbit",
-    "marker": [
-      171980,
-      69908,
-      -12220
-    ],
-    "spawns": [
-      {
-        "name": "Rabbit",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_Rabbit"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Rabbit",
-    "marker": [
-      165032,
-      77432,
-      -12404
-    ],
-    "spawns": [
-      {
-        "name": "Rabbit",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_Rabbit"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Rabbit",
-    "marker": [
-      182524,
-      77312,
-      -11852
-    ],
-    "spawns": [
-      {
-        "name": "Rabbit",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_Rabbit"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Rabbit",
-    "marker": [
-      275364,
-      35300,
-      -17248
-    ],
-    "spawns": [
-      {
-        "name": "Rabbit",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_Rabbit"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Rabbit",
-    "marker": [
-      278548,
-      39092,
-      -19304
-    ],
-    "spawns": [
-      {
-        "name": "Rabbit",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_Rabbit"
       }
     ]
   },
@@ -67587,166 +64279,6 @@
         "type": "Critter",
         "chance": "1000%",
         "id": "Wildlife_HoovedGazelleFawn"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Rabbit",
-    "marker": [
-      273040,
-      39636,
-      -16784
-    ],
-    "spawns": [
-      {
-        "name": "Rabbit",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_Rabbit"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Rabbit",
-    "marker": [
-      279800,
-      41108,
-      -16536
-    ],
-    "spawns": [
-      {
-        "name": "Rabbit",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_Rabbit"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Rabbit",
-    "marker": [
-      272760,
-      43528,
-      -16468
-    ],
-    "spawns": [
-      {
-        "name": "Rabbit",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_Rabbit"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Rabbit",
-    "marker": [
-      283304,
-      34260,
-      -18760
-    ],
-    "spawns": [
-      {
-        "name": "Rabbit",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_Rabbit"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Rabbit",
-    "marker": [
-      313912,
-      29504,
-      -19700
-    ],
-    "spawns": [
-      {
-        "name": "Rabbit",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_Rabbit"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Rabbit",
-    "marker": [
-      324416,
-      33000,
-      -19612
-    ],
-    "spawns": [
-      {
-        "name": "Rabbit",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_Rabbit"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Rabbit",
-    "marker": [
-      308072,
-      31212,
-      -19088
-    ],
-    "spawns": [
-      {
-        "name": "Rabbit",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_Rabbit"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Rabbit",
-    "marker": [
-      320884,
-      37664,
-      -19732
-    ],
-    "spawns": [
-      {
-        "name": "Rabbit",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_Rabbit"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Rabbit",
-    "marker": [
-      336524,
-      69908,
-      -20068
-    ],
-    "spawns": [
-      {
-        "name": "Rabbit",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_Rabbit"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Rabbit",
-    "marker": [
-      328960,
-      73240,
-      -19272
-    ],
-    "spawns": [
-      {
-        "name": "Rabbit",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_Rabbit"
       }
     ]
   },
@@ -67839,140 +64371,6 @@
         "type": "Critter",
         "chance": "10%",
         "id": "Wildlife_HoovedGazelleFawn"
-      },
-      {
-        "name": "Gazelle",
-        "type": "Critter",
-        "chance": "90%",
-        "id": "Wildlife_HoovedGazelle"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Rabbit",
-    "marker": [
-      350072,
-      64104,
-      -19700
-    ],
-    "spawns": [
-      {
-        "name": "Rabbit",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_Rabbit"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Rabbit",
-    "marker": [
-      353396,
-      60668,
-      -19992
-    ],
-    "spawns": [
-      {
-        "name": "Rabbit",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_Rabbit"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Rabbit",
-    "marker": [
-      350624,
-      61196,
-      -20016
-    ],
-    "spawns": [
-      {
-        "name": "Rabbit",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_Rabbit"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Rabbit",
-    "marker": [
-      340536,
-      30584,
-      -19824
-    ],
-    "spawns": [
-      {
-        "name": "Rabbit",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_Rabbit"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Rabbit",
-    "marker": [
-      352244,
-      35224,
-      -20068
-    ],
-    "spawns": [
-      {
-        "name": "Rabbit",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_Rabbit"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Rabbit",
-    "marker": [
-      334568,
-      32604,
-      -20056
-    ],
-    "spawns": [
-      {
-        "name": "Rabbit",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_Rabbit"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Rabbit",
-    "marker": [
-      355676,
-      42800,
-      -20136
-    ],
-    "spawns": [
-      {
-        "name": "Rabbit",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_Rabbit"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Rabbit",
-    "marker": [
-      336088,
-      31516,
-      -19792
-    ],
-    "spawns": [
-      {
-        "name": "Rabbit",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_Rabbit"
       }
     ]
   },
@@ -68081,12 +64479,6 @@
         "type": "Critter",
         "chance": "10%",
         "id": "Wildlife_HoovedGazelleFawn"
-      },
-      {
-        "name": "Gazelle",
-        "type": "Critter",
-        "chance": "90%",
-        "id": "Wildlife_HoovedGazelle"
       }
     ]
   },
@@ -68295,12 +64687,6 @@
         "type": "Critter",
         "chance": "10%",
         "id": "Wildlife_HoovedGazelleFawn"
-      },
-      {
-        "name": "Gazelle",
-        "type": "Critter",
-        "chance": "90%",
-        "id": "Wildlife_HoovedGazelle"
       }
     ]
   },
@@ -68371,12 +64757,6 @@
         "type": "Critter",
         "chance": "10%",
         "id": "Wildlife_HoovedGazelleFawn"
-      },
-      {
-        "name": "Gazelle",
-        "type": "Critter",
-        "chance": "90%",
-        "id": "Wildlife_HoovedGazelle"
       }
     ]
   },
@@ -68466,12 +64846,6 @@
         "type": "Critter",
         "chance": "10%",
         "id": "Wildlife_HoovedGazelleFawn"
-      },
-      {
-        "name": "Gazelle",
-        "type": "Critter",
-        "chance": "90%",
-        "id": "Wildlife_HoovedGazelle"
       }
     ]
   },
@@ -68548,12 +64922,6 @@
         "type": "Critter",
         "chance": "10%",
         "id": "Wildlife_HoovedGazelleFawn"
-      },
-      {
-        "name": "Gazelle",
-        "type": "Critter",
-        "chance": "90%",
-        "id": "Wildlife_HoovedGazelle"
       }
     ]
   },
@@ -70798,12 +67166,6 @@
         "type": "Critter",
         "chance": "10%",
         "id": "Wildlife_HoovedGazelleFawn"
-      },
-      {
-        "name": "Gazelle",
-        "type": "Critter",
-        "chance": "90%",
-        "id": "Wildlife_HoovedGazelle"
       }
     ]
   },
@@ -70824,22 +67186,6 @@
     ]
   },
   {
-    "id": "Wildlife_Rabbit",
-    "marker": [
-      -66491,
-      236838,
-      -20035
-    ],
-    "spawns": [
-      {
-        "name": "Rabbit",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_Rabbit"
-      }
-    ]
-  },
-  {
     "id": "Wildlife_HoovedGazelle",
     "marker": [
       23581,
@@ -70852,12 +67198,6 @@
         "type": "Critter",
         "chance": "10%",
         "id": "Wildlife_HoovedGazelleFawn"
-      },
-      {
-        "name": "Gazelle",
-        "type": "Critter",
-        "chance": "90%",
-        "id": "Wildlife_HoovedGazelle"
       }
     ]
   },
@@ -71812,22 +68152,6 @@
     ]
   },
   {
-    "id": "Wildlife_Rabbit",
-    "marker": [
-      7541,
-      225538,
-      -17721
-    ],
-    "spawns": [
-      {
-        "name": "Rabbit",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_Rabbit"
-      }
-    ]
-  },
-  {
     "id": "Wildlife_KappaGreenBaby",
     "marker": [
       46049,
@@ -71840,22 +68164,6 @@
         "type": "Critter",
         "chance": "100%",
         "id": "Wildlife_KappaGreenBaby"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Rabbit",
-    "marker": [
-      -68146,
-      238857,
-      -19643
-    ],
-    "spawns": [
-      {
-        "name": "Rabbit",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_Rabbit"
       }
     ]
   },
@@ -73050,12 +69358,6 @@
         "type": "Critter",
         "chance": "10%",
         "id": "Wildlife_HoovedGazelleFawn"
-      },
-      {
-        "name": "Gazelle",
-        "type": "Critter",
-        "chance": "90%",
-        "id": "Wildlife_HoovedGazelle"
       }
     ]
   },
@@ -73072,22 +69374,6 @@
         "type": "MiniBoss",
         "chance": "2%",
         "id": "Wildlife_Miniboss_KappaRed"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Rabbit",
-    "marker": [
-      -64694,
-      236425,
-      -19643
-    ],
-    "spawns": [
-      {
-        "name": "Rabbit",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_Rabbit"
       }
     ]
   },
@@ -73637,12 +69923,6 @@
         "type": "Critter",
         "chance": "10%",
         "id": "Wildlife_HoovedGazelleFawn"
-      },
-      {
-        "name": "Gazelle",
-        "type": "Critter",
-        "chance": "90%",
-        "id": "Wildlife_HoovedGazelle"
       }
     ]
   },
@@ -73659,22 +69939,6 @@
         "type": "MiniBoss",
         "chance": "2%",
         "id": "Wildlife_Miniboss_KappaRed"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Rabbit",
-    "marker": [
-      -66065,
-      239146,
-      -19643
-    ],
-    "spawns": [
-      {
-        "name": "Rabbit",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_Rabbit"
       }
     ]
   },
@@ -74325,28 +70589,6 @@
         "type": "Critter",
         "chance": "10%",
         "id": "Wildlife_HoovedGazelleFawn"
-      },
-      {
-        "name": "Gazelle",
-        "type": "Critter",
-        "chance": "90%",
-        "id": "Wildlife_HoovedGazelle"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Rabbit",
-    "marker": [
-      -69768,
-      239137,
-      -19643
-    ],
-    "spawns": [
-      {
-        "name": "Rabbit",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_Rabbit"
       }
     ]
   },
@@ -74803,28 +71045,6 @@
         "type": "Critter",
         "chance": "10%",
         "id": "Wildlife_HoovedGazelleFawn"
-      },
-      {
-        "name": "Gazelle",
-        "type": "Critter",
-        "chance": "90%",
-        "id": "Wildlife_HoovedGazelle"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Rabbit",
-    "marker": [
-      -70274,
-      237681,
-      -19643
-    ],
-    "spawns": [
-      {
-        "name": "Rabbit",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_Rabbit"
       }
     ]
   },
@@ -75257,22 +71477,6 @@
         "type": "Critter",
         "chance": "10%",
         "id": "Wildlife_ReptileCrocodile_Baby"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Rabbit",
-    "marker": [
-      -60770,
-      240723,
-      -19643
-    ],
-    "spawns": [
-      {
-        "name": "Rabbit",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_Rabbit"
       }
     ]
   },
@@ -75735,28 +71939,6 @@
         "type": "Critter",
         "chance": "10%",
         "id": "Wildlife_HoovedGazelleFawn"
-      },
-      {
-        "name": "Gazelle",
-        "type": "Critter",
-        "chance": "90%",
-        "id": "Wildlife_HoovedGazelle"
-      }
-    ]
-  },
-  {
-    "id": "Wildlife_Rabbit",
-    "marker": [
-      -56963,
-      240028,
-      -19643
-    ],
-    "spawns": [
-      {
-        "name": "Rabbit",
-        "type": "Critter",
-        "chance": "100%",
-        "id": "Wildlife_Rabbit"
       }
     ]
   },
