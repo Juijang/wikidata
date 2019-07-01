@@ -2980,9 +2980,9 @@
     "Name": "Exiles Camp 02",
     "Icon": "T_Map_Icon_camp_exiles",
     "Location": {
-      "x": -77000,
-      "y": 179000,
-      "z": 0
+      "x": -76756,
+      "y": 178771,
+      "z": -15582
     },
     "DiscoveryRadius": 0,
     "ExilesJourneyEvent": "None"
