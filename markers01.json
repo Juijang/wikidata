@@ -4,9 +4,9 @@
     "Name": "Walkway of the Devout",
     "Icon": "T_Map_Icon_ruins",
     "Location": {
-      "x": -1983.125,
-      "y": -251337.71875,
-      "z": 29974.96875
+      "x": -1983,
+      "y": -251337,
+      "z": 29974
     },
     "DiscoveryRadius": 7000,
     "ExilesJourneyEvent": "None"
@@ -28,9 +28,9 @@
     "Name": "The Well of Skelos",
     "Icon": "T_Map_dungeonIcon",
     "Location": {
-      "x": -28576.125,
-      "y": -249735.71875,
-      "z": 30466.96875
+      "x": -28576,
+      "y": -249735,
+      "z": 30466
     },
     "DiscoveryRadius": 4500,
     "ExilesJourneyEvent": "None"
@@ -52,9 +52,9 @@
     "Name": "Road of the Righteous",
     "Icon": "T_Map_Icon_ruins",
     "Location": {
-      "x": -17043.8125,
-      "y": -173650.71875,
-      "z": 31969.5
+      "x": -17043,
+      "y": -173650,
+      "z": 31969
     },
     "DiscoveryRadius": 4500,
     "ExilesJourneyEvent": "None"
@@ -76,9 +76,9 @@
     "Name": "The Hidden Way",
     "Icon": "T_Map_Icon_vista",
     "Location": {
-      "x": -45906.8125,
-      "y": -171789.71875,
-      "z": 34543.5
+      "x": -45906,
+      "y": -171789,
+      "z": 34543
     },
     "DiscoveryRadius": 8000,
     "ExilesJourneyEvent": "None"
@@ -100,9 +100,9 @@
     "Name": "The Shattered Stairs",
     "Icon": "T_Map_Icon_ruins",
     "Location": {
-      "x": -56184.8125,
-      "y": -235224.71875,
-      "z": 33119.5
+      "x": -56184,
+      "y": -235224,
+      "z": 33119
     },
     "DiscoveryRadius": 6000,
     "ExilesJourneyEvent": "None"
@@ -112,9 +112,9 @@
     "Name": "Lockstone Cave",
     "Icon": "T_Map_caveIcon",
     "Location": {
-      "x": 29967.972656,
-      "y": -37363.453125,
-      "z": 3604.954102
+      "x": 29967,
+      "y": -37363,
+      "z": 3604
     },
     "DiscoveryRadius": 1000,
     "ExilesJourneyEvent": "None"
@@ -124,9 +124,9 @@
     "Name": "The Floe",
     "Icon": "T_Map_caveIcon",
     "Location": {
-      "x": -96631.8125,
-      "y": -226716.71875,
-      "z": 26171.5
+      "x": -96631,
+      "y": -226716,
+      "z": 26171
     },
     "DiscoveryRadius": 1000,
     "ExilesJourneyEvent": "None"
@@ -136,9 +136,9 @@
     "Name": "Freya's Hovel",
     "Icon": "T_Map_Icon_camp_vanir",
     "Location": {
-      "x": 8245.370117,
-      "y": -20004.332031,
-      "z": 3932.093506
+      "x": 8245,
+      "y": -20004,
+      "z": 3932
     },
     "DiscoveryRadius": 2500,
     "ExilesJourneyEvent": "None"
@@ -148,9 +148,9 @@
     "Name": "Blizzard's Overwatch",
     "Icon": "T_Map_Icon_camp_frost_giant",
     "Location": {
-      "x": -248368.8125,
-      "y": -193194.71875,
-      "z": 18427.5
+      "x": -248368,
+      "y": -193194,
+      "z": 18427
     },
     "DiscoveryRadius": 2500,
     "ExilesJourneyEvent": "None"
@@ -172,9 +172,9 @@
     "Name": "Icekeeper Hollow",
     "Icon": "T_Map_Icon_camp_frost_giant",
     "Location": {
-      "x": -147911.8125,
-      "y": -184373.71875,
-      "z": 745.5
+      "x": -147911,
+      "y": -184373,
+      "z": 745
     },
     "DiscoveryRadius": 2000,
     "ExilesJourneyEvent": "None"
@@ -196,9 +196,9 @@
     "Name": "Ymir's Delusion",
     "Icon": "T_Map_Icon_camp_frost_giant",
     "Location": {
-      "x": -107826.8125,
-      "y": -133245.71875,
-      "z": 8031.5
+      "x": -107826,
+      "y": -133245,
+      "z": 8031
     },
     "DiscoveryRadius": 5000,
     "ExilesJourneyEvent": "None"
@@ -220,9 +220,9 @@
     "Name": "The Crevice",
     "Icon": "T_Map_caveIcon",
     "Location": {
-      "x": -144279.25,
-      "y": -99072.359375,
-      "z": -1554.287231
+      "x": -144279,
+      "y": -99072,
+      "z": -1554
     },
     "DiscoveryRadius": 6000,
     "ExilesJourneyEvent": "None"
@@ -244,9 +244,9 @@
     "Name": "Narrowneck Span",
     "Icon": "T_Map_Icon_camp_darfari",
     "Location": {
-      "x": 69641.359375,
-      "y": 233659.984375,
-      "z": -20628.607422
+      "x": 69641,
+      "y": 233659,
+      "z": -20628
     },
     "DiscoveryRadius": 5500,
     "ExilesJourneyEvent": "FindDarfariCamp"
@@ -256,9 +256,9 @@
     "Name": "Gallaman's Tomb",
     "Icon": "T_Map_caveIcon",
     "Location": {
-      "x": 46591.394531,
-      "y": 201581.5,
-      "z": -17809.691406
+      "x": 46591,
+      "y": 201581,
+      "z": -17809
     },
     "DiscoveryRadius": 1000,
     "ExilesJourneyEvent": "None"
@@ -268,9 +268,9 @@
     "Name": "Cannibal's Rest",
     "Icon": "T_Map_Icon_camp_darfari",
     "Location": {
-      "x": 73309.914063,
-      "y": 202831.34375,
-      "z": -17922.076172
+      "x": 73309,
+      "y": 202831,
+      "z": -17922
     },
     "DiscoveryRadius": 2500,
     "ExilesJourneyEvent": "FindDarfariCamp"
@@ -280,8 +280,8 @@
     "Name": "Scavenger's Berth",
     "Icon": "T_Map_Icon_camp_black_hand",
     "Location": {
-      "x": 93153.125,
-      "y": 185167.125,
+      "x": 93153,
+      "y": 185167,
       "z": -20152
     },
     "DiscoveryRadius": 5000,
@@ -292,8 +292,8 @@
     "Name": "Bonebreaker's Bend",
     "Icon": "T_Map_Icon_camp_darfari",
     "Location": {
-      "x": 80291.5625,
-      "y": 173056.6875,
+      "x": 80291,
+      "y": 173056,
       "z": -20294
     },
     "DiscoveryRadius": 2500,
@@ -304,8 +304,8 @@
     "Name": "Deathwhisper Ruins",
     "Icon": "T_Map_Icon_ruins",
     "Location": {
-      "x": 83890.5625,
-      "y": 143937.6875,
+      "x": 83890,
+      "y": 143937,
       "z": -16418
     },
     "DiscoveryRadius": 10000,
@@ -316,9 +316,9 @@
     "Name": "The Broken Highway",
     "Icon": "T_Map_Icon_ruins",
     "Location": {
-      "x": -51421.703125,
-      "y": 312078.46875,
-      "z": -23402.990234
+      "x": -51421,
+      "y": 312078,
+      "z": -23402
     },
     "DiscoveryRadius": 9000,
     "ExilesJourneyEvent": "None"
@@ -328,9 +328,9 @@
     "Name": "The Broken Highway",
     "Icon": "T_Map_Icon_ruins",
     "Location": {
-      "x": -16906.9375,
-      "y": 315743.40625,
-      "z": -20943.990234
+      "x": -16906,
+      "y": 315743,
+      "z": -20943
     },
     "DiscoveryRadius": 9000,
     "ExilesJourneyEvent": "None"
@@ -340,9 +340,9 @@
     "Name": "The Broken Highway",
     "Icon": "T_Map_Icon_ruins",
     "Location": {
-      "x": 28780.867188,
-      "y": 310974.5,
-      "z": -20303.740234
+      "x": 28780,
+      "y": 310974,
+      "z": -20303
     },
     "DiscoveryRadius": 9000,
     "ExilesJourneyEvent": "None"
@@ -352,9 +352,9 @@
     "Name": "The Broken Highway",
     "Icon": "T_Map_Icon_ruins",
     "Location": {
-      "x": 59127.222656,
-      "y": 300462.5625,
-      "z": -20941.828125
+      "x": 59127,
+      "y": 300462,
+      "z": -20941
     },
     "DiscoveryRadius": 9000,
     "ExilesJourneyEvent": "None"
@@ -364,9 +364,9 @@
     "Name": "Warren of Degenerates",
     "Icon": "T_Map_caveIcon",
     "Location": {
-      "x": -75148.25,
-      "y": 140656.625,
-      "z": -11464.289063
+      "x": -75148,
+      "y": 140656,
+      "z": -11464
     },
     "DiscoveryRadius": 1000,
     "ExilesJourneyEvent": "None"
@@ -376,9 +376,9 @@
     "Name": "The Breach",
     "Icon": "T_Map_Icon_ruins",
     "Location": {
-      "x": -13993.453125,
-      "y": 3446.378906,
-      "z": -943.619141
+      "x": -13993,
+      "y": 3446,
+      "z": -943
     },
     "DiscoveryRadius": 8000,
     "ExilesJourneyEvent": "None"
@@ -388,9 +388,9 @@
     "Name": "Shaleback Hollow",
     "Icon": "T_Map_caveIcon",
     "Location": {
-      "x": -100000.25,
-      "y": 168155.625,
-      "z": -11839.289063
+      "x": -100000,
+      "y": 168155,
+      "z": -11839
     },
     "DiscoveryRadius": 1000,
     "ExilesJourneyEvent": "None"
@@ -400,8 +400,8 @@
     "Name": "Non",
     "Icon": "T_Map_Icon_ruins",
     "Location": {
-      "x": -305963.625,
-      "y": 312069.90625,
+      "x": -305963,
+      "y": 312069,
       "z": 88
     },
     "DiscoveryRadius": 10,
@@ -412,9 +412,9 @@
     "Name": "The Northern Aqueduct",
     "Icon": "T_Map_Icon_ruins",
     "Location": {
-      "x": -14098.984375,
-      "y": -26056.402344,
-      "z": -4243.103027
+      "x": -14098,
+      "y": -26056,
+      "z": -4243
     },
     "DiscoveryRadius": 18000,
     "ExilesJourneyEvent": "None"
@@ -424,9 +424,9 @@
     "Name": "The Corner of Bones",
     "Icon": "T_Map_Icon_camp_darfari",
     "Location": {
-      "x": -29972.25,
-      "y": 193313.625,
-      "z": -8539.289063
+      "x": -29972,
+      "y": 193313,
+      "z": -8539
     },
     "DiscoveryRadius": 3000,
     "ExilesJourneyEvent": "FindDarfariCamp"
@@ -436,9 +436,9 @@
     "Name": "Skulker's End",
     "Icon": "T_Map_Icon_camp_darfari",
     "Location": {
-      "x": -128702.3125,
-      "y": 216849.71875,
-      "z": -20861.460938
+      "x": -128702,
+      "y": 216849,
+      "z": -20861
     },
     "DiscoveryRadius": 7000,
     "ExilesJourneyEvent": "FindDarfariCamp"
@@ -448,9 +448,9 @@
     "Name": "The Great Dam",
     "Icon": "T_Map_Icon_ruins",
     "Location": {
-      "x": -14055.317383,
-      "y": -58701.597656,
-      "z": 4579.476563
+      "x": -14055,
+      "y": -58701,
+      "z": 4579
     },
     "DiscoveryRadius": 15000,
     "ExilesJourneyEvent": "None"
@@ -460,9 +460,9 @@
     "Name": "Heartsblood Rise",
     "Icon": "T_Map_Icon_camp_darfari",
     "Location": {
-      "x": -10923.25,
-      "y": 158893.625,
-      "z": -8709.289063
+      "x": -10923,
+      "y": 158893,
+      "z": -8709
     },
     "DiscoveryRadius": 2500,
     "ExilesJourneyEvent": "FindDarfariCamp"
@@ -472,9 +472,9 @@
     "Name": "Algar's Overlook",
     "Icon": "T_Map_Icon_ruins",
     "Location": {
-      "x": -135854.984375,
-      "y": 200797.609375,
-      "z": -10837.768555
+      "x": -135854,
+      "y": 200797,
+      "z": -10837
     },
     "DiscoveryRadius": 5000,
     "ExilesJourneyEvent": "None"
@@ -484,9 +484,9 @@
     "Name": "Trapper's Cabin",
     "Icon": "T_Map_Icon_camp_vanir",
     "Location": {
-      "x": -25725.912109,
-      "y": -4205.167969,
-      "z": -5286.164063
+      "x": -25725,
+      "y": -4205,
+      "z": -5286
     },
     "DiscoveryRadius": 2500,
     "ExilesJourneyEvent": "None"
@@ -496,9 +496,9 @@
     "Name": "Spinebreaker's Flank",
     "Icon": "T_Map_Icon_camp_darfari",
     "Location": {
-      "x": 35268.75,
-      "y": 163000.625,
-      "z": -7924.289063
+      "x": 35268,
+      "y": 163000,
+      "z": -7924
     },
     "DiscoveryRadius": 4500,
     "ExilesJourneyEvent": "FindDarfariCamp"
@@ -508,9 +508,9 @@
     "Name": "The Dregs",
     "Icon": "T_Map_dungeonIcon",
     "Location": {
-      "x": -139309.484375,
-      "y": 216880.546875,
-      "z": -18976.519531
+      "x": -139309,
+      "y": 216880,
+      "z": -18976
     },
     "DiscoveryRadius": 2200,
     "ExilesJourneyEvent": "None"
@@ -520,9 +520,9 @@
     "Name": "Lian's Watch",
     "Icon": "T_Map_Icon_camp_vanir",
     "Location": {
-      "x": -28446.292969,
-      "y": -52705.136719,
-      "z": -205.652344
+      "x": -28446,
+      "y": -52705,
+      "z": -205
     },
     "DiscoveryRadius": 3000,
     "ExilesJourneyEvent": "None"
@@ -532,9 +532,9 @@
     "Name": "Gallaman's Overlook",
     "Icon": "T_Map_Icon_camp_darfari",
     "Location": {
-      "x": 35259.75,
-      "y": 193990.625,
-      "z": -12535.289063
+      "x": 35259,
+      "y": 193990,
+      "z": -12535
     },
     "DiscoveryRadius": 2000,
     "ExilesJourneyEvent": "FindDarfariCamp"
@@ -544,9 +544,9 @@
     "Name": "Riverwatch Camp",
     "Icon": "T_Map_Icon_camp_darfari",
     "Location": {
-      "x": -125726.84375,
-      "y": 203506.546875,
-      "z": -14098.764648
+      "x": -125726,
+      "y": 203506,
+      "z": -14098
     },
     "DiscoveryRadius": 4750,
     "ExilesJourneyEvent": "FindDarfariCamp"
@@ -556,9 +556,9 @@
     "Name": "Coldfish Camp",
     "Icon": "T_Map_Icon_camp_vanir",
     "Location": {
-      "x": -21130.126953,
-      "y": -71358.96875,
-      "z": 1229.78125
+      "x": -21130,
+      "y": -71358,
+      "z": 1229
     },
     "DiscoveryRadius": 2000,
     "ExilesJourneyEvent": "None"
@@ -568,9 +568,9 @@
     "Name": "Executioners Entrance",
     "Icon": "T_Map_caveIcon",
     "Location": {
-      "x": 104462.75,
-      "y": 137647.625,
-      "z": -13993.289063
+      "x": 104462,
+      "y": 137647,
+      "z": -13993
     },
     "DiscoveryRadius": 3000,
     "ExilesJourneyEvent": "None"
@@ -580,9 +580,9 @@
     "Name": "Cavern of Fiends",
     "Icon": "T_Map_caveIcon",
     "Location": {
-      "x": -73847.71875,
-      "y": 219233.296875,
-      "z": -17068.515625
+      "x": -73847,
+      "y": 219233,
+      "z": -17068
     },
     "DiscoveryRadius": 1000,
     "ExilesJourneyEvent": "None"
@@ -592,9 +592,9 @@
     "Name": "Meadowwatch",
     "Icon": "T_Map_Icon_camp_vanir",
     "Location": {
-      "x": -39741.125,
-      "y": -61567.96875,
-      "z": 2570.78125
+      "x": -39741,
+      "y": -61567,
+      "z": 2570
     },
     "DiscoveryRadius": 4000,
     "ExilesJourneyEvent": "None"
@@ -604,9 +604,9 @@
     "Name": "Shaman's Rise",
     "Icon": "T_Map_campIcon",
     "Location": {
-      "x": -71317.625,
-      "y": 214844.78125,
-      "z": -14286.667969
+      "x": -71317,
+      "y": 214844,
+      "z": -14286
     },
     "DiscoveryRadius": 2500,
     "ExilesJourneyEvent": "None"
@@ -616,9 +616,9 @@
     "Name": "New Asagarth",
     "Icon": "T_Map_Icon_capital_vanir",
     "Location": {
-      "x": -76030.125,
-      "y": -46615.96875,
-      "z": -1556.21875
+      "x": -76030,
+      "y": -46615,
+      "z": -1556
     },
     "DiscoveryRadius": 12000,
     "ExilesJourneyEvent": "VisitNewAsagard"
@@ -628,9 +628,9 @@
     "Name": "Shattered Bridge",
     "Icon": "T_Map_Icon_ruins",
     "Location": {
-      "x": -66147.015625,
-      "y": 240150.3125,
-      "z": -27721.615234
+      "x": -66147,
+      "y": 240150,
+      "z": -27721
     },
     "DiscoveryRadius": 25000,
     "ExilesJourneyEvent": "None"
@@ -640,9 +640,9 @@
     "Name": "Mammothrider's  Shanty",
     "Icon": "T_Map_Icon_camp_vanir",
     "Location": {
-      "x": -51070.578125,
-      "y": -47246.496094,
-      "z": -1311.054688
+      "x": -51070,
+      "y": -47246,
+      "z": -1311
     },
     "DiscoveryRadius": 2000,
     "ExilesJourneyEvent": "None"
@@ -652,9 +652,9 @@
     "Name": "The Sentinels",
     "Icon": "T_Map_Icon_ruins",
     "Location": {
-      "x": 15071.984375,
-      "y": 236620.3125,
-      "z": -33016.617188
+      "x": 15071,
+      "y": 236620,
+      "z": -33016
     },
     "DiscoveryRadius": 20000,
     "ExilesJourneyEvent": "None"
@@ -664,9 +664,9 @@
     "Name": "Desertwatch",
     "Icon": "T_Map_Icon_camp_vanir",
     "Location": {
-      "x": -53065.421875,
-      "y": -18695.046875,
-      "z": 2093.105469
+      "x": -53065,
+      "y": -18695,
+      "z": 2093
     },
     "DiscoveryRadius": 3000,
     "ExilesJourneyEvent": "None"
@@ -676,9 +676,9 @@
     "Name": "Hanuman's Grotto",
     "Icon": "T_Map_caveIcon",
     "Location": {
-      "x": 46537.3125,
-      "y": 268929.75,
-      "z": -19806.046875
+      "x": 46537,
+      "y": 268929,
+      "z": -19806
     },
     "DiscoveryRadius": 1000,
     "ExilesJourneyEvent": "None"
@@ -688,9 +688,9 @@
     "Name": "The Broken Highway",
     "Icon": "T_Map_Icon_ruins",
     "Location": {
-      "x": 99921.78125,
-      "y": 308647.625,
-      "z": -20920.869141
+      "x": 99921,
+      "y": 308647,
+      "z": -20920
     },
     "DiscoveryRadius": 9000,
     "ExilesJourneyEvent": "None"
@@ -700,9 +700,9 @@
     "Name": "The Broken Highway",
     "Icon": "T_Map_Icon_ruins",
     "Location": {
-      "x": 125631.09375,
-      "y": 301811.0625,
-      "z": -20774.210938
+      "x": 125631,
+      "y": 301811,
+      "z": -20774
     },
     "DiscoveryRadius": 9000,
     "ExilesJourneyEvent": "None"
@@ -712,9 +712,9 @@
     "Name": "Carver's Crest",
     "Icon": "T_Map_Icon_camp_darfari",
     "Location": {
-      "x": 39778.675781,
-      "y": 204427.578125,
-      "z": -17080.078125
+      "x": 39778,
+      "y": 204427,
+      "z": -17080
     },
     "DiscoveryRadius": 4500,
     "ExilesJourneyEvent": "FindDarfariCamp"
@@ -808,9 +808,9 @@
     "Name": "Devil's Squat",
     "Icon": "T_Map_Icon_vista",
     "Location": {
-      "x": -88537.421875,
-      "y": -12284.046875,
-      "z": -6046.890625
+      "x": -88537,
+      "y": -12284,
+      "z": -6046
     },
     "DiscoveryRadius": 10000,
     "ExilesJourneyEvent": "None"
@@ -820,9 +820,9 @@
     "Name": "Stormwatch",
     "Icon": "T_Map_Icon_camp_vanir",
     "Location": {
-      "x": -98469.421875,
-      "y": -30551.046875,
-      "z": 926.109375
+      "x": -98469,
+      "y": -30551,
+      "z": 926
     },
     "DiscoveryRadius": 4000,
     "ExilesJourneyEvent": "None"
@@ -832,9 +832,9 @@
     "Name": "Nordhof",
     "Icon": "T_Map_Icon_camp_vanir",
     "Location": {
-      "x": -74394.078125,
-      "y": -66343.429688,
-      "z": 2106.777588
+      "x": -74394,
+      "y": -66343,
+      "z": 2106
     },
     "DiscoveryRadius": 3500,
     "ExilesJourneyEvent": "None"
@@ -844,9 +844,9 @@
     "Name": "Lakewatch",
     "Icon": "T_Map_Icon_ruins",
     "Location": {
-      "x": -203528.375,
-      "y": -26067.90625,
-      "z": 684.226563
+      "x": -203528,
+      "y": -26067,
+      "z": 684
     },
     "DiscoveryRadius": 2000,
     "ExilesJourneyEvent": "None"
@@ -856,9 +856,9 @@
     "Name": "Rimefisher's Hut",
     "Icon": "T_Map_Icon_camp_vanir",
     "Location": {
-      "x": -77957.671875,
-      "y": -80030.554688,
-      "z": 1160.65332
+      "x": -77957,
+      "y": -80030,
+      "z": 1160
     },
     "DiscoveryRadius": 2000,
     "ExilesJourneyEvent": "None"
@@ -868,9 +868,9 @@
     "Name": "Meltwater Crag",
     "Icon": "T_Map_Icon_camp_vanir",
     "Location": {
-      "x": -53148.875,
-      "y": -82237.75,
-      "z": 1252.84375
+      "x": -53148,
+      "y": -82237,
+      "z": 1252
     },
     "DiscoveryRadius": 1500,
     "ExilesJourneyEvent": "None"
@@ -880,9 +880,9 @@
     "Name": "Rockfall Canyon",
     "Icon": "T_Map_Icon_vista",
     "Location": {
-      "x": 27116.65625,
-      "y": -153607.21875,
-      "z": 17735.101563
+      "x": 27116,
+      "y": -153607,
+      "z": 17735
     },
     "DiscoveryRadius": 11000,
     "ExilesJourneyEvent": "None"
@@ -892,9 +892,9 @@
     "Name": "Icespire Chasm",
     "Icon": "T_Map_Icon_vista",
     "Location": {
-      "x": -20032.140625,
-      "y": -118630.492188,
-      "z": -0.273438
+      "x": -20032,
+      "y": -118630,
+      "z": -0
     },
     "DiscoveryRadius": 20000,
     "ExilesJourneyEvent": "None"
@@ -904,9 +904,9 @@
     "Name": "The Black Keep",
     "Icon": "T_Map_dungeonIcon",
     "Location": {
-      "x": -61375.496094,
-      "y": -136051.796875,
-      "z": 10342.675781
+      "x": -61375,
+      "y": -136051,
+      "z": 10342
     },
     "DiscoveryRadius": 3000,
     "ExilesJourneyEvent": "None"
@@ -916,9 +916,9 @@
     "Name": "Ruins of Xullan",
     "Icon": "T_Map_Icon_ruins",
     "Location": {
-      "x": -60950.523438,
-      "y": -127451.78125,
-      "z": 1593.9375
+      "x": -60950,
+      "y": -127451,
+      "z": 1593
     },
     "DiscoveryRadius": 30000,
     "ExilesJourneyEvent": "None"
@@ -940,9 +940,9 @@
     "Name": "The Sandspit",
     "Icon": "T_Map_Icon_camp_black_hand",
     "Location": {
-      "x": 110203.929688,
-      "y": 96356.382813,
-      "z": -9714.332031
+      "x": 110203,
+      "y": 96356,
+      "z": -9714
     },
     "DiscoveryRadius": 3000,
     "ExilesJourneyEvent": "ScoutBlackHandCamp"
@@ -952,9 +952,9 @@
     "Name": "Anchor Point",
     "Icon": "T_Map_Icon_camp_black_hand",
     "Location": {
-      "x": 100968.9375,
-      "y": 102995.375,
-      "z": -12665.328125
+      "x": 100968,
+      "y": 102995,
+      "z": -12665
     },
     "DiscoveryRadius": 2000,
     "ExilesJourneyEvent": "ScoutBlackHandCamp"
@@ -964,9 +964,9 @@
     "Name": "Pariah's Overwatch",
     "Icon": "T_Map_Icon_vista",
     "Location": {
-      "x": 92536.929688,
-      "y": 106267.382813,
-      "z": -5539.332031
+      "x": 92536,
+      "y": 106267,
+      "z": -5539
     },
     "DiscoveryRadius": 2000,
     "ExilesJourneyEvent": "None"
@@ -976,9 +976,9 @@
     "Name": "The Black Galleon",
     "Icon": "T_Map_Icon_capital_black_hand",
     "Location": {
-      "x": 85711.929688,
-      "y": 95955.382813,
-      "z": -8357.332031
+      "x": 85711,
+      "y": 95955,
+      "z": -8357
     },
     "DiscoveryRadius": 10000,
     "ExilesJourneyEvent": "ScoutBlackHandCamp"
@@ -988,9 +988,9 @@
     "Name": "Voyager's Vigil",
     "Icon": "T_Map_Icon_camp_black_hand",
     "Location": {
-      "x": 92429.9375,
-      "y": 81368.375,
-      "z": -10918.328125
+      "x": 92429,
+      "y": 81368,
+      "z": -10918
     },
     "DiscoveryRadius": 6000,
     "ExilesJourneyEvent": "ScoutBlackHandCamp"
@@ -1000,9 +1000,9 @@
     "Name": "Marauder's Muster",
     "Icon": "T_Map_Icon_camp_black_hand",
     "Location": {
-      "x": 72321.664063,
-      "y": 85595.382813,
-      "z": -10576.332031
+      "x": 72321,
+      "y": 85595,
+      "z": -10576
     },
     "DiscoveryRadius": 3500,
     "ExilesJourneyEvent": "ScoutBlackHandCamp"
@@ -1012,9 +1012,9 @@
     "Name": "Scoundrel's Gateway",
     "Icon": "T_Map_Icon_camp_black_hand",
     "Location": {
-      "x": 67639.664063,
-      "y": 111652.382813,
-      "z": -4818.332031
+      "x": 67639,
+      "y": 111652,
+      "z": -4818
     },
     "DiscoveryRadius": 5500,
     "ExilesJourneyEvent": "ScoutBlackHandCamp"
@@ -1024,9 +1024,9 @@
     "Name": "Howling Plateau",
     "Icon": "T_Map_Icon_camp_darfari",
     "Location": {
-      "x": -76128.34375,
-      "y": 210422.375,
-      "z": -10599.332031
+      "x": -76128,
+      "y": 210422,
+      "z": -10599
     },
     "DiscoveryRadius": 2750,
     "ExilesJourneyEvent": "FindDarfariCamp"
@@ -1036,9 +1036,9 @@
     "Name": "Skittering Cavern",
     "Icon": "T_Map_caveIcon",
     "Location": {
-      "x": -76203.335938,
-      "y": 175083.375,
-      "z": -13989.328125
+      "x": -76203,
+      "y": 175083,
+      "z": -13989
     },
     "DiscoveryRadius": 1000,
     "ExilesJourneyEvent": "None"
@@ -1048,9 +1048,9 @@
     "Name": "Bridge of the Betrayer",
     "Icon": "T_Map_Icon_ruins",
     "Location": {
-      "x": -83473.523438,
-      "y": -96180.78125,
-      "z": 1593.9375
+      "x": -83473,
+      "y": -96180,
+      "z": 1593
     },
     "DiscoveryRadius": 17500,
     "ExilesJourneyEvent": "None"
@@ -1060,9 +1060,9 @@
     "Name": "Godsclaw Passage",
     "Icon": "T_Map_Icon_vista",
     "Location": {
-      "x": -107356.523438,
-      "y": -65497.78125,
-      "z": 1593.9375
+      "x": -107356,
+      "y": -65497,
+      "z": 1593
     },
     "DiscoveryRadius": 12500,
     "ExilesJourneyEvent": "None"
@@ -1072,9 +1072,9 @@
     "Name": "Skyholme Ruins",
     "Icon": "T_Map_Icon_ruins",
     "Location": {
-      "x": -121235.523438,
-      "y": -48133.78125,
-      "z": 1593.9375
+      "x": -121235,
+      "y": -48133,
+      "z": 1593
     },
     "DiscoveryRadius": 5000,
     "ExilesJourneyEvent": "None"
@@ -1084,9 +1084,9 @@
     "Name": "The Wardtowers",
     "Icon": "T_Map_Icon_camp_vanir",
     "Location": {
-      "x": -156230.53125,
-      "y": -51064.78125,
-      "z": 3286.9375
+      "x": -156230,
+      "y": -51064,
+      "z": 3286
     },
     "DiscoveryRadius": 16000,
     "ExilesJourneyEvent": "None"
@@ -1096,9 +1096,9 @@
     "Name": "Ghostward Tower",
     "Icon": "T_Map_Icon_camp_vanir",
     "Location": {
-      "x": -164687.828125,
-      "y": -47974.539063,
-      "z": 3599.125
+      "x": -164687,
+      "y": -47974,
+      "z": 3599
     },
     "DiscoveryRadius": 4500,
     "ExilesJourneyEvent": "None"
@@ -1108,9 +1108,9 @@
     "Name": "Sandward Tower",
     "Icon": "T_Map_Icon_camp_vanir",
     "Location": {
-      "x": -148546.828125,
-      "y": -45103.539063,
-      "z": 5630.125
+      "x": -148546,
+      "y": -45103,
+      "z": 5630
     },
     "DiscoveryRadius": 4500,
     "ExilesJourneyEvent": "None"
@@ -1120,9 +1120,9 @@
     "Name": "Godsward Tower",
     "Icon": "T_Map_Icon_camp_vanir",
     "Location": {
-      "x": -157022.828125,
-      "y": -58833.539063,
-      "z": 5421.125
+      "x": -157022,
+      "y": -58833,
+      "z": 5421
     },
     "DiscoveryRadius": 4500,
     "ExilesJourneyEvent": "None"
@@ -1132,9 +1132,9 @@
     "Name": "Circle of Swords",
     "Icon": "T_Map_Icon_ruins",
     "Location": {
-      "x": -185894.875,
-      "y": -66799.140625,
-      "z": 463.357422
+      "x": -185894,
+      "y": -66799,
+      "z": 463
     },
     "DiscoveryRadius": 4000,
     "ExilesJourneyEvent": "None"
@@ -1144,9 +1144,9 @@
     "Name": "Mounds of the Dead",
     "Icon": "T_Map_Icon_capital_cimmerian",
     "Location": {
-      "x": -227825.875,
-      "y": -106406.140625,
-      "z": -771.642578
+      "x": -227825,
+      "y": -106406,
+      "z": -771
     },
     "DiscoveryRadius": 27500,
     "ExilesJourneyEvent": "VisitMoundsDead"
@@ -1156,9 +1156,9 @@
     "Name": "The Dirgewood",
     "Icon": "T_Map_Icon_vista",
     "Location": {
-      "x": -251754.875,
-      "y": -126070.140625,
-      "z": -2765.640625
+      "x": -251754,
+      "y": -126070,
+      "z": -2765
     },
     "DiscoveryRadius": 15000,
     "ExilesJourneyEvent": "None"
@@ -1168,9 +1168,9 @@
     "Name": "Death's Shadow Camp",
     "Icon": "T_Map_Icon_camp_darfari",
     "Location": {
-      "x": -86369.335938,
-      "y": 187085.375,
-      "z": -10801.332031
+      "x": -86369,
+      "y": 187085,
+      "z": -10801
     },
     "DiscoveryRadius": 2000,
     "ExilesJourneyEvent": "FindDarfariCamp"
@@ -1180,9 +1180,9 @@
     "Name": "The Unnamed City",
     "Icon": "T_Map_Icon_capital_unnamed_city",
     "Location": {
-      "x": -140355.484375,
-      "y": 128165.53125,
-      "z": -16424.089844
+      "x": -140355,
+      "y": 128165,
+      "z": -16424
     },
     "DiscoveryRadius": 55000,
     "ExilesJourneyEvent": "ExploreUnnamedCity"
@@ -1192,9 +1192,9 @@
     "Name": "The Tower of Bats",
     "Icon": "T_Map_Icon_ruins",
     "Location": {
-      "x": -60261.335938,
-      "y": 159470.375,
-      "z": -1762.332031
+      "x": -60261,
+      "y": 159470,
+      "z": -1762
     },
     "DiscoveryRadius": 5000,
     "ExilesJourneyEvent": "ClimbTowerBats"
@@ -1204,9 +1204,9 @@
     "Name": "Sinner's Refuge",
     "Icon": "T_Map_caveIcon",
     "Location": {
-      "x": 5090.664063,
-      "y": 196489.375,
-      "z": -15421.332031
+      "x": 5090,
+      "y": 196489,
+      "z": -15421
     },
     "DiscoveryRadius": 1000,
     "ExilesJourneyEvent": "None"
@@ -1216,9 +1216,9 @@
     "Name": "Dustdevil Ridge",
     "Icon": "T_Map_Icon_camp_darfari",
     "Location": {
-      "x": -3570.34375,
-      "y": 173863.375,
-      "z": -6984.328125
+      "x": -3570,
+      "y": 173863,
+      "z": -6984
     },
     "DiscoveryRadius": 2000,
     "ExilesJourneyEvent": "FindDarfariCamp"
@@ -1228,9 +1228,9 @@
     "Name": "The Summoning Place",
     "Icon": "T_Map_Icon_capital_darfari",
     "Location": {
-      "x": 18463.664063,
-      "y": 164007.375,
-      "z": -8181.332031
+      "x": 18463,
+      "y": 164007,
+      "z": -8181
     },
     "DiscoveryRadius": 7000,
     "ExilesJourneyEvent": "FindDarfariCamp"
@@ -1240,9 +1240,9 @@
     "Name": "The Cursed Way",
     "Icon": "T_Map_Icon_camp_darfari",
     "Location": {
-      "x": -43214.34375,
-      "y": 163931.375,
-      "z": -4434.328125
+      "x": -43214,
+      "y": 163931,
+      "z": -4434
     },
     "DiscoveryRadius": 2500,
     "ExilesJourneyEvent": "FindDarfariCamp"
@@ -1252,9 +1252,9 @@
     "Name": "Ravager's Cleft",
     "Icon": "T_Map_Icon_camp_darfari",
     "Location": {
-      "x": -32098.335938,
-      "y": 164875.375,
-      "z": -6958.332031
+      "x": -32098,
+      "y": 164875,
+      "z": -6958
     },
     "DiscoveryRadius": 3000,
     "ExilesJourneyEvent": "FindDarfariCamp"
@@ -1264,9 +1264,9 @@
     "Name": "Witness Camp",
     "Icon": "T_Map_Icon_camp_darfari",
     "Location": {
-      "x": -51081.335938,
-      "y": 144927.375,
-      "z": -8471.332031
+      "x": -51081,
+      "y": 144927,
+      "z": -8471
     },
     "DiscoveryRadius": 1500,
     "ExilesJourneyEvent": "FindDarfariCamp"
@@ -1276,9 +1276,9 @@
     "Name": "Raider's Ridge",
     "Icon": "T_Map_Icon_camp_darfari",
     "Location": {
-      "x": 7927.664063,
-      "y": 136421.375,
-      "z": -8578.332031
+      "x": 7927,
+      "y": 136421,
+      "z": -8578
     },
     "DiscoveryRadius": 2500,
     "ExilesJourneyEvent": "FindDarfariCamp"
@@ -1288,9 +1288,9 @@
     "Name": "The Barrow King",
     "Icon": "T_Map_caveIcon",
     "Location": {
-      "x": -273229.09375,
-      "y": -109552.585938,
-      "z": 3456.125
+      "x": -273229,
+      "y": -109552,
+      "z": 3456
     },
     "DiscoveryRadius": 1000,
     "ExilesJourneyEvent": "None"
@@ -1300,9 +1300,9 @@
     "Name": "The Outcast Camp",
     "Icon": "T_Map_Icon_camp_frost_giant",
     "Location": {
-      "x": -201375.859375,
-      "y": -149670.296875,
-      "z": 9490.603516
+      "x": -201375,
+      "y": -149670,
+      "z": 9490
     },
     "DiscoveryRadius": 2500,
     "ExilesJourneyEvent": "None"
@@ -1312,9 +1312,9 @@
     "Name": "The Temple of Frost",
     "Icon": "T_Map_Icon_capital_frost_giant",
     "Location": {
-      "x": -121649.875,
-      "y": -239594.140625,
-      "z": 9670.357422
+      "x": -121649,
+      "y": -239594,
+      "z": 9670
     },
     "DiscoveryRadius": 6000,
     "ExilesJourneyEvent": "None"
@@ -1324,9 +1324,9 @@
     "Name": "Eyelet Lake",
     "Icon": "T_Map_Icon_vista",
     "Location": {
-      "x": -179517.875,
-      "y": -170940.140625,
-      "z": -2535.642578
+      "x": -179517,
+      "y": -170940,
+      "z": -2535
     },
     "DiscoveryRadius": 9000,
     "ExilesJourneyEvent": "None"
@@ -1336,9 +1336,9 @@
     "Name": "Dragonmouth",
     "Icon": "T_Map_caveIcon",
     "Location": {
-      "x": -83371.875,
-      "y": -164022.140625,
-      "z": 8763.125
+      "x": -83371,
+      "y": -164022,
+      "z": 8763
     },
     "DiscoveryRadius": 6000,
     "ExilesJourneyEvent": "None"
@@ -1348,9 +1348,9 @@
     "Name": "Dagon's Claw",
     "Icon": "T_Map_Icon_vista",
     "Location": {
-      "x": 325402.125,
-      "y": 193994.859375,
-      "z": -18774.875
+      "x": 325402,
+      "y": 193994,
+      "z": -18774
     },
     "DiscoveryRadius": 9000,
     "ExilesJourneyEvent": "None"
@@ -1360,9 +1360,9 @@
     "Name": "The Silkwood",
     "Icon": "T_Map_Icon_vista",
     "Location": {
-      "x": 284419.125,
-      "y": 207900.859375,
-      "z": -27284.875
+      "x": 284419,
+      "y": 207900,
+      "z": -27284
     },
     "DiscoveryRadius": 15000,
     "ExilesJourneyEvent": "None"
@@ -1372,9 +1372,9 @@
     "Name": "Hullshatter Cove",
     "Icon": "T_Map_Icon_vista",
     "Location": {
-      "x": 288776.125,
-      "y": 177298.859375,
-      "z": -21965.875
+      "x": 288776,
+      "y": 177298,
+      "z": -21965
     },
     "DiscoveryRadius": 6000,
     "ExilesJourneyEvent": "None"
@@ -1384,9 +1384,9 @@
     "Name": "Xel-ha Docks",
     "Icon": "T_Map_Icon_ruins",
     "Location": {
-      "x": 321035.125,
-      "y": 170394.875,
-      "z": -21530.875
+      "x": 321035,
+      "y": 170394,
+      "z": -21530
     },
     "DiscoveryRadius": 7000,
     "ExilesJourneyEvent": "None"
@@ -1396,9 +1396,9 @@
     "Name": "Pagoda of Boundless Lusts",
     "Icon": "T_Map_Icon_camp_lemurian",
     "Location": {
-      "x": 343259.125,
-      "y": 175687.875,
-      "z": -14947.875
+      "x": 343259,
+      "y": 175687,
+      "z": -14947
     },
     "DiscoveryRadius": 4000,
     "ExilesJourneyEvent": "None"
@@ -1420,9 +1420,9 @@
     "Name": "Bilgewater Break",
     "Icon": "T_Map_Icon_camp_black_hand",
     "Location": {
-      "x": 83085.664063,
-      "y": 86333.375,
-      "z": -12466.332031
+      "x": 83085,
+      "y": 86333,
+      "z": -12466
     },
     "DiscoveryRadius": 2500,
     "ExilesJourneyEvent": "ScoutBlackHandCamp"
@@ -1432,9 +1432,9 @@
     "Name": "Claw Outcrop",
     "Icon": "T_Map_Icon_camp_dogs_of_the_desert",
     "Location": {
-      "x": 45901.664063,
-      "y": 116926.375,
-      "z": -9375.332031
+      "x": 45901,
+      "y": 116926,
+      "z": -9375
     },
     "DiscoveryRadius": 1500,
     "ExilesJourneyEvent": "ScoutDogsCamp"
@@ -1444,9 +1444,9 @@
     "Name": "Waterhole Outlook",
     "Icon": "T_Map_Icon_camp_dogs_of_the_desert",
     "Location": {
-      "x": 43843.664063,
-      "y": 101468.375,
-      "z": -7063.332031
+      "x": 43843,
+      "y": 101468,
+      "z": -7063
     },
     "DiscoveryRadius": 1500,
     "ExilesJourneyEvent": "ScoutDogsCamp"
@@ -1456,9 +1456,9 @@
     "Name": "N'batu's Pack",
     "Icon": "T_Map_Icon_camp_dogs_of_the_desert",
     "Location": {
-      "x": 30548.664063,
-      "y": 103014.375,
-      "z": -6776.332031
+      "x": 30548,
+      "y": 103014,
+      "z": -6776
     },
     "DiscoveryRadius": 1500,
     "ExilesJourneyEvent": "ScoutDogsCamp"
@@ -1468,9 +1468,9 @@
     "Name": "Marrowman's Height",
     "Icon": "T_Map_Icon_camp_darfari",
     "Location": {
-      "x": -88687.6875,
-      "y": 222498.265625,
-      "z": -11380.610352
+      "x": -88687,
+      "y": 222498,
+      "z": -11380
     },
     "DiscoveryRadius": 3750,
     "ExilesJourneyEvent": "FindDarfariCamp"
@@ -1480,9 +1480,9 @@
     "Name": "Ruins of al-Merayah",
     "Icon": "T_Map_Icon_camp_dogs_of_the_desert",
     "Location": {
-      "x": 19634.664063,
-      "y": 83263.375,
-      "z": -10190.332031
+      "x": 19634,
+      "y": 83263,
+      "z": -10190
     },
     "DiscoveryRadius": 7000,
     "ExilesJourneyEvent": "ScoutDogsCamp"
@@ -1528,9 +1528,9 @@
     "Name": "Dagon's Embrace",
     "Icon": "T_Map_Icon_ruins",
     "Location": {
-      "x": 365078.125,
-      "y": 145845.875,
-      "z": -20646.875
+      "x": 365078,
+      "y": 145845,
+      "z": -20646
     },
     "DiscoveryRadius": 12500,
     "ExilesJourneyEvent": "None"
@@ -1540,9 +1540,9 @@
     "Name": "Palace of the Witch Queen",
     "Icon": "T_Map_dungeonIcon",
     "Location": {
-      "x": 346656.125,
-      "y": 145691.875,
-      "z": -21764.875
+      "x": 346656,
+      "y": 145691,
+      "z": -21764
     },
     "DiscoveryRadius": 2000,
     "ExilesJourneyEvent": "EnterPalaceWitchQueen"
@@ -1552,9 +1552,9 @@
     "Name": "The Celestial Plaza",
     "Icon": "T_Map_Icon_ruins",
     "Location": {
-      "x": 335462.125,
-      "y": 145691.875,
-      "z": -22553.875
+      "x": 335462,
+      "y": 145691,
+      "z": -22553
     },
     "DiscoveryRadius": 10000,
     "ExilesJourneyEvent": "None"
@@ -1564,9 +1564,9 @@
     "Name": "The Black Garden",
     "Icon": "T_Map_Icon_ruins",
     "Location": {
-      "x": 316033.125,
-      "y": 143851.875,
-      "z": -22104.875
+      "x": 316033,
+      "y": 143851,
+      "z": -22104
     },
     "DiscoveryRadius": 5000,
     "ExilesJourneyEvent": "None"
@@ -1576,9 +1576,9 @@
     "Name": "Forgotten City of Xel-ha",
     "Icon": "T_Map_Icon_capital_lemurian",
     "Location": {
-      "x": 325512.125,
-      "y": 146813.875,
-      "z": -22104.875
+      "x": 325512,
+      "y": 146813,
+      "z": -22104
     },
     "DiscoveryRadius": 27500,
     "ExilesJourneyEvent": "None"
@@ -1588,9 +1588,9 @@
     "Name": "Avenue of the Sun",
     "Icon": "T_Map_Icon_ruins",
     "Location": {
-      "x": 298406.125,
-      "y": 147610.875,
-      "z": -17550.875
+      "x": 298406,
+      "y": 147610,
+      "z": -17550
     },
     "DiscoveryRadius": 3000,
     "ExilesJourneyEvent": "None"
@@ -1600,9 +1600,9 @@
     "Name": "Gate of the Moon",
     "Icon": "T_Map_Icon_ruins",
     "Location": {
-      "x": 278026.125,
-      "y": 150166.875,
-      "z": -14242.875
+      "x": 278026,
+      "y": 150166,
+      "z": -14242
     },
     "DiscoveryRadius": 2500,
     "ExilesJourneyEvent": "None"
@@ -1612,9 +1612,9 @@
     "Name": "Xalthar's Crossing",
     "Icon": "T_Map_Icon_vista",
     "Location": {
-      "x": 246151.125,
-      "y": 146105.875,
-      "z": -19401.875
+      "x": 246151,
+      "y": 146105,
+      "z": -19401
     },
     "DiscoveryRadius": 10000,
     "ExilesJourneyEvent": "None"
@@ -1624,9 +1624,9 @@
     "Name": "Warrior's Walk",
     "Icon": "T_Map_Icon_vista",
     "Location": {
-      "x": 258132.125,
-      "y": 176715.875,
-      "z": -13079.875
+      "x": 258132,
+      "y": 176715,
+      "z": -13079
     },
     "DiscoveryRadius": 3000,
     "ExilesJourneyEvent": "None"
@@ -1636,9 +1636,9 @@
     "Name": "Forkspring Hollow",
     "Icon": "T_Map_Icon_vista",
     "Location": {
-      "x": 237357.125,
-      "y": 181616.875,
-      "z": -20171.875
+      "x": 237357,
+      "y": 181616,
+      "z": -20171
     },
     "DiscoveryRadius": 1000,
     "ExilesJourneyEvent": "None"
@@ -1756,9 +1756,9 @@
     "Name": "The Slave Road",
     "Icon": "T_Map_Icon_ruins",
     "Location": {
-      "x": -61829.335938,
-      "y": 110966.375,
-      "z": -8296.332031
+      "x": -61829,
+      "y": 110966,
+      "z": -8296
     },
     "DiscoveryRadius": 7500,
     "ExilesJourneyEvent": "None"
@@ -1768,9 +1768,9 @@
     "Name": "Drifter's Rest",
     "Icon": "T_Map_campIcon",
     "Location": {
-      "x": 225064.84375,
-      "y": 153431.75,
-      "z": -20194.90625
+      "x": 225064,
+      "y": 153431,
+      "z": -20194
     },
     "DiscoveryRadius": 1500,
     "ExilesJourneyEvent": "None"
@@ -1780,9 +1780,9 @@
     "Name": "Penitent's Crossing",
     "Icon": "T_Map_Icon_ruins",
     "Location": {
-      "x": 233601.84375,
-      "y": 121813.75,
-      "z": -15141.90625
+      "x": 233601,
+      "y": 121813,
+      "z": -15141
     },
     "DiscoveryRadius": 2750,
     "ExilesJourneyEvent": "None"
@@ -1792,9 +1792,9 @@
     "Name": "Descent of Dagon",
     "Icon": "T_Map_Icon_ruins",
     "Location": {
-      "x": 252836.84375,
-      "y": 117057.75,
-      "z": -18156.90625
+      "x": 252836,
+      "y": 117057,
+      "z": -18156
     },
     "DiscoveryRadius": 6000,
     "ExilesJourneyEvent": "None"
@@ -1804,9 +1804,9 @@
     "Name": "The Crevice",
     "Icon": "T_Map_Icon_vista",
     "Location": {
-      "x": 267491.84375,
-      "y": 112156.75,
-      "z": -20744.90625
+      "x": 267491,
+      "y": 112156,
+      "z": -20744
     },
     "DiscoveryRadius": 6000,
     "ExilesJourneyEvent": "None"
@@ -1816,9 +1816,9 @@
     "Name": "Dagon's Eye",
     "Icon": "T_Map_Icon_ruins",
     "Location": {
-      "x": 315338.84375,
-      "y": 122673.75,
-      "z": -10000.90625
+      "x": 315338,
+      "y": 122673,
+      "z": -10000
     },
     "DiscoveryRadius": 3000,
     "ExilesJourneyEvent": "None"
@@ -1828,9 +1828,9 @@
     "Name": "Watcher of the Passage",
     "Icon": "T_Map_Icon_ruins",
     "Location": {
-      "x": 343849.84375,
-      "y": 106877.75,
-      "z": -12045.90625
+      "x": 343849,
+      "y": 106877,
+      "z": -12045
     },
     "DiscoveryRadius": 4500,
     "ExilesJourneyEvent": "None"
@@ -1840,9 +1840,9 @@
     "Name": "A Light to Guide Them Home",
     "Icon": "T_Map_Icon_ruins",
     "Location": {
-      "x": 355264.875,
-      "y": 120473.75,
-      "z": -18983.90625
+      "x": 355264,
+      "y": 120473,
+      "z": -18983
     },
     "DiscoveryRadius": 4000,
     "ExilesJourneyEvent": "None"
@@ -1852,9 +1852,9 @@
     "Name": "Wreck of the Martyr",
     "Icon": "T_Map_Icon_vista",
     "Location": {
-      "x": 387028.875,
-      "y": 114618.75,
-      "z": -20446.90625
+      "x": 387028,
+      "y": 114618,
+      "z": -20446
     },
     "DiscoveryRadius": 2000,
     "ExilesJourneyEvent": "None"
@@ -1864,9 +1864,9 @@
     "Name": "Island of Unsightly Sirens",
     "Icon": "T_Map_Icon_vista",
     "Location": {
-      "x": 397385.875,
-      "y": 159916.75,
-      "z": -20446.90625
+      "x": 397385,
+      "y": 159916,
+      "z": -20446
     },
     "DiscoveryRadius": 3000,
     "ExilesJourneyEvent": "None"
@@ -1876,9 +1876,9 @@
     "Name": "Pitfall Pass",
     "Icon": "T_Map_Icon_vista",
     "Location": {
-      "x": 179179.875,
-      "y": 147928.75,
-      "z": -18726.90625
+      "x": 179179,
+      "y": 147928,
+      "z": -18726
     },
     "DiscoveryRadius": 4500,
     "ExilesJourneyEvent": "None"
@@ -1888,9 +1888,9 @@
     "Name": "The Imperial Highway",
     "Icon": "T_Map_Icon_ruins",
     "Location": {
-      "x": -75432.335938,
-      "y": 101283.375,
-      "z": -8248.332031
+      "x": -75432,
+      "y": 101283,
+      "z": -8248
     },
     "DiscoveryRadius": 7500,
     "ExilesJourneyEvent": "None"
@@ -1900,9 +1900,9 @@
     "Name": "The Dawn Gate",
     "Icon": "T_Map_Icon_ruins",
     "Location": {
-      "x": -93062.335938,
-      "y": 114661.375,
-      "z": -6986.332031
+      "x": -93062,
+      "y": 114661,
+      "z": -6986
     },
     "DiscoveryRadius": 6000,
     "ExilesJourneyEvent": "None"
@@ -2008,9 +2008,9 @@
     "Name": "Deckswab's Retreat",
     "Icon": "T_Map_Icon_camp_black_hand",
     "Location": {
-      "x": 177269.875,
-      "y": 102357.75,
-      "z": -19472.90625
+      "x": 177269,
+      "y": 102357,
+      "z": -19472
     },
     "DiscoveryRadius": 4000,
     "ExilesJourneyEvent": "ScoutBlackHandCamp"
@@ -2020,9 +2020,9 @@
     "Name": "The Dryfalls",
     "Icon": "T_Map_Icon_camp_darfari",
     "Location": {
-      "x": 152402.875,
-      "y": 94758.75,
-      "z": -14330.90625
+      "x": 152402,
+      "y": 94758,
+      "z": -14330
     },
     "DiscoveryRadius": 2500,
     "ExilesJourneyEvent": "FindDarfariCamp"
@@ -2032,9 +2032,9 @@
     "Name": "The Crossway",
     "Icon": "T_Map_Icon_vista",
     "Location": {
-      "x": 183166.875,
-      "y": 87543.75,
-      "z": -17364.90625
+      "x": 183166,
+      "y": 87543,
+      "z": -17364
     },
     "DiscoveryRadius": 3000,
     "ExilesJourneyEvent": "None"
@@ -2044,9 +2044,9 @@
     "Name": "Boulevard of the North Star",
     "Icon": "T_Map_Icon_ruins",
     "Location": {
-      "x": 146217.875,
-      "y": 49932.75,
-      "z": -15822.90625
+      "x": 146217,
+      "y": 49932,
+      "z": -15822
     },
     "DiscoveryRadius": 4000,
     "ExilesJourneyEvent": "None"
@@ -2056,9 +2056,9 @@
     "Name": "Xalthar's Refuge",
     "Icon": "T_Map_caveIcon",
     "Location": {
-      "x": 127659.875,
-      "y": 66359.75,
-      "z": -14050.90625
+      "x": 127659,
+      "y": 66359,
+      "z": -14050
     },
     "DiscoveryRadius": 1000,
     "ExilesJourneyEvent": "None"
@@ -2068,9 +2068,9 @@
     "Name": "The Eye that Never Closes",
     "Icon": "T_Map_Icon_ruins",
     "Location": {
-      "x": 156219.875,
-      "y": 66974.75,
-      "z": -13814.90625
+      "x": 156219,
+      "y": 66974,
+      "z": -13814
     },
     "DiscoveryRadius": 3000,
     "ExilesJourneyEvent": "None"
@@ -2080,9 +2080,9 @@
     "Name": "Messenger's Respite",
     "Icon": "T_Map_Icon_vista",
     "Location": {
-      "x": 176979.875,
-      "y": 70497.75,
-      "z": -12235.90625
+      "x": 176979,
+      "y": 70497,
+      "z": -12235
     },
     "DiscoveryRadius": 4500,
     "ExilesJourneyEvent": "None"
@@ -2092,9 +2092,9 @@
     "Name": "Eastern Barracks",
     "Icon": "T_Map_Icon_ruins",
     "Location": {
-      "x": 208743.875,
-      "y": 92416.75,
-      "z": -20009.90625
+      "x": 208743,
+      "y": 92416,
+      "z": -20009
     },
     "DiscoveryRadius": 4000,
     "ExilesJourneyEvent": "None"
@@ -2104,9 +2104,9 @@
     "Name": "Scupper's Shelter",
     "Icon": "T_Map_Icon_camp_black_hand",
     "Location": {
-      "x": 213468.875,
-      "y": 61342.75,
-      "z": -20009.90625
+      "x": 213468,
+      "y": 61342,
+      "z": -20009
     },
     "DiscoveryRadius": 3000,
     "ExilesJourneyEvent": "ScoutBlackHandCamp"
@@ -2116,9 +2116,9 @@
     "Name": "The Passage",
     "Icon": "T_Map_dungeonIcon",
     "Location": {
-      "x": 168011.875,
-      "y": -2263.25,
-      "z": -20009.90625
+      "x": 168011,
+      "y": -2263,
+      "z": -20009
     },
     "DiscoveryRadius": 1200,
     "ExilesJourneyEvent": "None"
@@ -2140,9 +2140,9 @@
     "Name": "Ruins of Old Nebthu",
     "Icon": "T_Map_Icon_ruins",
     "Location": {
-      "x": -119968.976563,
-      "y": 11490.03125,
-      "z": -8117.429688
+      "x": -119968,
+      "y": 11490,
+      "z": -8117
     },
     "DiscoveryRadius": 15000,
     "ExilesJourneyEvent": "None"
@@ -2224,9 +2224,9 @@
     "Name": "Shattered Springs",
     "Icon": "T_Map_Icon_vista",
     "Location": {
-      "x": -193314.484375,
-      "y": 21148.535156,
-      "z": -11192.09082
+      "x": -193314,
+      "y": 21148,
+      "z": -11192
     },
     "DiscoveryRadius": 25000,
     "ExilesJourneyEvent": "None"
@@ -2236,9 +2236,9 @@
     "Name": "Westwatch Keep",
     "Icon": "T_Map_Icon_ruins",
     "Location": {
-      "x": -219023.5,
-      "y": -11389.46875,
-      "z": -1980.09375
+      "x": -219023,
+      "y": -11389,
+      "z": -1980
     },
     "DiscoveryRadius": 10000,
     "ExilesJourneyEvent": "None"
@@ -2248,9 +2248,9 @@
     "Name": "Upper Staging Area",
     "Icon": "T_Map_Icon_ruins",
     "Location": {
-      "x": 190798.875,
-      "y": 10586.75,
-      "z": -19654.90625
+      "x": 190798,
+      "y": 10586,
+      "z": -19654
     },
     "DiscoveryRadius": 6000,
     "ExilesJourneyEvent": "None"
@@ -2260,9 +2260,9 @@
     "Name": "Ruined Outpost",
     "Icon": "T_Map_Icon_ruins",
     "Location": {
-      "x": 201212.875,
-      "y": 26050.75,
-      "z": -19091.90625
+      "x": 201212,
+      "y": 26050,
+      "z": -19091
     },
     "DiscoveryRadius": 2500,
     "ExilesJourneyEvent": "None"
@@ -2272,9 +2272,9 @@
     "Name": "Canopy Outlook",
     "Icon": "T_Map_Icon_vista",
     "Location": {
-      "x": 220424.875,
-      "y": 43687.75,
-      "z": -8182.90625
+      "x": 220424,
+      "y": 43687,
+      "z": -8182
     },
     "DiscoveryRadius": 3000,
     "ExilesJourneyEvent": "None"
@@ -2284,9 +2284,9 @@
     "Name": "Lower Staging Area",
     "Icon": "T_Map_Icon_ruins",
     "Location": {
-      "x": 238359.875,
-      "y": 61081.75,
-      "z": -21807.90625
+      "x": 238359,
+      "y": 61081,
+      "z": -21807
     },
     "DiscoveryRadius": 4000,
     "ExilesJourneyEvent": "None"
@@ -2296,9 +2296,9 @@
     "Name": "Bay of Hulks",
     "Icon": "T_Map_Icon_vista",
     "Location": {
-      "x": 254059.875,
-      "y": 84626.75,
-      "z": -21807.90625
+      "x": 254059,
+      "y": 84626,
+      "z": -21807
     },
     "DiscoveryRadius": 10000,
     "ExilesJourneyEvent": "None"
@@ -2308,9 +2308,9 @@
     "Name": "Mire of Eternal Dreams",
     "Icon": "T_Map_Icon_vista",
     "Location": {
-      "x": 169045.875,
-      "y": 39663.75,
-      "z": -22542.90625
+      "x": 169045,
+      "y": 39663,
+      "z": -22542
     },
     "DiscoveryRadius": 11000,
     "ExilesJourneyEvent": "None"
@@ -2320,9 +2320,9 @@
     "Name": "Talier's Berth",
     "Icon": "T_Map_Icon_camp_black_hand",
     "Location": {
-      "x": 262469.875,
-      "y": 17046.75,
-      "z": -17492.90625
+      "x": 262469,
+      "y": 17046,
+      "z": -17492
     },
     "DiscoveryRadius": 3000,
     "ExilesJourneyEvent": "ScoutBlackHandCamp"
@@ -2332,9 +2332,9 @@
     "Name": "Wreck of the Wagtail",
     "Icon": "T_Map_Icon_vista",
     "Location": {
-      "x": 308604.875,
-      "y": 95275.75,
-      "z": -20584.90625
+      "x": 308604,
+      "y": 95275,
+      "z": -20584
     },
     "DiscoveryRadius": 3000,
     "ExilesJourneyEvent": "None"
@@ -2344,9 +2344,9 @@
     "Name": "Jamilla's Liberty",
     "Icon": "T_Map_Icon_camp_black_hand",
     "Location": {
-      "x": 335481.875,
-      "y": 57559.75,
-      "z": -17290.90625
+      "x": 335481,
+      "y": 57559,
+      "z": -17290
     },
     "DiscoveryRadius": 4500,
     "ExilesJourneyEvent": "ScoutBlackHandCamp"
@@ -2356,9 +2356,9 @@
     "Name": "Captain's Quarters",
     "Icon": "T_Map_Icon_camp_black_hand",
     "Location": {
-      "x": 346662.875,
-      "y": 46170.75,
-      "z": -14249.90625
+      "x": 346662,
+      "y": 46170,
+      "z": -14249
     },
     "DiscoveryRadius": 2000,
     "ExilesJourneyEvent": "ScoutBlackHandCamp"
@@ -2368,9 +2368,9 @@
     "Name": "The Crowngrove",
     "Icon": "T_Map_Icon_vista",
     "Location": {
-      "x": -256864.5,
-      "y": -10091.46875,
-      "z": -1980.09375
+      "x": -256864,
+      "y": -10091,
+      "z": -1980
     },
     "DiscoveryRadius": 20000,
     "ExilesJourneyEvent": "None"
@@ -2380,9 +2380,9 @@
     "Name": "Klael’s Stronghold",
     "Icon": "T_Map_Icon_ruins",
     "Location": {
-      "x": -226091.5,
-      "y": 51950.53125,
-      "z": -2634.09082
+      "x": -226091,
+      "y": 51950,
+      "z": -2634
     },
     "DiscoveryRadius": 8000,
     "ExilesJourneyEvent": "None"
@@ -2392,9 +2392,9 @@
     "Name": "Sepermeru, City of the Relic Hunters",
     "Icon": "T_Map_Icon_capital_relic_hunters",
     "Location": {
-      "x": -246530.484375,
-      "y": 95930.53125,
-      "z": -4282.09082
+      "x": -246530,
+      "y": 95930,
+      "z": -4282
     },
     "DiscoveryRadius": 25000,
     "ExilesJourneyEvent": "VisitSepermeru"
@@ -2404,9 +2404,9 @@
     "Name": "Sandswept Ruins",
     "Icon": "T_Map_Icon_ruins",
     "Location": {
-      "x": 190891.515625,
-      "y": 215845.53125,
-      "z": -17906.09375
+      "x": 190891,
+      "y": 215845,
+      "z": -17906
     },
     "DiscoveryRadius": 6000,
     "ExilesJourneyEvent": "None"
@@ -2416,9 +2416,9 @@
     "Name": "Temple Quarter",
     "Icon": "T_Map_Icon_camp_relic_hunters",
     "Location": {
-      "x": -230190.484375,
-      "y": 89154.53125,
-      "z": -3520.09375
+      "x": -230190,
+      "y": 89154,
+      "z": -3520
     },
     "DiscoveryRadius": 3000,
     "ExilesJourneyEvent": "None"
@@ -2428,9 +2428,9 @@
     "Name": "Waterside",
     "Icon": "T_Map_Icon_camp_relic_hunters",
     "Location": {
-      "x": -232795.5,
-      "y": 84267.53125,
-      "z": -4427.09082
+      "x": -232795,
+      "y": 84267,
+      "z": -4427
     },
     "DiscoveryRadius": 4000,
     "ExilesJourneyEvent": "None"
@@ -2440,9 +2440,9 @@
     "Name": "Southlake",
     "Icon": "T_Map_Icon_camp_relic_hunters",
     "Location": {
-      "x": -250525.5,
-      "y": 102539.53125,
-      "z": -3925.09082
+      "x": -250525,
+      "y": 102539,
+      "z": -3925
     },
     "DiscoveryRadius": 8000,
     "ExilesJourneyEvent": "None"
@@ -2452,9 +2452,9 @@
     "Name": "Westwall",
     "Icon": "T_Map_Icon_camp_relic_hunters",
     "Location": {
-      "x": -261307.5,
-      "y": 87287.53125,
-      "z": -6143.09082
+      "x": -261307,
+      "y": 87287,
+      "z": -6143
     },
     "DiscoveryRadius": 10000,
     "ExilesJourneyEvent": "None"
@@ -2464,9 +2464,9 @@
     "Name": "Westwall Prison",
     "Icon": "T_Map_Icon_camp_relic_hunters",
     "Location": {
-      "x": -265969.5,
-      "y": 90242.53125,
-      "z": -3624.09082
+      "x": -265969,
+      "y": 90242,
+      "z": -3624
     },
     "DiscoveryRadius": 2000,
     "ExilesJourneyEvent": "None"
@@ -2476,9 +2476,9 @@
     "Name": "Oasis of Nekhet",
     "Icon": "T_Map_Icon_vista",
     "Location": {
-      "x": -256741.484375,
-      "y": 39990.535156,
-      "z": -3974.09082
+      "x": -256741,
+      "y": 39990,
+      "z": -3974
     },
     "DiscoveryRadius": 20000,
     "ExilesJourneyEvent": "None"
@@ -2488,9 +2488,9 @@
     "Name": "Heliograph Heights",
     "Icon": "T_Map_Icon_vista",
     "Location": {
-      "x": 368581.875,
-      "y": 25973.75,
-      "z": -6685.90625
+      "x": 368581,
+      "y": 25973,
+      "z": -6685
     },
     "DiscoveryRadius": 3500,
     "ExilesJourneyEvent": "None"
@@ -2500,9 +2500,9 @@
     "Name": "Buccaneer Bay",
     "Icon": "T_Map_Icon_vista",
     "Location": {
-      "x": 334798.875,
-      "y": 49441.75,
-      "z": -23366.90625
+      "x": 334798,
+      "y": 49441,
+      "z": -23366
     },
     "DiscoveryRadius": 32000,
     "ExilesJourneyEvent": "None"
@@ -2512,9 +2512,9 @@
     "Name": "Flotsam",
     "Icon": "T_Map_Icon_camp_black_hand",
     "Location": {
-      "x": 318191.875,
-      "y": 70772.75,
-      "z": -19505.90625
+      "x": 318191,
+      "y": 70772,
+      "z": -19505
     },
     "DiscoveryRadius": 10000,
     "ExilesJourneyEvent": "ScoutBlackHandCamp"
@@ -2524,9 +2524,9 @@
     "Name": "Inlet of the Hook",
     "Icon": "T_Map_Icon_vista",
     "Location": {
-      "x": 271109.875,
-      "y": 59871.75,
-      "z": -20660.90625
+      "x": 271109,
+      "y": 59871,
+      "z": -20660
     },
     "DiscoveryRadius": 10000,
     "ExilesJourneyEvent": "None"
@@ -2536,9 +2536,9 @@
     "Name": "The High Way",
     "Icon": "T_Map_caveIcon",
     "Location": {
-      "x": 42514.875,
-      "y": -142936.25,
-      "z": 25861.09375
+      "x": 42514,
+      "y": -142936,
+      "z": 25861
     },
     "DiscoveryRadius": 1200,
     "ExilesJourneyEvent": "None"
@@ -2548,9 +2548,9 @@
     "Name": "Road of the Pilgrim",
     "Icon": "T_Map_Icon_vista",
     "Location": {
-      "x": -24276.125,
-      "y": -157927.25,
-      "z": 17783.09375
+      "x": -24276,
+      "y": -157927,
+      "z": 17783
     },
     "DiscoveryRadius": 11000,
     "ExilesJourneyEvent": "None"
@@ -2560,9 +2560,9 @@
     "Name": "Undergate",
     "Icon": "T_Map_dungeonIcon",
     "Location": {
-      "x": -80901.875,
-      "y": -130649.039063,
-      "z": -1205.90625
+      "x": -80901,
+      "y": -130649,
+      "z": -1205
     },
     "DiscoveryRadius": 1500,
     "ExilesJourneyEvent": "None"
@@ -2572,9 +2572,9 @@
     "Name": "Ring of Silence",
     "Icon": "T_Map_Icon_ruins",
     "Location": {
-      "x": -108880.125,
-      "y": -111737.71875,
-      "z": 1199.96875
+      "x": -108880,
+      "y": -111737,
+      "z": 1199
     },
     "DiscoveryRadius": 2250,
     "ExilesJourneyEvent": "None"
@@ -2584,9 +2584,9 @@
     "Name": "Ruins of Velstad",
     "Icon": "T_Map_Icon_ruins",
     "Location": {
-      "x": -126769.125,
-      "y": -82801.71875,
-      "z": -192.03125
+      "x": -126769,
+      "y": -82801,
+      "z": -192
     },
     "DiscoveryRadius": 3000,
     "ExilesJourneyEvent": "None"
@@ -2596,9 +2596,9 @@
     "Name": "Riversend",
     "Icon": "T_Map_Icon_vista",
     "Location": {
-      "x": -193946.125,
-      "y": -32219.71875,
-      "z": -4899.03125
+      "x": -193946,
+      "y": -32219,
+      "z": -4899
     },
     "DiscoveryRadius": 4500,
     "ExilesJourneyEvent": "None"
@@ -2608,9 +2608,9 @@
     "Name": "King's Niche",
     "Icon": "T_Map_Icon_ruins",
     "Location": {
-      "x": -219779.125,
-      "y": -47537.71875,
-      "z": 2394.96875
+      "x": -219779,
+      "y": -47537,
+      "z": 2394
     },
     "DiscoveryRadius": 10000,
     "ExilesJourneyEvent": "None"
@@ -2620,9 +2620,9 @@
     "Name": "Wightwatch Lookout",
     "Icon": "T_Map_campIcon",
     "Location": {
-      "x": -219174.125,
-      "y": -78678.71875,
-      "z": -3481.03125
+      "x": -219174,
+      "y": -78678,
+      "z": -3481
     },
     "DiscoveryRadius": 1000,
     "ExilesJourneyEvent": "None"
@@ -2632,9 +2632,9 @@
     "Name": "The Cursed Mound",
     "Icon": "T_Map_Icon_ruins",
     "Location": {
-      "x": -237612.125,
-      "y": -93167.71875,
-      "z": -2982.03125
+      "x": -237612,
+      "y": -93167,
+      "z": -2982
     },
     "DiscoveryRadius": 3400,
     "ExilesJourneyEvent": "None"
@@ -2644,9 +2644,9 @@
     "Name": "Crystalline Chasm",
     "Icon": "T_Map_Icon_camp_frost_giant",
     "Location": {
-      "x": -199983.125,
-      "y": -209220.71875,
-      "z": 5074.96875
+      "x": -199983,
+      "y": -209220,
+      "z": 5074
     },
     "DiscoveryRadius": 2700,
     "ExilesJourneyEvent": "None"
@@ -2656,9 +2656,9 @@
     "Name": "Frostneedle Forest",
     "Icon": "T_Map_Icon_vista",
     "Location": {
-      "x": -164744.125,
-      "y": -187437.71875,
-      "z": -1007.03125
+      "x": -164744,
+      "y": -187437,
+      "z": -1007
     },
     "DiscoveryRadius": 10000,
     "ExilesJourneyEvent": "None"
@@ -2668,9 +2668,9 @@
     "Name": "Bleakwood Ruins",
     "Icon": "T_Map_Icon_ruins",
     "Location": {
-      "x": -162373.125,
-      "y": -190529.71875,
-      "z": -1007.03125
+      "x": -162373,
+      "y": -190529,
+      "z": -1007
     },
     "DiscoveryRadius": 1250,
     "ExilesJourneyEvent": "None"
@@ -2680,9 +2680,9 @@
     "Name": "The Disjunction",
     "Icon": "T_Map_Icon_vista",
     "Location": {
-      "x": -113499.125,
-      "y": -258099.71875,
-      "z": 6603.96875
+      "x": -113499,
+      "y": -258099,
+      "z": 6603
     },
     "DiscoveryRadius": 1800,
     "ExilesJourneyEvent": "None"
@@ -2692,9 +2692,9 @@
     "Name": "The Forge of Ymir",
     "Icon": "T_Map_Icon_vista",
     "Location": {
-      "x": -128001.125,
-      "y": -266287.71875,
-      "z": 7162.96875
+      "x": -128001,
+      "y": -266287,
+      "z": 7162
     },
     "DiscoveryRadius": 2800,
     "ExilesJourneyEvent": "None"
@@ -2704,9 +2704,9 @@
     "Name": "The Frozen Slopes",
     "Icon": "T_Map_Icon_vista",
     "Location": {
-      "x": -124272.125,
-      "y": -196645.71875,
-      "z": 5261.96875
+      "x": -124272,
+      "y": -196645,
+      "z": 5261
     },
     "DiscoveryRadius": 10000,
     "ExilesJourneyEvent": "None"
@@ -2716,9 +2716,9 @@
     "Name": "Flamemist Camp",
     "Icon": "T_Map_Icon_camp_frost_giant",
     "Location": {
-      "x": -102300.125,
-      "y": -193771.71875,
-      "z": 12692.96875
+      "x": -102300,
+      "y": -193771,
+      "z": 12692
     },
     "DiscoveryRadius": 3250,
     "ExilesJourneyEvent": "None"
@@ -2728,9 +2728,9 @@
     "Name": "Carrowmore",
     "Icon": "T_Map_Icon_ruins",
     "Location": {
-      "x": -220949.125,
-      "y": -181485.71875,
-      "z": 1262.96875
+      "x": -220949,
+      "y": -181485,
+      "z": 1262
     },
     "DiscoveryRadius": 3500,
     "ExilesJourneyEvent": "None"
@@ -2740,9 +2740,9 @@
     "Name": "Oasis Overlook",
     "Icon": "T_Map_Icon_vista",
     "Location": {
-      "x": -253832.484375,
-      "y": 16192.53125,
-      "z": 1232.90918
+      "x": -253832,
+      "y": 16192,
+      "z": 1232
     },
     "DiscoveryRadius": 3000,
     "ExilesJourneyEvent": "None"
@@ -2752,9 +2752,9 @@
     "Name": "Bjornar's Stand",
     "Icon": "T_Map_Icon_ruins",
     "Location": {
-      "x": -151897.125,
-      "y": -108126.71875,
-      "z": -1271.03125
+      "x": -151897,
+      "y": -108126,
+      "z": -1271
     },
     "DiscoveryRadius": 2500,
     "ExilesJourneyEvent": "None"
@@ -2776,9 +2776,9 @@
     "Name": "Skyfall Ridge",
     "Icon": "T_Map_Icon_vista",
     "Location": {
-      "x": -177478.125,
-      "y": -141985.71875,
-      "z": 12424.96875
+      "x": -177478,
+      "y": -141985,
+      "z": 12424
     },
     "DiscoveryRadius": 15000,
     "ExilesJourneyEvent": "None"
@@ -2800,9 +2800,9 @@
     "Name": "Stargazer's Crest",
     "Icon": "T_Map_Icon_camp_cimmerian",
     "Location": {
-      "x": -197097.125,
-      "y": -125248.71875,
-      "z": 200.96875
+      "x": -197097,
+      "y": -125248,
+      "z": 200
     },
     "DiscoveryRadius": 1500,
     "ExilesJourneyEvent": "None"
@@ -2812,9 +2812,9 @@
     "Name": "Fleshtearer Falls",
     "Icon": "T_Map_Icon_camp_darfari",
     "Location": {
-      "x": -88031.96875,
-      "y": 167972.03125,
-      "z": -12954.429688
+      "x": -88031,
+      "y": 167972,
+      "z": -12954
     },
     "DiscoveryRadius": 3500,
     "ExilesJourneyEvent": "FindDarfariCamp"
@@ -2824,9 +2824,9 @@
     "Name": "Ravaged Barrows",
     "Icon": "T_Map_Icon_ruins",
     "Location": {
-      "x": -212701.125,
-      "y": -101136.71875,
-      "z": -4483.03125
+      "x": -212701,
+      "y": -101136,
+      "z": -4483
     },
     "DiscoveryRadius": 7000,
     "ExilesJourneyEvent": "None"
@@ -2836,9 +2836,9 @@
     "Name": "Chaosmouth",
     "Icon": "T_Map_Icon_ruins",
     "Location": {
-      "x": -60446.976563,
-      "y": 13695.03125,
-      "z": -6394.429688
+      "x": -60446,
+      "y": 13695,
+      "z": -6394
     },
     "DiscoveryRadius": 15000,
     "ExilesJourneyEvent": "None"
@@ -2848,9 +2848,9 @@
     "Name": "Shrine of the Oracle",
     "Icon": "T_Map_Icon_ruins",
     "Location": {
-      "x": 20581.875,
-      "y": -203775.71875,
-      "z": 46820.96875
+      "x": 20581,
+      "y": -203775,
+      "z": 46820
     },
     "DiscoveryRadius": 6000,
     "ExilesJourneyEvent": "None"
@@ -2860,9 +2860,9 @@
     "Name": "Ironbreaker Ridge",
     "Icon": "T_Map_Icon_vista",
     "Location": {
-      "x": -219113.96875,
-      "y": 69038.03125,
-      "z": 1615.570313
+      "x": -219113,
+      "y": 69038,
+      "z": 1615
     },
     "DiscoveryRadius": 14000,
     "ExilesJourneyEvent": "None"
@@ -2872,9 +2872,9 @@
     "Name": "Terrace of the Tenders",
     "Icon": "T_Map_Icon_vista",
     "Location": {
-      "x": -3050.125,
-      "y": -206806.71875,
-      "z": 44555.96875
+      "x": -3050,
+      "y": -206806,
+      "z": 44555
     },
     "DiscoveryRadius": 4500,
     "ExilesJourneyEvent": "None"
@@ -2884,9 +2884,9 @@
     "Name": "Relicwatcher Rise",
     "Icon": "T_Map_Icon_vista",
     "Location": {
-      "x": -241405.96875,
-      "y": 54935.03125,
-      "z": -3027.429688
+      "x": -241405,
+      "y": 54935,
+      "z": -3027
     },
     "DiscoveryRadius": 9000,
     "ExilesJourneyEvent": "None"
@@ -2896,9 +2896,9 @@
     "Name": "Bridge of Voormithadreth",
     "Icon": "T_Map_Icon_vista",
     "Location": {
-      "x": -22769.125,
-      "y": -208748.71875,
-      "z": 44555.96875
+      "x": -22769,
+      "y": -208748,
+      "z": 44555
     },
     "DiscoveryRadius": 6000,
     "ExilesJourneyEvent": "None"
@@ -2908,9 +2908,9 @@
     "Name": "Rhinohorn Ridge",
     "Icon": "T_Map_Icon_vista",
     "Location": {
-      "x": -221232.96875,
-      "y": 115541.03125,
-      "z": -2759.429688
+      "x": -221232,
+      "y": 115541,
+      "z": -2759
     },
     "DiscoveryRadius": 9000,
     "ExilesJourneyEvent": "None"
@@ -2920,9 +2920,9 @@
     "Name": "The Pens",
     "Icon": "T_Map_Icon_vista",
     "Location": {
-      "x": -37275.125,
-      "y": -207460.71875,
-      "z": 44268.96875
+      "x": -37275,
+      "y": -207460,
+      "z": 44268
     },
     "DiscoveryRadius": 5500,
     "ExilesJourneyEvent": "None"
@@ -2932,9 +2932,9 @@
     "Name": "The Jawbone",
     "Icon": "T_Map_Icon_vista",
     "Location": {
-      "x": -207474.96875,
-      "y": 129210.03125,
-      "z": -1292.429688
+      "x": -207474,
+      "y": 129210,
+      "z": -1292
     },
     "DiscoveryRadius": 14000,
     "ExilesJourneyEvent": "None"
@@ -2944,9 +2944,9 @@
     "Name": "Path of the Penitent",
     "Icon": "T_Map_Icon_vista",
     "Location": {
-      "x": 1310.875,
-      "y": -229183.71875,
-      "z": 40639.96875
+      "x": 1310,
+      "y": -229183,
+      "z": 40639
     },
     "DiscoveryRadius": 7000,
     "ExilesJourneyEvent": "None"
@@ -2956,11 +2956,239 @@
     "Name": "The Slaveway",
     "Icon": "T_Map_Icon_ruins",
     "Location": {
-      "x": -158184.265625,
-      "y": 30007.539063,
-      "z": -1657.014648
+      "x": -158184,
+      "y": 30007,
+      "z": -1657
     },
     "DiscoveryRadius": 7000,
+    "ExilesJourneyEvent": "None"
+  },
+  {
+    "ID": "10901",
+    "Name": "Exiles Camp 01",
+    "Icon": "T_Map_Icon_camp_exiles",
+    "Location": {
+      "x": -82000,
+      "y": 231000,
+      "z": 0
+    },
+    "DiscoveryRadius": 0,
+    "ExilesJourneyEvent": "None"
+  },
+  {
+    "ID": "10902",
+    "Name": "Exiles Camp 02",
+    "Icon": "T_Map_Icon_camp_exiles",
+    "Location": {
+      "x": -77000,
+      "y": 179000,
+      "z": 0
+    },
+    "DiscoveryRadius": 0,
+    "ExilesJourneyEvent": "None"
+  },
+  {
+    "ID": "10903",
+    "Name": "Exiles Camp 03",
+    "Icon": "T_Map_Icon_camp_exiles",
+    "Location": {
+      "x": -67000,
+      "y": 242000,
+      "z": 0
+    },
+    "DiscoveryRadius": 0,
+    "ExilesJourneyEvent": "None"
+  },
+  {
+    "ID": "10904",
+    "Name": "Exiles Camp 04",
+    "Icon": "T_Map_Icon_camp_exiles",
+    "Location": {
+      "x": -63000,
+      "y": 192000,
+      "z": 0
+    },
+    "DiscoveryRadius": 0,
+    "ExilesJourneyEvent": "None"
+  },
+  {
+    "ID": "10905",
+    "Name": "Exiles Camp 05",
+    "Icon": "T_Map_Icon_camp_exiles",
+    "Location": {
+      "x": -62000,
+      "y": 252000,
+      "z": 0
+    },
+    "DiscoveryRadius": 0,
+    "ExilesJourneyEvent": "None"
+  },
+  {
+    "ID": "10906",
+    "Name": "Exiles Camp 06",
+    "Icon": "T_Map_Icon_camp_exiles",
+    "Location": {
+      "x": -45000,
+      "y": 255000,
+      "z": 0
+    },
+    "DiscoveryRadius": 0,
+    "ExilesJourneyEvent": "None"
+  },
+  {
+    "ID": "10907",
+    "Name": "Exiles Camp 07",
+    "Icon": "T_Map_Icon_camp_exiles",
+    "Location": {
+      "x": -43000,
+      "y": 225000,
+      "z": 0
+    },
+    "DiscoveryRadius": 0,
+    "ExilesJourneyEvent": "None"
+  },
+  {
+    "ID": "10908",
+    "Name": "Exiles Camp 08",
+    "Icon": "T_Map_Icon_camp_exiles",
+    "Location": {
+      "x": -42000,
+      "y": 208000,
+      "z": 0
+    },
+    "DiscoveryRadius": 0,
+    "ExilesJourneyEvent": "None"
+  },
+  {
+    "ID": "10909",
+    "Name": "Exiles Camp 09",
+    "Icon": "T_Map_Icon_camp_exiles",
+    "Location": {
+      "x": -39000,
+      "y": 240000,
+      "z": 0
+    },
+    "DiscoveryRadius": 0,
+    "ExilesJourneyEvent": "None"
+  },
+  {
+    "ID": "10910",
+    "Name": "Exiles Camp 10",
+    "Icon": "T_Map_Icon_camp_exiles",
+    "Location": {
+      "x": -18000,
+      "y": 254000,
+      "z": 0
+    },
+    "DiscoveryRadius": 0,
+    "ExilesJourneyEvent": "None"
+  },
+  {
+    "ID": "10911",
+    "Name": "Exiles Camp 11",
+    "Icon": "T_Map_Icon_camp_exiles",
+    "Location": {
+      "x": -14000,
+      "y": 242000,
+      "z": 0
+    },
+    "DiscoveryRadius": 0,
+    "ExilesJourneyEvent": "None"
+  },
+  {
+    "ID": "10912",
+    "Name": "Exiles Camp 12",
+    "Icon": "T_Map_Icon_camp_exiles",
+    "Location": {
+      "x": -2000,
+      "y": 261000,
+      "z": 0
+    },
+    "DiscoveryRadius": 0,
+    "ExilesJourneyEvent": "None"
+  },
+  {
+    "ID": "10913",
+    "Name": "Exiles Camp 13",
+    "Icon": "T_Map_Icon_camp_exiles",
+    "Location": {
+      "x": 12000,
+      "y": 258000,
+      "z": 0
+    },
+    "DiscoveryRadius": 0,
+    "ExilesJourneyEvent": "None"
+  },
+  {
+    "ID": "10914",
+    "Name": "Exiles Camp 14",
+    "Icon": "T_Map_Icon_camp_exiles",
+    "Location": {
+      "x": 15000,
+      "y": 212000,
+      "z": 0
+    },
+    "DiscoveryRadius": 0,
+    "ExilesJourneyEvent": "None"
+  },
+  {
+    "ID": "10915",
+    "Name": "Exiles Camp 15",
+    "Icon": "T_Map_Icon_camp_exiles",
+    "Location": {
+      "x": 28000,
+      "y": 252000,
+      "z": 0
+    },
+    "DiscoveryRadius": 0,
+    "ExilesJourneyEvent": "None"
+  },
+  {
+    "ID": "10916",
+    "Name": "Exiles Camp 16",
+    "Icon": "T_Map_Icon_camp_exiles",
+    "Location": {
+      "x": 49000,
+      "y": 236000,
+      "z": 0
+    },
+    "DiscoveryRadius": 0,
+    "ExilesJourneyEvent": "None"
+  },
+  {
+    "ID": "10917",
+    "Name": "Exiles Camp 17",
+    "Icon": "T_Map_Icon_camp_exiles",
+    "Location": {
+      "x": 68000,
+      "y": 237000,
+      "z": 0
+    },
+    "DiscoveryRadius": 0,
+    "ExilesJourneyEvent": "None"
+  },
+  {
+    "ID": "10918",
+    "Name": "Exiles Camp 18",
+    "Icon": "T_Map_Icon_camp_exiles",
+    "Location": {
+      "x": 81000,
+      "y": 250000,
+      "z": 0
+    },
+    "DiscoveryRadius": 0,
+    "ExilesJourneyEvent": "None"
+  },
+  {
+    "ID": "10919",
+    "Name": "Exiles Camp 19",
+    "Icon": "T_Map_Icon_camp_exiles",
+    "Location": {
+      "x": 93000,
+      "y": 242000,
+      "z": 0
+    },
+    "DiscoveryRadius": 0,
     "ExilesJourneyEvent": "None"
   }
 ]
