@@ -3190,5 +3190,65 @@
     },
     "DiscoveryRadius": 0,
     "ExilesJourneyEvent": "None"
+  },
+  {
+    "ID": "10920",
+    "Name": "Exiles Camp 20",
+    "Icon": "T_Map_Icon_camp_exiles",
+    "Location": {
+      "x": 113000,
+      "y": 222000,
+      "z": 0
+    },
+    "DiscoveryRadius": 0,
+    "ExilesJourneyEvent": "None"
+  },
+  {
+    "ID": "10921",
+    "Name": "Exiles Camp 21",
+    "Icon": "T_Map_Icon_camp_exiles",
+    "Location": {
+      "x": 124000,
+      "y": 217000,
+      "z": 0
+    },
+    "DiscoveryRadius": 0,
+    "ExilesJourneyEvent": "None"
+  },
+  {
+    "ID": "10922",
+    "Name": "Exiles Camp 22",
+    "Icon": "T_Map_Icon_camp_exiles",
+    "Location": {
+      "x": 130000,
+      "y": 228000,
+      "z": 0
+    },
+    "DiscoveryRadius": 0,
+    "ExilesJourneyEvent": "None"
+  },
+  {
+    "ID": "10923",
+    "Name": "Exiles Camp 23",
+    "Icon": "T_Map_Icon_camp_exiles",
+    "Location": {
+      "x": 131000,
+      "y": 203000,
+      "z": 0
+    },
+    "DiscoveryRadius": 0,
+    "ExilesJourneyEvent": "None"
+  },
+  {
+    "ID": "10924",
+    "Name": "Exiles Camp 24",
+    "Icon": "T_Map_Icon_camp_exiles",
+    "Location": {
+      "x": 194000,
+      "y": 188000,
+      "z": 0
+    },
+    "DiscoveryRadius": 0,
+    "ExilesJourneyEvent": "None"
   }
 ]
