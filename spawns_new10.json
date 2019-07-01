@@ -1618,13 +1618,13 @@
       {
         "name": "Lethdol Twox, Speaker of Asura",
         "type": "Priest",
-        "chance": "3%",
+        "chance": "1%",
         "id": "Exile_Priest_4_Hyrkanian"
       },
       {
         "name": "Vattende, Confessor of Asura",
         "type": "Priest",
-        "chance": "3%",
+        "chance": "1%",
         "id": "Exile_Priest_4_Nordheimer"
       },
       {
@@ -5042,43 +5042,43 @@
       {
         "name": "Arcen Brokenfingers",
         "type": "Armorer",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Relic_Hunter_Armorer_4_Shemite"
       },
       {
         "name": "Diana Steelshaper",
         "type": "Armorer",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Relic_Hunter_Armorer_4_Hyborian"
       },
       {
         "name": "Ghamm the worn",
         "type": "Armorer",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Relic_Hunter_Armorer_4_Zamorian"
       },
       {
         "name": "Hanar of Bossonia",
         "type": "Armorer",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Relic_Hunter_Armorer_4_Aquilonian"
       },
       {
         "name": "Silas the weathered",
         "type": "Armorer",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Relic_Hunter_Armorer_4_Zingaran"
       },
       {
         "name": "Than Hammerblow",
         "type": "Armorer",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Relic_Hunter_Armorer_4_Hyrkanian"
       },
       {
         "name": "Zoara of the Marshes",
         "type": "Armorer",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Relic_Hunter_Armorer_4_Stygian"
       },
       {
@@ -6115,13 +6115,13 @@
       {
         "name": "Lissa o' the Longbow",
         "type": "Archer",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Relic_Hunter_Archer_4_Hyborian"
       },
       {
         "name": "Mandughai Hundred-arrow",
         "type": "Archer",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Relic_Hunter_Archer_4_Hyrkanian"
       },
       {
@@ -6331,13 +6331,13 @@
       {
         "name": "Lissa o' the Longbow",
         "type": "Archer",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Relic_Hunter_Archer_4_Hyborian"
       },
       {
         "name": "Mandughai Hundred-arrow",
         "type": "Archer",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Relic_Hunter_Archer_4_Hyrkanian"
       },
       {
@@ -6554,7 +6554,7 @@
       {
         "name": "Hoshun the Fang",
         "type": "Priest",
-        "chance": "8%",
+        "chance": "6%",
         "id": "RelichunterPriest_Boss"
       },
       {
@@ -6914,7 +6914,7 @@
       {
         "name": "Janos",
         "type": "Fighter",
-        "chance": "63%",
+        "chance": "5%",
         "id": "Heirs_of_the_North_Fighter_4_Nordheimer"
       },
       {
@@ -7123,7 +7123,7 @@
       {
         "name": "Varpnir",
         "type": "Archer",
-        "chance": "63%",
+        "chance": "5%",
         "id": "Heirs_of_the_North_Archer_4_Nordheimer"
       },
       {
@@ -7316,7 +7316,7 @@
       {
         "name": "Fakad Hide-Stretcher",
         "type": "Tanner",
-        "chance": "25%",
+        "chance": "1%",
         "id": "Darfari_Cannibals_Tanner_4_Darfari"
       },
       {
@@ -9300,7 +9300,7 @@
       {
         "name": "Beri",
         "type": "Blacksmith",
-        "chance": "38%",
+        "chance": "37%",
         "id": "Heirs_of_the_North_Blacksmith_4_Nordheimer"
       },
       {
@@ -9511,7 +9511,7 @@
       {
         "name": "Beri",
         "type": "Blacksmith",
-        "chance": "38%",
+        "chance": "37%",
         "id": "Heirs_of_the_North_Blacksmith_4_Nordheimer"
       },
       {
@@ -9581,7 +9581,7 @@
       {
         "name": "Varpnir",
         "type": "Archer",
-        "chance": "63%",
+        "chance": "5%",
         "id": "Heirs_of_the_North_Archer_4_Nordheimer"
       },
       {
@@ -9683,7 +9683,7 @@
       {
         "name": "Ansina Hidden-Daggers",
         "type": "Performer",
-        "chance": "25%",
+        "chance": "1%",
         "id": "Darfari_Cannibals_Entertainer_4_Darfari"
       },
       {
@@ -9871,13 +9871,13 @@
       {
         "name": "Luba the Luscious",
         "type": "Performer",
-        "chance": "2%",
+        "chance": "1%",
         "id": "Relic_Hunter_Entertainer_4_Zamorian"
       },
       {
         "name": "Thutmekri the Dramatist",
         "type": "Performer",
-        "chance": "2%",
+        "chance": "1%",
         "id": "Relic_Hunter_Entertainer_4_Stygian"
       },
       {
@@ -10624,7 +10624,7 @@
       {
         "name": "Ansina Hidden-Daggers",
         "type": "Performer",
-        "chance": "25%",
+        "chance": "1%",
         "id": "Darfari_Cannibals_Entertainer_4_Darfari"
       },
       {
@@ -10769,61 +10769,61 @@
       {
         "name": "Amzadi the wanderer",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Stygian_4"
       },
       {
         "name": "Dono'Thelpup",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Darfari_4"
       },
       {
         "name": "Eina the light",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Shemite_4"
       },
       {
         "name": "Fairin of the Wild Coast",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Zingaran_4"
       },
       {
         "name": "Hesth Plainswalker",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Zamorian_4"
       },
       {
         "name": "Kathibria Featherstep",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Kushite_4"
       },
       {
         "name": "Narr Goatfoot",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Hyrkanian_4"
       },
       {
         "name": "Pelor the well-travelled",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Hyborian_4"
       },
       {
         "name": "Rethrous the Burdened",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Cimmerian_4"
       },
       {
         "name": "Ulrik the mountaineer",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Nordheimer_4"
       },
       {
@@ -11060,7 +11060,7 @@
       {
         "name": "Vatessa the Potent",
         "type": "Cook",
-        "chance": "2%",
+        "chance": "1%",
         "id": "Black_Hand_Cook_4_Hyborian"
       },
       {
@@ -11292,13 +11292,13 @@
       {
         "name": "Lissa o' the Longbow",
         "type": "Archer",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Relic_Hunter_Archer_4_Hyborian"
       },
       {
         "name": "Mandughai Hundred-arrow",
         "type": "Archer",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Relic_Hunter_Archer_4_Hyrkanian"
       },
       {
@@ -11339,19 +11339,19 @@
       {
         "name": "Beli the Breaker",
         "type": "Taskmaster",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Relic_Hunter_Taskmaster_4_Shemite"
       },
       {
         "name": "Leo the Monster",
         "type": "Taskmaster",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Relic_Hunter_Taskmaster_4_Zingarian"
       },
       {
         "name": "Olena the Oathmaker",
         "type": "Taskmaster",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Relic_Hunter_Taskmaster_4_Zamorian"
       },
       {
@@ -11613,7 +11613,7 @@
       {
         "name": "Janos",
         "type": "Fighter",
-        "chance": "63%",
+        "chance": "5%",
         "id": "Heirs_of_the_North_Fighter_4_Nordheimer"
       },
       {
@@ -12000,7 +12000,7 @@
       {
         "name": "Hakka Sixfingers",
         "type": "Carpenter",
-        "chance": "25%",
+        "chance": "1%",
         "id": "Darfari_Cannibals_Carpenter_4_Darfari"
       },
       {
@@ -12466,19 +12466,19 @@
       {
         "name": "Erii the Ravager",
         "type": "Fighter",
-        "chance": "4%",
+        "chance": "3%",
         "id": "Votaries_Fighter_4b_hostile"
       },
       {
         "name": "Kisthis Fleshtearer",
         "type": "Fighter",
-        "chance": "4%",
+        "chance": "3%",
         "id": "Votaries_Fighter_4_hostile"
       },
       {
         "name": "Emissary of Haon-Dor",
         "type": "MiniBoss",
-        "chance": "20%",
+        "chance": "13%",
         "id": "Emissary_HaonDor"
       },
       {
@@ -12953,61 +12953,61 @@
       {
         "name": "Amzadi the wanderer",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Stygian_4"
       },
       {
         "name": "Dono'Thelpup",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Darfari_4"
       },
       {
         "name": "Eina the light",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Shemite_4"
       },
       {
         "name": "Fairin of the Wild Coast",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Zingaran_4"
       },
       {
         "name": "Hesth Plainswalker",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Zamorian_4"
       },
       {
         "name": "Kathibria Featherstep",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Kushite_4"
       },
       {
         "name": "Narr Goatfoot",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Hyrkanian_4"
       },
       {
         "name": "Pelor the well-travelled",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Hyborian_4"
       },
       {
         "name": "Rethrous the Burdened",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Cimmerian_4"
       },
       {
         "name": "Ulrik the mountaineer",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Nordheimer_4"
       },
       {
@@ -13045,7 +13045,7 @@
       {
         "name": "Beri",
         "type": "Blacksmith",
-        "chance": "38%",
+        "chance": "37%",
         "id": "Heirs_of_the_North_Blacksmith_4_Nordheimer"
       },
       {
@@ -13228,7 +13228,7 @@
       {
         "name": "Beri",
         "type": "Blacksmith",
-        "chance": "38%",
+        "chance": "37%",
         "id": "Heirs_of_the_North_Blacksmith_4_Nordheimer"
       },
       {
@@ -13311,7 +13311,7 @@
       {
         "name": "Janos",
         "type": "Fighter",
-        "chance": "63%",
+        "chance": "5%",
         "id": "Heirs_of_the_North_Fighter_4_Nordheimer"
       },
       {
@@ -14666,7 +14666,7 @@
       {
         "name": "Janos",
         "type": "Fighter",
-        "chance": "63%",
+        "chance": "5%",
         "id": "Heirs_of_the_North_Fighter_4_Nordheimer"
       },
       {
@@ -14698,7 +14698,7 @@
       {
         "name": "Janos",
         "type": "Fighter",
-        "chance": "63%",
+        "chance": "5%",
         "id": "Heirs_of_the_North_Fighter_4_Nordheimer"
       },
       {
@@ -15128,7 +15128,7 @@
       {
         "name": "Ansina Hidden-Daggers",
         "type": "Performer",
-        "chance": "25%",
+        "chance": "1%",
         "id": "Darfari_Cannibals_Entertainer_4_Darfari"
       },
       {
@@ -16703,7 +16703,7 @@
       {
         "name": "Varpnir",
         "type": "Archer",
-        "chance": "63%",
+        "chance": "5%",
         "id": "Heirs_of_the_North_Archer_4_Nordheimer"
       },
       {
@@ -16801,7 +16801,7 @@
       {
         "name": "Ansina Hidden-Daggers",
         "type": "Performer",
-        "chance": "25%",
+        "chance": "1%",
         "id": "Darfari_Cannibals_Entertainer_4_Darfari"
       },
       {
@@ -17481,7 +17481,7 @@
       {
         "name": "Vatessa the Potent",
         "type": "Cook",
-        "chance": "2%",
+        "chance": "1%",
         "id": "Black_Hand_Cook_4_Hyborian"
       },
       {
@@ -17888,13 +17888,13 @@
       {
         "name": "Braggi the Bold",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Nordheimer"
       },
       {
         "name": "Cruaidh the Crusher",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Cimmerian"
       },
       {
@@ -17970,13 +17970,13 @@
       {
         "name": "Braggi the Bold",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Nordheimer"
       },
       {
         "name": "Cruaidh the Crusher",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Cimmerian"
       },
       {
@@ -18335,13 +18335,13 @@
       {
         "name": "Lissa o' the Longbow",
         "type": "Archer",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Relic_Hunter_Archer_4_Hyborian"
       },
       {
         "name": "Mandughai Hundred-arrow",
         "type": "Archer",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Relic_Hunter_Archer_4_Hyrkanian"
       },
       {
@@ -18458,13 +18458,13 @@
       {
         "name": "Braggi the Bold",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Nordheimer"
       },
       {
         "name": "Cruaidh the Crusher",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Cimmerian"
       },
       {
@@ -18809,7 +18809,7 @@
       {
         "name": "Beri",
         "type": "Blacksmith",
-        "chance": "38%",
+        "chance": "37%",
         "id": "Heirs_of_the_North_Blacksmith_4_Nordheimer"
       },
       {
@@ -19053,13 +19053,13 @@
       {
         "name": "Braggi the Bold",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Nordheimer"
       },
       {
         "name": "Cruaidh the Crusher",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Cimmerian"
       },
       {
@@ -19768,7 +19768,7 @@
       {
         "name": "Varkin Fleetfoot",
         "type": "Performer",
-        "chance": "8%",
+        "chance": "1%",
         "id": "Lemurian_Entertainer_4"
       },
       {
@@ -20018,7 +20018,7 @@
       {
         "name": "Gnash the hungry",
         "type": "Cook",
-        "chance": "8%",
+        "chance": "1%",
         "id": "Lemurian_Cook_4"
       },
       {
@@ -20363,7 +20363,7 @@
       {
         "name": "Poris Master Carpenter",
         "type": "Carpenter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Dogs_Carpenter_4_Zamorian"
       },
       {
@@ -20382,13 +20382,13 @@
       {
         "name": "Luba the Luscious",
         "type": "Performer",
-        "chance": "2%",
+        "chance": "1%",
         "id": "Relic_Hunter_Entertainer_4_Zamorian"
       },
       {
         "name": "Thutmekri the Dramatist",
         "type": "Performer",
-        "chance": "2%",
+        "chance": "1%",
         "id": "Relic_Hunter_Entertainer_4_Stygian"
       },
       {
@@ -20597,7 +20597,7 @@
       {
         "name": "Varpnir",
         "type": "Archer",
-        "chance": "63%",
+        "chance": "5%",
         "id": "Heirs_of_the_North_Archer_4_Nordheimer"
       },
       {
@@ -21547,13 +21547,13 @@
       {
         "name": "Luba the Luscious",
         "type": "Performer",
-        "chance": "2%",
+        "chance": "1%",
         "id": "Relic_Hunter_Entertainer_4_Zamorian"
       },
       {
         "name": "Thutmekri the Dramatist",
         "type": "Performer",
-        "chance": "2%",
+        "chance": "1%",
         "id": "Relic_Hunter_Entertainer_4_Stygian"
       },
       {
@@ -21847,7 +21847,7 @@
       {
         "name": "Rokur the Alchemist",
         "type": "Alchemist",
-        "chance": "25%",
+        "chance": "1%",
         "id": "Heirs_of_the_North_Alchemist_4_Nordheimer"
       },
       {
@@ -22423,13 +22423,13 @@
       {
         "name": "Mei the Blade",
         "type": "Fighter",
-        "chance": "7%",
+        "chance": "1%",
         "id": "Lemurian_Fighter_4b"
       },
       {
         "name": "Waros the Breaker",
         "type": "Fighter",
-        "chance": "7%",
+        "chance": "1%",
         "id": "Lemurian_Fighter_4"
       },
       {
@@ -22686,7 +22686,7 @@
       {
         "name": "Poscore Nimblefingers",
         "type": "Carpenter",
-        "chance": "8%",
+        "chance": "1%",
         "id": "Lemurian_Carpenter_4"
       },
       {
@@ -22869,7 +22869,7 @@
       {
         "name": "Fia",
         "type": "Armorer",
-        "chance": "19%",
+        "chance": "2%",
         "id": "Lemurian_Armorer_4"
       },
       {
@@ -22970,13 +22970,13 @@
       {
         "name": "Lissa o' the Longbow",
         "type": "Archer",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Relic_Hunter_Archer_4_Hyborian"
       },
       {
         "name": "Mandughai Hundred-arrow",
         "type": "Archer",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Relic_Hunter_Archer_4_Hyrkanian"
       },
       {
@@ -22995,13 +22995,13 @@
       {
         "name": "Luba the Luscious",
         "type": "Performer",
-        "chance": "2%",
+        "chance": "1%",
         "id": "Relic_Hunter_Entertainer_4_Zamorian"
       },
       {
         "name": "Thutmekri the Dramatist",
         "type": "Performer",
-        "chance": "2%",
+        "chance": "1%",
         "id": "Relic_Hunter_Entertainer_4_Stygian"
       },
       {
@@ -23182,7 +23182,7 @@
       {
         "name": "Beri",
         "type": "Blacksmith",
-        "chance": "38%",
+        "chance": "37%",
         "id": "Heirs_of_the_North_Blacksmith_4_Nordheimer"
       },
       {
@@ -23356,7 +23356,7 @@
       {
         "name": "Beri",
         "type": "Blacksmith",
-        "chance": "38%",
+        "chance": "37%",
         "id": "Heirs_of_the_North_Blacksmith_4_Nordheimer"
       },
       {
@@ -23657,13 +23657,13 @@
       {
         "name": "Alren Storm",
         "type": "Archer",
-        "chance": "8%",
+        "chance": "1%",
         "id": "Lemurian_Archer_4"
       },
       {
         "name": "Lissira",
         "type": "Archer",
-        "chance": "8%",
+        "chance": "1%",
         "id": "Lemurian_Archer_4b"
       },
       {
@@ -24275,7 +24275,7 @@
       {
         "name": "Gnash the hungry",
         "type": "Cook",
-        "chance": "8%",
+        "chance": "1%",
         "id": "Lemurian_Cook_4"
       },
       {
@@ -24319,7 +24319,7 @@
       {
         "name": "Fia",
         "type": "Armorer",
-        "chance": "19%",
+        "chance": "2%",
         "id": "Lemurian_Armorer_4"
       },
       {
@@ -24614,13 +24614,13 @@
       {
         "name": "Alren Storm",
         "type": "Archer",
-        "chance": "8%",
+        "chance": "1%",
         "id": "Lemurian_Archer_4"
       },
       {
         "name": "Lissira",
         "type": "Archer",
-        "chance": "8%",
+        "chance": "1%",
         "id": "Lemurian_Archer_4b"
       },
       {
@@ -24786,13 +24786,13 @@
       {
         "name": "Alren Storm",
         "type": "Archer",
-        "chance": "8%",
+        "chance": "1%",
         "id": "Lemurian_Archer_4"
       },
       {
         "name": "Lissira",
         "type": "Archer",
-        "chance": "8%",
+        "chance": "1%",
         "id": "Lemurian_Archer_4b"
       },
       {
@@ -24855,13 +24855,13 @@
       {
         "name": "Lissa o' the Longbow",
         "type": "Archer",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Relic_Hunter_Archer_4_Hyborian"
       },
       {
         "name": "Mandughai Hundred-arrow",
         "type": "Archer",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Relic_Hunter_Archer_4_Hyrkanian"
       },
       {
@@ -24880,61 +24880,61 @@
       {
         "name": "Amzadi the wanderer",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Stygian_4"
       },
       {
         "name": "Dono'Thelpup",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Darfari_4"
       },
       {
         "name": "Eina the light",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Shemite_4"
       },
       {
         "name": "Fairin of the Wild Coast",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Zingaran_4"
       },
       {
         "name": "Hesth Plainswalker",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Zamorian_4"
       },
       {
         "name": "Kathibria Featherstep",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Kushite_4"
       },
       {
         "name": "Narr Goatfoot",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Hyrkanian_4"
       },
       {
         "name": "Pelor the well-travelled",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Hyborian_4"
       },
       {
         "name": "Rethrous the Burdened",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Cimmerian_4"
       },
       {
         "name": "Ulrik the mountaineer",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Nordheimer_4"
       },
       {
@@ -25143,7 +25143,73 @@
     ],
     "spawns": [
       {
-        "name": "Armorer I-II"
+        "name": "Barks-At-Moon",
+        "type": "Armorer",
+        "chance": "<1%",
+        "id": "Dogs_Armorer_4_Kushite"
+      },
+      {
+        "name": "Ionna the Seductress",
+        "type": "Performer",
+        "chance": "<1%",
+        "id": "Dogs_Entertainer_4_Zamorian"
+      },
+      {
+        "name": "Llarn Steeltoe",
+        "type": "Armorer",
+        "chance": "<1%",
+        "id": "Dogs_Armorer_4_Kambujan"
+      },
+      {
+        "name": "Poris Master Carpenter",
+        "type": "Carpenter",
+        "chance": "<1%",
+        "id": "Dogs_Carpenter_4_Zamorian"
+      },
+      {
+        "name": "Sadeh the Lithe",
+        "type": "Performer",
+        "chance": "<1%",
+        "id": "Dogs_Entertainer_4_Stygian"
+      },
+      {
+        "name": "Talitha Goldfingers",
+        "type": "Blacksmith",
+        "chance": "<1%",
+        "id": "Dogs_Blacksmith_4_Shemite"
+      },
+      {
+        "name": "Vitel Stovebound",
+        "type": "Cook",
+        "chance": "<1%",
+        "id": "Dogs_Cook_4_Zamorian"
+      },
+      {
+        "name": "Yael of Shem",
+        "type": "Smelter",
+        "chance": "<1%",
+        "id": "Dogs_Smelter_4_Shemite"
+      },
+      {
+        "name": "Armorer I-III"
+      },
+      {
+        "name": "Blacksmith I-III"
+      },
+      {
+        "name": "Carpenter I-III"
+      },
+      {
+        "name": "Performer I-III"
+      },
+      {
+        "name": "Smelter I-III"
+      },
+      {
+        "name": "Cook I-III"
+      },
+      {
+        "name": "Tanner I-III"
       }
     ]
   },
@@ -25158,7 +25224,7 @@
       {
         "name": "Hakka Sixfingers",
         "type": "Carpenter",
-        "chance": "25%",
+        "chance": "1%",
         "id": "Darfari_Cannibals_Carpenter_4_Darfari"
       },
       {
@@ -25177,19 +25243,19 @@
       {
         "name": "Yog's Chosen",
         "type": "Priest",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Darfari_Cannibals_Priest_4_Darfari1"
       },
       {
         "name": "Yog's Chosen",
         "type": "Priest",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Darfari_Cannibals_Priest_4_Darfari3"
       },
       {
         "name": "Yog's Chosen",
         "type": "Priest",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Darfari_Cannibals_Priest_4_Darfari2"
       },
       {
@@ -25262,31 +25328,31 @@
       {
         "name": "Espel the Glorious",
         "type": "Priest",
-        "chance": "4%",
+        "chance": "<1%",
         "id": "Lemurian_Priest_Set_4_Hyborian"
       },
       {
         "name": "Haur the Devoted",
         "type": "Priest",
-        "chance": "4%",
+        "chance": "<1%",
         "id": "Lemurian_Priest_Set_4_Cimmerian"
       },
       {
         "name": "Jaden Rousch the Epiphaneous",
         "type": "Priest",
-        "chance": "4%",
+        "chance": "<1%",
         "id": "Lemurian_Priest_Set_4_Zingaran"
       },
       {
         "name": "Ketmet the Whisperer",
         "type": "Priest",
-        "chance": "4%",
+        "chance": "<1%",
         "id": "Lemurian_Priest_Set_4_Stygian"
       },
       {
         "name": "Menhas, Walker of the Path",
         "type": "Priest",
-        "chance": "4%",
+        "chance": "<1%",
         "id": "Lemurian_Priest_Set_4_Kushite"
       },
       {
@@ -26161,7 +26227,7 @@
       {
         "name": "Varpnir",
         "type": "Archer",
-        "chance": "63%",
+        "chance": "5%",
         "id": "Heirs_of_the_North_Archer_4_Nordheimer"
       },
       {
@@ -26287,7 +26353,7 @@
       {
         "name": "Haruk Blackened-Teeth",
         "type": "Alchemist",
-        "chance": "25%",
+        "chance": "1%",
         "id": "Darfari_Cannibals_Alchemist_4_Darfari"
       },
       {
@@ -26411,13 +26477,13 @@
       {
         "name": "Ionna the Seductress",
         "type": "Performer",
-        "chance": "2%",
+        "chance": "1%",
         "id": "Dogs_Entertainer_4_Zamorian"
       },
       {
         "name": "Sadeh the Lithe",
         "type": "Performer",
-        "chance": "2%",
+        "chance": "1%",
         "id": "Dogs_Entertainer_4_Stygian"
       },
       {
@@ -26982,13 +27048,13 @@
       {
         "name": "Braggi the Bold",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Nordheimer"
       },
       {
         "name": "Cruaidh the Crusher",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Cimmerian"
       },
       {
@@ -27088,13 +27154,13 @@
       {
         "name": "Braggi the Bold",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Nordheimer"
       },
       {
         "name": "Cruaidh the Crusher",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Cimmerian"
       },
       {
@@ -27274,7 +27340,7 @@
       {
         "name": "Vatessa the Potent",
         "type": "Cook",
-        "chance": "2%",
+        "chance": "1%",
         "id": "Black_Hand_Cook_4_Hyborian"
       },
       {
@@ -27835,7 +27901,7 @@
       {
         "name": "Varpnir",
         "type": "Archer",
-        "chance": "63%",
+        "chance": "5%",
         "id": "Heirs_of_the_North_Archer_4_Nordheimer"
       },
       {
@@ -28026,19 +28092,19 @@
       {
         "name": "Beli the Breaker",
         "type": "Taskmaster",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Relic_Hunter_Taskmaster_4_Shemite"
       },
       {
         "name": "Leo the Monster",
         "type": "Taskmaster",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Relic_Hunter_Taskmaster_4_Zingarian"
       },
       {
         "name": "Olena the Oathmaker",
         "type": "Taskmaster",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Relic_Hunter_Taskmaster_4_Zamorian"
       },
       {
@@ -28618,13 +28684,13 @@
       {
         "name": "Braggi the Bold",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Nordheimer"
       },
       {
         "name": "Cruaidh the Crusher",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Cimmerian"
       },
       {
@@ -29037,7 +29103,73 @@
     ],
     "spawns": [
       {
-        "name": "Armorer I-II"
+        "name": "Barks-At-Moon",
+        "type": "Armorer",
+        "chance": "<1%",
+        "id": "Dogs_Armorer_4_Kushite"
+      },
+      {
+        "name": "Ionna the Seductress",
+        "type": "Performer",
+        "chance": "<1%",
+        "id": "Dogs_Entertainer_4_Zamorian"
+      },
+      {
+        "name": "Llarn Steeltoe",
+        "type": "Armorer",
+        "chance": "<1%",
+        "id": "Dogs_Armorer_4_Kambujan"
+      },
+      {
+        "name": "Poris Master Carpenter",
+        "type": "Carpenter",
+        "chance": "<1%",
+        "id": "Dogs_Carpenter_4_Zamorian"
+      },
+      {
+        "name": "Sadeh the Lithe",
+        "type": "Performer",
+        "chance": "<1%",
+        "id": "Dogs_Entertainer_4_Stygian"
+      },
+      {
+        "name": "Talitha Goldfingers",
+        "type": "Blacksmith",
+        "chance": "<1%",
+        "id": "Dogs_Blacksmith_4_Shemite"
+      },
+      {
+        "name": "Vitel Stovebound",
+        "type": "Cook",
+        "chance": "<1%",
+        "id": "Dogs_Cook_4_Zamorian"
+      },
+      {
+        "name": "Yael of Shem",
+        "type": "Smelter",
+        "chance": "<1%",
+        "id": "Dogs_Smelter_4_Shemite"
+      },
+      {
+        "name": "Armorer I-III"
+      },
+      {
+        "name": "Blacksmith I-III"
+      },
+      {
+        "name": "Carpenter I-III"
+      },
+      {
+        "name": "Performer I-III"
+      },
+      {
+        "name": "Smelter I-III"
+      },
+      {
+        "name": "Cook I-III"
+      },
+      {
+        "name": "Tanner I-III"
       }
     ]
   },
@@ -29256,7 +29388,7 @@
       {
         "name": "Cannibal Brute",
         "type": "Fighter",
-        "chance": "99%",
+        "chance": "79%",
         "id": "Darfari_Cannibals_Fighter_4_Darfari"
       },
       {
@@ -29369,7 +29501,7 @@
       {
         "name": "Varpnir",
         "type": "Archer",
-        "chance": "63%",
+        "chance": "5%",
         "id": "Heirs_of_the_North_Archer_4_Nordheimer"
       },
       {
@@ -29401,7 +29533,7 @@
       {
         "name": "Fakad Hide-Stretcher",
         "type": "Tanner",
-        "chance": "25%",
+        "chance": "1%",
         "id": "Darfari_Cannibals_Tanner_4_Darfari"
       },
       {
@@ -29519,13 +29651,13 @@
       {
         "name": "Braggi the Bold",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Nordheimer"
       },
       {
         "name": "Cruaidh the Crusher",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Cimmerian"
       },
       {
@@ -29719,13 +29851,13 @@
       {
         "name": "Braggi the Bold",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Nordheimer"
       },
       {
         "name": "Cruaidh the Crusher",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Cimmerian"
       },
       {
@@ -29801,13 +29933,13 @@
       {
         "name": "Braggi the Bold",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Nordheimer"
       },
       {
         "name": "Cruaidh the Crusher",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Cimmerian"
       },
       {
@@ -29858,13 +29990,13 @@
       {
         "name": "Braggi the Bold",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Nordheimer"
       },
       {
         "name": "Cruaidh the Crusher",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Cimmerian"
       },
       {
@@ -29905,7 +30037,7 @@
       {
         "name": "Beri",
         "type": "Blacksmith",
-        "chance": "38%",
+        "chance": "37%",
         "id": "Heirs_of_the_North_Blacksmith_4_Nordheimer"
       },
       {
@@ -30469,13 +30601,13 @@
       {
         "name": "Braggi the Bold",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Nordheimer"
       },
       {
         "name": "Cruaidh the Crusher",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Cimmerian"
       },
       {
@@ -30774,13 +30906,13 @@
       {
         "name": "Braggi the Bold",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Nordheimer"
       },
       {
         "name": "Cruaidh the Crusher",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Cimmerian"
       },
       {
@@ -30917,7 +31049,7 @@
       {
         "name": "Beri",
         "type": "Blacksmith",
-        "chance": "38%",
+        "chance": "37%",
         "id": "Heirs_of_the_North_Blacksmith_4_Nordheimer"
       },
       {
@@ -31169,7 +31301,7 @@
       {
         "name": "Ansina Hidden-Daggers",
         "type": "Performer",
-        "chance": "25%",
+        "chance": "1%",
         "id": "Darfari_Cannibals_Entertainer_4_Darfari"
       },
       {
@@ -31248,13 +31380,13 @@
       {
         "name": "Braggi the Bold",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Nordheimer"
       },
       {
         "name": "Cruaidh the Crusher",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Cimmerian"
       },
       {
@@ -31528,13 +31660,13 @@
       {
         "name": "Braggi the Bold",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Nordheimer"
       },
       {
         "name": "Cruaidh the Crusher",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Cimmerian"
       },
       {
@@ -31908,7 +32040,7 @@
       {
         "name": "Kol True-Strike",
         "type": "Archer",
-        "chance": "2%",
+        "chance": "1%",
         "id": "Dogs_Archer_4_Zamorian"
       },
       {
@@ -31968,13 +32100,13 @@
       {
         "name": "Barks-At-Moon",
         "type": "Armorer",
-        "chance": "2%",
+        "chance": "1%",
         "id": "Dogs_Armorer_4_Kushite"
       },
       {
         "name": "Llarn Steeltoe",
         "type": "Armorer",
-        "chance": "2%",
+        "chance": "1%",
         "id": "Dogs_Armorer_4_Kambujan"
       },
       {
@@ -32034,7 +32166,7 @@
       {
         "name": "Kol True-Strike",
         "type": "Archer",
-        "chance": "2%",
+        "chance": "1%",
         "id": "Dogs_Archer_4_Zamorian"
       },
       {
@@ -32053,7 +32185,7 @@
       {
         "name": "Vatessa the Potent",
         "type": "Cook",
-        "chance": "2%",
+        "chance": "1%",
         "id": "Black_Hand_Cook_4_Hyborian"
       },
       {
@@ -32113,7 +32245,7 @@
       {
         "name": "Kol True-Strike",
         "type": "Archer",
-        "chance": "2%",
+        "chance": "1%",
         "id": "Dogs_Archer_4_Zamorian"
       },
       {
@@ -32148,13 +32280,13 @@
       {
         "name": "Ionna the Seductress",
         "type": "Performer",
-        "chance": "2%",
+        "chance": "1%",
         "id": "Dogs_Entertainer_4_Zamorian"
       },
       {
         "name": "Sadeh the Lithe",
         "type": "Performer",
-        "chance": "2%",
+        "chance": "1%",
         "id": "Dogs_Entertainer_4_Stygian"
       },
       {
@@ -32173,13 +32305,13 @@
       {
         "name": "Braggi the Bold",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Nordheimer"
       },
       {
         "name": "Cruaidh the Crusher",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Cimmerian"
       },
       {
@@ -32275,7 +32407,73 @@
     ],
     "spawns": [
       {
-        "name": "Armorer I-II"
+        "name": "Barks-At-Moon",
+        "type": "Armorer",
+        "chance": "<1%",
+        "id": "Dogs_Armorer_4_Kushite"
+      },
+      {
+        "name": "Ionna the Seductress",
+        "type": "Performer",
+        "chance": "<1%",
+        "id": "Dogs_Entertainer_4_Zamorian"
+      },
+      {
+        "name": "Llarn Steeltoe",
+        "type": "Armorer",
+        "chance": "<1%",
+        "id": "Dogs_Armorer_4_Kambujan"
+      },
+      {
+        "name": "Poris Master Carpenter",
+        "type": "Carpenter",
+        "chance": "<1%",
+        "id": "Dogs_Carpenter_4_Zamorian"
+      },
+      {
+        "name": "Sadeh the Lithe",
+        "type": "Performer",
+        "chance": "<1%",
+        "id": "Dogs_Entertainer_4_Stygian"
+      },
+      {
+        "name": "Talitha Goldfingers",
+        "type": "Blacksmith",
+        "chance": "<1%",
+        "id": "Dogs_Blacksmith_4_Shemite"
+      },
+      {
+        "name": "Vitel Stovebound",
+        "type": "Cook",
+        "chance": "<1%",
+        "id": "Dogs_Cook_4_Zamorian"
+      },
+      {
+        "name": "Yael of Shem",
+        "type": "Smelter",
+        "chance": "<1%",
+        "id": "Dogs_Smelter_4_Shemite"
+      },
+      {
+        "name": "Armorer I-III"
+      },
+      {
+        "name": "Blacksmith I-III"
+      },
+      {
+        "name": "Carpenter I-III"
+      },
+      {
+        "name": "Performer I-III"
+      },
+      {
+        "name": "Smelter I-III"
+      },
+      {
+        "name": "Cook I-III"
+      },
+      {
+        "name": "Tanner I-III"
       }
     ]
   },
@@ -32290,13 +32488,13 @@
       {
         "name": "Braggi the Bold",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Nordheimer"
       },
       {
         "name": "Cruaidh the Crusher",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Cimmerian"
       },
       {
@@ -32331,13 +32529,13 @@
       {
         "name": "Braggi the Bold",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Nordheimer"
       },
       {
         "name": "Cruaidh the Crusher",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Cimmerian"
       },
       {
@@ -32372,13 +32570,13 @@
       {
         "name": "Lissa o' the Longbow",
         "type": "Archer",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Relic_Hunter_Archer_4_Hyborian"
       },
       {
         "name": "Mandughai Hundred-arrow",
         "type": "Archer",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Relic_Hunter_Archer_4_Hyrkanian"
       },
       {
@@ -32410,7 +32608,7 @@
       {
         "name": "Bandit Leader",
         "type": "Fighter",
-        "chance": "10%",
+        "chance": "9%",
         "id": "RelichunterRobber_Boss"
       },
       {
@@ -32680,13 +32878,13 @@
       {
         "name": "Braggi the Bold",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Nordheimer"
       },
       {
         "name": "Cruaidh the Crusher",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Cimmerian"
       },
       {
@@ -32721,13 +32919,13 @@
       {
         "name": "Braggi the Bold",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Nordheimer"
       },
       {
         "name": "Cruaidh the Crusher",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Cimmerian"
       },
       {
@@ -32939,13 +33137,13 @@
       {
         "name": "Braggi the Bold",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Nordheimer"
       },
       {
         "name": "Cruaidh the Crusher",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Cimmerian"
       },
       {
@@ -33283,13 +33481,13 @@
       {
         "name": "Braggi the Bold",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Nordheimer"
       },
       {
         "name": "Cruaidh the Crusher",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Cimmerian"
       },
       {
@@ -33308,7 +33506,7 @@
       {
         "name": "Vatessa the Potent",
         "type": "Cook",
-        "chance": "2%",
+        "chance": "1%",
         "id": "Black_Hand_Cook_4_Hyborian"
       },
       {
@@ -33352,13 +33550,13 @@
       {
         "name": "Braggi the Bold",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Nordheimer"
       },
       {
         "name": "Cruaidh the Crusher",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Cimmerian"
       },
       {
@@ -33377,13 +33575,13 @@
       {
         "name": "Braggi the Bold",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Nordheimer"
       },
       {
         "name": "Cruaidh the Crusher",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Cimmerian"
       },
       {
@@ -33836,7 +34034,7 @@
       {
         "name": "Varpnir",
         "type": "Archer",
-        "chance": "63%",
+        "chance": "5%",
         "id": "Heirs_of_the_North_Archer_4_Nordheimer"
       },
       {
@@ -33868,13 +34066,13 @@
       {
         "name": "Deirde Deathbringer",
         "type": "Fighter",
-        "chance": "6%",
+        "chance": "1%",
         "id": "Exile_Fighter_4_Cimmerian"
       },
       {
         "name": "Frigga Falsehope",
         "type": "Fighter",
-        "chance": "6%",
+        "chance": "1%",
         "id": "Exile_Fighter_4_Nordheimer"
       },
       {
@@ -34039,7 +34237,7 @@
       {
         "name": "Janos",
         "type": "Fighter",
-        "chance": "63%",
+        "chance": "5%",
         "id": "Heirs_of_the_North_Fighter_4_Nordheimer"
       },
       {
@@ -34299,19 +34497,19 @@
       {
         "name": "Fingal Firetender",
         "type": "Smelter",
-        "chance": "2%",
+        "chance": "1%",
         "id": "Black_Hand_Smelter_4_Cimmerian"
       },
       {
         "name": "Idra Sparkeyes",
         "type": "Smelter",
-        "chance": "2%",
+        "chance": "1%",
         "id": "Black_Hand_Smelter_4_Shemite"
       },
       {
         "name": "Macrin Blackhand",
         "type": "Smelter",
-        "chance": "2%",
+        "chance": "1%",
         "id": "Black_Hand_Smelter_4_Nordheimer"
       },
       {
@@ -34473,13 +34671,13 @@
       {
         "name": "Braggi the Bold",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Nordheimer"
       },
       {
         "name": "Cruaidh the Crusher",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Cimmerian"
       },
       {
@@ -34974,13 +35172,13 @@
       {
         "name": "Braggi the Bold",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Nordheimer"
       },
       {
         "name": "Cruaidh the Crusher",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Cimmerian"
       },
       {
@@ -34999,13 +35197,13 @@
       {
         "name": "Braggi the Bold",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Nordheimer"
       },
       {
         "name": "Cruaidh the Crusher",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Cimmerian"
       },
       {
@@ -35024,13 +35222,13 @@
       {
         "name": "Braggi the Bold",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Nordheimer"
       },
       {
         "name": "Cruaidh the Crusher",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Cimmerian"
       },
       {
@@ -35049,13 +35247,13 @@
       {
         "name": "Braggi the Bold",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Nordheimer"
       },
       {
         "name": "Cruaidh the Crusher",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Cimmerian"
       },
       {
@@ -35074,13 +35272,13 @@
       {
         "name": "Braggi the Bold",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Nordheimer"
       },
       {
         "name": "Cruaidh the Crusher",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Cimmerian"
       },
       {
@@ -35099,13 +35297,13 @@
       {
         "name": "Braggi the Bold",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Nordheimer"
       },
       {
         "name": "Cruaidh the Crusher",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Cimmerian"
       },
       {
@@ -35749,7 +35947,7 @@
       {
         "name": "Kol True-Strike",
         "type": "Archer",
-        "chance": "2%",
+        "chance": "1%",
         "id": "Dogs_Archer_4_Zamorian"
       },
       {
@@ -35766,7 +35964,73 @@
     ],
     "spawns": [
       {
-        "name": "Armorer I-II"
+        "name": "Barks-At-Moon",
+        "type": "Armorer",
+        "chance": "<1%",
+        "id": "Dogs_Armorer_4_Kushite"
+      },
+      {
+        "name": "Ionna the Seductress",
+        "type": "Performer",
+        "chance": "<1%",
+        "id": "Dogs_Entertainer_4_Zamorian"
+      },
+      {
+        "name": "Llarn Steeltoe",
+        "type": "Armorer",
+        "chance": "<1%",
+        "id": "Dogs_Armorer_4_Kambujan"
+      },
+      {
+        "name": "Poris Master Carpenter",
+        "type": "Carpenter",
+        "chance": "<1%",
+        "id": "Dogs_Carpenter_4_Zamorian"
+      },
+      {
+        "name": "Sadeh the Lithe",
+        "type": "Performer",
+        "chance": "<1%",
+        "id": "Dogs_Entertainer_4_Stygian"
+      },
+      {
+        "name": "Talitha Goldfingers",
+        "type": "Blacksmith",
+        "chance": "<1%",
+        "id": "Dogs_Blacksmith_4_Shemite"
+      },
+      {
+        "name": "Vitel Stovebound",
+        "type": "Cook",
+        "chance": "<1%",
+        "id": "Dogs_Cook_4_Zamorian"
+      },
+      {
+        "name": "Yael of Shem",
+        "type": "Smelter",
+        "chance": "<1%",
+        "id": "Dogs_Smelter_4_Shemite"
+      },
+      {
+        "name": "Armorer I-III"
+      },
+      {
+        "name": "Blacksmith I-III"
+      },
+      {
+        "name": "Carpenter I-III"
+      },
+      {
+        "name": "Performer I-III"
+      },
+      {
+        "name": "Smelter I-III"
+      },
+      {
+        "name": "Cook I-III"
+      },
+      {
+        "name": "Tanner I-III"
       }
     ]
   },
@@ -36169,7 +36433,7 @@
       {
         "name": "Immis of Zamora",
         "type": "Alchemist",
-        "chance": "2%",
+        "chance": "1%",
         "id": "Dogs_Alchemist_4_Zamorian"
       },
       {
@@ -36287,7 +36551,73 @@
     ],
     "spawns": [
       {
-        "name": "Armorer I-II"
+        "name": "Barks-At-Moon",
+        "type": "Armorer",
+        "chance": "<1%",
+        "id": "Dogs_Armorer_4_Kushite"
+      },
+      {
+        "name": "Ionna the Seductress",
+        "type": "Performer",
+        "chance": "<1%",
+        "id": "Dogs_Entertainer_4_Zamorian"
+      },
+      {
+        "name": "Llarn Steeltoe",
+        "type": "Armorer",
+        "chance": "<1%",
+        "id": "Dogs_Armorer_4_Kambujan"
+      },
+      {
+        "name": "Poris Master Carpenter",
+        "type": "Carpenter",
+        "chance": "<1%",
+        "id": "Dogs_Carpenter_4_Zamorian"
+      },
+      {
+        "name": "Sadeh the Lithe",
+        "type": "Performer",
+        "chance": "<1%",
+        "id": "Dogs_Entertainer_4_Stygian"
+      },
+      {
+        "name": "Talitha Goldfingers",
+        "type": "Blacksmith",
+        "chance": "<1%",
+        "id": "Dogs_Blacksmith_4_Shemite"
+      },
+      {
+        "name": "Vitel Stovebound",
+        "type": "Cook",
+        "chance": "<1%",
+        "id": "Dogs_Cook_4_Zamorian"
+      },
+      {
+        "name": "Yael of Shem",
+        "type": "Smelter",
+        "chance": "<1%",
+        "id": "Dogs_Smelter_4_Shemite"
+      },
+      {
+        "name": "Armorer I-III"
+      },
+      {
+        "name": "Blacksmith I-III"
+      },
+      {
+        "name": "Carpenter I-III"
+      },
+      {
+        "name": "Performer I-III"
+      },
+      {
+        "name": "Smelter I-III"
+      },
+      {
+        "name": "Cook I-III"
+      },
+      {
+        "name": "Tanner I-III"
       }
     ]
   },
@@ -36340,7 +36670,7 @@
       {
         "name": "Kol True-Strike",
         "type": "Archer",
-        "chance": "2%",
+        "chance": "1%",
         "id": "Dogs_Archer_4_Zamorian"
       },
       {
@@ -36372,7 +36702,7 @@
       {
         "name": "Talitha Goldfingers",
         "type": "Blacksmith",
-        "chance": "2%",
+        "chance": "1%",
         "id": "Dogs_Blacksmith_4_Shemite"
       },
       {
@@ -36389,7 +36719,73 @@
     ],
     "spawns": [
       {
-        "name": "Armorer I-II"
+        "name": "Barks-At-Moon",
+        "type": "Armorer",
+        "chance": "<1%",
+        "id": "Dogs_Armorer_4_Kushite"
+      },
+      {
+        "name": "Ionna the Seductress",
+        "type": "Performer",
+        "chance": "<1%",
+        "id": "Dogs_Entertainer_4_Zamorian"
+      },
+      {
+        "name": "Llarn Steeltoe",
+        "type": "Armorer",
+        "chance": "<1%",
+        "id": "Dogs_Armorer_4_Kambujan"
+      },
+      {
+        "name": "Poris Master Carpenter",
+        "type": "Carpenter",
+        "chance": "<1%",
+        "id": "Dogs_Carpenter_4_Zamorian"
+      },
+      {
+        "name": "Sadeh the Lithe",
+        "type": "Performer",
+        "chance": "<1%",
+        "id": "Dogs_Entertainer_4_Stygian"
+      },
+      {
+        "name": "Talitha Goldfingers",
+        "type": "Blacksmith",
+        "chance": "<1%",
+        "id": "Dogs_Blacksmith_4_Shemite"
+      },
+      {
+        "name": "Vitel Stovebound",
+        "type": "Cook",
+        "chance": "<1%",
+        "id": "Dogs_Cook_4_Zamorian"
+      },
+      {
+        "name": "Yael of Shem",
+        "type": "Smelter",
+        "chance": "<1%",
+        "id": "Dogs_Smelter_4_Shemite"
+      },
+      {
+        "name": "Armorer I-III"
+      },
+      {
+        "name": "Blacksmith I-III"
+      },
+      {
+        "name": "Carpenter I-III"
+      },
+      {
+        "name": "Performer I-III"
+      },
+      {
+        "name": "Smelter I-III"
+      },
+      {
+        "name": "Cook I-III"
+      },
+      {
+        "name": "Tanner I-III"
       }
     ]
   },
@@ -36716,7 +37112,7 @@
       {
         "name": "Talitha Goldfingers",
         "type": "Blacksmith",
-        "chance": "2%",
+        "chance": "1%",
         "id": "Dogs_Blacksmith_4_Shemite"
       },
       {
@@ -36735,19 +37131,19 @@
       {
         "name": "Yog's Chosen",
         "type": "Priest",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Darfari_Cannibals_Priest_4_Darfari1"
       },
       {
         "name": "Yog's Chosen",
         "type": "Priest",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Darfari_Cannibals_Priest_4_Darfari3"
       },
       {
         "name": "Yog's Chosen",
         "type": "Priest",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Darfari_Cannibals_Priest_4_Darfari2"
       },
       {
@@ -36986,61 +37382,61 @@
       {
         "name": "Amzadi the wanderer",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Stygian_4"
       },
       {
         "name": "Dono'Thelpup",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Darfari_4"
       },
       {
         "name": "Eina the light",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Shemite_4"
       },
       {
         "name": "Fairin of the Wild Coast",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Zingaran_4"
       },
       {
         "name": "Hesth Plainswalker",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Zamorian_4"
       },
       {
         "name": "Kathibria Featherstep",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Kushite_4"
       },
       {
         "name": "Narr Goatfoot",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Hyrkanian_4"
       },
       {
         "name": "Pelor the well-travelled",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Hyborian_4"
       },
       {
         "name": "Rethrous the Burdened",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Cimmerian_4"
       },
       {
         "name": "Ulrik the mountaineer",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Nordheimer_4"
       },
       {
@@ -37070,7 +37466,73 @@
     ],
     "spawns": [
       {
-        "name": "Armorer I-II"
+        "name": "Barks-At-Moon",
+        "type": "Armorer",
+        "chance": "<1%",
+        "id": "Dogs_Armorer_4_Kushite"
+      },
+      {
+        "name": "Ionna the Seductress",
+        "type": "Performer",
+        "chance": "<1%",
+        "id": "Dogs_Entertainer_4_Zamorian"
+      },
+      {
+        "name": "Llarn Steeltoe",
+        "type": "Armorer",
+        "chance": "<1%",
+        "id": "Dogs_Armorer_4_Kambujan"
+      },
+      {
+        "name": "Poris Master Carpenter",
+        "type": "Carpenter",
+        "chance": "<1%",
+        "id": "Dogs_Carpenter_4_Zamorian"
+      },
+      {
+        "name": "Sadeh the Lithe",
+        "type": "Performer",
+        "chance": "<1%",
+        "id": "Dogs_Entertainer_4_Stygian"
+      },
+      {
+        "name": "Talitha Goldfingers",
+        "type": "Blacksmith",
+        "chance": "<1%",
+        "id": "Dogs_Blacksmith_4_Shemite"
+      },
+      {
+        "name": "Vitel Stovebound",
+        "type": "Cook",
+        "chance": "<1%",
+        "id": "Dogs_Cook_4_Zamorian"
+      },
+      {
+        "name": "Yael of Shem",
+        "type": "Smelter",
+        "chance": "<1%",
+        "id": "Dogs_Smelter_4_Shemite"
+      },
+      {
+        "name": "Armorer I-III"
+      },
+      {
+        "name": "Blacksmith I-III"
+      },
+      {
+        "name": "Carpenter I-III"
+      },
+      {
+        "name": "Performer I-III"
+      },
+      {
+        "name": "Smelter I-III"
+      },
+      {
+        "name": "Cook I-III"
+      },
+      {
+        "name": "Tanner I-III"
       }
     ]
   },
@@ -37277,13 +37739,13 @@
       {
         "name": "Braggi the Bold",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Nordheimer"
       },
       {
         "name": "Cruaidh the Crusher",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Cimmerian"
       },
       {
@@ -37444,7 +37906,7 @@
       {
         "name": "Cannibal Brute",
         "type": "Fighter",
-        "chance": "99%",
+        "chance": "79%",
         "id": "Darfari_Cannibals_Fighter_4_Darfari"
       },
       {
@@ -37463,13 +37925,13 @@
       {
         "name": "Lissa o' the Longbow",
         "type": "Archer",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Relic_Hunter_Archer_4_Hyborian"
       },
       {
         "name": "Mandughai Hundred-arrow",
         "type": "Archer",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Relic_Hunter_Archer_4_Hyrkanian"
       },
       {
@@ -37650,13 +38112,13 @@
       {
         "name": "Maru the Cannibal",
         "type": "Cook",
-        "chance": "20%",
+        "chance": "1%",
         "id": "Darfari_Cannibals_Cook_4_Darfari"
       },
       {
         "name": "V'anarr Feasts-On-Fingers",
         "type": "Cook",
-        "chance": "20%",
+        "chance": "1%",
         "id": "Darfari_Cannibals_Cook_4_Darfari2"
       },
       {
@@ -37720,13 +38182,13 @@
       {
         "name": "Braggi the Bold",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Nordheimer"
       },
       {
         "name": "Cruaidh the Crusher",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Cimmerian"
       },
       {
@@ -37743,7 +38205,73 @@
     ],
     "spawns": [
       {
-        "name": "Armorer I-II"
+        "name": "Barks-At-Moon",
+        "type": "Armorer",
+        "chance": "<1%",
+        "id": "Dogs_Armorer_4_Kushite"
+      },
+      {
+        "name": "Ionna the Seductress",
+        "type": "Performer",
+        "chance": "<1%",
+        "id": "Dogs_Entertainer_4_Zamorian"
+      },
+      {
+        "name": "Llarn Steeltoe",
+        "type": "Armorer",
+        "chance": "<1%",
+        "id": "Dogs_Armorer_4_Kambujan"
+      },
+      {
+        "name": "Poris Master Carpenter",
+        "type": "Carpenter",
+        "chance": "<1%",
+        "id": "Dogs_Carpenter_4_Zamorian"
+      },
+      {
+        "name": "Sadeh the Lithe",
+        "type": "Performer",
+        "chance": "<1%",
+        "id": "Dogs_Entertainer_4_Stygian"
+      },
+      {
+        "name": "Talitha Goldfingers",
+        "type": "Blacksmith",
+        "chance": "<1%",
+        "id": "Dogs_Blacksmith_4_Shemite"
+      },
+      {
+        "name": "Vitel Stovebound",
+        "type": "Cook",
+        "chance": "<1%",
+        "id": "Dogs_Cook_4_Zamorian"
+      },
+      {
+        "name": "Yael of Shem",
+        "type": "Smelter",
+        "chance": "<1%",
+        "id": "Dogs_Smelter_4_Shemite"
+      },
+      {
+        "name": "Armorer I-III"
+      },
+      {
+        "name": "Blacksmith I-III"
+      },
+      {
+        "name": "Carpenter I-III"
+      },
+      {
+        "name": "Performer I-III"
+      },
+      {
+        "name": "Smelter I-III"
+      },
+      {
+        "name": "Cook I-III"
+      },
+      {
+        "name": "Tanner I-III"
       }
     ]
   },
@@ -37857,7 +38385,73 @@
     ],
     "spawns": [
       {
-        "name": "Armorer I-II"
+        "name": "Barks-At-Moon",
+        "type": "Armorer",
+        "chance": "<1%",
+        "id": "Dogs_Armorer_4_Kushite"
+      },
+      {
+        "name": "Ionna the Seductress",
+        "type": "Performer",
+        "chance": "<1%",
+        "id": "Dogs_Entertainer_4_Zamorian"
+      },
+      {
+        "name": "Llarn Steeltoe",
+        "type": "Armorer",
+        "chance": "<1%",
+        "id": "Dogs_Armorer_4_Kambujan"
+      },
+      {
+        "name": "Poris Master Carpenter",
+        "type": "Carpenter",
+        "chance": "<1%",
+        "id": "Dogs_Carpenter_4_Zamorian"
+      },
+      {
+        "name": "Sadeh the Lithe",
+        "type": "Performer",
+        "chance": "<1%",
+        "id": "Dogs_Entertainer_4_Stygian"
+      },
+      {
+        "name": "Talitha Goldfingers",
+        "type": "Blacksmith",
+        "chance": "<1%",
+        "id": "Dogs_Blacksmith_4_Shemite"
+      },
+      {
+        "name": "Vitel Stovebound",
+        "type": "Cook",
+        "chance": "<1%",
+        "id": "Dogs_Cook_4_Zamorian"
+      },
+      {
+        "name": "Yael of Shem",
+        "type": "Smelter",
+        "chance": "<1%",
+        "id": "Dogs_Smelter_4_Shemite"
+      },
+      {
+        "name": "Armorer I-III"
+      },
+      {
+        "name": "Blacksmith I-III"
+      },
+      {
+        "name": "Carpenter I-III"
+      },
+      {
+        "name": "Performer I-III"
+      },
+      {
+        "name": "Smelter I-III"
+      },
+      {
+        "name": "Cook I-III"
+      },
+      {
+        "name": "Tanner I-III"
       }
     ]
   },
@@ -37894,13 +38488,13 @@
       {
         "name": "Braggi the Bold",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Nordheimer"
       },
       {
         "name": "Cruaidh the Crusher",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Cimmerian"
       },
       {
@@ -37954,13 +38548,13 @@
       {
         "name": "Braggi the Bold",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Nordheimer"
       },
       {
         "name": "Cruaidh the Crusher",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Cimmerian"
       },
       {
@@ -38001,13 +38595,13 @@
       {
         "name": "Braggi the Bold",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Nordheimer"
       },
       {
         "name": "Cruaidh the Crusher",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Cimmerian"
       },
       {
@@ -38070,7 +38664,7 @@
       {
         "name": "Kol True-Strike",
         "type": "Archer",
-        "chance": "2%",
+        "chance": "1%",
         "id": "Dogs_Archer_4_Zamorian"
       },
       {
@@ -38253,7 +38847,7 @@
       {
         "name": "Kol True-Strike",
         "type": "Archer",
-        "chance": "2%",
+        "chance": "1%",
         "id": "Dogs_Archer_4_Zamorian"
       },
       {
@@ -38616,7 +39210,73 @@
     ],
     "spawns": [
       {
-        "name": "Armorer I-II"
+        "name": "Barks-At-Moon",
+        "type": "Armorer",
+        "chance": "<1%",
+        "id": "Dogs_Armorer_4_Kushite"
+      },
+      {
+        "name": "Ionna the Seductress",
+        "type": "Performer",
+        "chance": "<1%",
+        "id": "Dogs_Entertainer_4_Zamorian"
+      },
+      {
+        "name": "Llarn Steeltoe",
+        "type": "Armorer",
+        "chance": "<1%",
+        "id": "Dogs_Armorer_4_Kambujan"
+      },
+      {
+        "name": "Poris Master Carpenter",
+        "type": "Carpenter",
+        "chance": "<1%",
+        "id": "Dogs_Carpenter_4_Zamorian"
+      },
+      {
+        "name": "Sadeh the Lithe",
+        "type": "Performer",
+        "chance": "<1%",
+        "id": "Dogs_Entertainer_4_Stygian"
+      },
+      {
+        "name": "Talitha Goldfingers",
+        "type": "Blacksmith",
+        "chance": "<1%",
+        "id": "Dogs_Blacksmith_4_Shemite"
+      },
+      {
+        "name": "Vitel Stovebound",
+        "type": "Cook",
+        "chance": "<1%",
+        "id": "Dogs_Cook_4_Zamorian"
+      },
+      {
+        "name": "Yael of Shem",
+        "type": "Smelter",
+        "chance": "<1%",
+        "id": "Dogs_Smelter_4_Shemite"
+      },
+      {
+        "name": "Armorer I-III"
+      },
+      {
+        "name": "Blacksmith I-III"
+      },
+      {
+        "name": "Carpenter I-III"
+      },
+      {
+        "name": "Performer I-III"
+      },
+      {
+        "name": "Smelter I-III"
+      },
+      {
+        "name": "Cook I-III"
+      },
+      {
+        "name": "Tanner I-III"
       }
     ]
   },
@@ -38832,7 +39492,7 @@
       {
         "name": "Kol True-Strike",
         "type": "Archer",
-        "chance": "2%",
+        "chance": "1%",
         "id": "Dogs_Archer_4_Zamorian"
       },
       {
@@ -38888,13 +39548,13 @@
       {
         "name": "Braggi the Bold",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Nordheimer"
       },
       {
         "name": "Cruaidh the Crusher",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Cimmerian"
       },
       {
@@ -39151,13 +39811,13 @@
       {
         "name": "Braggi the Bold",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Nordheimer"
       },
       {
         "name": "Cruaidh the Crusher",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Cimmerian"
       },
       {
@@ -39407,13 +40067,13 @@
       {
         "name": "Bit-Tarkin the Whip",
         "type": "Taskmaster",
-        "chance": "2%",
+        "chance": "1%",
         "id": "Dogs_Taskmaster_4_Shemite"
       },
       {
         "name": "Shevatas the Merciless",
         "type": "Taskmaster",
-        "chance": "2%",
+        "chance": "1%",
         "id": "Dogs_Taskmaster_4_Zamorian"
       },
       {
@@ -39915,13 +40575,13 @@
       {
         "name": "Braggi the Bold",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Nordheimer"
       },
       {
         "name": "Cruaidh the Crusher",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Cimmerian"
       },
       {
@@ -40600,7 +41260,7 @@
       {
         "name": "Kol True-Strike",
         "type": "Archer",
-        "chance": "2%",
+        "chance": "1%",
         "id": "Dogs_Archer_4_Zamorian"
       },
       {
@@ -40709,61 +41369,61 @@
       {
         "name": "Amzadi the wanderer",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Stygian_4"
       },
       {
         "name": "Dono'Thelpup",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Darfari_4"
       },
       {
         "name": "Eina the light",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Shemite_4"
       },
       {
         "name": "Fairin of the Wild Coast",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Zingaran_4"
       },
       {
         "name": "Hesth Plainswalker",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Zamorian_4"
       },
       {
         "name": "Kathibria Featherstep",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Kushite_4"
       },
       {
         "name": "Narr Goatfoot",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Hyrkanian_4"
       },
       {
         "name": "Pelor the well-travelled",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Hyborian_4"
       },
       {
         "name": "Rethrous the Burdened",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Cimmerian_4"
       },
       {
         "name": "Ulrik the mountaineer",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Nordheimer_4"
       },
       {
@@ -40994,7 +41654,7 @@
       {
         "name": "B'naru Heavyhands",
         "type": "Armorer",
-        "chance": "5%",
+        "chance": "3%",
         "id": "Darfari_Cannibals_Armorer_4_Darfari"
       },
       {
@@ -41083,13 +41743,13 @@
       {
         "name": "Braggi the Bold",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Nordheimer"
       },
       {
         "name": "Cruaidh the Crusher",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Cimmerian"
       },
       {
@@ -41108,7 +41768,7 @@
       {
         "name": "Kol True-Strike",
         "type": "Archer",
-        "chance": "2%",
+        "chance": "1%",
         "id": "Dogs_Archer_4_Zamorian"
       },
       {
@@ -41344,13 +42004,13 @@
       {
         "name": "Braggi the Bold",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Nordheimer"
       },
       {
         "name": "Cruaidh the Crusher",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Cimmerian"
       },
       {
@@ -41369,7 +42029,7 @@
       {
         "name": "Kol True-Strike",
         "type": "Archer",
-        "chance": "2%",
+        "chance": "1%",
         "id": "Dogs_Archer_4_Zamorian"
       },
       {
@@ -41805,13 +42465,13 @@
       {
         "name": "Ionna the Seductress",
         "type": "Performer",
-        "chance": "2%",
+        "chance": "1%",
         "id": "Dogs_Entertainer_4_Zamorian"
       },
       {
         "name": "Sadeh the Lithe",
         "type": "Performer",
-        "chance": "2%",
+        "chance": "1%",
         "id": "Dogs_Entertainer_4_Stygian"
       },
       {
@@ -42006,61 +42666,61 @@
       {
         "name": "Amzadi the wanderer",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Stygian_4"
       },
       {
         "name": "Dono'Thelpup",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Darfari_4"
       },
       {
         "name": "Eina the light",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Shemite_4"
       },
       {
         "name": "Fairin of the Wild Coast",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Zingaran_4"
       },
       {
         "name": "Hesth Plainswalker",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Zamorian_4"
       },
       {
         "name": "Kathibria Featherstep",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Kushite_4"
       },
       {
         "name": "Narr Goatfoot",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Hyrkanian_4"
       },
       {
         "name": "Pelor the well-travelled",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Hyborian_4"
       },
       {
         "name": "Rethrous the Burdened",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Cimmerian_4"
       },
       {
         "name": "Ulrik the mountaineer",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Nordheimer_4"
       },
       {
@@ -42079,13 +42739,13 @@
       {
         "name": "Braggi the Bold",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Nordheimer"
       },
       {
         "name": "Cruaidh the Crusher",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Cimmerian"
       },
       {
@@ -42104,13 +42764,13 @@
       {
         "name": "Braggi the Bold",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Nordheimer"
       },
       {
         "name": "Cruaidh the Crusher",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Cimmerian"
       },
       {
@@ -42281,13 +42941,13 @@
       {
         "name": "Braggi the Bold",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Nordheimer"
       },
       {
         "name": "Cruaidh the Crusher",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Cimmerian"
       },
       {
@@ -42734,7 +43394,7 @@
       {
         "name": "Varpnir",
         "type": "Archer",
-        "chance": "63%",
+        "chance": "5%",
         "id": "Heirs_of_the_North_Archer_4_Nordheimer"
       },
       {
@@ -42955,13 +43615,13 @@
       {
         "name": "Koros the Feral",
         "type": "Priest",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Dogs_Priest_4_Stygian"
       },
       {
         "name": "Parin of the Blood Moon",
         "type": "Priest",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Dogs_Priest_4_Zamorian"
       },
       {
@@ -43151,13 +43811,13 @@
       {
         "name": "Lissa o' the Longbow",
         "type": "Archer",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Relic_Hunter_Archer_4_Hyborian"
       },
       {
         "name": "Mandughai Hundred-arrow",
         "type": "Archer",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Relic_Hunter_Archer_4_Hyrkanian"
       },
       {
@@ -43198,61 +43858,61 @@
       {
         "name": "Amzadi the wanderer",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Stygian_4"
       },
       {
         "name": "Dono'Thelpup",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Darfari_4"
       },
       {
         "name": "Eina the light",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Shemite_4"
       },
       {
         "name": "Fairin of the Wild Coast",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Zingaran_4"
       },
       {
         "name": "Hesth Plainswalker",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Zamorian_4"
       },
       {
         "name": "Kathibria Featherstep",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Kushite_4"
       },
       {
         "name": "Narr Goatfoot",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Hyrkanian_4"
       },
       {
         "name": "Pelor the well-travelled",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Hyborian_4"
       },
       {
         "name": "Rethrous the Burdened",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Cimmerian_4"
       },
       {
         "name": "Ulrik the mountaineer",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Nordheimer_4"
       },
       {
@@ -43370,7 +44030,7 @@
       {
         "name": "Vatessa the Potent",
         "type": "Cook",
-        "chance": "2%",
+        "chance": "1%",
         "id": "Black_Hand_Cook_4_Hyborian"
       },
       {
@@ -43611,7 +44271,7 @@
       {
         "name": "Ansina Hidden-Daggers",
         "type": "Performer",
-        "chance": "25%",
+        "chance": "1%",
         "id": "Darfari_Cannibals_Entertainer_4_Darfari"
       },
       {
@@ -43775,13 +44435,13 @@
       {
         "name": "Braggi the Bold",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Nordheimer"
       },
       {
         "name": "Cruaidh the Crusher",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Cimmerian"
       },
       {
@@ -43949,13 +44609,13 @@
       {
         "name": "Bit-Tarkin the Whip",
         "type": "Taskmaster",
-        "chance": "2%",
+        "chance": "1%",
         "id": "Dogs_Taskmaster_4_Shemite"
       },
       {
         "name": "Shevatas the Merciless",
         "type": "Taskmaster",
-        "chance": "2%",
+        "chance": "1%",
         "id": "Dogs_Taskmaster_4_Zamorian"
       },
       {
@@ -43972,7 +44632,73 @@
     ],
     "spawns": [
       {
-        "name": "Armorer I-II"
+        "name": "Barks-At-Moon",
+        "type": "Armorer",
+        "chance": "<1%",
+        "id": "Dogs_Armorer_4_Kushite"
+      },
+      {
+        "name": "Ionna the Seductress",
+        "type": "Performer",
+        "chance": "<1%",
+        "id": "Dogs_Entertainer_4_Zamorian"
+      },
+      {
+        "name": "Llarn Steeltoe",
+        "type": "Armorer",
+        "chance": "<1%",
+        "id": "Dogs_Armorer_4_Kambujan"
+      },
+      {
+        "name": "Poris Master Carpenter",
+        "type": "Carpenter",
+        "chance": "<1%",
+        "id": "Dogs_Carpenter_4_Zamorian"
+      },
+      {
+        "name": "Sadeh the Lithe",
+        "type": "Performer",
+        "chance": "<1%",
+        "id": "Dogs_Entertainer_4_Stygian"
+      },
+      {
+        "name": "Talitha Goldfingers",
+        "type": "Blacksmith",
+        "chance": "<1%",
+        "id": "Dogs_Blacksmith_4_Shemite"
+      },
+      {
+        "name": "Vitel Stovebound",
+        "type": "Cook",
+        "chance": "<1%",
+        "id": "Dogs_Cook_4_Zamorian"
+      },
+      {
+        "name": "Yael of Shem",
+        "type": "Smelter",
+        "chance": "<1%",
+        "id": "Dogs_Smelter_4_Shemite"
+      },
+      {
+        "name": "Armorer I-III"
+      },
+      {
+        "name": "Blacksmith I-III"
+      },
+      {
+        "name": "Carpenter I-III"
+      },
+      {
+        "name": "Performer I-III"
+      },
+      {
+        "name": "Smelter I-III"
+      },
+      {
+        "name": "Cook I-III"
+      },
+      {
+        "name": "Tanner I-III"
       }
     ]
   },
@@ -44217,7 +44943,7 @@
       {
         "name": "Bragoras the Baker",
         "type": "Cook",
-        "chance": "2%",
+        "chance": "1%",
         "id": "Relic_Hunter_Cook_4_Hyborian"
       },
       {
@@ -44328,61 +45054,61 @@
       {
         "name": "Amzadi the wanderer",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Stygian_4"
       },
       {
         "name": "Dono'Thelpup",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Darfari_4"
       },
       {
         "name": "Eina the light",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Shemite_4"
       },
       {
         "name": "Fairin of the Wild Coast",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Zingaran_4"
       },
       {
         "name": "Hesth Plainswalker",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Zamorian_4"
       },
       {
         "name": "Kathibria Featherstep",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Kushite_4"
       },
       {
         "name": "Narr Goatfoot",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Hyrkanian_4"
       },
       {
         "name": "Pelor the well-travelled",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Hyborian_4"
       },
       {
         "name": "Rethrous the Burdened",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Cimmerian_4"
       },
       {
         "name": "Ulrik the mountaineer",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Nordheimer_4"
       },
       {
@@ -44937,13 +45663,13 @@
       {
         "name": "Braggi the Bold",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Nordheimer"
       },
       {
         "name": "Cruaidh the Crusher",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Cimmerian"
       },
       {
@@ -45045,13 +45771,13 @@
       {
         "name": "Koros the Feral",
         "type": "Priest",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Dogs_Priest_4_Stygian"
       },
       {
         "name": "Parin of the Blood Moon",
         "type": "Priest",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Dogs_Priest_4_Zamorian"
       },
       {
@@ -45191,7 +45917,7 @@
       {
         "name": "Bandit Leader",
         "type": "Fighter",
-        "chance": "10%",
+        "chance": "9%",
         "id": "RelichunterRobber_Boss"
       },
       {
@@ -45210,13 +45936,13 @@
       {
         "name": "Braggi the Bold",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Nordheimer"
       },
       {
         "name": "Cruaidh the Crusher",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Cimmerian"
       },
       {
@@ -45273,13 +45999,13 @@
       {
         "name": "Luba the Luscious",
         "type": "Performer",
-        "chance": "2%",
+        "chance": "1%",
         "id": "Relic_Hunter_Entertainer_4_Zamorian"
       },
       {
         "name": "Thutmekri the Dramatist",
         "type": "Performer",
-        "chance": "2%",
+        "chance": "1%",
         "id": "Relic_Hunter_Entertainer_4_Stygian"
       },
       {
@@ -45573,7 +46299,7 @@
       {
         "name": "Kol True-Strike",
         "type": "Archer",
-        "chance": "2%",
+        "chance": "1%",
         "id": "Dogs_Archer_4_Zamorian"
       },
       {
@@ -45592,13 +46318,13 @@
       {
         "name": "Maru the Cannibal",
         "type": "Cook",
-        "chance": "20%",
+        "chance": "1%",
         "id": "Darfari_Cannibals_Cook_4_Darfari"
       },
       {
         "name": "V'anarr Feasts-On-Fingers",
         "type": "Cook",
-        "chance": "20%",
+        "chance": "1%",
         "id": "Darfari_Cannibals_Cook_4_Darfari2"
       },
       {
@@ -45856,7 +46582,7 @@
       {
         "name": "Poris Master Carpenter",
         "type": "Carpenter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Dogs_Carpenter_4_Zamorian"
       },
       {
@@ -45875,13 +46601,13 @@
       {
         "name": "Bit-Tarkin the Whip",
         "type": "Taskmaster",
-        "chance": "2%",
+        "chance": "1%",
         "id": "Dogs_Taskmaster_4_Shemite"
       },
       {
         "name": "Shevatas the Merciless",
         "type": "Taskmaster",
-        "chance": "2%",
+        "chance": "1%",
         "id": "Dogs_Taskmaster_4_Zamorian"
       },
       {
@@ -46194,7 +46920,7 @@
       {
         "name": "Valenso Da Reyn",
         "type": "Tanner",
-        "chance": "2%",
+        "chance": "1%",
         "id": "Black_Hand_Tanner_4_Zingarian"
       },
       {
@@ -46700,13 +47426,13 @@
       {
         "name": "Koros the Feral",
         "type": "Priest",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Dogs_Priest_4_Stygian"
       },
       {
         "name": "Parin of the Blood Moon",
         "type": "Priest",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Dogs_Priest_4_Zamorian"
       },
       {
@@ -46741,7 +47467,7 @@
       {
         "name": "Rikkart the Baker",
         "type": "Cook",
-        "chance": "63%",
+        "chance": "3%",
         "id": "Heirs_of_the_North_Cook_4_Nordheimer"
       },
       {
@@ -46760,13 +47486,13 @@
       {
         "name": "Braggi the Bold",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Nordheimer"
       },
       {
         "name": "Cruaidh the Crusher",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Cimmerian"
       },
       {
@@ -46917,7 +47643,7 @@
       {
         "name": "Lone Fisherman",
         "type": "Cook",
-        "chance": "11%",
+        "chance": "8%",
         "id": "RelichunterFisherman_Boss"
       },
       {
@@ -47029,61 +47755,61 @@
       {
         "name": "Amzadi the wanderer",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Stygian_4"
       },
       {
         "name": "Dono'Thelpup",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Darfari_4"
       },
       {
         "name": "Eina the light",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Shemite_4"
       },
       {
         "name": "Fairin of the Wild Coast",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Zingaran_4"
       },
       {
         "name": "Hesth Plainswalker",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Zamorian_4"
       },
       {
         "name": "Kathibria Featherstep",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Kushite_4"
       },
       {
         "name": "Narr Goatfoot",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Hyrkanian_4"
       },
       {
         "name": "Pelor the well-travelled",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Hyborian_4"
       },
       {
         "name": "Rethrous the Burdened",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Cimmerian_4"
       },
       {
         "name": "Ulrik the mountaineer",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Nordheimer_4"
       },
       {
@@ -47102,7 +47828,7 @@
       {
         "name": "Vatessa the Potent",
         "type": "Cook",
-        "chance": "2%",
+        "chance": "1%",
         "id": "Black_Hand_Cook_4_Hyborian"
       },
       {
@@ -47141,7 +47867,73 @@
     ],
     "spawns": [
       {
-        "name": "Armorer I-II"
+        "name": "Barks-At-Moon",
+        "type": "Armorer",
+        "chance": "<1%",
+        "id": "Dogs_Armorer_4_Kushite"
+      },
+      {
+        "name": "Ionna the Seductress",
+        "type": "Performer",
+        "chance": "<1%",
+        "id": "Dogs_Entertainer_4_Zamorian"
+      },
+      {
+        "name": "Llarn Steeltoe",
+        "type": "Armorer",
+        "chance": "<1%",
+        "id": "Dogs_Armorer_4_Kambujan"
+      },
+      {
+        "name": "Poris Master Carpenter",
+        "type": "Carpenter",
+        "chance": "<1%",
+        "id": "Dogs_Carpenter_4_Zamorian"
+      },
+      {
+        "name": "Sadeh the Lithe",
+        "type": "Performer",
+        "chance": "<1%",
+        "id": "Dogs_Entertainer_4_Stygian"
+      },
+      {
+        "name": "Talitha Goldfingers",
+        "type": "Blacksmith",
+        "chance": "<1%",
+        "id": "Dogs_Blacksmith_4_Shemite"
+      },
+      {
+        "name": "Vitel Stovebound",
+        "type": "Cook",
+        "chance": "<1%",
+        "id": "Dogs_Cook_4_Zamorian"
+      },
+      {
+        "name": "Yael of Shem",
+        "type": "Smelter",
+        "chance": "<1%",
+        "id": "Dogs_Smelter_4_Shemite"
+      },
+      {
+        "name": "Armorer I-III"
+      },
+      {
+        "name": "Blacksmith I-III"
+      },
+      {
+        "name": "Carpenter I-III"
+      },
+      {
+        "name": "Performer I-III"
+      },
+      {
+        "name": "Smelter I-III"
+      },
+      {
+        "name": "Cook I-III"
+      },
+      {
+        "name": "Tanner I-III"
       }
     ]
   },
@@ -47156,7 +47948,7 @@
       {
         "name": "Varpnir",
         "type": "Archer",
-        "chance": "63%",
+        "chance": "5%",
         "id": "Heirs_of_the_North_Archer_4_Nordheimer"
       },
       {
@@ -47200,7 +47992,7 @@
       {
         "name": "Janos",
         "type": "Fighter",
-        "chance": "63%",
+        "chance": "5%",
         "id": "Heirs_of_the_North_Fighter_4_Nordheimer"
       },
       {
@@ -47476,13 +48268,13 @@
       {
         "name": "Braggi the Bold",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Nordheimer"
       },
       {
         "name": "Cruaidh the Crusher",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Cimmerian"
       },
       {
@@ -47514,13 +48306,13 @@
       {
         "name": "Braggi the Bold",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Nordheimer"
       },
       {
         "name": "Cruaidh the Crusher",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Cimmerian"
       },
       {
@@ -47677,7 +48469,73 @@
     ],
     "spawns": [
       {
-        "name": "Armorer I-II"
+        "name": "Barks-At-Moon",
+        "type": "Armorer",
+        "chance": "<1%",
+        "id": "Dogs_Armorer_4_Kushite"
+      },
+      {
+        "name": "Ionna the Seductress",
+        "type": "Performer",
+        "chance": "<1%",
+        "id": "Dogs_Entertainer_4_Zamorian"
+      },
+      {
+        "name": "Llarn Steeltoe",
+        "type": "Armorer",
+        "chance": "<1%",
+        "id": "Dogs_Armorer_4_Kambujan"
+      },
+      {
+        "name": "Poris Master Carpenter",
+        "type": "Carpenter",
+        "chance": "<1%",
+        "id": "Dogs_Carpenter_4_Zamorian"
+      },
+      {
+        "name": "Sadeh the Lithe",
+        "type": "Performer",
+        "chance": "<1%",
+        "id": "Dogs_Entertainer_4_Stygian"
+      },
+      {
+        "name": "Talitha Goldfingers",
+        "type": "Blacksmith",
+        "chance": "<1%",
+        "id": "Dogs_Blacksmith_4_Shemite"
+      },
+      {
+        "name": "Vitel Stovebound",
+        "type": "Cook",
+        "chance": "<1%",
+        "id": "Dogs_Cook_4_Zamorian"
+      },
+      {
+        "name": "Yael of Shem",
+        "type": "Smelter",
+        "chance": "<1%",
+        "id": "Dogs_Smelter_4_Shemite"
+      },
+      {
+        "name": "Armorer I-III"
+      },
+      {
+        "name": "Blacksmith I-III"
+      },
+      {
+        "name": "Carpenter I-III"
+      },
+      {
+        "name": "Performer I-III"
+      },
+      {
+        "name": "Smelter I-III"
+      },
+      {
+        "name": "Cook I-III"
+      },
+      {
+        "name": "Tanner I-III"
       }
     ]
   },
@@ -47790,13 +48648,13 @@
       {
         "name": "Braggi the Bold",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Nordheimer"
       },
       {
         "name": "Cruaidh the Crusher",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Cimmerian"
       },
       {
@@ -47942,13 +48800,13 @@
       {
         "name": "Braggi the Bold",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Nordheimer"
       },
       {
         "name": "Cruaidh the Crusher",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Cimmerian"
       },
       {
@@ -47967,7 +48825,7 @@
       {
         "name": "Cannibal Brute",
         "type": "Fighter",
-        "chance": "94%",
+        "chance": "43%",
         "id": "Darfari_Cannibals_Fighter_4_Darfari"
       },
       {
@@ -48055,7 +48913,7 @@
       {
         "name": "Daya Leaddrinker",
         "type": "Smelter",
-        "chance": "2%",
+        "chance": "1%",
         "id": "Relic_Hunter_Smelter_4_Shemite"
       },
       {
@@ -48141,61 +48999,61 @@
       {
         "name": "Amzadi the wanderer",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Stygian_4"
       },
       {
         "name": "Dono'Thelpup",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Darfari_4"
       },
       {
         "name": "Eina the light",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Shemite_4"
       },
       {
         "name": "Fairin of the Wild Coast",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Zingaran_4"
       },
       {
         "name": "Hesth Plainswalker",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Zamorian_4"
       },
       {
         "name": "Kathibria Featherstep",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Kushite_4"
       },
       {
         "name": "Narr Goatfoot",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Hyrkanian_4"
       },
       {
         "name": "Pelor the well-travelled",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Hyborian_4"
       },
       {
         "name": "Rethrous the Burdened",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Cimmerian_4"
       },
       {
         "name": "Ulrik the mountaineer",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Nordheimer_4"
       },
       {
@@ -48296,13 +49154,13 @@
       {
         "name": "Braggi the Bold",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Nordheimer"
       },
       {
         "name": "Cruaidh the Crusher",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Cimmerian"
       },
       {
@@ -48365,7 +49223,7 @@
       {
         "name": "Cannibal Brute",
         "type": "Fighter",
-        "chance": "94%",
+        "chance": "43%",
         "id": "Darfari_Cannibals_Fighter_4_Darfari"
       },
       {
@@ -48409,7 +49267,7 @@
       {
         "name": "Inigo the Vengeful",
         "type": "Tanner",
-        "chance": "2%",
+        "chance": "1%",
         "id": "Relic_Hunter_Tanner_4_Zingarian"
       },
       {
@@ -48523,13 +49381,13 @@
       {
         "name": "Braggi the Bold",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Nordheimer"
       },
       {
         "name": "Cruaidh the Crusher",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Cimmerian"
       },
       {
@@ -48548,61 +49406,61 @@
       {
         "name": "Amzadi the wanderer",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Stygian_4"
       },
       {
         "name": "Dono'Thelpup",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Darfari_4"
       },
       {
         "name": "Eina the light",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Shemite_4"
       },
       {
         "name": "Fairin of the Wild Coast",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Zingaran_4"
       },
       {
         "name": "Hesth Plainswalker",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Zamorian_4"
       },
       {
         "name": "Kathibria Featherstep",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Kushite_4"
       },
       {
         "name": "Narr Goatfoot",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Hyrkanian_4"
       },
       {
         "name": "Pelor the well-travelled",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Hyborian_4"
       },
       {
         "name": "Rethrous the Burdened",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Cimmerian_4"
       },
       {
         "name": "Ulrik the mountaineer",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Nordheimer_4"
       },
       {
@@ -48621,13 +49479,13 @@
       {
         "name": "Braggi the Bold",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Nordheimer"
       },
       {
         "name": "Cruaidh the Crusher",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Cimmerian"
       },
       {
@@ -48646,13 +49504,13 @@
       {
         "name": "Braggi the Bold",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Nordheimer"
       },
       {
         "name": "Cruaidh the Crusher",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Cimmerian"
       },
       {
@@ -48798,13 +49656,13 @@
       {
         "name": "Braggi the Bold",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Nordheimer"
       },
       {
         "name": "Cruaidh the Crusher",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Cimmerian"
       },
       {
@@ -48867,7 +49725,7 @@
       {
         "name": "Cannibal Brute",
         "type": "Fighter",
-        "chance": "94%",
+        "chance": "43%",
         "id": "Darfari_Cannibals_Fighter_4_Darfari"
       },
       {
@@ -49070,13 +49928,13 @@
       {
         "name": "Braggi the Bold",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Nordheimer"
       },
       {
         "name": "Cruaidh the Crusher",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Cimmerian"
       },
       {
@@ -49095,61 +49953,61 @@
       {
         "name": "Amzadi the wanderer",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Stygian_4"
       },
       {
         "name": "Dono'Thelpup",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Darfari_4"
       },
       {
         "name": "Eina the light",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Shemite_4"
       },
       {
         "name": "Fairin of the Wild Coast",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Zingaran_4"
       },
       {
         "name": "Hesth Plainswalker",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Zamorian_4"
       },
       {
         "name": "Kathibria Featherstep",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Kushite_4"
       },
       {
         "name": "Narr Goatfoot",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Hyrkanian_4"
       },
       {
         "name": "Pelor the well-travelled",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Hyborian_4"
       },
       {
         "name": "Rethrous the Burdened",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Cimmerian_4"
       },
       {
         "name": "Ulrik the mountaineer",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Nordheimer_4"
       },
       {
@@ -49168,13 +50026,13 @@
       {
         "name": "Braggi the Bold",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Nordheimer"
       },
       {
         "name": "Cruaidh the Crusher",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Cimmerian"
       },
       {
@@ -49237,7 +50095,7 @@
       {
         "name": "Cannibal Brute",
         "type": "Fighter",
-        "chance": "94%",
+        "chance": "43%",
         "id": "Darfari_Cannibals_Fighter_4_Darfari"
       },
       {
@@ -49348,13 +50206,13 @@
       {
         "name": "Braggi the Bold",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Nordheimer"
       },
       {
         "name": "Cruaidh the Crusher",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Cimmerian"
       },
       {
@@ -49373,13 +50231,13 @@
       {
         "name": "Braggi the Bold",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Nordheimer"
       },
       {
         "name": "Cruaidh the Crusher",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Cimmerian"
       },
       {
@@ -49398,13 +50256,13 @@
       {
         "name": "Braggi the Bold",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Nordheimer"
       },
       {
         "name": "Cruaidh the Crusher",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Cimmerian"
       },
       {
@@ -49423,13 +50281,13 @@
       {
         "name": "Braggi the Bold",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Nordheimer"
       },
       {
         "name": "Cruaidh the Crusher",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Cimmerian"
       },
       {
@@ -49448,13 +50306,13 @@
       {
         "name": "Ionna the Seductress",
         "type": "Performer",
-        "chance": "2%",
+        "chance": "1%",
         "id": "Dogs_Entertainer_4_Zamorian"
       },
       {
         "name": "Sadeh the Lithe",
         "type": "Performer",
-        "chance": "2%",
+        "chance": "1%",
         "id": "Dogs_Entertainer_4_Stygian"
       },
       {
@@ -49517,7 +50375,7 @@
       {
         "name": "Vatessa the Potent",
         "type": "Cook",
-        "chance": "2%",
+        "chance": "1%",
         "id": "Black_Hand_Cook_4_Hyborian"
       },
       {
@@ -49651,19 +50509,19 @@
       {
         "name": "Beli the Breaker",
         "type": "Taskmaster",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Relic_Hunter_Taskmaster_4_Shemite"
       },
       {
         "name": "Leo the Monster",
         "type": "Taskmaster",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Relic_Hunter_Taskmaster_4_Zingarian"
       },
       {
         "name": "Olena the Oathmaker",
         "type": "Taskmaster",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Relic_Hunter_Taskmaster_4_Zamorian"
       },
       {
@@ -49796,13 +50654,13 @@
       {
         "name": "Braggi the Bold",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Nordheimer"
       },
       {
         "name": "Cruaidh the Crusher",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Cimmerian"
       },
       {
@@ -49821,13 +50679,13 @@
       {
         "name": "Braggi the Bold",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Nordheimer"
       },
       {
         "name": "Cruaidh the Crusher",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Cimmerian"
       },
       {
@@ -49846,13 +50704,13 @@
       {
         "name": "Braggi the Bold",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Nordheimer"
       },
       {
         "name": "Cruaidh the Crusher",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Cimmerian"
       },
       {
@@ -49871,13 +50729,13 @@
       {
         "name": "Braggi the Bold",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Nordheimer"
       },
       {
         "name": "Cruaidh the Crusher",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Cimmerian"
       },
       {
@@ -50039,7 +50897,7 @@
       {
         "name": "Bandit Leader",
         "type": "Fighter",
-        "chance": "10%",
+        "chance": "9%",
         "id": "RelichunterRobber_Boss"
       },
       {
@@ -50194,61 +51052,61 @@
       {
         "name": "Amzadi the wanderer",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Stygian_4"
       },
       {
         "name": "Dono'Thelpup",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Darfari_4"
       },
       {
         "name": "Eina the light",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Shemite_4"
       },
       {
         "name": "Fairin of the Wild Coast",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Zingaran_4"
       },
       {
         "name": "Hesth Plainswalker",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Zamorian_4"
       },
       {
         "name": "Kathibria Featherstep",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Kushite_4"
       },
       {
         "name": "Narr Goatfoot",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Hyrkanian_4"
       },
       {
         "name": "Pelor the well-travelled",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Hyborian_4"
       },
       {
         "name": "Rethrous the Burdened",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Cimmerian_4"
       },
       {
         "name": "Ulrik the mountaineer",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Nordheimer_4"
       },
       {
@@ -50267,7 +51125,7 @@
       {
         "name": "Cannibal Brute",
         "type": "Fighter",
-        "chance": "94%",
+        "chance": "43%",
         "id": "Darfari_Cannibals_Fighter_4_Darfari"
       },
       {
@@ -50349,13 +51207,13 @@
       {
         "name": "Braggi the Bold",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Nordheimer"
       },
       {
         "name": "Cruaidh the Crusher",
         "type": "Fighter",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Black_Hand_Fighter_4_Cimmerian"
       },
       {
@@ -50789,7 +51647,7 @@
       {
         "name": "Cannibal Brute",
         "type": "Fighter",
-        "chance": "94%",
+        "chance": "43%",
         "id": "Darfari_Cannibals_Fighter_4_Darfari"
       },
       {
@@ -51384,7 +52242,7 @@
       {
         "name": "Varpnir",
         "type": "Archer",
-        "chance": "63%",
+        "chance": "5%",
         "id": "Heirs_of_the_North_Archer_4_Nordheimer"
       },
       {
@@ -51403,61 +52261,61 @@
       {
         "name": "Amzadi the wanderer",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Stygian_4"
       },
       {
         "name": "Dono'Thelpup",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Darfari_4"
       },
       {
         "name": "Eina the light",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Shemite_4"
       },
       {
         "name": "Fairin of the Wild Coast",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Zingaran_4"
       },
       {
         "name": "Hesth Plainswalker",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Zamorian_4"
       },
       {
         "name": "Kathibria Featherstep",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Kushite_4"
       },
       {
         "name": "Narr Goatfoot",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Hyrkanian_4"
       },
       {
         "name": "Pelor the well-travelled",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Hyborian_4"
       },
       {
         "name": "Rethrous the Burdened",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Cimmerian_4"
       },
       {
         "name": "Ulrik the mountaineer",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Nordheimer_4"
       },
       {
@@ -51660,13 +52518,13 @@
       {
         "name": "Luba the Luscious",
         "type": "Performer",
-        "chance": "2%",
+        "chance": "1%",
         "id": "Relic_Hunter_Entertainer_4_Zamorian"
       },
       {
         "name": "Thutmekri the Dramatist",
         "type": "Performer",
-        "chance": "2%",
+        "chance": "1%",
         "id": "Relic_Hunter_Entertainer_4_Stygian"
       },
       {
@@ -51792,7 +52650,7 @@
       {
         "name": "Barsk the Slaver",
         "type": "Taskmaster",
-        "chance": "25%",
+        "chance": "1%",
         "id": "Darfari_Cannibals_Taskmaster_4_Darfari"
       },
       {
@@ -52674,19 +53532,19 @@
       {
         "name": "Yog's Chosen",
         "type": "Priest",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Darfari_Cannibals_Priest_4_Darfari1"
       },
       {
         "name": "Yog's Chosen",
         "type": "Priest",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Darfari_Cannibals_Priest_4_Darfari3"
       },
       {
         "name": "Yog's Chosen",
         "type": "Priest",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Darfari_Cannibals_Priest_4_Darfari2"
       },
       {
@@ -53091,7 +53949,7 @@
       {
         "name": "Kol True-Strike",
         "type": "Archer",
-        "chance": "2%",
+        "chance": "1%",
         "id": "Dogs_Archer_4_Zamorian"
       },
       {
@@ -53209,13 +54067,13 @@
       {
         "name": "Lissa o' the Longbow",
         "type": "Archer",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Relic_Hunter_Archer_4_Hyborian"
       },
       {
         "name": "Mandughai Hundred-arrow",
         "type": "Archer",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Relic_Hunter_Archer_4_Hyrkanian"
       },
       {
@@ -53795,13 +54653,13 @@
       {
         "name": "Lissa o' the Longbow",
         "type": "Archer",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Relic_Hunter_Archer_4_Hyborian"
       },
       {
         "name": "Mandughai Hundred-arrow",
         "type": "Archer",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Relic_Hunter_Archer_4_Hyrkanian"
       },
       {
@@ -53891,7 +54749,73 @@
     ],
     "spawns": [
       {
-        "name": "Armorer I-II"
+        "name": "Barks-At-Moon",
+        "type": "Armorer",
+        "chance": "<1%",
+        "id": "Dogs_Armorer_4_Kushite"
+      },
+      {
+        "name": "Ionna the Seductress",
+        "type": "Performer",
+        "chance": "<1%",
+        "id": "Dogs_Entertainer_4_Zamorian"
+      },
+      {
+        "name": "Llarn Steeltoe",
+        "type": "Armorer",
+        "chance": "<1%",
+        "id": "Dogs_Armorer_4_Kambujan"
+      },
+      {
+        "name": "Poris Master Carpenter",
+        "type": "Carpenter",
+        "chance": "<1%",
+        "id": "Dogs_Carpenter_4_Zamorian"
+      },
+      {
+        "name": "Sadeh the Lithe",
+        "type": "Performer",
+        "chance": "<1%",
+        "id": "Dogs_Entertainer_4_Stygian"
+      },
+      {
+        "name": "Talitha Goldfingers",
+        "type": "Blacksmith",
+        "chance": "<1%",
+        "id": "Dogs_Blacksmith_4_Shemite"
+      },
+      {
+        "name": "Vitel Stovebound",
+        "type": "Cook",
+        "chance": "<1%",
+        "id": "Dogs_Cook_4_Zamorian"
+      },
+      {
+        "name": "Yael of Shem",
+        "type": "Smelter",
+        "chance": "<1%",
+        "id": "Dogs_Smelter_4_Shemite"
+      },
+      {
+        "name": "Armorer I-III"
+      },
+      {
+        "name": "Blacksmith I-III"
+      },
+      {
+        "name": "Carpenter I-III"
+      },
+      {
+        "name": "Performer I-III"
+      },
+      {
+        "name": "Smelter I-III"
+      },
+      {
+        "name": "Cook I-III"
+      },
+      {
+        "name": "Tanner I-III"
       }
     ]
   },
@@ -53976,7 +54900,7 @@
       {
         "name": "Cannibal Brute",
         "type": "Fighter",
-        "chance": "99%",
+        "chance": "79%",
         "id": "Darfari_Cannibals_Fighter_4_Darfari"
       },
       {
@@ -53995,61 +54919,61 @@
       {
         "name": "Amzadi the wanderer",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Stygian_4"
       },
       {
         "name": "Dono'Thelpup",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Darfari_4"
       },
       {
         "name": "Eina the light",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Shemite_4"
       },
       {
         "name": "Fairin of the Wild Coast",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Zingaran_4"
       },
       {
         "name": "Hesth Plainswalker",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Zamorian_4"
       },
       {
         "name": "Kathibria Featherstep",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Kushite_4"
       },
       {
         "name": "Narr Goatfoot",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Hyrkanian_4"
       },
       {
         "name": "Pelor the well-travelled",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Hyborian_4"
       },
       {
         "name": "Rethrous the Burdened",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Cimmerian_4"
       },
       {
         "name": "Ulrik the mountaineer",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Nordheimer_4"
       },
       {
@@ -54230,19 +55154,19 @@
       {
         "name": "Erii the Ravager",
         "type": "Fighter",
-        "chance": "4%",
+        "chance": "3%",
         "id": "Votaries_Fighter_4b_hostile"
       },
       {
         "name": "Kisthis Fleshtearer",
         "type": "Fighter",
-        "chance": "4%",
+        "chance": "3%",
         "id": "Votaries_Fighter_4_hostile"
       },
       {
         "name": "Emissary of Abhoth",
         "type": "MiniBoss",
-        "chance": "20%",
+        "chance": "13%",
         "id": "Emissary_Abhoth"
       },
       {
@@ -54338,7 +55262,7 @@
       {
         "name": "Fakad Hide-Stretcher",
         "type": "Tanner",
-        "chance": "25%",
+        "chance": "1%",
         "id": "Darfari_Cannibals_Tanner_4_Darfari"
       },
       {
@@ -54808,7 +55732,7 @@
       {
         "name": "Janos",
         "type": "Fighter",
-        "chance": "63%",
+        "chance": "5%",
         "id": "Heirs_of_the_North_Fighter_4_Nordheimer"
       },
       {
@@ -55046,7 +55970,7 @@
       {
         "name": "Janos",
         "type": "Fighter",
-        "chance": "63%",
+        "chance": "5%",
         "id": "Heirs_of_the_North_Fighter_4_Nordheimer"
       },
       {
@@ -55192,7 +56116,7 @@
       {
         "name": "Janos",
         "type": "Fighter",
-        "chance": "63%",
+        "chance": "5%",
         "id": "Heirs_of_the_North_Fighter_4_Nordheimer"
       },
       {
@@ -55532,13 +56456,13 @@
       {
         "name": "Lissa o' the Longbow",
         "type": "Archer",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Relic_Hunter_Archer_4_Hyborian"
       },
       {
         "name": "Mandughai Hundred-arrow",
         "type": "Archer",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Relic_Hunter_Archer_4_Hyrkanian"
       },
       {
@@ -55557,7 +56481,7 @@
       {
         "name": "Cannibal Brute",
         "type": "Fighter",
-        "chance": "94%",
+        "chance": "43%",
         "id": "Darfari_Cannibals_Fighter_4_Darfari"
       },
       {
@@ -55874,7 +56798,7 @@
       {
         "name": "Cannibal Brute",
         "type": "Fighter",
-        "chance": "94%",
+        "chance": "43%",
         "id": "Darfari_Cannibals_Fighter_4_Darfari"
       },
       {
@@ -55896,13 +56820,13 @@
       {
         "name": "Maru the Cannibal",
         "type": "Cook",
-        "chance": "20%",
+        "chance": "1%",
         "id": "Darfari_Cannibals_Cook_4_Darfari"
       },
       {
         "name": "V'anarr Feasts-On-Fingers",
         "type": "Cook",
-        "chance": "20%",
+        "chance": "1%",
         "id": "Darfari_Cannibals_Cook_4_Darfari2"
       },
       {
@@ -55921,19 +56845,19 @@
       {
         "name": "Erii the Ravager",
         "type": "Fighter",
-        "chance": "4%",
+        "chance": "3%",
         "id": "Votaries_Fighter_4b_hostile"
       },
       {
         "name": "Kisthis Fleshtearer",
         "type": "Fighter",
-        "chance": "4%",
+        "chance": "3%",
         "id": "Votaries_Fighter_4_hostile"
       },
       {
         "name": "Emissary of Tsathoggua",
         "type": "MiniBoss",
-        "chance": "20%",
+        "chance": "13%",
         "id": "Emissary_Tsathoggua"
       },
       {
@@ -56174,7 +57098,7 @@
       {
         "name": "Cannibal Brute",
         "type": "Fighter",
-        "chance": "94%",
+        "chance": "43%",
         "id": "Darfari_Cannibals_Fighter_4_Darfari"
       },
       {
@@ -56364,13 +57288,13 @@
       {
         "name": "Lissa o' the Longbow",
         "type": "Archer",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Relic_Hunter_Archer_4_Hyborian"
       },
       {
         "name": "Mandughai Hundred-arrow",
         "type": "Archer",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Relic_Hunter_Archer_4_Hyrkanian"
       },
       {
@@ -56847,19 +57771,19 @@
       {
         "name": "Erii the Ravager",
         "type": "Fighter",
-        "chance": "4%",
+        "chance": "3%",
         "id": "Votaries_Fighter_4b_hostile"
       },
       {
         "name": "Kisthis Fleshtearer",
         "type": "Fighter",
-        "chance": "4%",
+        "chance": "3%",
         "id": "Votaries_Fighter_4_hostile"
       },
       {
         "name": "Emissary of Atlach-Nacha",
         "type": "MiniBoss",
-        "chance": "20%",
+        "chance": "13%",
         "id": "Emissary_AtlachNacha"
       },
       {
@@ -57002,7 +57926,7 @@
       {
         "name": "Bragoras the Baker",
         "type": "Cook",
-        "chance": "2%",
+        "chance": "1%",
         "id": "Relic_Hunter_Cook_4_Hyborian"
       },
       {
@@ -57021,13 +57945,13 @@
       {
         "name": "Lissa o' the Longbow",
         "type": "Archer",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Relic_Hunter_Archer_4_Hyborian"
       },
       {
         "name": "Mandughai Hundred-arrow",
         "type": "Archer",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Relic_Hunter_Archer_4_Hyrkanian"
       },
       {
@@ -57148,13 +58072,13 @@
       {
         "name": "Luba the Luscious",
         "type": "Performer",
-        "chance": "2%",
+        "chance": "1%",
         "id": "Relic_Hunter_Entertainer_4_Zamorian"
       },
       {
         "name": "Thutmekri the Dramatist",
         "type": "Performer",
-        "chance": "2%",
+        "chance": "1%",
         "id": "Relic_Hunter_Entertainer_4_Stygian"
       },
       {
@@ -57173,13 +58097,13 @@
       {
         "name": "Lissa o' the Longbow",
         "type": "Archer",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Relic_Hunter_Archer_4_Hyborian"
       },
       {
         "name": "Mandughai Hundred-arrow",
         "type": "Archer",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Relic_Hunter_Archer_4_Hyrkanian"
       },
       {
@@ -57481,7 +58405,7 @@
       {
         "name": "Vatessa the Potent",
         "type": "Cook",
-        "chance": "2%",
+        "chance": "1%",
         "id": "Black_Hand_Cook_4_Hyborian"
       },
       {
@@ -57972,7 +58896,7 @@
       {
         "name": "Striped Hyena Puppy",
         "type": "Critter",
-        "chance": "100%",
+        "chance": "50%",
         "id": "Wildlife_HyenaStriped_Puppy"
       }
     ]
@@ -58615,7 +59539,7 @@
       {
         "name": "Striped Hyena Puppy",
         "type": "Critter",
-        "chance": "100%",
+        "chance": "50%",
         "id": "Wildlife_HyenaStriped_Puppy"
       }
     ]
@@ -58735,7 +59659,7 @@
       {
         "name": "Striped Hyena Puppy",
         "type": "Critter",
-        "chance": "100%",
+        "chance": "50%",
         "id": "Wildlife_HyenaStriped_Puppy"
       }
     ]
@@ -58927,7 +59851,7 @@
       {
         "name": "Striped Hyena Puppy",
         "type": "Critter",
-        "chance": "100%",
+        "chance": "50%",
         "id": "Wildlife_HyenaStriped_Puppy"
       }
     ]
@@ -59126,7 +60050,7 @@
       {
         "name": "Striped Hyena Puppy",
         "type": "Critter",
-        "chance": "100%",
+        "chance": "50%",
         "id": "Wildlife_HyenaStriped_Puppy"
       }
     ]
@@ -59237,7 +60161,7 @@
       {
         "name": "Striped Hyena Puppy",
         "type": "Critter",
-        "chance": "100%",
+        "chance": "50%",
         "id": "Wildlife_HyenaStriped_Puppy"
       }
     ]
@@ -59399,7 +60323,7 @@
       {
         "name": "Striped Hyena Puppy",
         "type": "Critter",
-        "chance": "100%",
+        "chance": "50%",
         "id": "Wildlife_HyenaStriped_Puppy"
       }
     ]
@@ -59630,7 +60554,7 @@
       {
         "name": "Striped Hyena Puppy",
         "type": "Critter",
-        "chance": "100%",
+        "chance": "50%",
         "id": "Wildlife_HyenaStriped_Puppy"
       }
     ]
@@ -59700,13 +60624,13 @@
       {
         "name": "Lissa o' the Longbow",
         "type": "Archer",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Relic_Hunter_Archer_4_Hyborian"
       },
       {
         "name": "Mandughai Hundred-arrow",
         "type": "Archer",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Relic_Hunter_Archer_4_Hyrkanian"
       },
       {
@@ -60120,7 +61044,7 @@
       {
         "name": "Oyvind Tall-tree",
         "type": "Performer",
-        "chance": "63%",
+        "chance": "3%",
         "id": "Heirs_of_the_North_Entertainer_4_Nordheimer"
       },
       {
@@ -60145,7 +61069,7 @@
       {
         "name": "Beri",
         "type": "Blacksmith",
-        "chance": "38%",
+        "chance": "37%",
         "id": "Heirs_of_the_North_Blacksmith_4_Nordheimer"
       },
       {
@@ -60392,7 +61316,7 @@
       {
         "name": "Striped Hyena Puppy",
         "type": "Critter",
-        "chance": "100%",
+        "chance": "50%",
         "id": "Wildlife_HyenaStriped_Puppy"
       }
     ]
@@ -60440,13 +61364,13 @@
       {
         "name": "Lissa o' the Longbow",
         "type": "Archer",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Relic_Hunter_Archer_4_Hyborian"
       },
       {
         "name": "Mandughai Hundred-arrow",
         "type": "Archer",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Relic_Hunter_Archer_4_Hyrkanian"
       },
       {
@@ -60578,7 +61502,7 @@
       {
         "name": "Striped Hyena Puppy",
         "type": "Critter",
-        "chance": "100%",
+        "chance": "50%",
         "id": "Wildlife_HyenaStriped_Puppy"
       }
     ]
@@ -61094,13 +62018,13 @@
       {
         "name": "Lissa o' the Longbow",
         "type": "Archer",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Relic_Hunter_Archer_4_Hyborian"
       },
       {
         "name": "Mandughai Hundred-arrow",
         "type": "Archer",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Relic_Hunter_Archer_4_Hyrkanian"
       },
       {
@@ -61391,7 +62315,7 @@
       {
         "name": "Hakka Sixfingers",
         "type": "Carpenter",
-        "chance": "25%",
+        "chance": "1%",
         "id": "Darfari_Cannibals_Carpenter_4_Darfari"
       },
       {
@@ -61818,13 +62742,13 @@
       {
         "name": "Lissa o' the Longbow",
         "type": "Archer",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Relic_Hunter_Archer_4_Hyborian"
       },
       {
         "name": "Mandughai Hundred-arrow",
         "type": "Archer",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Relic_Hunter_Archer_4_Hyrkanian"
       },
       {
@@ -62090,19 +63014,19 @@
       {
         "name": "Beli the Breaker",
         "type": "Taskmaster",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Relic_Hunter_Taskmaster_4_Shemite"
       },
       {
         "name": "Leo the Monster",
         "type": "Taskmaster",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Relic_Hunter_Taskmaster_4_Zingarian"
       },
       {
         "name": "Olena the Oathmaker",
         "type": "Taskmaster",
-        "chance": "1%",
+        "chance": "<1%",
         "id": "Relic_Hunter_Taskmaster_4_Zamorian"
       },
       {
@@ -65156,7 +66080,7 @@
       {
         "name": "Varpnir",
         "type": "Archer",
-        "chance": "63%",
+        "chance": "5%",
         "id": "Heirs_of_the_North_Archer_4_Nordheimer"
       },
       {
@@ -65261,7 +66185,7 @@
       {
         "name": "Varpnir",
         "type": "Archer",
-        "chance": "63%",
+        "chance": "5%",
         "id": "Heirs_of_the_North_Archer_4_Nordheimer"
       },
       {
@@ -65382,25 +66306,25 @@
       {
         "name": "Darfari Witch Doctor",
         "type": "Alchemist",
-        "chance": "48%",
+        "chance": "23%",
         "id": "DarfariWitchDoctor"
       },
       {
         "name": "Yog's Chosen",
         "type": "Priest",
-        "chance": "2%",
+        "chance": "1%",
         "id": "Darfari_Cannibals_Priest_4_Darfari1"
       },
       {
         "name": "Yog's Chosen",
         "type": "Priest",
-        "chance": "2%",
+        "chance": "1%",
         "id": "Darfari_Cannibals_Priest_4_Darfari3"
       },
       {
         "name": "Yog's Chosen",
         "type": "Priest",
-        "chance": "2%",
+        "chance": "1%",
         "id": "Darfari_Cannibals_Priest_4_Darfari2"
       },
       {
@@ -71695,13 +72619,13 @@
       {
         "name": "Amurath the Swift",
         "type": "Archer",
-        "chance": "14%",
+        "chance": "2%",
         "id": "Exile_Archer_4_Hyrkanian"
       },
       {
         "name": "Hagar Hawkeye",
         "type": "Archer",
-        "chance": "14%",
+        "chance": "2%",
         "id": "Exile_Archer_4_Hyborian"
       },
       {
@@ -71720,25 +72644,25 @@
       {
         "name": "Amurath the Swift",
         "type": "Archer",
-        "chance": "7%",
+        "chance": "3%",
         "id": "Exile_Archer_4_Hyrkanian"
       },
       {
         "name": "Deirde Deathbringer",
         "type": "Fighter",
-        "chance": "3%",
+        "chance": "1%",
         "id": "Exile_Fighter_4_Cimmerian"
       },
       {
         "name": "Frigga Falsehope",
         "type": "Fighter",
-        "chance": "3%",
+        "chance": "1%",
         "id": "Exile_Fighter_4_Nordheimer"
       },
       {
         "name": "Hagar Hawkeye",
         "type": "Archer",
-        "chance": "7%",
+        "chance": "3%",
         "id": "Exile_Archer_4_Hyborian"
       },
       {
@@ -72038,25 +72962,25 @@
       {
         "name": "Amurath the Swift",
         "type": "Archer",
-        "chance": "7%",
+        "chance": "3%",
         "id": "Exile_Archer_4_Hyrkanian"
       },
       {
         "name": "Deirde Deathbringer",
         "type": "Fighter",
-        "chance": "3%",
+        "chance": "1%",
         "id": "Exile_Fighter_4_Cimmerian"
       },
       {
         "name": "Frigga Falsehope",
         "type": "Fighter",
-        "chance": "3%",
+        "chance": "1%",
         "id": "Exile_Fighter_4_Nordheimer"
       },
       {
         "name": "Hagar Hawkeye",
         "type": "Archer",
-        "chance": "7%",
+        "chance": "3%",
         "id": "Exile_Archer_4_Hyborian"
       },
       {
@@ -72078,13 +73002,13 @@
       {
         "name": "Amurath the Swift",
         "type": "Archer",
-        "chance": "14%",
+        "chance": "2%",
         "id": "Exile_Archer_4_Hyrkanian"
       },
       {
         "name": "Hagar Hawkeye",
         "type": "Archer",
-        "chance": "14%",
+        "chance": "2%",
         "id": "Exile_Archer_4_Hyborian"
       },
       {
@@ -72103,13 +73027,13 @@
       {
         "name": "Deirde Deathbringer",
         "type": "Fighter",
-        "chance": "6%",
+        "chance": "1%",
         "id": "Exile_Fighter_4_Cimmerian"
       },
       {
         "name": "Frigga Falsehope",
         "type": "Fighter",
-        "chance": "6%",
+        "chance": "1%",
         "id": "Exile_Fighter_4_Nordheimer"
       },
       {
@@ -72267,25 +73191,25 @@
       {
         "name": "Gilum'tun, Asuras Chosen",
         "type": "Alchemist",
-        "chance": "3%",
+        "chance": "1%",
         "id": "Exile_Alchemist_4_Hyborian"
       },
       {
         "name": "Lethdol Twox, Speaker of Asura",
         "type": "Priest",
-        "chance": "3%",
+        "chance": "1%",
         "id": "Exile_Priest_4_Hyrkanian"
       },
       {
         "name": "Sir Bowen, Enforcer of Asura",
         "type": "Taskmaster",
-        "chance": "3%",
+        "chance": "1%",
         "id": "Exile_Taskmaster_4_Shemite2"
       },
       {
         "name": "Vattende, Confessor of Asura",
         "type": "Priest",
-        "chance": "3%",
+        "chance": "1%",
         "id": "Exile_Priest_4_Nordheimer"
       },
       {
@@ -72304,13 +73228,13 @@
       {
         "name": "Bohdan the Flexible",
         "type": "Performer",
-        "chance": "7%",
+        "chance": "1%",
         "id": "Exile_Entertainer_4_Zamorian"
       },
       {
         "name": "Senk the Pillowdancer",
         "type": "Performer",
-        "chance": "7%",
+        "chance": "1%",
         "id": "Exile_Entertainer_4_Stygian"
       },
       {
@@ -72329,13 +73253,13 @@
       {
         "name": "Bohdan the Flexible",
         "type": "Performer",
-        "chance": "7%",
+        "chance": "1%",
         "id": "Exile_Entertainer_4_Zamorian"
       },
       {
         "name": "Senk the Pillowdancer",
         "type": "Performer",
-        "chance": "7%",
+        "chance": "1%",
         "id": "Exile_Entertainer_4_Stygian"
       },
       {
@@ -72354,13 +73278,13 @@
       {
         "name": "Deirde Deathbringer",
         "type": "Fighter",
-        "chance": "6%",
+        "chance": "1%",
         "id": "Exile_Fighter_4_Cimmerian"
       },
       {
         "name": "Frigga Falsehope",
         "type": "Fighter",
-        "chance": "6%",
+        "chance": "1%",
         "id": "Exile_Fighter_4_Nordheimer"
       },
       {
@@ -72379,25 +73303,25 @@
       {
         "name": "Amurath the Swift",
         "type": "Archer",
-        "chance": "7%",
+        "chance": "3%",
         "id": "Exile_Archer_4_Hyrkanian"
       },
       {
         "name": "Deirde Deathbringer",
         "type": "Fighter",
-        "chance": "3%",
+        "chance": "1%",
         "id": "Exile_Fighter_4_Cimmerian"
       },
       {
         "name": "Frigga Falsehope",
         "type": "Fighter",
-        "chance": "3%",
+        "chance": "1%",
         "id": "Exile_Fighter_4_Nordheimer"
       },
       {
         "name": "Hagar Hawkeye",
         "type": "Archer",
-        "chance": "7%",
+        "chance": "3%",
         "id": "Exile_Archer_4_Hyborian"
       },
       {
@@ -72419,25 +73343,25 @@
       {
         "name": "Amurath the Swift",
         "type": "Archer",
-        "chance": "7%",
+        "chance": "3%",
         "id": "Exile_Archer_4_Hyrkanian"
       },
       {
         "name": "Deirde Deathbringer",
         "type": "Fighter",
-        "chance": "3%",
+        "chance": "1%",
         "id": "Exile_Fighter_4_Cimmerian"
       },
       {
         "name": "Frigga Falsehope",
         "type": "Fighter",
-        "chance": "3%",
+        "chance": "1%",
         "id": "Exile_Fighter_4_Nordheimer"
       },
       {
         "name": "Hagar Hawkeye",
         "type": "Archer",
-        "chance": "7%",
+        "chance": "3%",
         "id": "Exile_Archer_4_Hyborian"
       },
       {
@@ -72459,13 +73383,13 @@
       {
         "name": "Amurath the Swift",
         "type": "Archer",
-        "chance": "14%",
+        "chance": "2%",
         "id": "Exile_Archer_4_Hyrkanian"
       },
       {
         "name": "Hagar Hawkeye",
         "type": "Archer",
-        "chance": "14%",
+        "chance": "2%",
         "id": "Exile_Archer_4_Hyborian"
       },
       {
@@ -72484,13 +73408,13 @@
       {
         "name": "Amurath the Swift",
         "type": "Archer",
-        "chance": "14%",
+        "chance": "2%",
         "id": "Exile_Archer_4_Hyrkanian"
       },
       {
         "name": "Hagar Hawkeye",
         "type": "Archer",
-        "chance": "14%",
+        "chance": "2%",
         "id": "Exile_Archer_4_Hyborian"
       },
       {
@@ -72787,25 +73711,25 @@
       {
         "name": "Amurath the Swift",
         "type": "Archer",
-        "chance": "7%",
+        "chance": "3%",
         "id": "Exile_Archer_4_Hyrkanian"
       },
       {
         "name": "Deirde Deathbringer",
         "type": "Fighter",
-        "chance": "3%",
+        "chance": "1%",
         "id": "Exile_Fighter_4_Cimmerian"
       },
       {
         "name": "Frigga Falsehope",
         "type": "Fighter",
-        "chance": "3%",
+        "chance": "1%",
         "id": "Exile_Fighter_4_Nordheimer"
       },
       {
         "name": "Hagar Hawkeye",
         "type": "Archer",
-        "chance": "7%",
+        "chance": "3%",
         "id": "Exile_Archer_4_Hyborian"
       },
       {
@@ -72885,13 +73809,13 @@
       {
         "name": "Cimmerian Berserker",
         "type": "Fighter",
-        "chance": "38%",
+        "chance": "2%",
         "id": "Forgotten_Tribe_Berserker"
       },
       {
         "name": "Dalinsia Snowhunter",
         "type": "Fighter",
-        "chance": "38%",
+        "chance": "2%",
         "id": "Forgotten_Tribe_Fighter_4_Cimmerian"
       },
       {
@@ -72910,13 +73834,13 @@
       {
         "name": "Cimmerian Berserker",
         "type": "Fighter",
-        "chance": "38%",
+        "chance": "2%",
         "id": "Forgotten_Tribe_Berserker"
       },
       {
         "name": "Dalinsia Snowhunter",
         "type": "Fighter",
-        "chance": "38%",
+        "chance": "2%",
         "id": "Forgotten_Tribe_Fighter_4_Cimmerian"
       },
       {
@@ -72961,7 +73885,7 @@
       {
         "name": "Merram the Cook",
         "type": "Cook",
-        "chance": "25%",
+        "chance": "1%",
         "id": "Forgotten_Tribe_Cook_4_Cimmerian"
       },
       {
@@ -72980,13 +73904,13 @@
       {
         "name": "Cimmerian Berserker",
         "type": "Fighter",
-        "chance": "38%",
+        "chance": "2%",
         "id": "Forgotten_Tribe_Berserker"
       },
       {
         "name": "Dalinsia Snowhunter",
         "type": "Fighter",
-        "chance": "38%",
+        "chance": "2%",
         "id": "Forgotten_Tribe_Fighter_4_Cimmerian"
       },
       {
@@ -73005,7 +73929,7 @@
       {
         "name": "Vulfeles the Hammer",
         "type": "Blacksmith",
-        "chance": "63%",
+        "chance": "3%",
         "id": "Forgotten_Tribe_Blacksmith_4_Cimmerian"
       },
       {
@@ -73037,61 +73961,61 @@
       {
         "name": "Amzadi the wanderer",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Stygian_4"
       },
       {
         "name": "Dono'Thelpup",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Darfari_4"
       },
       {
         "name": "Eina the light",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Shemite_4"
       },
       {
         "name": "Fairin of the Wild Coast",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Zingaran_4"
       },
       {
         "name": "Hesth Plainswalker",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Zamorian_4"
       },
       {
         "name": "Kathibria Featherstep",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Kushite_4"
       },
       {
         "name": "Narr Goatfoot",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Hyrkanian_4"
       },
       {
         "name": "Pelor the well-travelled",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Hyborian_4"
       },
       {
         "name": "Rethrous the Burdened",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Cimmerian_4"
       },
       {
         "name": "Ulrik the mountaineer",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Nordheimer_4"
       },
       {
@@ -73149,7 +74073,7 @@
       {
         "name": "Acastel Ninefingers",
         "type": "Carpenter",
-        "chance": "25%",
+        "chance": "1%",
         "id": "Forgotten_Tribe_Carpenter_4_Cimmerian"
       },
       {
@@ -73181,7 +74105,7 @@
       {
         "name": "Werk of the lost tribe",
         "type": "Armorer",
-        "chance": "25%",
+        "chance": "1%",
         "id": "Forgotten_Tribe_Armorer_4_Cimmerian"
       },
       {
@@ -73239,7 +74163,7 @@
       {
         "name": "Werk of the lost tribe",
         "type": "Armorer",
-        "chance": "25%",
+        "chance": "1%",
         "id": "Forgotten_Tribe_Armorer_4_Cimmerian"
       },
       {
@@ -73271,7 +74195,7 @@
       {
         "name": "Matias Snowmelt",
         "type": "Smelter",
-        "chance": "63%",
+        "chance": "3%",
         "id": "Forgotten_Tribe_Smelter_4_Cimmerian"
       },
       {
@@ -73290,7 +74214,7 @@
       {
         "name": "Gratt Stinkfinger",
         "type": "Tanner",
-        "chance": "63%",
+        "chance": "3%",
         "id": "Forgotten_Tribe_Tanner_4_Cimmerian"
       },
       {
@@ -73315,13 +74239,13 @@
       {
         "name": "Gratt Stinkfinger",
         "type": "Tanner",
-        "chance": "10%",
+        "chance": "9%",
         "id": "Forgotten_Tribe_Tanner_4_Cimmerian"
       },
       {
         "name": "Lianeele",
         "type": "Performer",
-        "chance": "10%",
+        "chance": "9%",
         "id": "Forgotten_Tribe_Entertainer_4_Cimmerian"
       },
       {
@@ -73333,7 +74257,7 @@
       {
         "name": "Matias Snowmelt",
         "type": "Smelter",
-        "chance": "10%",
+        "chance": "9%",
         "id": "Forgotten_Tribe_Smelter_4_Cimmerian"
       },
       {
@@ -73345,7 +74269,7 @@
       {
         "name": "Vulfeles the Hammer",
         "type": "Blacksmith",
-        "chance": "10%",
+        "chance": "9%",
         "id": "Forgotten_Tribe_Blacksmith_4_Cimmerian"
       },
       {
@@ -73407,7 +74331,7 @@
       {
         "name": "Gratt Stinkfinger",
         "type": "Tanner",
-        "chance": "63%",
+        "chance": "3%",
         "id": "Forgotten_Tribe_Tanner_4_Cimmerian"
       },
       {
@@ -73452,7 +74376,7 @@
       {
         "name": "Darmok the Experimenter",
         "type": "Alchemist",
-        "chance": "63%",
+        "chance": "3%",
         "id": "Forgotten_Tribe_Alchemist_4_Cimmerian"
       },
       {
@@ -73471,13 +74395,13 @@
       {
         "name": "Cimmerian Berserker",
         "type": "Fighter",
-        "chance": "38%",
+        "chance": "2%",
         "id": "Forgotten_Tribe_Berserker"
       },
       {
         "name": "Dalinsia Snowhunter",
         "type": "Fighter",
-        "chance": "38%",
+        "chance": "2%",
         "id": "Forgotten_Tribe_Fighter_4_Cimmerian"
       },
       {
@@ -73496,7 +74420,7 @@
       {
         "name": "Lianeele",
         "type": "Performer",
-        "chance": "63%",
+        "chance": "3%",
         "id": "Forgotten_Tribe_Entertainer_4_Cimmerian"
       },
       {
@@ -73606,7 +74530,7 @@
       {
         "name": "Vulfeles the Hammer",
         "type": "Blacksmith",
-        "chance": "63%",
+        "chance": "3%",
         "id": "Forgotten_Tribe_Blacksmith_4_Cimmerian"
       },
       {
@@ -73667,13 +74591,13 @@
       {
         "name": "Cimmerian Berserker",
         "type": "Fighter",
-        "chance": "38%",
+        "chance": "2%",
         "id": "Forgotten_Tribe_Berserker"
       },
       {
         "name": "Dalinsia Snowhunter",
         "type": "Fighter",
-        "chance": "38%",
+        "chance": "2%",
         "id": "Forgotten_Tribe_Fighter_4_Cimmerian"
       },
       {
@@ -73692,13 +74616,13 @@
       {
         "name": "Cimmerian Berserker",
         "type": "Fighter",
-        "chance": "38%",
+        "chance": "2%",
         "id": "Forgotten_Tribe_Berserker"
       },
       {
         "name": "Dalinsia Snowhunter",
         "type": "Fighter",
-        "chance": "38%",
+        "chance": "2%",
         "id": "Forgotten_Tribe_Fighter_4_Cimmerian"
       },
       {
@@ -73717,7 +74641,7 @@
       {
         "name": "Marn the Breaker",
         "type": "Taskmaster",
-        "chance": "25%",
+        "chance": "1%",
         "id": "Forgotten_Tribe_Taskmaster_4_Cimmerian"
       },
       {
@@ -73736,61 +74660,61 @@
       {
         "name": "Amzadi the wanderer",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Stygian_4"
       },
       {
         "name": "Dono'Thelpup",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Darfari_4"
       },
       {
         "name": "Eina the light",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Shemite_4"
       },
       {
         "name": "Fairin of the Wild Coast",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Zingaran_4"
       },
       {
         "name": "Hesth Plainswalker",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Zamorian_4"
       },
       {
         "name": "Kathibria Featherstep",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Kushite_4"
       },
       {
         "name": "Narr Goatfoot",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Hyrkanian_4"
       },
       {
         "name": "Pelor the well-travelled",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Hyborian_4"
       },
       {
         "name": "Rethrous the Burdened",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Cimmerian_4"
       },
       {
         "name": "Ulrik the mountaineer",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Nordheimer_4"
       },
       {
@@ -73822,13 +74746,13 @@
       {
         "name": "Cimmerian Berserker",
         "type": "Fighter",
-        "chance": "38%",
+        "chance": "2%",
         "id": "Forgotten_Tribe_Berserker"
       },
       {
         "name": "Dalinsia Snowhunter",
         "type": "Fighter",
-        "chance": "38%",
+        "chance": "2%",
         "id": "Forgotten_Tribe_Fighter_4_Cimmerian"
       },
       {
@@ -73873,13 +74797,13 @@
       {
         "name": "Cimmerian Berserker",
         "type": "Fighter",
-        "chance": "38%",
+        "chance": "2%",
         "id": "Forgotten_Tribe_Berserker"
       },
       {
         "name": "Dalinsia Snowhunter",
         "type": "Fighter",
-        "chance": "38%",
+        "chance": "2%",
         "id": "Forgotten_Tribe_Fighter_4_Cimmerian"
       },
       {
@@ -73898,61 +74822,61 @@
       {
         "name": "Amzadi the wanderer",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Stygian_4"
       },
       {
         "name": "Dono'Thelpup",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Darfari_4"
       },
       {
         "name": "Eina the light",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Shemite_4"
       },
       {
         "name": "Fairin of the Wild Coast",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Zingaran_4"
       },
       {
         "name": "Hesth Plainswalker",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Zamorian_4"
       },
       {
         "name": "Kathibria Featherstep",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Kushite_4"
       },
       {
         "name": "Narr Goatfoot",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Hyrkanian_4"
       },
       {
         "name": "Pelor the well-travelled",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Hyborian_4"
       },
       {
         "name": "Rethrous the Burdened",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Cimmerian_4"
       },
       {
         "name": "Ulrik the mountaineer",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Nordheimer_4"
       },
       {
@@ -73971,7 +74895,7 @@
       {
         "name": "Darmok the Experimenter",
         "type": "Alchemist",
-        "chance": "63%",
+        "chance": "3%",
         "id": "Forgotten_Tribe_Alchemist_4_Cimmerian"
       },
       {
@@ -74022,13 +74946,13 @@
       {
         "name": "Gratt Stinkfinger",
         "type": "Tanner",
-        "chance": "10%",
+        "chance": "9%",
         "id": "Forgotten_Tribe_Tanner_4_Cimmerian"
       },
       {
         "name": "Lianeele",
         "type": "Performer",
-        "chance": "10%",
+        "chance": "9%",
         "id": "Forgotten_Tribe_Entertainer_4_Cimmerian"
       },
       {
@@ -74040,7 +74964,7 @@
       {
         "name": "Matias Snowmelt",
         "type": "Smelter",
-        "chance": "10%",
+        "chance": "9%",
         "id": "Forgotten_Tribe_Smelter_4_Cimmerian"
       },
       {
@@ -74052,7 +74976,7 @@
       {
         "name": "Vulfeles the Hammer",
         "type": "Blacksmith",
-        "chance": "10%",
+        "chance": "9%",
         "id": "Forgotten_Tribe_Blacksmith_4_Cimmerian"
       },
       {
@@ -74690,7 +75614,7 @@
       {
         "name": "Beri",
         "type": "Blacksmith",
-        "chance": "49%",
+        "chance": "25%",
         "id": "Heirs_of_the_North_Blacksmith_4_Nordheimer"
       },
       {
@@ -74709,7 +75633,7 @@
       {
         "name": "Beri",
         "type": "Blacksmith",
-        "chance": "49%",
+        "chance": "25%",
         "id": "Heirs_of_the_North_Blacksmith_4_Nordheimer"
       },
       {
@@ -74728,7 +75652,7 @@
       {
         "name": "Janos",
         "type": "Fighter",
-        "chance": "63%",
+        "chance": "5%",
         "id": "Heirs_of_the_North_Fighter_4_Nordheimer"
       },
       {
@@ -74747,7 +75671,7 @@
       {
         "name": "Manos, the handful",
         "type": "Taskmaster",
-        "chance": "63%",
+        "chance": "3%",
         "id": "Heirs_of_the_North_Taskmaster_4_Nordheimer"
       },
       {
@@ -74766,7 +75690,7 @@
       {
         "name": "Varpnir",
         "type": "Archer",
-        "chance": "63%",
+        "chance": "5%",
         "id": "Heirs_of_the_North_Archer_4_Nordheimer"
       },
       {
@@ -74785,7 +75709,7 @@
       {
         "name": "Janos",
         "type": "Fighter",
-        "chance": "63%",
+        "chance": "5%",
         "id": "Heirs_of_the_North_Fighter_4_Nordheimer"
       },
       {
@@ -74817,7 +75741,7 @@
       {
         "name": "Janos",
         "type": "Fighter",
-        "chance": "63%",
+        "chance": "5%",
         "id": "Heirs_of_the_North_Fighter_4_Nordheimer"
       },
       {
@@ -74836,7 +75760,7 @@
       {
         "name": "Oyvind Tall-tree",
         "type": "Performer",
-        "chance": "63%",
+        "chance": "3%",
         "id": "Heirs_of_the_North_Entertainer_4_Nordheimer"
       },
       {
@@ -74855,7 +75779,7 @@
       {
         "name": "Janos",
         "type": "Fighter",
-        "chance": "63%",
+        "chance": "5%",
         "id": "Heirs_of_the_North_Fighter_4_Nordheimer"
       },
       {
@@ -74874,7 +75798,7 @@
       {
         "name": "Janos",
         "type": "Fighter",
-        "chance": "63%",
+        "chance": "5%",
         "id": "Heirs_of_the_North_Fighter_4_Nordheimer"
       },
       {
@@ -74899,7 +75823,7 @@
       {
         "name": "Beri",
         "type": "Blacksmith",
-        "chance": "38%",
+        "chance": "37%",
         "id": "Heirs_of_the_North_Blacksmith_4_Nordheimer"
       },
       {
@@ -74969,7 +75893,7 @@
       {
         "name": "Janos",
         "type": "Fighter",
-        "chance": "63%",
+        "chance": "5%",
         "id": "Heirs_of_the_North_Fighter_4_Nordheimer"
       },
       {
@@ -74988,7 +75912,7 @@
       {
         "name": "Varpnir",
         "type": "Archer",
-        "chance": "63%",
+        "chance": "5%",
         "id": "Heirs_of_the_North_Archer_4_Nordheimer"
       },
       {
@@ -75013,7 +75937,7 @@
       {
         "name": "Beri",
         "type": "Blacksmith",
-        "chance": "38%",
+        "chance": "37%",
         "id": "Heirs_of_the_North_Blacksmith_4_Nordheimer"
       },
       {
@@ -75099,7 +76023,7 @@
       {
         "name": "Varpnir",
         "type": "Archer",
-        "chance": "63%",
+        "chance": "5%",
         "id": "Heirs_of_the_North_Archer_4_Nordheimer"
       },
       {
@@ -75134,61 +76058,61 @@
       {
         "name": "Amzadi the wanderer",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Stygian_4"
       },
       {
         "name": "Dono'Thelpup",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Darfari_4"
       },
       {
         "name": "Eina the light",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Shemite_4"
       },
       {
         "name": "Fairin of the Wild Coast",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Zingaran_4"
       },
       {
         "name": "Hesth Plainswalker",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Zamorian_4"
       },
       {
         "name": "Kathibria Featherstep",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Kushite_4"
       },
       {
         "name": "Narr Goatfoot",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Hyrkanian_4"
       },
       {
         "name": "Pelor the well-travelled",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Hyborian_4"
       },
       {
         "name": "Rethrous the Burdened",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Cimmerian_4"
       },
       {
         "name": "Ulrik the mountaineer",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Nordheimer_4"
       },
       {
@@ -75207,7 +76131,7 @@
       {
         "name": "Varpnir",
         "type": "Archer",
-        "chance": "63%",
+        "chance": "5%",
         "id": "Heirs_of_the_North_Archer_4_Nordheimer"
       },
       {
@@ -75232,7 +76156,7 @@
       {
         "name": "Beri",
         "type": "Blacksmith",
-        "chance": "38%",
+        "chance": "37%",
         "id": "Heirs_of_the_North_Blacksmith_4_Nordheimer"
       },
       {
@@ -75308,7 +76232,7 @@
       {
         "name": "Beri",
         "type": "Blacksmith",
-        "chance": "38%",
+        "chance": "37%",
         "id": "Heirs_of_the_North_Blacksmith_4_Nordheimer"
       },
       {
@@ -75384,7 +76308,7 @@
       {
         "name": "Beri",
         "type": "Blacksmith",
-        "chance": "38%",
+        "chance": "37%",
         "id": "Heirs_of_the_North_Blacksmith_4_Nordheimer"
       },
       {
@@ -75454,7 +76378,7 @@
       {
         "name": "Beri",
         "type": "Blacksmith",
-        "chance": "49%",
+        "chance": "25%",
         "id": "Heirs_of_the_North_Blacksmith_4_Nordheimer"
       },
       {
@@ -75473,7 +76397,7 @@
       {
         "name": "Janos",
         "type": "Fighter",
-        "chance": "63%",
+        "chance": "5%",
         "id": "Heirs_of_the_North_Fighter_4_Nordheimer"
       },
       {
@@ -75492,7 +76416,7 @@
       {
         "name": "Airk Strong-in-the-arm",
         "type": "Carpenter",
-        "chance": "38%",
+        "chance": "3%",
         "id": "Heirs_of_the_North_Carpenter_4_Nordheimer"
       },
       {
@@ -75511,7 +76435,7 @@
       {
         "name": "Varpnir",
         "type": "Archer",
-        "chance": "63%",
+        "chance": "5%",
         "id": "Heirs_of_the_North_Archer_4_Nordheimer"
       },
       {
@@ -75530,7 +76454,7 @@
       {
         "name": "Varpnir",
         "type": "Archer",
-        "chance": "63%",
+        "chance": "5%",
         "id": "Heirs_of_the_North_Archer_4_Nordheimer"
       },
       {
@@ -75549,7 +76473,7 @@
       {
         "name": "Janos",
         "type": "Fighter",
-        "chance": "63%",
+        "chance": "5%",
         "id": "Heirs_of_the_North_Fighter_4_Nordheimer"
       },
       {
@@ -75568,7 +76492,7 @@
       {
         "name": "Varpnir",
         "type": "Archer",
-        "chance": "63%",
+        "chance": "5%",
         "id": "Heirs_of_the_North_Archer_4_Nordheimer"
       },
       {
@@ -75593,7 +76517,7 @@
       {
         "name": "Beri",
         "type": "Blacksmith",
-        "chance": "38%",
+        "chance": "37%",
         "id": "Heirs_of_the_North_Blacksmith_4_Nordheimer"
       },
       {
@@ -75663,7 +76587,7 @@
       {
         "name": "Varpnir",
         "type": "Archer",
-        "chance": "63%",
+        "chance": "5%",
         "id": "Heirs_of_the_North_Archer_4_Nordheimer"
       },
       {
@@ -75682,7 +76606,7 @@
       {
         "name": "Oyvind Tall-tree",
         "type": "Performer",
-        "chance": "63%",
+        "chance": "3%",
         "id": "Heirs_of_the_North_Entertainer_4_Nordheimer"
       },
       {
@@ -75701,61 +76625,61 @@
       {
         "name": "Amzadi the wanderer",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Stygian_4"
       },
       {
         "name": "Dono'Thelpup",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Darfari_4"
       },
       {
         "name": "Eina the light",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Shemite_4"
       },
       {
         "name": "Fairin of the Wild Coast",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Zingaran_4"
       },
       {
         "name": "Hesth Plainswalker",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Zamorian_4"
       },
       {
         "name": "Kathibria Featherstep",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Kushite_4"
       },
       {
         "name": "Narr Goatfoot",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Hyrkanian_4"
       },
       {
         "name": "Pelor the well-travelled",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Hyborian_4"
       },
       {
         "name": "Rethrous the Burdened",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Cimmerian_4"
       },
       {
         "name": "Ulrik the mountaineer",
         "type": "Bearer",
-        "chance": "3%",
+        "chance": "<1%",
         "id": "Sherpa_Nordheimer_4"
       },
       {
@@ -75774,7 +76698,7 @@
       {
         "name": "Janos",
         "type": "Fighter",
-        "chance": "63%",
+        "chance": "5%",
         "id": "Heirs_of_the_North_Fighter_4_Nordheimer"
       },
       {
@@ -75793,7 +76717,7 @@
       {
         "name": "Rikkart the Baker",
         "type": "Cook",
-        "chance": "63%",
+        "chance": "3%",
         "id": "Heirs_of_the_North_Cook_4_Nordheimer"
       },
       {
@@ -75812,7 +76736,7 @@
       {
         "name": "Janos",
         "type": "Fighter",
-        "chance": "63%",
+        "chance": "5%",
         "id": "Heirs_of_the_North_Fighter_4_Nordheimer"
       },
       {
@@ -75831,7 +76755,7 @@
       {
         "name": "Janos",
         "type": "Fighter",
-        "chance": "63%",
+        "chance": "5%",
         "id": "Heirs_of_the_North_Fighter_4_Nordheimer"
       },
       {
@@ -75856,7 +76780,7 @@
       {
         "name": "Beri",
         "type": "Blacksmith",
-        "chance": "38%",
+        "chance": "37%",
         "id": "Heirs_of_the_North_Blacksmith_4_Nordheimer"
       },
       {
@@ -75926,7 +76850,7 @@
       {
         "name": "Oskar Thunderhead",
         "type": "Tanner",
-        "chance": "63%",
+        "chance": "3%",
         "id": "Heirs_of_the_North_Tanner_4_Nordheimer"
       },
       {
@@ -75945,7 +76869,7 @@
       {
         "name": "Janos",
         "type": "Fighter",
-        "chance": "63%",
+        "chance": "5%",
         "id": "Heirs_of_the_North_Fighter_4_Nordheimer"
       },
       {
@@ -76003,7 +76927,7 @@
       {
         "name": "Janos",
         "type": "Fighter",
-        "chance": "63%",
+        "chance": "5%",
         "id": "Heirs_of_the_North_Fighter_4_Nordheimer"
       },
       {
@@ -76022,7 +76946,7 @@
       {
         "name": "Janos",
         "type": "Fighter",
-        "chance": "63%",
+        "chance": "5%",
         "id": "Heirs_of_the_North_Fighter_4_Nordheimer"
       },
       {
@@ -76041,7 +76965,7 @@
       {
         "name": "Janos",
         "type": "Fighter",
-        "chance": "63%",
+        "chance": "5%",
         "id": "Heirs_of_the_North_Fighter_4_Nordheimer"
       },
       {
@@ -76173,7 +77097,7 @@
       {
         "name": "Beri",
         "type": "Blacksmith",
-        "chance": "38%",
+        "chance": "37%",
         "id": "Heirs_of_the_North_Blacksmith_4_Nordheimer"
       },
       {
@@ -76256,7 +77180,7 @@
       {
         "name": "Rokur the Alchemist",
         "type": "Alchemist",
-        "chance": "25%",
+        "chance": "1%",
         "id": "Heirs_of_the_North_Alchemist_4_Nordheimer"
       },
       {
@@ -76288,7 +77212,7 @@
       {
         "name": "Anastera The Seeress",
         "type": "Priest",
-        "chance": "87%",
+        "chance": "19%",
         "id": "AnasteratheSeeress"
       },
       {
@@ -76320,7 +77244,7 @@
       {
         "name": "Njoror Battleborn",
         "type": "Armorer",
-        "chance": "63%",
+        "chance": "3%",
         "id": "Heirs_of_the_North_Armorer_4_Nordheimer"
       },
       {
@@ -76339,7 +77263,7 @@
       {
         "name": "Airk Strong-in-the-arm",
         "type": "Carpenter",
-        "chance": "38%",
+        "chance": "3%",
         "id": "Heirs_of_the_North_Carpenter_4_Nordheimer"
       },
       {
@@ -76358,7 +77282,7 @@
       {
         "name": "Airk Strong-in-the-arm",
         "type": "Carpenter",
-        "chance": "38%",
+        "chance": "3%",
         "id": "Heirs_of_the_North_Carpenter_4_Nordheimer"
       },
       {
@@ -76455,7 +77379,7 @@
       {
         "name": "Janos",
         "type": "Fighter",
-        "chance": "63%",
+        "chance": "5%",
         "id": "Heirs_of_the_North_Fighter_4_Nordheimer"
       },
       {
@@ -76474,7 +77398,7 @@
       {
         "name": "Jon the tinkerer",
         "type": "Smelter",
-        "chance": "63%",
+        "chance": "3%",
         "id": "Heirs_of_the_North_Smelter_4_Nordheimer"
       },
       {
@@ -76493,7 +77417,7 @@
       {
         "name": "Rokur the Alchemist",
         "type": "Alchemist",
-        "chance": "25%",
+        "chance": "1%",
         "id": "Heirs_of_the_North_Alchemist_4_Nordheimer"
       },
       {
@@ -76512,7 +77436,7 @@
       {
         "name": "Jon the tinkerer",
         "type": "Smelter",
-        "chance": "63%",
+        "chance": "3%",
         "id": "Heirs_of_the_North_Smelter_4_Nordheimer"
       },
       {
@@ -76531,7 +77455,7 @@
       {
         "name": "Beri",
         "type": "Blacksmith",
-        "chance": "49%",
+        "chance": "25%",
         "id": "Heirs_of_the_North_Blacksmith_4_Nordheimer"
       },
       {
@@ -76550,7 +77474,7 @@
       {
         "name": "Oskar Thunderhead",
         "type": "Tanner",
-        "chance": "63%",
+        "chance": "3%",
         "id": "Heirs_of_the_North_Tanner_4_Nordheimer"
       },
       {
@@ -76569,7 +77493,7 @@
       {
         "name": "Rikkart the Baker",
         "type": "Cook",
-        "chance": "63%",
+        "chance": "3%",
         "id": "Heirs_of_the_North_Cook_4_Nordheimer"
       },
       {
@@ -76588,7 +77512,7 @@
       {
         "name": "Manos, the handful",
         "type": "Taskmaster",
-        "chance": "63%",
+        "chance": "3%",
         "id": "Heirs_of_the_North_Taskmaster_4_Nordheimer"
       },
       {
@@ -76672,7 +77596,7 @@
       {
         "name": "Rokur the Alchemist",
         "type": "Alchemist",
-        "chance": "25%",
+        "chance": "1%",
         "id": "Heirs_of_the_North_Alchemist_4_Nordheimer"
       },
       {
@@ -76694,7 +77618,7 @@
       {
         "name": "Ladagara Daughter Of Ymir",
         "type": "WorldBoss",
-        "chance": "77%",
+        "chance": "10%",
         "id": "Ladagara_Daughter_Of_Ymir"
       }
     ]
@@ -76723,7 +77647,7 @@
       {
         "name": "Janos",
         "type": "Fighter",
-        "chance": "63%",
+        "chance": "5%",
         "id": "Heirs_of_the_North_Fighter_4_Nordheimer"
       },
       {
@@ -76755,61 +77679,61 @@
       {
         "name": "Chieftain Alfhild",
         "type": "MiniBoss",
-        "chance": "9%",
+        "chance": "<1%",
         "id": "Heirs_of_the_North_Chieftain2"
       },
       {
         "name": "Chieftain Alva",
         "type": "MiniBoss",
-        "chance": "9%",
+        "chance": "<1%",
         "id": "Heirs_of_the_North_Chieftain6"
       },
       {
         "name": "Chieftain Arvid",
         "type": "MiniBoss",
-        "chance": "9%",
+        "chance": "<1%",
         "id": "Heirs_of_the_North_Chieftain5"
       },
       {
         "name": "Chieftain Asger",
         "type": "MiniBoss",
-        "chance": "9%",
+        "chance": "<1%",
         "id": "Heirs_of_the_North_Chieftain3"
       },
       {
         "name": "Chieftain Aslaug",
         "type": "MiniBoss",
-        "chance": "9%",
+        "chance": "<1%",
         "id": "Heirs_of_the_North_Chieftain4"
       },
       {
         "name": "Chieftain Derulf",
         "type": "MiniBoss",
-        "chance": "9%",
+        "chance": "<1%",
         "id": "Heirs_of_the_North_Chieftain8"
       },
       {
         "name": "Chieftain Didrik",
         "type": "MiniBoss",
-        "chance": "9%",
+        "chance": "<1%",
         "id": "Heirs_of_the_North_Chieftain7"
       },
       {
         "name": "Chieftain Rada",
         "type": "MiniBoss",
-        "chance": "9%",
+        "chance": "<1%",
         "id": "Heirs_of_the_North_Chieftain10"
       },
       {
         "name": "Chieftain Valda",
         "type": "MiniBoss",
-        "chance": "9%",
+        "chance": "<1%",
         "id": "Heirs_of_the_North_Chieftain9"
       },
       {
         "name": "Chieftain Varulf",
         "type": "MiniBoss",
-        "chance": "9%",
+        "chance": "<1%",
         "id": "Heirs_of_the_North_Chieftain1"
       },
       {
@@ -76841,7 +77765,7 @@
       {
         "name": "Varpnir",
         "type": "Archer",
-        "chance": "63%",
+        "chance": "5%",
         "id": "Heirs_of_the_North_Archer_4_Nordheimer"
       },
       {
@@ -76873,7 +77797,7 @@
       {
         "name": "Manos, the handful",
         "type": "Taskmaster",
-        "chance": "63%",
+        "chance": "3%",
         "id": "Heirs_of_the_North_Taskmaster_4_Nordheimer"
       },
       {
@@ -76918,7 +77842,7 @@
       {
         "name": "Rikkart the Baker",
         "type": "Cook",
-        "chance": "63%",
+        "chance": "3%",
         "id": "Heirs_of_the_North_Cook_4_Nordheimer"
       },
       {
@@ -76950,7 +77874,7 @@
       {
         "name": "Oyvind Tall-tree",
         "type": "Performer",
-        "chance": "63%",
+        "chance": "3%",
         "id": "Heirs_of_the_North_Entertainer_4_Nordheimer"
       },
       {
@@ -76982,7 +77906,7 @@
       {
         "name": "Janos",
         "type": "Fighter",
-        "chance": "63%",
+        "chance": "5%",
         "id": "Heirs_of_the_North_Fighter_4_Nordheimer"
       },
       {
@@ -77001,7 +77925,7 @@
       {
         "name": "Njoror Battleborn",
         "type": "Armorer",
-        "chance": "63%",
+        "chance": "3%",
         "id": "Heirs_of_the_North_Armorer_4_Nordheimer"
       },
       {
@@ -77052,7 +77976,7 @@
       {
         "name": "Beri",
         "type": "Blacksmith",
-        "chance": "38%",
+        "chance": "37%",
         "id": "Heirs_of_the_North_Blacksmith_4_Nordheimer"
       },
       {
