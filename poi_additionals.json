@@ -286,5 +286,125 @@
     },
     "DiscoveryRadius": 0,
     "ExilesJourneyEvent": "None"
+  },
+  {
+    "ID": "obelisk1",
+    "Name": "Obelisk",
+    "Icon": "T_Map_Icon_generic_stamp_5",
+    "Location": {
+      "x": -69407,
+      "y": -116435,
+      "z": 0
+    },
+    "DiscoveryRadius": 0,
+    "ExilesJourneyEvent": "None"
+  },
+  {
+    "ID": "obelisk2",
+    "Name": "Obelisk",
+    "Icon": "T_Map_Icon_generic_stamp_5",
+    "Location": {
+      "x": -124458,
+      "y": 112674,
+      "z": 0
+    },
+    "DiscoveryRadius": 0,
+    "ExilesJourneyEvent": "None"
+  },
+  {
+    "ID": "obelisk3",
+    "Name": "Obelisk",
+    "Icon": "T_Map_Icon_generic_stamp_5",
+    "Location": {
+      "x": -6594,
+      "y": -222801,
+      "z": 0
+    },
+    "DiscoveryRadius": 0,
+    "ExilesJourneyEvent": "None"
+  },
+  {
+    "ID": "obelisk4",
+    "Name": "Obelisk",
+    "Icon": "T_Map_Icon_generic_stamp_5",
+    "Location": {
+      "x": -121859,
+      "y": -215992,
+      "z": 0
+    },
+    "DiscoveryRadius": 0,
+    "ExilesJourneyEvent": "None"
+  },
+  {
+    "ID": "obelisk5",
+    "Name": "Obelisk",
+    "Icon": "T_Map_Icon_generic_stamp_5",
+    "Location": {
+      "x": 23613,
+      "y": 135794,
+      "z": 0
+    },
+    "DiscoveryRadius": 0,
+    "ExilesJourneyEvent": "None"
+  },
+  {
+    "ID": "obelisk6",
+    "Name": "Obelisk",
+    "Icon": "T_Map_Icon_generic_stamp_5",
+    "Location": {
+      "x": -238170,
+      "y": -101259,
+      "z": 0
+    },
+    "DiscoveryRadius": 0,
+    "ExilesJourneyEvent": "None"
+  },
+  {
+    "ID": "obelisk7",
+    "Name": "Obelisk",
+    "Icon": "T_Map_Icon_generic_stamp_5",
+    "Location": {
+      "x": 187313,
+      "y": 13168,
+      "z": 0
+    },
+    "DiscoveryRadius": 0,
+    "ExilesJourneyEvent": "None"
+  },
+  {
+    "ID": "obelisk8",
+    "Name": "Obelisk",
+    "Icon": "T_Map_Icon_generic_stamp_5",
+    "Location": {
+      "x": 318137,
+      "y": 119737,
+      "z": 0
+    },
+    "DiscoveryRadius": 0,
+    "ExilesJourneyEvent": "None"
+  },
+  {
+    "ID": "obelisk9",
+    "Name": "Obelisk",
+    "Icon": "T_Map_Icon_generic_stamp_5",
+    "Location": {
+      "x": -141840,
+      "y": 217330,
+      "z": 0
+    },
+    "DiscoveryRadius": 0,
+    "ExilesJourneyEvent": "None"
+  },
+  {
+    "ID": "obelisk9",
+    "Name": "Obelisk",
+    "Icon": "T_Map_Icon_generic_stamp_5",
+    "Location": {
+      "x": -201650,
+      "y": 52327,
+      "z": 0
+    },
+    "DiscoveryRadius": 0,
+    "ExilesJourneyEvent": "None"
   }
 ]
