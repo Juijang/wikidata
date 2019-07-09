@@ -1,0 +1,290 @@
+[
+  {
+    "ID": "10901",
+    "Name": "Exiles Camp 01",
+    "Icon": "T_Map_Icon_camp_exiles",
+    "Location": {
+      "x": -82000,
+      "y": 231000,
+      "z": 0
+    },
+    "DiscoveryRadius": 0,
+    "ExilesJourneyEvent": "None"
+  },
+  {
+    "ID": "10902",
+    "Name": "Exiles Camp 02",
+    "Icon": "T_Map_Icon_camp_exiles",
+    "Location": {
+      "x": -76756,
+      "y": 178771,
+      "z": -15582
+    },
+    "DiscoveryRadius": 0,
+    "ExilesJourneyEvent": "None"
+  },
+  {
+    "ID": "10903",
+    "Name": "Exiles Camp 03",
+    "Icon": "T_Map_Icon_camp_exiles",
+    "Location": {
+      "x": -67000,
+      "y": 242000,
+      "z": 0
+    },
+    "DiscoveryRadius": 0,
+    "ExilesJourneyEvent": "None"
+  },
+  {
+    "ID": "10904",
+    "Name": "Exiles Camp 04",
+    "Icon": "T_Map_Icon_camp_exiles",
+    "Location": {
+      "x": -63000,
+      "y": 192000,
+      "z": 0
+    },
+    "DiscoveryRadius": 0,
+    "ExilesJourneyEvent": "None"
+  },
+  {
+    "ID": "10905",
+    "Name": "Exiles Camp 05",
+    "Icon": "T_Map_Icon_camp_exiles",
+    "Location": {
+      "x": -62000,
+      "y": 252000,
+      "z": 0
+    },
+    "DiscoveryRadius": 0,
+    "ExilesJourneyEvent": "None"
+  },
+  {
+    "ID": "10906",
+    "Name": "Exiles Camp 06",
+    "Icon": "T_Map_Icon_camp_exiles",
+    "Location": {
+      "x": -45000,
+      "y": 255000,
+      "z": 0
+    },
+    "DiscoveryRadius": 0,
+    "ExilesJourneyEvent": "None"
+  },
+  {
+    "ID": "10907",
+    "Name": "Exiles Camp 07",
+    "Icon": "T_Map_Icon_camp_exiles",
+    "Location": {
+      "x": -43000,
+      "y": 225000,
+      "z": 0
+    },
+    "DiscoveryRadius": 0,
+    "ExilesJourneyEvent": "None"
+  },
+  {
+    "ID": "10908",
+    "Name": "Exiles Camp 08",
+    "Icon": "T_Map_Icon_camp_exiles",
+    "Location": {
+      "x": -42000,
+      "y": 208000,
+      "z": 0
+    },
+    "DiscoveryRadius": 0,
+    "ExilesJourneyEvent": "None"
+  },
+  {
+    "ID": "10909",
+    "Name": "Exiles Camp 09",
+    "Icon": "T_Map_Icon_camp_exiles",
+    "Location": {
+      "x": -39000,
+      "y": 240000,
+      "z": 0
+    },
+    "DiscoveryRadius": 0,
+    "ExilesJourneyEvent": "None"
+  },
+  {
+    "ID": "10910",
+    "Name": "Exiles Camp 10",
+    "Icon": "T_Map_Icon_camp_exiles",
+    "Location": {
+      "x": -18000,
+      "y": 254000,
+      "z": 0
+    },
+    "DiscoveryRadius": 0,
+    "ExilesJourneyEvent": "None"
+  },
+  {
+    "ID": "10911",
+    "Name": "Exiles Camp 11",
+    "Icon": "T_Map_Icon_camp_exiles",
+    "Location": {
+      "x": -14000,
+      "y": 242000,
+      "z": 0
+    },
+    "DiscoveryRadius": 0,
+    "ExilesJourneyEvent": "None"
+  },
+  {
+    "ID": "10912",
+    "Name": "Exiles Camp 12",
+    "Icon": "T_Map_Icon_camp_exiles",
+    "Location": {
+      "x": -2000,
+      "y": 261000,
+      "z": 0
+    },
+    "DiscoveryRadius": 0,
+    "ExilesJourneyEvent": "None"
+  },
+  {
+    "ID": "10913",
+    "Name": "Exiles Camp 13",
+    "Icon": "T_Map_Icon_camp_exiles",
+    "Location": {
+      "x": 12000,
+      "y": 258000,
+      "z": 0
+    },
+    "DiscoveryRadius": 0,
+    "ExilesJourneyEvent": "None"
+  },
+  {
+    "ID": "10914",
+    "Name": "Exiles Camp 14",
+    "Icon": "T_Map_Icon_camp_exiles",
+    "Location": {
+      "x": 15000,
+      "y": 212000,
+      "z": 0
+    },
+    "DiscoveryRadius": 0,
+    "ExilesJourneyEvent": "None"
+  },
+  {
+    "ID": "10915",
+    "Name": "Exiles Camp 15",
+    "Icon": "T_Map_Icon_camp_exiles",
+    "Location": {
+      "x": 28000,
+      "y": 252000,
+      "z": 0
+    },
+    "DiscoveryRadius": 0,
+    "ExilesJourneyEvent": "None"
+  },
+  {
+    "ID": "10916",
+    "Name": "Exiles Camp 16",
+    "Icon": "T_Map_Icon_camp_exiles",
+    "Location": {
+      "x": 49000,
+      "y": 236000,
+      "z": 0
+    },
+    "DiscoveryRadius": 0,
+    "ExilesJourneyEvent": "None"
+  },
+  {
+    "ID": "10917",
+    "Name": "Exiles Camp 17",
+    "Icon": "T_Map_Icon_camp_exiles",
+    "Location": {
+      "x": 68000,
+      "y": 237000,
+      "z": 0
+    },
+    "DiscoveryRadius": 0,
+    "ExilesJourneyEvent": "None"
+  },
+  {
+    "ID": "10918",
+    "Name": "Exiles Camp 18",
+    "Icon": "T_Map_Icon_camp_exiles",
+    "Location": {
+      "x": 81000,
+      "y": 250000,
+      "z": 0
+    },
+    "DiscoveryRadius": 0,
+    "ExilesJourneyEvent": "None"
+  },
+  {
+    "ID": "10919",
+    "Name": "Exiles Camp 19",
+    "Icon": "T_Map_Icon_camp_exiles",
+    "Location": {
+      "x": 93000,
+      "y": 242000,
+      "z": 0
+    },
+    "DiscoveryRadius": 0,
+    "ExilesJourneyEvent": "None"
+  },
+  {
+    "ID": "10920",
+    "Name": "Exiles Camp 20",
+    "Icon": "T_Map_Icon_camp_exiles",
+    "Location": {
+      "x": 113000,
+      "y": 222000,
+      "z": 0
+    },
+    "DiscoveryRadius": 0,
+    "ExilesJourneyEvent": "None"
+  },
+  {
+    "ID": "10921",
+    "Name": "Exiles Camp 21",
+    "Icon": "T_Map_Icon_camp_exiles",
+    "Location": {
+      "x": 124000,
+      "y": 217000,
+      "z": 0
+    },
+    "DiscoveryRadius": 0,
+    "ExilesJourneyEvent": "None"
+  },
+  {
+    "ID": "10922",
+    "Name": "Exiles Camp 22",
+    "Icon": "T_Map_Icon_camp_exiles",
+    "Location": {
+      "x": 130000,
+      "y": 228000,
+      "z": 0
+    },
+    "DiscoveryRadius": 0,
+    "ExilesJourneyEvent": "None"
+  },
+  {
+    "ID": "10923",
+    "Name": "Exiles Camp 23",
+    "Icon": "T_Map_Icon_camp_exiles",
+    "Location": {
+      "x": 131000,
+      "y": 203000,
+      "z": 0
+    },
+    "DiscoveryRadius": 0,
+    "ExilesJourneyEvent": "None"
+  },
+  {
+    "ID": "10924",
+    "Name": "Exiles Camp 24",
+    "Icon": "T_Map_Icon_camp_exiles",
+    "Location": {
+      "x": 194000,
+      "y": 188000,
+      "z": 0
+    },
+    "DiscoveryRadius": 0,
+    "ExilesJourneyEvent": "None"
+  }
+]
