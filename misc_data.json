@@ -1,0 +1,2262 @@
+[
+  {
+    "name": "Grave Cairn",
+    "type": "lore",
+    "id": "54",
+    "marker": [
+      -217729,
+      30156,
+      -10291
+    ]
+  },
+  {
+    "name": "Emote(s)",
+    "type": "emote",
+    "marker": [
+      -118362,
+      -241004,
+      9183
+    ],
+    "data": [
+      "Kneel",
+      "ByCrom",
+      "PraySitting",
+      "PrayStanding"
+    ]
+  },
+  {
+    "name": "Techtosa's Journal #1",
+    "type": "emote",
+    "marker": [
+      -232403,
+      89352,
+      -3183
+    ],
+    "data": [
+      "Surrender"
+    ]
+  },
+  {
+    "name": "Techtosa's Journal #2",
+    "type": "emote",
+    "marker": [
+      -231506,
+      90064,
+      -3112
+    ],
+    "data": [
+      "BearHug"
+    ]
+  },
+  {
+    "name": "Techtosa's Journal #3",
+    "type": "emote",
+    "marker": [
+      -230324,
+      89225,
+      -3082
+    ],
+    "data": [
+      "Grovel"
+    ]
+  },
+  {
+    "name": "Techtosa's Journal #4",
+    "type": "emote",
+    "marker": [
+      -232402,
+      90470,
+      -3140
+    ],
+    "data": [
+      "Point"
+    ]
+  },
+  {
+    "name": "Techtosa's Journal #5",
+    "type": "emote",
+    "marker": [
+      -233904,
+      89389,
+      -3185
+    ],
+    "data": [
+      "ClapBig"
+    ]
+  },
+  {
+    "name": "Techtosa's Journal #6",
+    "type": "emote",
+    "marker": [
+      -232026,
+      91513,
+      -3175
+    ],
+    "data": [
+      "ClapSmall"
+    ]
+  },
+  {
+    "name": "Techtosa's Journal #7",
+    "type": "emote",
+    "marker": [
+      -229551,
+      91115,
+      -3277
+    ],
+    "data": [
+      "Shrug"
+    ]
+  },
+  {
+    "name": "Techtosa's Journal #8",
+    "type": "emote",
+    "marker": [
+      -229102,
+      90528,
+      -3259
+    ],
+    "data": [
+      "Ponder"
+    ]
+  },
+  {
+    "name": "Ophirean Journal #1",
+    "type": "lore",
+    "id": "46",
+    "marker": [
+      -25106,
+      265215,
+      -18637
+    ]
+  },
+  {
+    "name": "Ophirean Journal #2",
+    "type": "emote",
+    "marker": [
+      -76074,
+      264320,
+      -15060
+    ],
+    "data": [
+      "ArmsCrossed"
+    ]
+  },
+  {
+    "name": "Ophirean Journal #3",
+    "type": "emote",
+    "marker": [
+      -57907,
+      219226,
+      -17666
+    ],
+    "data": [
+      "Submissive"
+    ]
+  },
+  {
+    "name": "Ophirean Journal #4",
+    "type": "emote",
+    "marker": [
+      -81573,
+      135645,
+      -7489
+    ],
+    "data": [
+      "Sigh"
+    ]
+  },
+  {
+    "name": "Ophirean Journal #5",
+    "type": "emote",
+    "marker": [
+      -57929,
+      84739,
+      -12120
+    ],
+    "data": [
+      "ByCrom",
+      "Kneel",
+      "PraySitting",
+      "PrayStanding",
+      "Grovel"
+    ]
+  },
+  {
+    "name": "Ophirean Journal #6",
+    "type": "emote",
+    "marker": [
+      -101315,
+      62687,
+      -8795
+    ],
+    "data": [
+      "Score"
+    ]
+  },
+  {
+    "name": "Ophirean Journal #7",
+    "type": "emote",
+    "marker": [
+      -162713,
+      30409,
+      -1762
+    ],
+    "data": [
+      "Yawn"
+    ]
+  },
+  {
+    "name": "Ophirean Journal #8",
+    "type": "emote",
+    "marker": [
+      -217320,
+      29915,
+      -10279
+    ],
+    "data": [
+      "LaughSmall",
+      "LaughBig"
+    ]
+  },
+  {
+    "name": "Harlot's Journal #1",
+    "type": "lore",
+    "id": "29",
+    "marker": [
+      -235162,
+      91176,
+      -3017
+    ]
+  },
+  {
+    "name": "Harlot's Journal #2",
+    "type": "emote",
+    "marker": [
+      -263539,
+      90847,
+      -4111
+    ],
+    "data": [
+      "Flirt1"
+    ]
+  },
+  {
+    "name": "Harlot's Journal #3",
+    "type": "emote",
+    "marker": [
+      -127398,
+      215882,
+      -20119
+    ],
+    "data": [
+      "CombHair"
+    ]
+  },
+  {
+    "name": "Harlot's Journal #4",
+    "type": "emote",
+    "marker": [
+      82126,
+      187155,
+      -20194
+    ],
+    "data": [
+      "ShowOff"
+    ]
+  },
+  {
+    "name": "Harlot's Journal #5",
+    "type": "emote",
+    "marker": [
+      84027,
+      149858,
+      -15380
+    ],
+    "data": [
+      "BlowKiss"
+    ]
+  },
+  {
+    "name": "Harlot's Journal #6",
+    "type": "emote",
+    "marker": [
+      84513,
+      95714,
+      -7839
+    ],
+    "data": [
+      "LayingSeductive"
+    ]
+  },
+  {
+    "name": "Harlot's Journal #7",
+    "type": "emote",
+    "marker": [
+      24332,
+      134818,
+      -8581
+    ],
+    "data": [
+      "Squirming"
+    ]
+  },
+  {
+    "name": "Harlot's Journal #8",
+    "type": "emote",
+    "marker": [
+      15263,
+      163200,
+      -8192
+    ],
+    "data": [
+      "Spank"
+    ]
+  },
+  {
+    "name": "Harlot's Journal #9",
+    "type": "emote",
+    "marker": [
+      -11242,
+      123935,
+      -9107
+    ],
+    "data": [
+      "ComeHere"
+    ]
+  },
+  {
+    "name": "Emote(s)",
+    "type": "emote",
+    "marker": [
+      -104855,
+      68595,
+      -8906
+    ],
+    "data": [
+      "ByMitra",
+      "ByMitra",
+      "Kneel",
+      "PraySitting",
+      "PrayStanding"
+    ]
+  },
+  {
+    "name": "Emote(s)",
+    "type": "emote",
+    "marker": [
+      -139038,
+      137752,
+      -13479
+    ],
+    "data": [
+      "BySet",
+      "BySet",
+      "Kneel",
+      "PraySitting",
+      "PrayStanding"
+    ]
+  },
+  {
+    "name": "Emote(s)",
+    "type": "emote",
+    "marker": [
+      22264,
+      164271,
+      -7057
+    ],
+    "data": [
+      "ByYog",
+      "ByYog",
+      "Kneel",
+      "PraySitting",
+      "PrayStanding"
+    ]
+  },
+  {
+    "name": "Crumbled note",
+    "type": "feat",
+    "marker": [
+      -236546,
+      -100462,
+      -3388
+    ],
+    "data": [
+      "Specialist Brewing II"
+    ]
+  },
+  {
+    "name": "Hastily scribbled note",
+    "type": "feat",
+    "marker": [
+      16382,
+      160436,
+      -6658
+    ],
+    "data": [
+      "Specialist Cooking VI",
+      "Specialist Cooking I"
+    ]
+  },
+  {
+    "name": "Faded note",
+    "type": "feat",
+    "marker": [
+      -58261,
+      160144,
+      -1129
+    ],
+    "data": [
+      "Specialist Cooking VIII"
+    ]
+  },
+  {
+    "name": "frostsmithing",
+    "type": "feat",
+    "marker": [
+      -112786,
+      -265211,
+      10310
+    ],
+    "data": [
+      "Frost Smithing",
+      "Black Ice Pickaxe",
+      "Black Ice Throwing Axe",
+      "Black Ice Javelin"
+    ]
+  },
+  {
+    "name": "Torn note",
+    "type": "feat",
+    "marker": [
+      -121312,
+      -27616,
+      1690
+    ],
+    "data": [
+      "Specialist Cooking II"
+    ]
+  },
+  {
+    "name": "Torn note",
+    "type": "feat",
+    "marker": [
+      -214064,
+      -116603,
+      -3396
+    ],
+    "data": [
+      "Specialist Cooking III"
+    ]
+  },
+  {
+    "name": "Torn note",
+    "type": "feat",
+    "marker": [
+      -233007,
+      -115752,
+      -2230
+    ],
+    "data": [
+      "Specialist Cooking IV"
+    ]
+  },
+  {
+    "name": "Torn diary page",
+    "type": "feat",
+    "marker": [
+      -104580,
+      64090,
+      -7485
+    ],
+    "data": [
+      "Specialist Cooking VII"
+    ]
+  },
+  {
+    "name": "Foragers note",
+    "type": "feat",
+    "marker": [
+      -28262,
+      -52775,
+      -265
+    ],
+    "data": [
+      "Specialist Cooking IX"
+    ]
+  },
+  {
+    "name": "Raknys Journal #1",
+    "type": "emote",
+    "marker": [
+      -120639,
+      -14720,
+      -1018
+    ],
+    "data": [
+      "Cheer1"
+    ]
+  },
+  {
+    "name": "Torn Diary Page",
+    "type": "emote",
+    "marker": [
+      -229555,
+      -118126,
+      -2541
+    ],
+    "data": [
+      "Chicken"
+    ]
+  },
+  {
+    "name": "Raknys Journal #5",
+    "type": "emote",
+    "marker": [
+      -220174,
+      -47883,
+      -1439
+    ],
+    "data": [
+      "FistPunch"
+    ]
+  },
+  {
+    "name": "Raknys Journal #3",
+    "type": "emote",
+    "marker": [
+      -155478,
+      -48502,
+      2349
+    ],
+    "data": [
+      "PushUps"
+    ]
+  },
+  {
+    "name": "Raknys Journal #4",
+    "type": "emote",
+    "marker": [
+      -184942,
+      -60694,
+      -1032
+    ],
+    "data": [
+      "ShakeFist"
+    ]
+  },
+  {
+    "name": "Raknys Journal #2",
+    "type": "emote",
+    "marker": [
+      -77990,
+      -79709,
+      1113
+    ],
+    "data": [
+      "SlitThroat"
+    ]
+  },
+  {
+    "name": "Raknys Journal #6",
+    "type": "emote",
+    "marker": [
+      -221129,
+      -98154,
+      -4401
+    ],
+    "data": [
+      "Spit"
+    ]
+  },
+  {
+    "name": "Feat(s)",
+    "type": "feat",
+    "marker": [
+      -392396,
+      586424,
+      -6803
+    ],
+    "data": [
+      "Dagon's Breath"
+    ]
+  },
+  {
+    "name": "Feat(s)",
+    "type": "feat",
+    "marker": [
+      -358886,
+      572238,
+      -14762
+    ],
+    "data": [
+      "Daggers of Dagon"
+    ]
+  },
+  {
+    "name": "Feat(s)",
+    "type": "feat",
+    "marker": [
+      -386422,
+      594651,
+      -8744
+    ],
+    "data": [
+      "Ancient Lemurian Aloe Extract"
+    ]
+  },
+  {
+    "name": "Feat(s)",
+    "type": "feat",
+    "marker": [
+      -392581,
+      591058,
+      2216
+    ],
+    "data": [
+      "Ancient Lemurian Axe"
+    ]
+  },
+  {
+    "name": "Feat(s)",
+    "type": "feat",
+    "marker": [
+      -380713,
+      566489,
+      -2797
+    ],
+    "data": [
+      "Ancient Lemurian Trident"
+    ]
+  },
+  {
+    "name": "Feat(s)",
+    "type": "feat",
+    "marker": [
+      -366564,
+      582749,
+      -7363
+    ],
+    "data": [
+      "Deep Sea Fisher"
+    ]
+  },
+  {
+    "name": "Feat(s)",
+    "type": "feat",
+    "marker": [
+      -395734,
+      566024,
+      -2925
+    ],
+    "data": [
+      "Ancient Lemurian Sword",
+      "Ancient Lemurian Shield"
+    ]
+  },
+  {
+    "name": "Lemurian Lore #9",
+    "type": "lore",
+    "id": "71",
+    "marker": [
+      13690,
+      -91252,
+      7768
+    ]
+  },
+  {
+    "name": "The Northern City",
+    "type": "lore",
+    "id": "17",
+    "marker": [
+      133164,
+      85295,
+      -14488
+    ]
+  },
+  {
+    "name": "The Road Home",
+    "type": "lore",
+    "id": "82",
+    "marker": [
+      259763,
+      147896,
+      -19016
+    ]
+  },
+  {
+    "name": "Roof of the World",
+    "type": "lore",
+    "id": "83",
+    "marker": [
+      -43181,
+      -178806,
+      42034
+    ]
+  },
+  {
+    "name": "Ruins of Xullan",
+    "type": "lore",
+    "id": "97",
+    "marker": [
+      -83859,
+      -96510,
+      3126
+    ]
+  },
+  {
+    "name": "Sandswept Ruins",
+    "type": "lore",
+    "id": "96",
+    "marker": [
+      185534,
+      209935,
+      -17241
+    ]
+  },
+  {
+    "name": "Sealing the Borders",
+    "type": "lore",
+    "id": "14",
+    "marker": [
+      -57824,
+      214890,
+      -15706
+    ]
+  },
+  {
+    "name": "The Gladiator Conscription",
+    "type": "lore",
+    "id": "15",
+    "marker": [
+      22179,
+      134459,
+      -7720
+    ]
+  },
+  {
+    "name": "The Shattering Plains",
+    "type": "lore",
+    "id": "16",
+    "marker": [
+      -188463,
+      49261,
+      -10072
+    ]
+  },
+  {
+    "name": "Lemurian Lore #3",
+    "type": "lore",
+    "id": "65",
+    "marker": [
+      -54583,
+      -26755,
+      -1702
+    ]
+  },
+  {
+    "name": "Lemurian Lore #4",
+    "type": "lore",
+    "id": "66",
+    "marker": [
+      -50991,
+      -79522,
+      1880
+    ]
+  },
+  {
+    "name": "Lemurian Lore #5",
+    "type": "lore",
+    "id": "67",
+    "marker": [
+      -26048,
+      -50977,
+      -3278
+    ]
+  },
+  {
+    "name": "Lemurian Lore #6",
+    "type": "lore",
+    "id": "68",
+    "marker": [
+      7892,
+      -55060,
+      -467
+    ]
+  },
+  {
+    "name": "Lemurian Lore #7",
+    "type": "lore",
+    "id": "69",
+    "marker": [
+      -19830,
+      -114701,
+      6930
+    ]
+  },
+  {
+    "name": "Lemurian Lore #8",
+    "type": "lore",
+    "id": "70",
+    "marker": [
+      -35421,
+      -121689,
+      6524
+    ]
+  },
+  {
+    "name": "Lemurian Lore #10",
+    "type": "lore",
+    "id": "72",
+    "marker": [
+      -77096,
+      -144204,
+      26011
+    ]
+  },
+  {
+    "name": "Lemurian Lore #11",
+    "type": "lore",
+    "id": "73",
+    "marker": [
+      -62577,
+      -116259,
+      3143
+    ]
+  },
+  {
+    "name": "Lemurian Lore #12",
+    "type": "lore",
+    "id": "74",
+    "marker": [
+      -59306,
+      -134609,
+      10233
+    ]
+  },
+  {
+    "name": "Bonepile",
+    "type": "lore",
+    "id": "215",
+    "marker": [
+      293188,
+      204775,
+      -20162
+    ]
+  },
+  {
+    "name": "Note",
+    "type": "lore",
+    "id": "202",
+    "marker": [
+      17193,
+      155401,
+      -3521
+    ]
+  },
+  {
+    "name": "Priestking's Message",
+    "type": "feat",
+    "marker": [
+      -259837,
+      -325849,
+      4193
+    ],
+    "data": [
+      "Pride of the Silent Legion",
+      "Kinscourge Weapons"
+    ]
+  },
+  {
+    "name": "Acid-Eaten Journal",
+    "type": "feat",
+    "marker": [
+      -137300,
+      375588,
+      -22421
+    ],
+    "data": [
+      "Herpetology",
+      "Abysmal Sword",
+      "Abysmal Dagger",
+      "Abysmal Arrows",
+      "Reptile Leather Epic"
+    ]
+  },
+  {
+    "name": "Lemurian Lore #13",
+    "type": "lore",
+    "id": "75",
+    "marker": [
+      -65057,
+      -72398,
+      3538
+    ]
+  },
+  {
+    "name": "The Great Dam",
+    "type": "lore",
+    "id": "77",
+    "marker": [
+      5772,
+      -72181,
+      5554
+    ]
+  },
+  {
+    "name": "Northern Aqueduct",
+    "type": "lore",
+    "id": "18",
+    "marker": [
+      -14992,
+      -153,
+      -5513
+    ]
+  },
+  {
+    "name": "Mounds of the Dead",
+    "type": "lore",
+    "id": "80",
+    "marker": [
+      -60653,
+      688,
+      689
+    ]
+  },
+  {
+    "name": "Ruins of Nebthub",
+    "type": "lore",
+    "id": "81",
+    "marker": [
+      -121765,
+      -15262,
+      -1221
+    ]
+  },
+  {
+    "name": "Scholar's Note",
+    "type": "lore",
+    "id": "104",
+    "marker": [
+      -272955,
+      -109924,
+      3099
+    ]
+  },
+  {
+    "name": "Note",
+    "type": "lore",
+    "id": "207",
+    "marker": [
+      91138,
+      98146,
+      -7995
+    ]
+  },
+  {
+    "name": "Feat(s)",
+    "type": "feat",
+    "marker": [
+      -358316,
+      29538,
+      3544
+    ],
+    "data": [
+      "Arena Champion's Armor"
+    ]
+  },
+  {
+    "name": "The Prophecy of the Redeemer",
+    "type": "lore",
+    "id": "206",
+    "marker": [
+      -391981,
+      592788,
+      2119
+    ]
+  },
+  {
+    "name": "Feat(s)",
+    "type": "feat",
+    "marker": [
+      -253557,
+      111750,
+      -3550
+    ],
+    "data": [
+      "Relic Hunter Armor",
+      "Relic Hunter Epic"
+    ]
+  },
+  {
+    "name": "Mountaineering Journal",
+    "type": "lore",
+    "id": "141",
+    "marker": [
+      -143111,
+      144854,
+      3328
+    ]
+  },
+  {
+    "name": "Note",
+    "type": "lore",
+    "id": "204",
+    "marker": [
+      -211769,
+      114834,
+      -32394
+    ]
+  },
+  {
+    "name": "Note",
+    "type": "lore",
+    "id": "201",
+    "marker": [
+      17755,
+      156338,
+      -3505
+    ]
+  },
+  {
+    "name": "The Song of Telith",
+    "type": "feat",
+    "marker": [
+      -261894,
+      -325849,
+      4193
+    ],
+    "data": [
+      "Pride of the Silent Legion",
+      "Kinscourge Weapons"
+    ]
+  },
+  {
+    "name": "Torn Page #1",
+    "type": "lore",
+    "id": "89",
+    "marker": [
+      -263462,
+      -327980,
+      128
+    ]
+  },
+  {
+    "name": "Torn Page #4",
+    "type": "lore",
+    "id": "90",
+    "marker": [
+      -263914,
+      -327493,
+      1664
+    ]
+  },
+  {
+    "name": "Torn Page #5",
+    "type": "lore",
+    "id": "91",
+    "marker": [
+      -264802,
+      -331669,
+      3584
+    ]
+  },
+  {
+    "name": "Prison Cell Note",
+    "type": "lore",
+    "id": "92",
+    "marker": [
+      -257971,
+      -330613,
+      33
+    ]
+  },
+  {
+    "name": "Crossing the Wall",
+    "type": "lore",
+    "id": "95",
+    "marker": [
+      -71966,
+      -46486,
+      -303
+    ]
+  },
+  {
+    "name": "Crumbled note",
+    "type": "feat",
+    "marker": [
+      -95379,
+      30801,
+      -9314
+    ],
+    "data": [
+      "Specialist Brewing I"
+    ]
+  },
+  {
+    "name": "Feat(s)",
+    "type": "feat",
+    "marker": [
+      -372766,
+      56187,
+      5666
+    ],
+    "data": [
+      "Godbreaker Armor"
+    ]
+  },
+  {
+    "name": "Relic Hunter Journal",
+    "type": "lore",
+    "id": "113",
+    "marker": [
+      -141252,
+      120742,
+      -9182
+    ]
+  },
+  {
+    "name": "Torn journal page",
+    "type": "lore",
+    "id": "205",
+    "marker": [
+      -212999,
+      119686,
+      -33676
+    ]
+  },
+  {
+    "name": "Bonepile",
+    "type": "lore",
+    "id": "217",
+    "marker": [
+      293193,
+      205062,
+      -20154
+    ]
+  },
+  {
+    "name": "Torn Page #2",
+    "type": "feat",
+    "marker": [
+      -262908,
+      -325849,
+      4193
+    ],
+    "data": [
+      "Pride of the Silent Legion",
+      "Kinscourge Weapons"
+    ]
+  },
+  {
+    "name": "Feat(s)",
+    "type": "feat",
+    "marker": [
+      -372766,
+      57898,
+      5666
+    ],
+    "data": [
+      "Warmaker Weapons"
+    ]
+  },
+  {
+    "name": "A Confession",
+    "type": "lore",
+    "id": "100",
+    "marker": [
+      -218580,
+      -123502,
+      -2950
+    ]
+  },
+  {
+    "name": "Feat(s)",
+    "type": "feat",
+    "marker": [
+      -238706,
+      121124,
+      -38302
+    ],
+    "data": [
+      "Scorpion Queen Venom"
+    ]
+  },
+  {
+    "name": "Feat(s)",
+    "type": "feat",
+    "marker": [
+      18027,
+      167718,
+      -7083
+    ],
+    "data": [
+      "Witch Doctor"
+    ]
+  },
+  {
+    "name": "Relic Hunter Journal",
+    "type": "lore",
+    "id": "129",
+    "marker": [
+      -99655,
+      174322,
+      -8651
+    ]
+  },
+  {
+    "name": "Bonepile",
+    "type": "lore",
+    "id": "216",
+    "marker": [
+      293341,
+      204981,
+      -20183
+    ]
+  },
+  {
+    "name": "Torn Page #3",
+    "type": "feat",
+    "marker": [
+      -264965,
+      -325849,
+      4193
+    ],
+    "data": [
+      "Pride of the Silent Legion",
+      "Kinscourge Weapons"
+    ]
+  },
+  {
+    "name": "Relic Hunter Journal",
+    "type": "lore",
+    "id": "139",
+    "marker": [
+      -147185,
+      147197,
+      -7219
+    ]
+  },
+  {
+    "name": "Bonepile",
+    "type": "lore",
+    "id": "213",
+    "marker": [
+      293388,
+      204856,
+      -20186
+    ]
+  },
+  {
+    "name": "Torn note",
+    "type": "lore",
+    "id": "142",
+    "marker": [
+      -186827,
+      134620,
+      -6147
+    ]
+  },
+  {
+    "name": "Pirate's Note",
+    "type": "feat",
+    "marker": [
+      339960,
+      50530,
+      -16474
+    ],
+    "data": [
+      "Buccaneer",
+      "Black Corsair Garb"
+    ]
+  },
+  {
+    "name": "'Ware the traps!",
+    "type": "lore",
+    "id": "93",
+    "marker": [
+      -349283,
+      47469,
+      5838
+    ]
+  },
+  {
+    "name": "Lemurian Lore #1",
+    "type": "lore",
+    "id": "63",
+    "marker": [
+      39337,
+      30717,
+      -361
+    ]
+  },
+  {
+    "name": "Bonepile",
+    "type": "lore",
+    "id": "214",
+    "marker": [
+      293299,
+      204755,
+      -20186
+    ]
+  },
+  {
+    "name": "Gord's Journal",
+    "type": "feat",
+    "marker": [
+      315459,
+      71729,
+      -17242
+    ],
+    "data": [
+      "Pirate Cuisine"
+    ]
+  },
+  {
+    "name": "Torn note",
+    "type": "lore",
+    "id": "144",
+    "marker": [
+      -130389,
+      135587,
+      -12280
+    ]
+  },
+  {
+    "name": "Lemurian Lore #2",
+    "type": "lore",
+    "id": "64",
+    "marker": [
+      -180646,
+      -74079,
+      1719
+    ]
+  },
+  {
+    "name": "Feat(s)",
+    "type": "feat",
+    "marker": [
+      25351,
+      134399,
+      -15114
+    ],
+    "data": [
+      "Dragonbone Shield",
+      "Dragonbone Spear",
+      "Dragonhorn Bow",
+      "Dragonbone Sword",
+      "Dragonbone Two-Handed Sword",
+      "Dragonbone War Axe",
+      "Dragonbone Two-Handed Sword",
+      "Dragonbone Daggers",
+      "Dragonbone Throwing Axe",
+      "Dragonbone Javelin",
+      "Dragonbone Maul"
+    ]
+  },
+  {
+    "name": "Cargo list",
+    "type": "lore",
+    "id": "219",
+    "marker": [
+      337493,
+      56310,
+      -19550
+    ]
+  },
+  {
+    "name": "Torn note",
+    "type": "lore",
+    "id": "143",
+    "marker": [
+      -181644,
+      149904,
+      -8033
+    ]
+  },
+  {
+    "name": "Circle of Swords",
+    "type": "lore",
+    "id": "76",
+    "marker": [
+      -189341,
+      -61076,
+      870
+    ]
+  },
+  {
+    "name": "Torn Page",
+    "type": "feat",
+    "marker": [
+      224940,
+      152813,
+      -20149
+    ],
+    "data": [
+      "Specialist Cooking X"
+    ]
+  },
+  {
+    "name": "The Disjunction",
+    "type": "lore",
+    "id": "78",
+    "marker": [
+      -135031,
+      -223797,
+      29278
+    ]
+  },
+  {
+    "name": "Witch-Queen's Message",
+    "type": "feat",
+    "marker": [
+      -262387,
+      -328276,
+      3968
+    ],
+    "data": [
+      "Pride of the Silent Legion",
+      "Kinscourge Weapons"
+    ]
+  },
+  {
+    "name": "Relic Hunter Journal",
+    "type": "lore",
+    "id": "112",
+    "marker": [
+      -116681,
+      125707,
+      -8954
+    ]
+  },
+  {
+    "name": "The Dregs Tablet",
+    "type": "feat",
+    "marker": [
+      -140280,
+      310328,
+      -20319
+    ],
+    "data": [
+      "Dredger"
+    ]
+  },
+  {
+    "name": "Journal",
+    "type": "lore",
+    "id": "203",
+    "marker": [
+      -207454,
+      115188,
+      -32544
+    ]
+  },
+  {
+    "name": "Feat(s)",
+    "type": "feat",
+    "marker": [
+      -30604,
+      -249849,
+      34816
+    ],
+    "data": [
+      "Serpent-Man Shield",
+      "Serpent-Man Daggers",
+      "Serpent-Man Pike",
+      "Serpent-Man Sword",
+      "Serpent-Man War Axe",
+      "Serpent-Man Warhammer",
+      "Serpent-Man Mace",
+      "Serpent-Man Arrow",
+      "Serpent-Man Javelin",
+      "Serpent-Man Throwing Axe"
+    ]
+  },
+  {
+    "name": "Note",
+    "type": "lore",
+    "id": "208",
+    "marker": [
+      112690,
+      65204,
+      -14280
+    ]
+  },
+  {
+    "name": "Feat(s)",
+    "type": "feat",
+    "marker": [
+      380081,
+      -359237,
+      -14982
+    ],
+    "data": [
+      "Obsidian Warhammer",
+      "Obsidian Two-Handed Sword",
+      "Obsidian Spear",
+      "Obsidian Arrow",
+      "Obsidian Dagger",
+      "Obsidian Shield",
+      "Obsidian Sword",
+      "Obsidian Mace",
+      "Obsidian Tools",
+      "Obsidian Javelin",
+      "Obsidian Throwing Axe"
+    ]
+  },
+  {
+    "name": "Feat(s)",
+    "type": "feat",
+    "marker": [
+      -115656,
+      -236019,
+      9401
+    ],
+    "data": [
+      "Totems"
+    ]
+  },
+  {
+    "name": "Bonepile",
+    "type": "lore",
+    "id": "218",
+    "marker": [
+      293092,
+      204833,
+      -20150
+    ]
+  },
+  {
+    "name": "Feat(s)",
+    "type": "feat",
+    "marker": [
+      333312,
+      345860,
+      -31883
+    ],
+    "data": [
+      "Lemurian Royal Armor",
+      "Lemurian Warrior Armor",
+      "Lemurian Pike",
+      "Lemurian Sword"
+    ]
+  },
+  {
+    "name": "Feat(s)",
+    "type": "feat",
+    "marker": [
+      333312,
+      345860,
+      -31883
+    ],
+    "data": [
+      "Lemurian Royal Armor",
+      "Lemurian Warrior Armor",
+      "Lemurian Pike",
+      "Lemurian Sword"
+    ]
+  },
+  {
+    "name": "Feat(s)",
+    "type": "feat",
+    "marker": [
+      -25720,
+      -5090,
+      -4970
+    ],
+    "data": [
+      "Specialist Cooking V"
+    ]
+  },
+  {
+    "name": "Feat(s)",
+    "type": "feat",
+    "marker": [
+      338276,
+      580385,
+      -20212
+    ],
+    "data": [
+      "Broken Oar"
+    ]
+  },
+  {
+    "name": "Adventurer's Journal",
+    "type": "lore",
+    "id": "212",
+    "marker": [
+      -349867,
+      57197,
+      5620
+    ]
+  },
+  {
+    "name": "Moldy note",
+    "type": "lore",
+    "id": "209",
+    "marker": [
+      40427,
+      275911,
+      -21476
+    ]
+  },
+  {
+    "name": "The Fallen King's Tablet",
+    "type": "feat",
+    "marker": [
+      -282366,
+      -109535,
+      2193
+    ],
+    "data": [
+      "Vanquisher of the King Beneath"
+    ]
+  },
+  {
+    "name": "Feat(s)",
+    "type": "feat",
+    "marker": [
+      65070,
+      108794,
+      -4240
+    ],
+    "data": [
+      "Hyena-Fur Armor",
+      "Hyena-Fur Epic"
+    ]
+  },
+  {
+    "name": "Feat(s)",
+    "type": "feat",
+    "marker": [
+      -123972,
+      217754,
+      -20084
+    ],
+    "data": [
+      "Darfari Weapons"
+    ]
+  },
+  {
+    "name": "Note",
+    "type": "lore",
+    "id": "200",
+    "marker": [
+      18271,
+      156327,
+      -3508
+    ]
+  },
+  {
+    "name": "First Mate's Report",
+    "type": "lore",
+    "id": "30015",
+    "marker": [
+      80210,
+      97189,
+      -7841
+    ]
+  },
+  {
+    "name": "Journal",
+    "type": "lore",
+    "id": "30002",
+    "marker": [
+      24862,
+      285588,
+      -19187
+    ]
+  },
+  {
+    "name": "Journal",
+    "type": "lore",
+    "id": "30002",
+    "marker": [
+      55080,
+      286050,
+      -20614
+    ]
+  },
+  {
+    "name": "Journal",
+    "type": "lore",
+    "id": "30002",
+    "marker": [
+      97150,
+      282450,
+      -19818
+    ]
+  },
+  {
+    "name": "Journal",
+    "type": "lore",
+    "id": "30002",
+    "marker": [
+      127396,
+      278470,
+      -19292
+    ]
+  },
+  {
+    "name": "Journal",
+    "type": "lore",
+    "id": "30002",
+    "marker": [
+      -7480,
+      291219,
+      -19736
+    ]
+  },
+  {
+    "name": "Journal",
+    "type": "lore",
+    "id": "30002",
+    "marker": [
+      -53947,
+      291132,
+      -20697
+    ]
+  },
+  {
+    "name": "Etched Note",
+    "type": "lore",
+    "id": "30014",
+    "marker": [
+      -124810,
+      202510,
+      -12260
+    ]
+  },
+  {
+    "name": "Mercenary's Diary",
+    "type": "lore",
+    "id": "30023",
+    "marker": [
+      -242960,
+      98650,
+      -3730
+    ]
+  },
+  {
+    "name": "A Prayer to Hanuman",
+    "type": "lore",
+    "id": "30003",
+    "marker": [
+      40230,
+      275640,
+      -21406
+    ]
+  },
+  {
+    "name": "Priest's Journal",
+    "type": "lore",
+    "id": "30019",
+    "marker": [
+      63930,
+      146870,
+      -15280
+    ]
+  },
+  {
+    "name": "Razma's Journal #1",
+    "type": "lore",
+    "id": "30006",
+    "marker": [
+      23778,
+      263820,
+      -18471
+    ]
+  },
+  {
+    "name": "Razma's Journal #2",
+    "type": "lore",
+    "id": "30007",
+    "marker": [
+      10380,
+      226425,
+      -18045
+    ]
+  },
+  {
+    "name": "Razma's Journal #4",
+    "type": "lore",
+    "id": "30009",
+    "marker": [
+      36896,
+      132691,
+      -14470
+    ]
+  },
+  {
+    "name": "Razma's Journal #5",
+    "type": "lore",
+    "id": "30010",
+    "marker": [
+      96095,
+      81640,
+      -9214
+    ]
+  },
+  {
+    "name": "Razma's Journal #6",
+    "type": "lore",
+    "id": "30011",
+    "marker": [
+      -142071,
+      158882,
+      -8144
+    ]
+  },
+  {
+    "name": "Razma's Journal #7",
+    "type": "lore",
+    "id": "30012",
+    "marker": [
+      -95784,
+      20676,
+      -9583
+    ]
+  },
+  {
+    "name": "Razma's Journal #8",
+    "type": "lore",
+    "id": "30013",
+    "marker": [
+      -228978,
+      83136,
+      -3235
+    ]
+  },
+  {
+    "name": "Razma's Journal #3",
+    "type": "lore",
+    "id": "30008",
+    "marker": [
+      -28130,
+      194118,
+      -8510
+    ]
+  },
+  {
+    "name": "ScrawledNote",
+    "type": "lore",
+    "id": "30001",
+    "marker": [
+      29046,
+      313185,
+      -20421
+    ]
+  },
+  {
+    "name": "ScrawledNote",
+    "type": "lore",
+    "id": "30001",
+    "marker": [
+      58402,
+      303522,
+      -21467
+    ]
+  },
+  {
+    "name": "ScrawledNote",
+    "type": "lore",
+    "id": "30001",
+    "marker": [
+      127146,
+      306006,
+      -21242
+    ]
+  },
+  {
+    "name": "ScrawledNote",
+    "type": "lore",
+    "id": "30001",
+    "marker": [
+      -18068,
+      316595,
+      -19950
+    ]
+  },
+  {
+    "name": "ScrawledNote",
+    "type": "lore",
+    "id": "30001",
+    "marker": [
+      -50323,
+      317999,
+      -21287
+    ]
+  },
+  {
+    "name": "ScrawledNote",
+    "type": "lore",
+    "id": "30001",
+    "marker": [
+      99155,
+      307042,
+      -21151
+    ]
+  },
+  {
+    "name": "Waterskin",
+    "type": "lore",
+    "id": "41032",
+    "marker": [
+      29045,
+      313146,
+      -20429
+    ]
+  },
+  {
+    "name": "Waterskin",
+    "type": "lore",
+    "id": "41032",
+    "marker": [
+      58382,
+      303566,
+      -21461
+    ]
+  },
+  {
+    "name": "Waterskin",
+    "type": "lore",
+    "id": "41032",
+    "marker": [
+      127147,
+      305955,
+      -21253
+    ]
+  },
+  {
+    "name": "Waterskin",
+    "type": "lore",
+    "id": "41032",
+    "marker": [
+      -18092,
+      316597,
+      -19953
+    ]
+  },
+  {
+    "name": "Waterskin",
+    "type": "lore",
+    "id": "41032",
+    "marker": [
+      -50342,
+      318113,
+      -21300
+    ]
+  },
+  {
+    "name": "Waterskin",
+    "type": "lore",
+    "id": "41032",
+    "marker": [
+      99162,
+      307094,
+      -21164
+    ]
+  },
+  {
+    "name": "Waterstained Note",
+    "type": "lore",
+    "id": "30024",
+    "marker": [
+      97106,
+      205989,
+      -20216
+    ]
+  },
+  {
+    "name": "Unnamed City",
+    "type": "lore",
+    "id": "22",
+    "marker": [
+      -97859,
+      115254,
+      -7007
+    ]
+  },
+  {
+    "name": "The Aqueduct",
+    "type": "lore",
+    "id": "6",
+    "marker": [
+      -140482,
+      218701,
+      -18839
+    ]
+  },
+  {
+    "name": "The Aqueduct",
+    "type": "lore",
+    "id": "6",
+    "marker": [
+      -140482,
+      215341,
+      -18839
+    ]
+  },
+  {
+    "name": "Aviary",
+    "type": "lore",
+    "id": "19",
+    "marker": [
+      -124399,
+      152716,
+      -10790
+    ]
+  },
+  {
+    "name": "The Arena",
+    "type": "lore",
+    "id": "11",
+    "marker": [
+      32555,
+      134390,
+      -14608
+    ]
+  },
+  {
+    "name": "Black Pyramid",
+    "type": "lore",
+    "id": "20",
+    "marker": [
+      -139536,
+      139027,
+      -13723
+    ]
+  },
+  {
+    "name": "Black Pyramid",
+    "type": "lore",
+    "id": "20",
+    "marker": [
+      -146361,
+      139027,
+      -13723
+    ]
+  },
+  {
+    "name": "The Refugee Highway",
+    "type": "lore",
+    "id": "3",
+    "marker": [
+      -74427,
+      262766,
+      -15329
+    ]
+  },
+  {
+    "name": "Northern Aqueduct",
+    "type": "lore",
+    "id": "18",
+    "marker": [
+      -84237,
+      95685,
+      -3092
+    ]
+  },
+  {
+    "name": "The First Pillar",
+    "type": "lore",
+    "id": "4",
+    "marker": [
+      -49145,
+      319839,
+      -21459
+    ]
+  },
+  {
+    "name": "The First Pillar",
+    "type": "lore",
+    "id": "4",
+    "marker": [
+      -17989,
+      323587,
+      -20455
+    ]
+  },
+  {
+    "name": "The First Pillar",
+    "type": "lore",
+    "id": "4",
+    "marker": [
+      23574,
+      318236,
+      -20994
+    ]
+  },
+  {
+    "name": "The First Pillar",
+    "type": "lore",
+    "id": "4",
+    "marker": [
+      61969,
+      309155,
+      -21616
+    ]
+  },
+  {
+    "name": "The First Pillar",
+    "type": "lore",
+    "id": "4",
+    "marker": [
+      102293,
+      316576,
+      -21639
+    ]
+  },
+  {
+    "name": "The First Pillar",
+    "type": "lore",
+    "id": "4",
+    "marker": [
+      126963,
+      311326,
+      -21350
+    ]
+  },
+  {
+    "name": "The Sentinels",
+    "type": "lore",
+    "id": "5",
+    "marker": [
+      17142,
+      231686,
+      -20599
+    ]
+  },
+  {
+    "name": "Sinkhole - Entrance",
+    "type": "lore",
+    "id": "8",
+    "marker": [
+      59325,
+      131741,
+      -15282
+    ]
+  },
+  {
+    "name": "Slave Pits",
+    "type": "lore",
+    "id": "21",
+    "marker": [
+      -141872,
+      113520,
+      -12648
+    ]
+  },
+  {
+    "name": "The Summoning Circle",
+    "type": "lore",
+    "id": "7",
+    "marker": [
+      16110,
+      162020,
+      -8589
+    ]
+  },
+  {
+    "name": "The Gallery",
+    "type": "lore",
+    "id": "12",
+    "marker": [
+      23342,
+      134434,
+      -11618
+    ]
+  },
+  {
+    "name": "The Observatory",
+    "type": "lore",
+    "id": "9",
+    "marker": [
+      -51716,
+      160923,
+      -2475
+    ]
+  },
+  {
+    "name": "The Observatory",
+    "type": "lore",
+    "id": "9",
+    "marker": [
+      -52236,
+      162543,
+      -2535
+    ]
+  },
+  {
+    "name": "Feat(s)",
+    "type": "feat",
+    "marker": [
+      89373,
+      93981,
+      -7749
+    ],
+    "data": [
+      "Black Hand Banners"
+    ]
+  },
+  {
+    "name": "Feat(s)",
+    "type": "feat",
+    "marker": [
+      87389,
+      93305,
+      -7449
+    ],
+    "data": [
+      "Black Hand Banners"
+    ]
+  },
+  {
+    "name": "Feat(s)",
+    "type": "feat",
+    "marker": [
+      -122769,
+      218916,
+      -20136
+    ],
+    "data": [
+      "Darfari Banners"
+    ]
+  },
+  {
+    "name": "Feat(s)",
+    "type": "feat",
+    "marker": [
+      -94687,
+      23470,
+      -10759
+    ],
+    "data": [
+      "Dogs of the Desert Banners"
+    ]
+  },
+  {
+    "name": "Feat(s)",
+    "type": "feat",
+    "marker": [
+      -234779,
+      82599,
+      -4404
+    ],
+    "data": [
+      "Relic Hunter Banners"
+    ]
+  },
+  {
+    "name": "Feat(s)",
+    "type": "feat",
+    "marker": [
+      15282,
+      167514,
+      -6572
+    ],
+    "data": [
+      "Skulltaker"
+    ]
+  }
+]
