@@ -18,9 +18,9 @@
       9183
     ],
     "data": [
-      "Kneel",
       "ByCrom",
       "PraySitting",
+      "Kneel",
       "PrayStanding"
     ]
   },
@@ -176,8 +176,8 @@
     ],
     "data": [
       "ByCrom",
-      "Kneel",
       "PraySitting",
+      "Kneel",
       "PrayStanding",
       "Grovel"
     ]
@@ -335,9 +335,8 @@
     ],
     "data": [
       "ByMitra",
-      "ByMitra",
-      "Kneel",
       "PraySitting",
+      "Kneel",
       "PrayStanding"
     ]
   },
@@ -350,10 +349,9 @@
       -13479
     ],
     "data": [
-      "BySet",
-      "BySet",
-      "Kneel",
       "PraySitting",
+      "Kneel",
+      "BySet",
       "PrayStanding"
     ]
   },
@@ -367,9 +365,8 @@
     ],
     "data": [
       "ByYog",
-      "ByYog",
-      "Kneel",
       "PraySitting",
+      "Kneel",
       "PrayStanding"
     ]
   },
@@ -394,8 +391,8 @@
       -6658
     ],
     "data": [
-      "Specialist Cooking VI",
-      "Specialist Cooking I"
+      "Specialist Cooking I",
+      "Specialist Cooking VI"
     ]
   },
   {
@@ -650,8 +647,8 @@
       -2925
     ],
     "data": [
-      "Ancient Lemurian Sword",
-      "Ancient Lemurian Shield"
+      "Ancient Lemurian Shield",
+      "Ancient Lemurian Sword"
     ]
   },
   {
@@ -876,11 +873,11 @@
       -22421
     ],
     "data": [
-      "Herpetology",
-      "Abysmal Sword",
-      "Abysmal Dagger",
       "Abysmal Arrows",
-      "Reptile Leather Epic"
+      "Herpetology",
+      "Abysmal Dagger",
+      "Reptile Leather Epic",
+      "Abysmal Sword"
     ]
   },
   {
@@ -1341,17 +1338,16 @@
       -15114
     ],
     "data": [
-      "Dragonbone Shield",
-      "Dragonbone Spear",
-      "Dragonhorn Bow",
       "Dragonbone Sword",
-      "Dragonbone Two-Handed Sword",
-      "Dragonbone War Axe",
-      "Dragonbone Two-Handed Sword",
       "Dragonbone Daggers",
+      "Dragonbone Spear",
+      "Dragonbone Maul",
+      "Dragonhorn Bow",
+      "Dragonbone Two-Handed Sword",
       "Dragonbone Throwing Axe",
       "Dragonbone Javelin",
-      "Dragonbone Maul"
+      "Dragonbone Shield",
+      "Dragonbone War Axe"
     ]
   },
   {
@@ -1460,16 +1456,16 @@
       34816
     ],
     "data": [
-      "Serpent-Man Shield",
-      "Serpent-Man Daggers",
-      "Serpent-Man Pike",
+      "Serpent-Man Mace",
       "Serpent-Man Sword",
       "Serpent-Man War Axe",
       "Serpent-Man Warhammer",
-      "Serpent-Man Mace",
       "Serpent-Man Arrow",
       "Serpent-Man Javelin",
-      "Serpent-Man Throwing Axe"
+      "Serpent-Man Pike",
+      "Serpent-Man Daggers",
+      "Serpent-Man Throwing Axe",
+      "Serpent-Man Shield"
     ]
   },
   {
@@ -1491,17 +1487,17 @@
       -14982
     ],
     "data": [
-      "Obsidian Warhammer",
-      "Obsidian Two-Handed Sword",
-      "Obsidian Spear",
-      "Obsidian Arrow",
-      "Obsidian Dagger",
       "Obsidian Shield",
-      "Obsidian Sword",
       "Obsidian Mace",
-      "Obsidian Tools",
       "Obsidian Javelin",
-      "Obsidian Throwing Axe"
+      "Obsidian Sword",
+      "Obsidian Spear",
+      "Obsidian Tools",
+      "Obsidian Warhammer",
+      "Obsidian Throwing Axe",
+      "Obsidian Two-Handed Sword",
+      "Obsidian Dagger",
+      "Obsidian Arrow"
     ]
   },
   {
@@ -1536,8 +1532,8 @@
     ],
     "data": [
       "Lemurian Royal Armor",
-      "Lemurian Warrior Armor",
       "Lemurian Pike",
+      "Lemurian Warrior Armor",
       "Lemurian Sword"
     ]
   },
@@ -1551,8 +1547,8 @@
     ],
     "data": [
       "Lemurian Royal Armor",
-      "Lemurian Warrior Armor",
       "Lemurian Pike",
+      "Lemurian Warrior Armor",
       "Lemurian Sword"
     ]
   },
