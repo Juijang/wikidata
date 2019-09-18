@@ -2257,6 +2257,7 @@
   },
   {
     "name": "11",
+    "mapOverride": ".Art_Dungeon_x7_y6_DragonMouth",
     "type": "dungeonarea",
     "area": [
       345908,
@@ -2267,6 +2268,7 @@
   },
   {
     "name": "12",
+    "mapOverride": ".Camps-NPC_x5_y4",
     "type": "dungeonarea",
     "area": [
       140756,
@@ -2277,6 +2279,7 @@
   },
   {
     "name": "13",
+    "mapOverride": ".Gameplay_DagonDungeon",
     "type": "dungeonarea",
     "area": [
       -428000,
@@ -2287,6 +2290,7 @@
   },
   {
     "name": "14",
+    "mapOverride": ".Gameplay_WarmakersDungeon",
     "type": "dungeonarea",
     "area": [
       109054,
@@ -2297,6 +2301,7 @@
   },
   {
     "name": "0",
+    "mapOverride": ".Cinematic_Sewer_x2_y1",
     "type": "dungeonarea",
     "area": [
       -153098,
@@ -2307,6 +2312,7 @@
   },
   {
     "name": "1",
+    "mapOverride": ".Art_Dungeon_x2_y1_Sewer_1",
     "type": "dungeonarea",
     "area": [
       -148118,
@@ -2317,6 +2323,7 @@
   },
   {
     "name": "2",
+    "mapOverride": ".Art_Dungeon_x2_y1_Sewer_1_A",
     "type": "dungeonarea",
     "area": [
       -149106,
@@ -2327,6 +2334,7 @@
   },
   {
     "name": "3",
+    "mapOverride": ".Art_Dungeon_x2_y1_Sewer_1_B",
     "type": "dungeonarea",
     "area": [
       -144347,
@@ -2337,6 +2345,7 @@
   },
   {
     "name": "4",
+    "mapOverride": ".Art_Dungeon_x2_y1_Sewer_1_C",
     "type": "dungeonarea",
     "area": [
       -151712,
@@ -2347,6 +2356,7 @@
   },
   {
     "name": "5",
+    "mapOverride": ".Art_Dungeon_x2_y1_Sewer_1_D",
     "type": "dungeonarea",
     "area": [
       -145787,
@@ -2357,6 +2367,7 @@
   },
   {
     "name": "6",
+    "mapOverride": ".Art_Dungeon_x2_y1_Sewer_1_E",
     "type": "dungeonarea",
     "area": [
       -152133,
@@ -2367,6 +2378,7 @@
   },
   {
     "name": "7",
+    "mapOverride": ".Gameplay_VolcanoDungeon",
     "type": "dungeonarea",
     "area": [
       288656,
@@ -2377,6 +2389,7 @@
   },
   {
     "name": "8",
+    "mapOverride": ".Art_Dungeon_JhebbalSag",
     "type": "dungeonarea",
     "area": [
       -412160,
@@ -2387,6 +2400,7 @@
   },
   {
     "name": "9",
+    "mapOverride": ".Art_Dungeon_x2_y5_Abandoned_Keep",
     "type": "dungeonarea",
     "area": [
       -277000,
@@ -2397,6 +2411,7 @@
   },
   {
     "name": "10",
+    "mapOverride": ".Art_Dungeon_x7_y0_Witch",
     "type": "dungeonarea",
     "area": [
       307170,
