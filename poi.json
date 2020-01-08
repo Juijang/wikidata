@@ -396,18 +396,6 @@
     "ExilesJourneyEvent": "None"
   },
   {
-    "ID": "0",
-    "Name": "Non",
-    "Icon": "T_Map_Icon_ruins",
-    "Location": {
-      "x": -305963,
-      "y": 312069,
-      "z": 88
-    },
-    "DiscoveryRadius": 10,
-    "ExilesJourneyEvent": "None"
-  },
-  {
     "ID": "121",
     "Name": "The Northern Aqueduct",
     "Icon": "T_Map_Icon_ruins",
