@@ -2950,5 +2950,17 @@
     },
     "DiscoveryRadius": 7000,
     "ExilesJourneyEvent": "None"
+  },
+  {
+    "ID": "1090",
+    "Name": "Slithering Beach",
+    "Icon": "T_Map_Icon_vista",
+    "Location": {
+      "x": 215000,
+      "y": 115000,
+      "z": -1657
+    },
+    "DiscoveryRadius": 7000,
+    "ExilesJourneyEvent": "None"
   }
 ]
