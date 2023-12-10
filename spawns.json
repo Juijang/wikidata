@@ -1,4 +1,3 @@
-[
 {
   "id": "Votaries_Archer_Hostile",
   "marker": [-29890, -246302, 28672],
@@ -19814,4 +19813,3 @@
 { "name": "Wolf Pup", "type": "Critter", "chance": "~1", "id": "Wildlife_Wolf_Puppy", "fm": "0/0" }
   ]
 }
-]
