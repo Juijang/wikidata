@@ -256,14 +256,14 @@
   "id": "Merchant_M9",
   "marker": [322655, 64813, -19170],
   "spawns": [
-{ "name": "Owen the Beautiful", "type": "Dialog NPC", "chance": "100", "id": "Merchant_M9", "fm": "0/0" }
+{ "name": "Owen the Beautiful", "type": "Merchant NPC", "chance": "100", "id": "Merchant_M9", "fm": "0/0" }
   ]
 },
 {
   "id": "Merchant_M10",
   "marker": [324925, 75568, -15209],
   "spawns": [
-{ "name": "Ignatius the Greedy", "type": "Dialog NPC", "chance": "100", "id": "Merchant_M10", "fm": "0/0" }
+{ "name": "Ignatius the Greedy", "type": "Merchant NPC", "chance": "100", "id": "Merchant_M10", "fm": "0/0" }
   ]
 },
 {
@@ -3214,7 +3214,7 @@
   "id": "Shamalla",
   "marker": [314234, 64267, -14412],
   "spawns": [
-{ "name": "Shamalla The Pirate Queen", "type": "Dialog NPC", "chance": "100", "id": "Shamalla", "fm": "0/0" }
+{ "name": "Shamalla The Pirate Queen", "type": "Merchant NPC", "chance": "100", "id": "Shamalla", "fm": "0/0" }
   ]
 },
 {
@@ -3545,7 +3545,7 @@
   "id": "Merchant_F4",
   "marker": [-95820, 18781, -9281],
   "spawns": [
-{ "name": "Shawna the Strange", "type": "Dialog NPC", "chance": "100", "id": "Merchant_F4", "fm": "0/0" }
+{ "name": "Shawna the Strange", "type": "Merchant NPC", "chance": "100", "id": "Merchant_F4", "fm": "0/0" }
   ]
 },
 {
@@ -13318,56 +13318,56 @@
   "id": "Merchant_F1",
   "marker": [-261959, 90407, -4167],
   "spawns": [
-{ "name": "Siarra the Haggler", "type": "Dialog NPC", "chance": "100", "id": "Merchant_F1", "fm": "0/0" }
+{ "name": "Siarra the Haggler", "type": "Merchant NPC", "chance": "100", "id": "Merchant_F1", "fm": "0/0" }
   ]
 },
 {
   "id": "Merchant_F2",
   "marker": [-260127, 92040, -4108],
   "spawns": [
-{ "name": "Hannah the Broker", "type": "Dialog NPC", "chance": "100", "id": "Merchant_F2", "fm": "0/0" }
+{ "name": "Hannah the Broker", "type": "Merchant NPC", "chance": "100", "id": "Merchant_F2", "fm": "0/0" }
   ]
 },
 {
   "id": "Merchant_F3",
   "marker": [-260148, 91597, -4125],
   "spawns": [
-{ "name": "Handler Thiena", "type": "Dialog NPC", "chance": "100", "id": "Merchant_F3", "fm": "0/0" }
+{ "name": "Handler Thiena", "type": "Merchant NPC", "chance": "100", "id": "Merchant_F3", "fm": "0/0" }
   ]
 },
 {
   "id": "Merchant_M1",
   "marker": [-263438, 91371, -4102],
   "spawns": [
-{ "name": "Anzu the Broke", "type": "Dialog NPC", "chance": "100", "id": "Merchant_M1", "fm": "0/0" }
+{ "name": "Anzu the Broke", "type": "Merchant NPC", "chance": "100", "id": "Merchant_M1", "fm": "0/0" }
   ]
 },
 {
   "id": "Merchant_M2",
   "marker": [-260237, 90876, -4144],
   "spawns": [
-{ "name": "Vennor Skinflint", "type": "Dialog NPC", "chance": "100", "id": "Merchant_M2", "fm": "0/0" }
+{ "name": "Vennor Skinflint", "type": "Merchant NPC", "chance": "100", "id": "Merchant_M2", "fm": "0/0" }
   ]
 },
 {
   "id": "Merchant_M3",
   "marker": [-261621, 90170, -4173],
   "spawns": [
-{ "name": "Retas Metmeg", "type": "Dialog NPC", "chance": "100", "id": "Merchant_M3", "fm": "0/0" }
+{ "name": "Retas Metmeg", "type": "Merchant NPC", "chance": "100", "id": "Merchant_M3", "fm": "0/0" }
   ]
 },
 {
   "id": "Merchant_M4",
   "marker": [-260053, 90578, -4151],
   "spawns": [
-{ "name": "Consigner Arphus", "type": "Dialog NPC", "chance": "100", "id": "Merchant_M4", "fm": "0/0" }
+{ "name": "Consigner Arphus", "type": "Merchant NPC", "chance": "100", "id": "Merchant_M4", "fm": "0/0" }
   ]
 },
 {
   "id": "Merchant_M5",
   "marker": [-262954, 90636, -4162],
   "spawns": [
-{ "name": "Ephremis the Broker", "type": "Dialog NPC", "chance": "100", "id": "Merchant_M5", "fm": "0/0" }
+{ "name": "Ephremis the Broker", "type": "Merchant NPC", "chance": "100", "id": "Merchant_M5", "fm": "0/0" }
   ]
 },
 {
@@ -16196,7 +16196,7 @@
   "id": "Zeina",
   "marker": [320512, 62420, -19131],
   "spawns": [
-{ "name": "Zeina The Vixen", "type": "Dialog NPC", "chance": "100", "id": "Zeina", "fm": "0/0" }
+{ "name": "Zeina The Vixen", "type": "Merchant NPC", "chance": "100", "id": "Zeina", "fm": "0/0" }
   ]
 },
 {
@@ -16213,7 +16213,7 @@
   "id": "Merchant_M8",
   "marker": [322282, 63269, -19190],
   "spawns": [
-{ "name": "Koros the Brave", "type": "Dialog NPC", "chance": "100", "id": "Merchant_M8", "fm": "0/0" }
+{ "name": "Koros the Brave", "type": "Merchant NPC", "chance": "100", "id": "Merchant_M8", "fm": "0/0" }
   ]
 },
 {
@@ -17500,21 +17500,21 @@
   "id": "Merchant_Volcano_M1",
   "marker": [14405, -205464, 46341],
   "spawns": [
-{ "name": "Essel the Trader", "type": "Dialog NPC", "chance": "100", "id": "Merchant_Volcano_M1", "fm": "0/0" }
+{ "name": "Essel the Trader", "type": "Merchant NPC", "chance": "100", "id": "Merchant_Volcano_M1", "fm": "0/0" }
   ]
 },
 {
   "id": "Merchant_Volcano_M2",
   "marker": [13542, -221694, 47306],
   "spawns": [
-{ "name": "Iliz of the Brood", "type": "Dialog NPC", "chance": "100", "id": "Merchant_Volcano_M2", "fm": "0/0" }
+{ "name": "Iliz of the Brood", "type": "Merchant NPC", "chance": "100", "id": "Merchant_Volcano_M2", "fm": "0/0" }
   ]
 },
 {
   "id": "Merchant_Volcano_M3",
   "marker": [-16746, -173166, 32536],
   "spawns": [
-{ "name": "Olz Forked-Tongue", "type": "Dialog NPC", "chance": "100", "id": "Merchant_Volcano_M3", "fm": "0/0" }
+{ "name": "Olz Forked-Tongue", "type": "Merchant NPC", "chance": "100", "id": "Merchant_Volcano_M3", "fm": "0/0" }
   ]
 },
 {
