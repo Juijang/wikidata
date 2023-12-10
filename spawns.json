@@ -1,3 +1,4 @@
+[
 {
   "id": "Votaries_Archer_Hostile",
   "marker": [-29890, -246302, 28672],
@@ -249,6 +250,20 @@
   "marker": [360205, 135032, -19590],
   "spawns": [
 { "name": "Corrupted Grey Ape", "type": "MiniBoss", "chance": "~2", "id": "Wildlife_Miniboss_GreyApe", "fm": "0/0" }
+  ]
+},
+{
+  "id": "Merchant_M9",
+  "marker": [322655, 64813, -19170],
+  "spawns": [
+{ "name": "Owen the Beautiful", "type": "Dialog NPC", "chance": "100", "id": "Merchant_M9", "fm": "0/0" }
+  ]
+},
+{
+  "id": "Merchant_M10",
+  "marker": [324925, 75568, -15209],
+  "spawns": [
+{ "name": "Ignatius the Greedy", "type": "Dialog NPC", "chance": "100", "id": "Merchant_M10", "fm": "0/0" }
   ]
 },
 {
@@ -3196,6 +3211,13 @@
   ]
 },
 {
+  "id": "Shamalla",
+  "marker": [314234, 64267, -14412],
+  "spawns": [
+{ "name": "Shamalla The Pirate Queen", "type": "Dialog NPC", "chance": "100", "id": "Shamalla", "fm": "0/0" }
+  ]
+},
+{
   "id": "Wildlife_Panther",
   "marker": [224020, 207042, -14010],
   "spawns": [
@@ -3517,6 +3539,13 @@
   "spawns": [
 { "name": "White Rabbit", "type": "Critter", "chance": "5", "id": "Wildlife_RabbitWhite", "fm": "0/0" },
 { "name": "Rabbit", "type": "Critter", "chance": "95", "id": "Wildlife_Rabbit", "fm": "0/0" }
+  ]
+},
+{
+  "id": "Merchant_F4",
+  "marker": [-95820, 18781, -9281],
+  "spawns": [
+{ "name": "Shawna the Strange", "type": "Dialog NPC", "chance": "100", "id": "Merchant_F4", "fm": "0/0" }
   ]
 },
 {
@@ -13286,6 +13315,62 @@
   ]
 },
 {
+  "id": "Merchant_F1",
+  "marker": [-261959, 90407, -4167],
+  "spawns": [
+{ "name": "Siarra the Haggler", "type": "Dialog NPC", "chance": "100", "id": "Merchant_F1", "fm": "0/0" }
+  ]
+},
+{
+  "id": "Merchant_F2",
+  "marker": [-260127, 92040, -4108],
+  "spawns": [
+{ "name": "Hannah the Broker", "type": "Dialog NPC", "chance": "100", "id": "Merchant_F2", "fm": "0/0" }
+  ]
+},
+{
+  "id": "Merchant_F3",
+  "marker": [-260148, 91597, -4125],
+  "spawns": [
+{ "name": "Handler Thiena", "type": "Dialog NPC", "chance": "100", "id": "Merchant_F3", "fm": "0/0" }
+  ]
+},
+{
+  "id": "Merchant_M1",
+  "marker": [-263438, 91371, -4102],
+  "spawns": [
+{ "name": "Anzu the Broke", "type": "Dialog NPC", "chance": "100", "id": "Merchant_M1", "fm": "0/0" }
+  ]
+},
+{
+  "id": "Merchant_M2",
+  "marker": [-260237, 90876, -4144],
+  "spawns": [
+{ "name": "Vennor Skinflint", "type": "Dialog NPC", "chance": "100", "id": "Merchant_M2", "fm": "0/0" }
+  ]
+},
+{
+  "id": "Merchant_M3",
+  "marker": [-261621, 90170, -4173],
+  "spawns": [
+{ "name": "Retas Metmeg", "type": "Dialog NPC", "chance": "100", "id": "Merchant_M3", "fm": "0/0" }
+  ]
+},
+{
+  "id": "Merchant_M4",
+  "marker": [-260053, 90578, -4151],
+  "spawns": [
+{ "name": "Consigner Arphus", "type": "Dialog NPC", "chance": "100", "id": "Merchant_M4", "fm": "0/0" }
+  ]
+},
+{
+  "id": "Merchant_M5",
+  "marker": [-262954, 90636, -4162],
+  "spawns": [
+{ "name": "Ephremis the Broker", "type": "Dialog NPC", "chance": "100", "id": "Merchant_M5", "fm": "0/0" }
+  ]
+},
+{
   "id": "RelicHunterPriest_Random",
   "marker": [-261416, 90578, -4150],
   "spawns": [
@@ -16108,6 +16193,13 @@
   ]
 },
 {
+  "id": "Zeina",
+  "marker": [320512, 62420, -19131],
+  "spawns": [
+{ "name": "Zeina The Vixen", "type": "Dialog NPC", "chance": "100", "id": "Zeina", "fm": "0/0" }
+  ]
+},
+{
   "id": "BlackHandTaskmaster_Random",
   "marker": [321728, 71863, -18637],
   "spawns": [
@@ -16115,6 +16207,13 @@
 { "name": "Ruka the Fierce", "type": "Taskmaster", "chance": "25", "id": "Blackhand_Taskmaster_Durability", "fm": "0/0" },
 { "name": "Saddur the Slaver", "type": "Taskmaster", "chance": "25", "id": "Black_Hand_Taskmaster_4_Shemite", "fm": "0/0" },
 { "name": "Ana the Torturer", "type": "Taskmaster", "chance": "25", "id": "Blackhand_Taskmaster_Penetration", "fm": "0/0" }
+  ]
+},
+{
+  "id": "Merchant_M8",
+  "marker": [322282, 63269, -19190],
+  "spawns": [
+{ "name": "Koros the Brave", "type": "Dialog NPC", "chance": "100", "id": "Merchant_M8", "fm": "0/0" }
   ]
 },
 {
@@ -17395,6 +17494,27 @@
   "marker": [-29670, -220151, 38885],
   "spawns": [
 { "name": "Living Magma", "type": "MiniBoss", "chance": "100", "id": "Wildlife_Rocknose_King_Molten", "fm": "0/0" }
+  ]
+},
+{
+  "id": "Merchant_Volcano_M1",
+  "marker": [14405, -205464, 46341],
+  "spawns": [
+{ "name": "Essel the Trader", "type": "Dialog NPC", "chance": "100", "id": "Merchant_Volcano_M1", "fm": "0/0" }
+  ]
+},
+{
+  "id": "Merchant_Volcano_M2",
+  "marker": [13542, -221694, 47306],
+  "spawns": [
+{ "name": "Iliz of the Brood", "type": "Dialog NPC", "chance": "100", "id": "Merchant_Volcano_M2", "fm": "0/0" }
+  ]
+},
+{
+  "id": "Merchant_Volcano_M3",
+  "marker": [-16746, -173166, 32536],
+  "spawns": [
+{ "name": "Olz Forked-Tongue", "type": "Dialog NPC", "chance": "100", "id": "Merchant_Volcano_M3", "fm": "0/0" }
   ]
 },
 {
@@ -19813,3 +19933,4 @@
 { "name": "Wolf Pup", "type": "Critter", "chance": "~1", "id": "Wildlife_Wolf_Puppy", "fm": "0/0" }
   ]
 }
+]
