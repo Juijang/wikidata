@@ -1,4 +1,5 @@
-[{"id":"Dialogue_Conan","marker": [-23788707812, 8693239843, -402195727],"spawns":[{"name":"Conan","type":"WorldBoss","chance":"100","id":"Dialogue_Conan","fm":"0/0"}]},
+[
+{"id":"Dialogue_Conan","marker": [-23788707812, 8693239843, -402195727],"spawns":[{"name":"Conan X","type":"WorldBoss","chance":"100","id":"Dialogue_Conan","fm":"0/0"}]},
 {"id":"Dialogue_Princess","marker": [-23764751562, 8652532812, -402195727],"spawns":[{"name":"Princess","type":"WorldBoss","chance":"100","id":"Dialogue_Princess","fm":"0/0"}]},
 {"id":"Dialogue_Bounty_Merchant_Mek1","marker": [-808074316, 8706760937, -445857421],"spawns":[{"name":"Khitan Exiled Trader","type":"Merchant NPC","chance":"100","id":"Dialogue_Bounty_Merchant_Mek1","fm":"0/0"}]},
 {"id":"Dialogue_Bounty_Merchant_Mek2","marker": [-774074316, 8649760937, -445857421],"spawns":[{"name":"Khitan Exiled Trader","type":"Merchant NPC","chance":"100","id":"Dialogue_Bounty_Merchant_Mek2","fm":"0/0"}]},
