@@ -3554,5 +3554,5 @@
 {"id":"Wildlife_Bear_Brown","marker": [-2512341015, -4530626953, 7853320],"spawns":[{"name":"Monstrous Bear","type":"MiniBoss","chance":"~2","id":"Wildlife_Miniboss_Bear_Brown","fm":"0/0"},{"name":"Brown Bear","type":"Critter","chance":"~1","id":"Wildlife_Bear_Brown_Cub","fm":"0/0"}]},
 {"id":"Wildlife_Bear_Brown","marker": [-1045704980, 1468677734, -220128076],"spawns":[{"name":"Monstrous Bear","type":"MiniBoss","chance":"~2","id":"Wildlife_Miniboss_Bear_Brown","fm":"0/0"},{"name":"Brown Bear","type":"Critter","chance":"~1","id":"Wildlife_Bear_Brown_Cub","fm":"0/0"}]},
 {"id":"Wildlife_Bear_Black","marker": [3293082421, 2279393554, 84916381],"spawns":[{"name":"Black Bear Cub","type":"Critter","chance":"100","id":"Wildlife_Bear_Black_Cub","fm":"0/0"}]},
-{"id":"Wildlife_Wolf","marker": [-3881810156, 32865283, -311987],"spawns":[{"name":"Corrupted Wolf","type":"MiniBoss","chance":"~2","id":"Wildlife_Miniboss_Wolf","fm":"0/0"},{"name":"Wolf Pup","type":"Critter","chance":"~1","id":"Wildlife_Wolf_Puppy","fm":"0/0"}]},
+{"id":"Wildlife_Wolf","marker": [-3881810156, 32865283, -311987],"spawns":[{"name":"Corrupted Wolf","type":"MiniBoss","chance":"~2","id":"Wildlife_Miniboss_Wolf","fm":"0/0"},{"name":"Wolf Pup","type":"Critter","chance":"~1","id":"Wildlife_Wolf_Puppy","fm":"0/0"}]}
 ]
