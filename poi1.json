@@ -1,2966 +1,3264 @@
 [
-  {
-    "ID": "230",
-    "Name": "Walkway of the Devout",
-    "Icon": "T_Map_Icon_ruins",
-    "Location": {
-      "x": -1983,
-      "y": -251337,
-      "z": 29974
-    },
-    "DiscoveryRadius": 7000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "110",
-    "Name": "Sanctuary Ruins",
-    "Icon": "T_Map_Icon_ruins",
-    "Location": {
-      "x": 39503,
-      "y": 28307,
-      "z": -1018
-    },
-    "DiscoveryRadius": 4000,
-    "ExilesJourneyEvent": "DiscoverHauntsSanctuaryRuins"
-  },
-  {
-    "ID": "231",
-    "Name": "The Well of Skelos",
-    "Icon": "T_Map_dungeonIcon",
-    "Location": {
-      "x": -28576,
-      "y": -249735,
-      "z": 30466
-    },
-    "DiscoveryRadius": 4500,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "111",
-    "Name": "Telith's Island",
-    "Icon": "T_Map_Icon_vista",
-    "Location": {
-      "x": 35197,
-      "y": 24732,
-      "z": -3000
-    },
-    "DiscoveryRadius": 9000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "232",
-    "Name": "Road of the Righteous",
-    "Icon": "T_Map_Icon_ruins",
-    "Location": {
-      "x": -17043,
-      "y": -173650,
-      "z": 31969
-    },
-    "DiscoveryRadius": 4500,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "112",
-    "Name": "The Pocket",
-    "Icon": "T_Map_Icon_camp_black_hand",
-    "Location": {
-      "x": 65164,
-      "y": 51887,
-      "z": -758
-    },
-    "DiscoveryRadius": 3500,
-    "ExilesJourneyEvent": "ScoutBlackHandCamp"
-  },
-  {
-    "ID": "233",
-    "Name": "The Hidden Way",
-    "Icon": "T_Map_Icon_vista",
-    "Location": {
-      "x": -45906,
-      "y": -171789,
-      "z": 34543
-    },
-    "DiscoveryRadius": 8000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "113",
-    "Name": "Scartalon Ridgeline",
-    "Icon": "T_Map_Icon_vista",
-    "Location": {
-      "x": 42537,
-      "y": -9892,
-      "z": 96
-    },
-    "DiscoveryRadius": 15000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "234",
-    "Name": "The Shattered Stairs",
-    "Icon": "T_Map_Icon_ruins",
-    "Location": {
-      "x": -56184,
-      "y": -235224,
-      "z": 33119
-    },
-    "DiscoveryRadius": 6000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "114",
-    "Name": "Lockstone Cave",
-    "Icon": "T_Map_caveIcon",
-    "Location": {
-      "x": 29967,
-      "y": -37363,
-      "z": 3604
-    },
-    "DiscoveryRadius": 1000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "235",
-    "Name": "The Floe",
-    "Icon": "T_Map_caveIcon",
-    "Location": {
-      "x": -96631,
-      "y": -226716,
-      "z": 26171
-    },
-    "DiscoveryRadius": 1000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "115",
-    "Name": "Freya's Hovel",
-    "Icon": "T_Map_Icon_camp_vanir",
-    "Location": {
-      "x": 8245,
-      "y": -20004,
-      "z": 3932
-    },
-    "DiscoveryRadius": 2500,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "236",
-    "Name": "Blizzard's Overwatch",
-    "Icon": "T_Map_Icon_camp_frost_giant",
-    "Location": {
-      "x": -248368,
-      "y": -193194,
-      "z": 18427
-    },
-    "DiscoveryRadius": 2500,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "116",
-    "Name": "Jhil's Roost",
-    "Icon": "T_Map_caveIcon",
-    "Location": {
-      "x": 30208,
-      "y": -47027,
-      "z": 7774
-    },
-    "DiscoveryRadius": 1000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "237",
-    "Name": "Icekeeper Hollow",
-    "Icon": "T_Map_Icon_camp_frost_giant",
-    "Location": {
-      "x": -147911,
-      "y": -184373,
-      "z": 745
-    },
-    "DiscoveryRadius": 2000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "117",
-    "Name": "Bin-Yakin's Seal",
-    "Icon": "T_Map_caveIcon",
-    "Location": {
-      "x": 19457,
-      "y": -79631,
-      "z": 15663
-    },
-    "DiscoveryRadius": 1000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "238",
-    "Name": "Ymir's Delusion",
-    "Icon": "T_Map_Icon_camp_frost_giant",
-    "Location": {
-      "x": -107826,
-      "y": -133245,
-      "z": 8031
-    },
-    "DiscoveryRadius": 5000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "118",
-    "Name": "Imi's Cradle",
-    "Icon": "T_Map_Icon_vista",
-    "Location": {
-      "x": 32653,
-      "y": 21022,
-      "z": -2102
-    },
-    "DiscoveryRadius": 850,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "239",
-    "Name": "The Crevice",
-    "Icon": "T_Map_caveIcon",
-    "Location": {
-      "x": -144279,
-      "y": -99072,
-      "z": -1554
-    },
-    "DiscoveryRadius": 6000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "119",
-    "Name": "The Scraps",
-    "Icon": "T_Map_caveIcon",
-    "Location": {
-      "x": 35323,
-      "y": -55615,
-      "z": 8641
-    },
-    "DiscoveryRadius": 1000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "10",
-    "Name": "Narrowneck Span",
-    "Icon": "T_Map_Icon_camp_darfari",
-    "Location": {
-      "x": 69641,
-      "y": 233659,
-      "z": -20628
-    },
-    "DiscoveryRadius": 5500,
-    "ExilesJourneyEvent": "FindDarfariCamp"
-  },
-  {
-    "ID": "11",
-    "Name": "Gallaman's Tomb",
-    "Icon": "T_Map_caveIcon",
-    "Location": {
-      "x": 46591,
-      "y": 201581,
-      "z": -17809
-    },
-    "DiscoveryRadius": 1000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "12",
-    "Name": "Cannibal's Rest",
-    "Icon": "T_Map_Icon_camp_darfari",
-    "Location": {
-      "x": 73309,
-      "y": 202831,
-      "z": -17922
-    },
-    "DiscoveryRadius": 2500,
-    "ExilesJourneyEvent": "FindDarfariCamp"
-  },
-  {
-    "ID": "13",
-    "Name": "Scavenger's Berth",
-    "Icon": "T_Map_Icon_camp_black_hand",
-    "Location": {
-      "x": 93153,
-      "y": 185167,
-      "z": -20152
-    },
-    "DiscoveryRadius": 5000,
-    "ExilesJourneyEvent": "ScoutBlackHandCamp"
-  },
-  {
-    "ID": "14",
-    "Name": "Bonebreaker's Bend",
-    "Icon": "T_Map_Icon_camp_darfari",
-    "Location": {
-      "x": 80291,
-      "y": 173056,
-      "z": -20294
-    },
-    "DiscoveryRadius": 2500,
-    "ExilesJourneyEvent": "FindDarfariCamp"
-  },
-  {
-    "ID": "15",
-    "Name": "Deathwhisper Ruins",
-    "Icon": "T_Map_Icon_ruins",
-    "Location": {
-      "x": 83890,
-      "y": 143937,
-      "z": -16418
-    },
-    "DiscoveryRadius": 10000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "16",
-    "Name": "The Broken Highway",
-    "Icon": "T_Map_Icon_ruins",
-    "Location": {
-      "x": -51421,
-      "y": 312078,
-      "z": -23402
-    },
-    "DiscoveryRadius": 9000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "17",
-    "Name": "The Broken Highway",
-    "Icon": "T_Map_Icon_ruins",
-    "Location": {
-      "x": -16906,
-      "y": 315743,
-      "z": -20943
-    },
-    "DiscoveryRadius": 9000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "18",
-    "Name": "The Broken Highway",
-    "Icon": "T_Map_Icon_ruins",
-    "Location": {
-      "x": 28780,
-      "y": 310974,
-      "z": -20303
-    },
-    "DiscoveryRadius": 9000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "19",
-    "Name": "The Broken Highway",
-    "Icon": "T_Map_Icon_ruins",
-    "Location": {
-      "x": 59127,
-      "y": 300462,
-      "z": -20941
-    },
-    "DiscoveryRadius": 9000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "240",
-    "Name": "Warren of Degenerates",
-    "Icon": "T_Map_caveIcon",
-    "Location": {
-      "x": -75148,
-      "y": 140656,
-      "z": -11464
-    },
-    "DiscoveryRadius": 1000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "120",
-    "Name": "The Breach",
-    "Icon": "T_Map_Icon_ruins",
-    "Location": {
-      "x": -13993,
-      "y": 3446,
-      "z": -943
-    },
-    "DiscoveryRadius": 8000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "241",
-    "Name": "Shaleback Hollow",
-    "Icon": "T_Map_caveIcon",
-    "Location": {
-      "x": -100000,
-      "y": 168155,
-      "z": -11839
-    },
-    "DiscoveryRadius": 1000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "121",
-    "Name": "The Northern Aqueduct",
-    "Icon": "T_Map_Icon_ruins",
-    "Location": {
-      "x": -14098,
-      "y": -26056,
-      "z": -4243
-    },
-    "DiscoveryRadius": 18000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "242",
-    "Name": "The Corner of Bones",
-    "Icon": "T_Map_Icon_camp_darfari",
-    "Location": {
-      "x": -29972,
-      "y": 193313,
-      "z": -8539
-    },
-    "DiscoveryRadius": 3000,
-    "ExilesJourneyEvent": "FindDarfariCamp"
-  },
-  {
-    "ID": "1",
-    "Name": "Skulker's End",
-    "Icon": "T_Map_Icon_camp_darfari",
-    "Location": {
-      "x": -128702,
-      "y": 216849,
-      "z": -20861
-    },
-    "DiscoveryRadius": 7000,
-    "ExilesJourneyEvent": "FindDarfariCamp"
-  },
-  {
-    "ID": "122",
-    "Name": "The Great Dam",
-    "Icon": "T_Map_Icon_ruins",
-    "Location": {
-      "x": -14055,
-      "y": -58701,
-      "z": 4579
-    },
-    "DiscoveryRadius": 15000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "243",
-    "Name": "Heartsblood Rise",
-    "Icon": "T_Map_Icon_camp_darfari",
-    "Location": {
-      "x": -10923,
-      "y": 158893,
-      "z": -8709
-    },
-    "DiscoveryRadius": 2500,
-    "ExilesJourneyEvent": "FindDarfariCamp"
-  },
-  {
-    "ID": "2",
-    "Name": "Algar's Overlook",
-    "Icon": "T_Map_Icon_ruins",
-    "Location": {
-      "x": -135854,
-      "y": 200797,
-      "z": -10837
-    },
-    "DiscoveryRadius": 5000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "123",
-    "Name": "Trapper's Cabin",
-    "Icon": "T_Map_Icon_camp_vanir",
-    "Location": {
-      "x": -25725,
-      "y": -4205,
-      "z": -5286
-    },
-    "DiscoveryRadius": 2500,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "244",
-    "Name": "Spinebreaker's Flank",
-    "Icon": "T_Map_Icon_camp_darfari",
-    "Location": {
-      "x": 35268,
-      "y": 163000,
-      "z": -7924
-    },
-    "DiscoveryRadius": 4500,
-    "ExilesJourneyEvent": "FindDarfariCamp"
-  },
-  {
-    "ID": "3",
-    "Name": "The Dregs",
-    "Icon": "T_Map_dungeonIcon",
-    "Location": {
-      "x": -139309,
-      "y": 216880,
-      "z": -18976
-    },
-    "DiscoveryRadius": 2200,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "124",
-    "Name": "Lian's Watch",
-    "Icon": "T_Map_Icon_camp_vanir",
-    "Location": {
-      "x": -28446,
-      "y": -52705,
-      "z": -205
-    },
-    "DiscoveryRadius": 3000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "245",
-    "Name": "Gallaman's Overlook",
-    "Icon": "T_Map_Icon_camp_darfari",
-    "Location": {
-      "x": 35259,
-      "y": 193990,
-      "z": -12535
-    },
-    "DiscoveryRadius": 2000,
-    "ExilesJourneyEvent": "FindDarfariCamp"
-  },
-  {
-    "ID": "4",
-    "Name": "Riverwatch Camp",
-    "Icon": "T_Map_Icon_camp_darfari",
-    "Location": {
-      "x": -125726,
-      "y": 203506,
-      "z": -14098
-    },
-    "DiscoveryRadius": 4750,
-    "ExilesJourneyEvent": "FindDarfariCamp"
-  },
-  {
-    "ID": "125",
-    "Name": "Coldfish Camp",
-    "Icon": "T_Map_Icon_camp_vanir",
-    "Location": {
-      "x": -21130,
-      "y": -71358,
-      "z": 1229
-    },
-    "DiscoveryRadius": 2000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "246",
-    "Name": "Executioners Entrance",
-    "Icon": "T_Map_caveIcon",
-    "Location": {
-      "x": 104462,
-      "y": 137647,
-      "z": -13993
-    },
-    "DiscoveryRadius": 3000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "5",
-    "Name": "Cavern of Fiends",
-    "Icon": "T_Map_caveIcon",
-    "Location": {
-      "x": -73847,
-      "y": 219233,
-      "z": -17068
-    },
-    "DiscoveryRadius": 1000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "126",
-    "Name": "Meadowwatch",
-    "Icon": "T_Map_Icon_camp_vanir",
-    "Location": {
-      "x": -39741,
-      "y": -61567,
-      "z": 2570
-    },
-    "DiscoveryRadius": 4000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "6",
-    "Name": "Shaman's Rise",
-    "Icon": "T_Map_campIcon",
-    "Location": {
-      "x": -71317,
-      "y": 214844,
-      "z": -14286
-    },
-    "DiscoveryRadius": 2500,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "127",
-    "Name": "New Asagarth",
-    "Icon": "T_Map_Icon_capital_vanir",
-    "Location": {
-      "x": -76030,
-      "y": -46615,
-      "z": -1556
-    },
-    "DiscoveryRadius": 12000,
-    "ExilesJourneyEvent": "VisitNewAsagard"
-  },
-  {
-    "ID": "7",
-    "Name": "Shattered Bridge",
-    "Icon": "T_Map_Icon_ruins",
-    "Location": {
-      "x": -66147,
-      "y": 240150,
-      "z": -27721
-    },
-    "DiscoveryRadius": 25000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "128",
-    "Name": "Mammothrider's  Shanty",
-    "Icon": "T_Map_Icon_camp_vanir",
-    "Location": {
-      "x": -51070,
-      "y": -47246,
-      "z": -1311
-    },
-    "DiscoveryRadius": 2000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "8",
-    "Name": "The Sentinels",
-    "Icon": "T_Map_Icon_ruins",
-    "Location": {
-      "x": 15071,
-      "y": 236620,
-      "z": -33016
-    },
-    "DiscoveryRadius": 20000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "129",
-    "Name": "Desertwatch",
-    "Icon": "T_Map_Icon_camp_vanir",
-    "Location": {
-      "x": -53065,
-      "y": -18695,
-      "z": 2093
-    },
-    "DiscoveryRadius": 3000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "9",
-    "Name": "Hanuman's Grotto",
-    "Icon": "T_Map_caveIcon",
-    "Location": {
-      "x": 46537,
-      "y": 268929,
-      "z": -19806
-    },
-    "DiscoveryRadius": 1000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "20",
-    "Name": "The Broken Highway",
-    "Icon": "T_Map_Icon_ruins",
-    "Location": {
-      "x": 99921,
-      "y": 308647,
-      "z": -20920
-    },
-    "DiscoveryRadius": 9000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "21",
-    "Name": "The Broken Highway",
-    "Icon": "T_Map_Icon_ruins",
-    "Location": {
-      "x": 125631,
-      "y": 301811,
-      "z": -20774
-    },
-    "DiscoveryRadius": 9000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "22",
-    "Name": "Carver's Crest",
-    "Icon": "T_Map_Icon_camp_darfari",
-    "Location": {
-      "x": 39778,
-      "y": 204427,
-      "z": -17080
-    },
-    "DiscoveryRadius": 4500,
-    "ExilesJourneyEvent": "FindDarfariCamp"
-  },
-  {
-    "ID": "23",
-    "Name": "Lookout point",
-    "Icon": "T_Map_Icon_camp_black_hand",
-    "Location": {
-      "x": 127725,
-      "y": 157970,
-      "z": -19504
-    },
-    "DiscoveryRadius": 3000,
-    "ExilesJourneyEvent": "ScoutBlackHandCamp"
-  },
-  {
-    "ID": "24",
-    "Name": "Tarman's Berth",
-    "Icon": "T_Map_Icon_camp_black_hand",
-    "Location": {
-      "x": 118105,
-      "y": 145138,
-      "z": -19852
-    },
-    "DiscoveryRadius": 4500,
-    "ExilesJourneyEvent": "ScoutBlackHandCamp"
-  },
-  {
-    "ID": "25",
-    "Name": "Watchers Waystation",
-    "Icon": "T_Map_Icon_camp_black_hand",
-    "Location": {
-      "x": 98633,
-      "y": 152522,
-      "z": -16421
-    },
-    "DiscoveryRadius": 2750,
-    "ExilesJourneyEvent": "ScoutBlackHandCamp"
-  },
-  {
-    "ID": "26",
-    "Name": "Mitra's Serenity",
-    "Icon": "T_Map_campIcon",
-    "Location": {
-      "x": 63935,
-      "y": 147015,
-      "z": -15822
-    },
-    "DiscoveryRadius": 2000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "27",
-    "Name": "The Arena",
-    "Icon": "T_Map_Icon_ruins",
-    "Location": {
-      "x": 56623,
-      "y": 134356,
-      "z": -13774
-    },
-    "DiscoveryRadius": 5000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "28",
-    "Name": "The Sinkhole",
-    "Icon": "T_Map_Icon_ruins",
-    "Location": {
-      "x": 28266,
-      "y": 134406,
-      "z": -11150
-    },
-    "DiscoveryRadius": 6500,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "29",
-    "Name": "Spotter's Squat",
-    "Icon": "T_Map_Icon_camp_black_hand",
-    "Location": {
-      "x": 121755,
-      "y": 123080,
-      "z": -9675
-    },
-    "DiscoveryRadius": 2500,
-    "ExilesJourneyEvent": "ScoutBlackHandCamp"
-  },
-  {
-    "ID": "130",
-    "Name": "Devil's Squat",
-    "Icon": "T_Map_Icon_vista",
-    "Location": {
-      "x": -88537,
-      "y": -12284,
-      "z": -6046
-    },
-    "DiscoveryRadius": 10000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "131",
-    "Name": "Stormwatch",
-    "Icon": "T_Map_Icon_camp_vanir",
-    "Location": {
-      "x": -98469,
-      "y": -30551,
-      "z": 926
-    },
-    "DiscoveryRadius": 4000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "132",
-    "Name": "Nordhof",
-    "Icon": "T_Map_Icon_camp_vanir",
-    "Location": {
-      "x": -74394,
-      "y": -66343,
-      "z": 2106
-    },
-    "DiscoveryRadius": 3500,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "133",
-    "Name": "Lakewatch",
-    "Icon": "T_Map_Icon_ruins",
-    "Location": {
-      "x": -203528,
-      "y": -26067,
-      "z": 684
-    },
-    "DiscoveryRadius": 2000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "134",
-    "Name": "Rimefisher's Hut",
-    "Icon": "T_Map_Icon_camp_vanir",
-    "Location": {
-      "x": -77957,
-      "y": -80030,
-      "z": 1160
-    },
-    "DiscoveryRadius": 2000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "135",
-    "Name": "Meltwater Crag",
-    "Icon": "T_Map_Icon_camp_vanir",
-    "Location": {
-      "x": -53148,
-      "y": -82237,
-      "z": 1252
-    },
-    "DiscoveryRadius": 1500,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "136",
-    "Name": "Rockfall Canyon",
-    "Icon": "T_Map_Icon_vista",
-    "Location": {
-      "x": 27116,
-      "y": -153607,
-      "z": 17735
-    },
-    "DiscoveryRadius": 11000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "137",
-    "Name": "Icespire Chasm",
-    "Icon": "T_Map_Icon_vista",
-    "Location": {
-      "x": -20032,
-      "y": -118630,
-      "z": -0
-    },
-    "DiscoveryRadius": 20000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "138",
-    "Name": "The Black Keep",
-    "Icon": "T_Map_dungeonIcon",
-    "Location": {
-      "x": -61375,
-      "y": -136051,
-      "z": 10342
-    },
-    "DiscoveryRadius": 3000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "139",
-    "Name": "Ruins of Xullan",
-    "Icon": "T_Map_Icon_ruins",
-    "Location": {
-      "x": -60950,
-      "y": -127451,
-      "z": 1593
-    },
-    "DiscoveryRadius": 30000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "30",
-    "Name": "Sailstitch Camp",
-    "Icon": "T_Map_Icon_camp_black_hand",
-    "Location": {
-      "x": 112257,
-      "y": 110446,
-      "z": -9204
-    },
-    "DiscoveryRadius": 2500,
-    "ExilesJourneyEvent": "ScoutBlackHandCamp"
-  },
-  {
-    "ID": "31",
-    "Name": "The Sandspit",
-    "Icon": "T_Map_Icon_camp_black_hand",
-    "Location": {
-      "x": 110203,
-      "y": 96356,
-      "z": -9714
-    },
-    "DiscoveryRadius": 3000,
-    "ExilesJourneyEvent": "ScoutBlackHandCamp"
-  },
-  {
-    "ID": "32",
-    "Name": "Anchor Point",
-    "Icon": "T_Map_Icon_camp_black_hand",
-    "Location": {
-      "x": 100968,
-      "y": 102995,
-      "z": -12665
-    },
-    "DiscoveryRadius": 2000,
-    "ExilesJourneyEvent": "ScoutBlackHandCamp"
-  },
-  {
-    "ID": "33",
-    "Name": "Pariah's Overwatch",
-    "Icon": "T_Map_Icon_vista",
-    "Location": {
-      "x": 92536,
-      "y": 106267,
-      "z": -5539
-    },
-    "DiscoveryRadius": 2000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "34",
-    "Name": "The Black Galleon",
-    "Icon": "T_Map_Icon_capital_black_hand",
-    "Location": {
-      "x": 85711,
-      "y": 95955,
-      "z": -8357
-    },
-    "DiscoveryRadius": 10000,
-    "ExilesJourneyEvent": "ScoutBlackHandCamp"
-  },
-  {
-    "ID": "35",
-    "Name": "Voyager's Vigil",
-    "Icon": "T_Map_Icon_camp_black_hand",
-    "Location": {
-      "x": 92429,
-      "y": 81368,
-      "z": -10918
-    },
-    "DiscoveryRadius": 6000,
-    "ExilesJourneyEvent": "ScoutBlackHandCamp"
-  },
-  {
-    "ID": "36",
-    "Name": "Marauder's Muster",
-    "Icon": "T_Map_Icon_camp_black_hand",
-    "Location": {
-      "x": 72321,
-      "y": 85595,
-      "z": -10576
-    },
-    "DiscoveryRadius": 3500,
-    "ExilesJourneyEvent": "ScoutBlackHandCamp"
-  },
-  {
-    "ID": "37",
-    "Name": "Scoundrel's Gateway",
-    "Icon": "T_Map_Icon_camp_black_hand",
-    "Location": {
-      "x": 67639,
-      "y": 111652,
-      "z": -4818
-    },
-    "DiscoveryRadius": 5500,
-    "ExilesJourneyEvent": "ScoutBlackHandCamp"
-  },
-  {
-    "ID": "38",
-    "Name": "Howling Plateau",
-    "Icon": "T_Map_Icon_camp_darfari",
-    "Location": {
-      "x": -76128,
-      "y": 210422,
-      "z": -10599
-    },
-    "DiscoveryRadius": 2750,
-    "ExilesJourneyEvent": "FindDarfariCamp"
-  },
-  {
-    "ID": "39",
-    "Name": "Skittering Cavern",
-    "Icon": "T_Map_caveIcon",
-    "Location": {
-      "x": -76203,
-      "y": 175083,
-      "z": -13989
-    },
-    "DiscoveryRadius": 1000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "140",
-    "Name": "Bridge of the Betrayer",
-    "Icon": "T_Map_Icon_ruins",
-    "Location": {
-      "x": -83473,
-      "y": -96180,
-      "z": 1593
-    },
-    "DiscoveryRadius": 17500,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "141",
-    "Name": "Godsclaw Passage",
-    "Icon": "T_Map_Icon_vista",
-    "Location": {
-      "x": -107356,
-      "y": -65497,
-      "z": 1593
-    },
-    "DiscoveryRadius": 12500,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "142",
-    "Name": "Skyholme Ruins",
-    "Icon": "T_Map_Icon_ruins",
-    "Location": {
-      "x": -121235,
-      "y": -48133,
-      "z": 1593
-    },
-    "DiscoveryRadius": 5000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "143",
-    "Name": "The Wardtowers",
-    "Icon": "T_Map_Icon_camp_vanir",
-    "Location": {
-      "x": -156230,
-      "y": -51064,
-      "z": 3286
-    },
-    "DiscoveryRadius": 16000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "144",
-    "Name": "Ghostward Tower",
-    "Icon": "T_Map_Icon_camp_vanir",
-    "Location": {
-      "x": -164687,
-      "y": -47974,
-      "z": 3599
-    },
-    "DiscoveryRadius": 4500,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "145",
-    "Name": "Sandward Tower",
-    "Icon": "T_Map_Icon_camp_vanir",
-    "Location": {
-      "x": -148546,
-      "y": -45103,
-      "z": 5630
-    },
-    "DiscoveryRadius": 4500,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "146",
-    "Name": "Godsward Tower",
-    "Icon": "T_Map_Icon_camp_vanir",
-    "Location": {
-      "x": -157022,
-      "y": -58833,
-      "z": 5421
-    },
-    "DiscoveryRadius": 4500,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "147",
-    "Name": "Circle of Swords",
-    "Icon": "T_Map_Icon_ruins",
-    "Location": {
-      "x": -185894,
-      "y": -66799,
-      "z": 463
-    },
-    "DiscoveryRadius": 4000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "148",
-    "Name": "Mounds of the Dead",
-    "Icon": "T_Map_Icon_capital_cimmerian",
-    "Location": {
-      "x": -227825,
-      "y": -106406,
-      "z": -771
-    },
-    "DiscoveryRadius": 27500,
-    "ExilesJourneyEvent": "VisitMoundsDead"
-  },
-  {
-    "ID": "149",
-    "Name": "The Dirgewood",
-    "Icon": "T_Map_Icon_vista",
-    "Location": {
-      "x": -251754,
-      "y": -126070,
-      "z": -2765
-    },
-    "DiscoveryRadius": 15000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "40",
-    "Name": "Death's Shadow Camp",
-    "Icon": "T_Map_Icon_camp_darfari",
-    "Location": {
-      "x": -86369,
-      "y": 187085,
-      "z": -10801
-    },
-    "DiscoveryRadius": 2000,
-    "ExilesJourneyEvent": "FindDarfariCamp"
-  },
-  {
-    "ID": "41",
-    "Name": "The Unnamed City",
-    "Icon": "T_Map_Icon_capital_unnamed_city",
-    "Location": {
-      "x": -140355,
-      "y": 128165,
-      "z": -16424
-    },
-    "DiscoveryRadius": 55000,
-    "ExilesJourneyEvent": "ExploreUnnamedCity"
-  },
-  {
-    "ID": "42",
-    "Name": "The Tower of Bats",
-    "Icon": "T_Map_Icon_ruins",
-    "Location": {
-      "x": -60261,
-      "y": 159470,
-      "z": -1762
-    },
-    "DiscoveryRadius": 5000,
-    "ExilesJourneyEvent": "ClimbTowerBats"
-  },
-  {
-    "ID": "43",
-    "Name": "Sinner's Refuge",
-    "Icon": "T_Map_caveIcon",
-    "Location": {
-      "x": 5090,
-      "y": 196489,
-      "z": -15421
-    },
-    "DiscoveryRadius": 1000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "44",
-    "Name": "Dustdevil Ridge",
-    "Icon": "T_Map_Icon_camp_darfari",
-    "Location": {
-      "x": -3570,
-      "y": 173863,
-      "z": -6984
-    },
-    "DiscoveryRadius": 2000,
-    "ExilesJourneyEvent": "FindDarfariCamp"
-  },
-  {
-    "ID": "45",
-    "Name": "The Summoning Place",
-    "Icon": "T_Map_Icon_capital_darfari",
-    "Location": {
-      "x": 18463,
-      "y": 164007,
-      "z": -8181
-    },
-    "DiscoveryRadius": 7000,
-    "ExilesJourneyEvent": "FindDarfariCamp"
-  },
-  {
-    "ID": "46",
-    "Name": "The Cursed Way",
-    "Icon": "T_Map_Icon_camp_darfari",
-    "Location": {
-      "x": -43214,
-      "y": 163931,
-      "z": -4434
-    },
-    "DiscoveryRadius": 2500,
-    "ExilesJourneyEvent": "FindDarfariCamp"
-  },
-  {
-    "ID": "47",
-    "Name": "Ravager's Cleft",
-    "Icon": "T_Map_Icon_camp_darfari",
-    "Location": {
-      "x": -32098,
-      "y": 164875,
-      "z": -6958
-    },
-    "DiscoveryRadius": 3000,
-    "ExilesJourneyEvent": "FindDarfariCamp"
-  },
-  {
-    "ID": "48",
-    "Name": "Witness Camp",
-    "Icon": "T_Map_Icon_camp_darfari",
-    "Location": {
-      "x": -51081,
-      "y": 144927,
-      "z": -8471
-    },
-    "DiscoveryRadius": 1500,
-    "ExilesJourneyEvent": "FindDarfariCamp"
-  },
-  {
-    "ID": "49",
-    "Name": "Raider's Ridge",
-    "Icon": "T_Map_Icon_camp_darfari",
-    "Location": {
-      "x": 7927,
-      "y": 136421,
-      "z": -8578
-    },
-    "DiscoveryRadius": 2500,
-    "ExilesJourneyEvent": "FindDarfariCamp"
-  },
-  {
-    "ID": "150",
-    "Name": "The Barrow King",
-    "Icon": "T_Map_caveIcon",
-    "Location": {
-      "x": -273229,
-      "y": -109552,
-      "z": 3456
-    },
-    "DiscoveryRadius": 1000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "151",
-    "Name": "The Outcast Camp",
-    "Icon": "T_Map_Icon_camp_frost_giant",
-    "Location": {
-      "x": -201375,
-      "y": -149670,
-      "z": 9490
-    },
-    "DiscoveryRadius": 2500,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "152",
-    "Name": "The Temple of Frost",
-    "Icon": "T_Map_Icon_capital_frost_giant",
-    "Location": {
-      "x": -121649,
-      "y": -239594,
-      "z": 9670
-    },
-    "DiscoveryRadius": 6000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "153",
-    "Name": "Eyelet Lake",
-    "Icon": "T_Map_Icon_vista",
-    "Location": {
-      "x": -179517,
-      "y": -170940,
-      "z": -2535
-    },
-    "DiscoveryRadius": 9000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "154",
-    "Name": "Dragonmouth",
-    "Icon": "T_Map_caveIcon",
-    "Location": {
-      "x": -83371,
-      "y": -164022,
-      "z": 8763
-    },
-    "DiscoveryRadius": 6000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "155",
-    "Name": "Dagon's Claw",
-    "Icon": "T_Map_Icon_vista",
-    "Location": {
-      "x": 325402,
-      "y": 193994,
-      "z": -18774
-    },
-    "DiscoveryRadius": 9000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "156",
-    "Name": "The Silkwood",
-    "Icon": "T_Map_Icon_vista",
-    "Location": {
-      "x": 284419,
-      "y": 207900,
-      "z": -27284
-    },
-    "DiscoveryRadius": 15000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "157",
-    "Name": "Hullshatter Cove",
-    "Icon": "T_Map_Icon_vista",
-    "Location": {
-      "x": 288776,
-      "y": 177298,
-      "z": -21965
-    },
-    "DiscoveryRadius": 6000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "158",
-    "Name": "Xel-ha Docks",
-    "Icon": "T_Map_Icon_ruins",
-    "Location": {
-      "x": 321035,
-      "y": 170394,
-      "z": -21530
-    },
-    "DiscoveryRadius": 7000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "159",
-    "Name": "Pagoda of Boundless Lusts",
-    "Icon": "T_Map_Icon_camp_lemurian",
-    "Location": {
-      "x": 343259,
-      "y": 175687,
-      "z": -14947
-    },
-    "DiscoveryRadius": 4000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "50",
-    "Name": "Thugra's Stand",
-    "Icon": "T_Map_Icon_camp_darfari",
-    "Location": {
-      "x": 16595,
-      "y": 121536,
-      "z": -7770
-    },
-    "DiscoveryRadius": 3000,
-    "ExilesJourneyEvent": "FindDarfariCamp"
-  },
-  {
-    "ID": "51",
-    "Name": "Bilgewater Break",
-    "Icon": "T_Map_Icon_camp_black_hand",
-    "Location": {
-      "x": 83085,
-      "y": 86333,
-      "z": -12466
-    },
-    "DiscoveryRadius": 2500,
-    "ExilesJourneyEvent": "ScoutBlackHandCamp"
-  },
-  {
-    "ID": "52",
-    "Name": "Claw Outcrop",
-    "Icon": "T_Map_Icon_camp_dogs_of_the_desert",
-    "Location": {
-      "x": 45901,
-      "y": 116926,
-      "z": -9375
-    },
-    "DiscoveryRadius": 1500,
-    "ExilesJourneyEvent": "ScoutDogsCamp"
-  },
-  {
-    "ID": "53",
-    "Name": "Waterhole Outlook",
-    "Icon": "T_Map_Icon_camp_dogs_of_the_desert",
-    "Location": {
-      "x": 43843,
-      "y": 101468,
-      "z": -7063
-    },
-    "DiscoveryRadius": 1500,
-    "ExilesJourneyEvent": "ScoutDogsCamp"
-  },
-  {
-    "ID": "54",
-    "Name": "N'batu's Pack",
-    "Icon": "T_Map_Icon_camp_dogs_of_the_desert",
-    "Location": {
-      "x": 30548,
-      "y": 103014,
-      "z": -6776
-    },
-    "DiscoveryRadius": 1500,
-    "ExilesJourneyEvent": "ScoutDogsCamp"
-  },
-  {
-    "ID": "55",
-    "Name": "Marrowman's Height",
-    "Icon": "T_Map_Icon_camp_darfari",
-    "Location": {
-      "x": -88687,
-      "y": 222498,
-      "z": -11380
-    },
-    "DiscoveryRadius": 3750,
-    "ExilesJourneyEvent": "FindDarfariCamp"
-  },
-  {
-    "ID": "56",
-    "Name": "Ruins of al-Merayah",
-    "Icon": "T_Map_Icon_camp_dogs_of_the_desert",
-    "Location": {
-      "x": 19634,
-      "y": 83263,
-      "z": -10190
-    },
-    "DiscoveryRadius": 7000,
-    "ExilesJourneyEvent": "ScoutDogsCamp"
-  },
-  {
-    "ID": "57",
-    "Name": "Sharptooth Passage",
-    "Icon": "T_Map_Icon_camp_dogs_of_the_desert",
-    "Location": {
-      "x": -3404,
-      "y": 95623,
-      "z": -8663
-    },
-    "DiscoveryRadius": 3000,
-    "ExilesJourneyEvent": "ScoutDogsCamp"
-  },
-  {
-    "ID": "58",
-    "Name": "Weeping Ruin",
-    "Icon": "T_Map_Icon_ruins",
-    "Location": {
-      "x": 5544,
-      "y": 87174,
-      "z": -8003
-    },
-    "DiscoveryRadius": 1750,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "59",
-    "Name": "Swagger Rock",
-    "Icon": "T_Map_Icon_vista",
-    "Location": {
-      "x": 10503,
-      "y": 66273,
-      "z": -8049
-    },
-    "DiscoveryRadius": 4000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "160",
-    "Name": "Dagon's Embrace",
-    "Icon": "T_Map_Icon_ruins",
-    "Location": {
-      "x": 365078,
-      "y": 145845,
-      "z": -20646
-    },
-    "DiscoveryRadius": 12500,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "161",
-    "Name": "Palace of the Witch Queen",
-    "Icon": "T_Map_dungeonIcon",
-    "Location": {
-      "x": 346656,
-      "y": 145691,
-      "z": -21764
-    },
-    "DiscoveryRadius": 2000,
-    "ExilesJourneyEvent": "EnterPalaceWitchQueen"
-  },
-  {
-    "ID": "162",
-    "Name": "The Celestial Plaza",
-    "Icon": "T_Map_Icon_ruins",
-    "Location": {
-      "x": 335462,
-      "y": 145691,
-      "z": -22553
-    },
-    "DiscoveryRadius": 10000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "163",
-    "Name": "The Black Garden",
-    "Icon": "T_Map_Icon_ruins",
-    "Location": {
-      "x": 316033,
-      "y": 143851,
-      "z": -22104
-    },
-    "DiscoveryRadius": 5000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "164",
-    "Name": "Forgotten City of Xel-ha",
-    "Icon": "T_Map_Icon_capital_lemurian",
-    "Location": {
-      "x": 325512,
-      "y": 146813,
-      "z": -22104
-    },
-    "DiscoveryRadius": 27500,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "165",
-    "Name": "Avenue of the Sun",
-    "Icon": "T_Map_Icon_ruins",
-    "Location": {
-      "x": 298406,
-      "y": 147610,
-      "z": -17550
-    },
-    "DiscoveryRadius": 3000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "166",
-    "Name": "Gate of the Moon",
-    "Icon": "T_Map_Icon_ruins",
-    "Location": {
-      "x": 278026,
-      "y": 150166,
-      "z": -14242
-    },
-    "DiscoveryRadius": 2500,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "167",
-    "Name": "Xalthar's Crossing",
-    "Icon": "T_Map_Icon_vista",
-    "Location": {
-      "x": 246151,
-      "y": 146105,
-      "z": -19401
-    },
-    "DiscoveryRadius": 10000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "168",
-    "Name": "Warrior's Walk",
-    "Icon": "T_Map_Icon_vista",
-    "Location": {
-      "x": 258132,
-      "y": 176715,
-      "z": -13079
-    },
-    "DiscoveryRadius": 3000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "169",
-    "Name": "Forkspring Hollow",
-    "Icon": "T_Map_Icon_vista",
-    "Location": {
-      "x": 237357,
-      "y": 181616,
-      "z": -20171
-    },
-    "DiscoveryRadius": 1000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "60",
-    "Name": "Mek-kamoses's Spire",
-    "Icon": "T_Map_Icon_ruins",
-    "Location": {
-      "x": -7664,
-      "y": 85843,
-      "z": -4192
-    },
-    "DiscoveryRadius": 7000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "61",
-    "Name": "Hunter's View",
-    "Icon": "T_Map_Icon_camp_dogs_of_the_desert",
-    "Location": {
-      "x": -25505,
-      "y": 123141,
-      "z": -8084
-    },
-    "DiscoveryRadius": 4000,
-    "ExilesJourneyEvent": "ScoutDogsCamp"
-  },
-  {
-    "ID": "62",
-    "Name": "Hand of the Maker",
-    "Icon": "T_Map_Icon_ruins",
-    "Location": {
-      "x": -13075,
-      "y": 123925,
-      "z": -8675
-    },
-    "DiscoveryRadius": 2500,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "63",
-    "Name": "Weaver's Hollow",
-    "Icon": "T_Map_caveIcon",
-    "Location": {
-      "x": -59088,
-      "y": 82928,
-      "z": -11785
-    },
-    "DiscoveryRadius": 1000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "64",
-    "Name": "Scuttler's Shortcut",
-    "Icon": "T_Map_caveIcon",
-    "Location": {
-      "x": -38691,
-      "y": 59709,
-      "z": -11293
-    },
-    "DiscoveryRadius": 1000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "65",
-    "Name": "Bonepicker Camp",
-    "Icon": "T_Map_Icon_camp_dogs_of_the_desert",
-    "Location": {
-      "x": -14148,
-      "y": 56611,
-      "z": -8238
-    },
-    "DiscoveryRadius": 5000,
-    "ExilesJourneyEvent": "ScoutDogsCamp"
-  },
-  {
-    "ID": "66",
-    "Name": "Howler's Lode",
-    "Icon": "T_Map_Icon_camp_dogs_of_the_desert",
-    "Location": {
-      "x": -40432,
-      "y": 78605,
-      "z": -9065
-    },
-    "DiscoveryRadius": 1500,
-    "ExilesJourneyEvent": "ScoutDogsCamp"
-  },
-  {
-    "ID": "67",
-    "Name": "The Shattered Basin",
-    "Icon": "T_Map_Icon_ruins",
-    "Location": {
-      "x": -7621,
-      "y": 31820,
-      "z": -8403
-    },
-    "DiscoveryRadius": 4500,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "68",
-    "Name": "Boundary Spillway",
-    "Icon": "T_Map_Icon_vista",
-    "Location": {
-      "x": 16547,
-      "y": 44391,
-      "z": -8846
-    },
-    "DiscoveryRadius": 15000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "69",
-    "Name": "The Slave Road",
-    "Icon": "T_Map_Icon_ruins",
-    "Location": {
-      "x": -61829,
-      "y": 110966,
-      "z": -8296
-    },
-    "DiscoveryRadius": 7500,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "170",
-    "Name": "Drifter's Rest",
-    "Icon": "T_Map_campIcon",
-    "Location": {
-      "x": 225064,
-      "y": 153431,
-      "z": -20194
-    },
-    "DiscoveryRadius": 1500,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "171",
-    "Name": "Penitent's Crossing",
-    "Icon": "T_Map_Icon_ruins",
-    "Location": {
-      "x": 233601,
-      "y": 121813,
-      "z": -15141
-    },
-    "DiscoveryRadius": 2750,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "172",
-    "Name": "Descent of Dagon",
-    "Icon": "T_Map_Icon_ruins",
-    "Location": {
-      "x": 252836,
-      "y": 117057,
-      "z": -18156
-    },
-    "DiscoveryRadius": 6000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "173",
-    "Name": "The Crevice",
-    "Icon": "T_Map_Icon_vista",
-    "Location": {
-      "x": 267491,
-      "y": 112156,
-      "z": -20744
-    },
-    "DiscoveryRadius": 6000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "174",
-    "Name": "Dagon's Eye",
-    "Icon": "T_Map_Icon_ruins",
-    "Location": {
-      "x": 315338,
-      "y": 122673,
-      "z": -10000
-    },
-    "DiscoveryRadius": 3000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "175",
-    "Name": "Watcher of the Passage",
-    "Icon": "T_Map_Icon_ruins",
-    "Location": {
-      "x": 343849,
-      "y": 106877,
-      "z": -12045
-    },
-    "DiscoveryRadius": 4500,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "176",
-    "Name": "A Light to Guide Them Home",
-    "Icon": "T_Map_Icon_ruins",
-    "Location": {
-      "x": 355264,
-      "y": 120473,
-      "z": -18983
-    },
-    "DiscoveryRadius": 4000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "177",
-    "Name": "Wreck of the Martyr",
-    "Icon": "T_Map_Icon_vista",
-    "Location": {
-      "x": 387028,
-      "y": 114618,
-      "z": -20446
-    },
-    "DiscoveryRadius": 2000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "178",
-    "Name": "Island of Unsightly Sirens",
-    "Icon": "T_Map_Icon_vista",
-    "Location": {
-      "x": 397385,
-      "y": 159916,
-      "z": -20446
-    },
-    "DiscoveryRadius": 3000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "179",
-    "Name": "Pitfall Pass",
-    "Icon": "T_Map_Icon_vista",
-    "Location": {
-      "x": 179179,
-      "y": 147928,
-      "z": -18726
-    },
-    "DiscoveryRadius": 4500,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "70",
-    "Name": "The Imperial Highway",
-    "Icon": "T_Map_Icon_ruins",
-    "Location": {
-      "x": -75432,
-      "y": 101283,
-      "z": -8248
-    },
-    "DiscoveryRadius": 7500,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "71",
-    "Name": "The Dawn Gate",
-    "Icon": "T_Map_Icon_ruins",
-    "Location": {
-      "x": -93062,
-      "y": 114661,
-      "z": -6986
-    },
-    "DiscoveryRadius": 6000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "72",
-    "Name": "The Archives",
-    "Icon": "T_Map_Icon_ruins",
-    "Location": {
-      "x": -123789,
-      "y": 104502,
-      "z": -12113
-    },
-    "DiscoveryRadius": 3000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "73",
-    "Name": "The Aviary",
-    "Icon": "T_Map_Icon_ruins",
-    "Location": {
-      "x": -125319,
-      "y": 151189,
-      "z": -10528
-    },
-    "DiscoveryRadius": 5000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "74",
-    "Name": "The Slave Pits",
-    "Icon": "T_Map_Icon_ruins",
-    "Location": {
-      "x": -139653,
-      "y": 115695,
-      "z": -12847
-    },
-    "DiscoveryRadius": 7500,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "75",
-    "Name": "The Spawning Pools",
-    "Icon": "T_Map_Icon_ruins",
-    "Location": {
-      "x": -165352,
-      "y": 131622,
-      "z": -13665
-    },
-    "DiscoveryRadius": 12500,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "76",
-    "Name": "Citadel of the Triumvirate",
-    "Icon": "T_Map_Icon_ruins",
-    "Location": {
-      "x": -143035,
-      "y": 143699,
-      "z": -11330
-    },
-    "DiscoveryRadius": 7000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "77",
-    "Name": "The Southern Aqueduct",
-    "Icon": "T_Map_Icon_ruins",
-    "Location": {
-      "x": -52478,
-      "y": 63661,
-      "z": -2108
-    },
-    "DiscoveryRadius": 30000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "78",
-    "Name": "Muriela's Hope",
-    "Icon": "T_Map_campIcon",
-    "Location": {
-      "x": -103734,
-      "y": 65737,
-      "z": -8815
-    },
-    "DiscoveryRadius": 4000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "79",
-    "Name": "The Den",
-    "Icon": "T_Map_Icon_capital_dogs_of_the_desert",
-    "Location": {
-      "x": -98174,
-      "y": 22869,
-      "z": -10589
-    },
-    "DiscoveryRadius": 15000,
-    "ExilesJourneyEvent": "ScoutDogsCamp"
-  },
-  {
-    "ID": "180",
-    "Name": "Deckswab's Retreat",
-    "Icon": "T_Map_Icon_camp_black_hand",
-    "Location": {
-      "x": 177269,
-      "y": 102357,
-      "z": -19472
-    },
-    "DiscoveryRadius": 4000,
-    "ExilesJourneyEvent": "ScoutBlackHandCamp"
-  },
-  {
-    "ID": "181",
-    "Name": "The Dryfalls",
-    "Icon": "T_Map_Icon_camp_darfari",
-    "Location": {
-      "x": 152402,
-      "y": 94758,
-      "z": -14330
-    },
-    "DiscoveryRadius": 2500,
-    "ExilesJourneyEvent": "FindDarfariCamp"
-  },
-  {
-    "ID": "182",
-    "Name": "The Crossway",
-    "Icon": "T_Map_Icon_vista",
-    "Location": {
-      "x": 183166,
-      "y": 87543,
-      "z": -17364
-    },
-    "DiscoveryRadius": 3000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "183",
-    "Name": "Boulevard of the North Star",
-    "Icon": "T_Map_Icon_ruins",
-    "Location": {
-      "x": 146217,
-      "y": 49932,
-      "z": -15822
-    },
-    "DiscoveryRadius": 4000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "184",
-    "Name": "Xalthar's Refuge",
-    "Icon": "T_Map_caveIcon",
-    "Location": {
-      "x": 127659,
-      "y": 66359,
-      "z": -14050
-    },
-    "DiscoveryRadius": 1000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "185",
-    "Name": "The Eye that Never Closes",
-    "Icon": "T_Map_Icon_ruins",
-    "Location": {
-      "x": 156219,
-      "y": 66974,
-      "z": -13814
-    },
-    "DiscoveryRadius": 3000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "186",
-    "Name": "Messenger's Respite",
-    "Icon": "T_Map_Icon_vista",
-    "Location": {
-      "x": 176979,
-      "y": 70497,
-      "z": -12235
-    },
-    "DiscoveryRadius": 4500,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "187",
-    "Name": "Eastern Barracks",
-    "Icon": "T_Map_Icon_ruins",
-    "Location": {
-      "x": 208743,
-      "y": 92416,
-      "z": -20009
-    },
-    "DiscoveryRadius": 4000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "188",
-    "Name": "Scupper's Shelter",
-    "Icon": "T_Map_Icon_camp_black_hand",
-    "Location": {
-      "x": 213468,
-      "y": 61342,
-      "z": -20009
-    },
-    "DiscoveryRadius": 3000,
-    "ExilesJourneyEvent": "ScoutBlackHandCamp"
-  },
-  {
-    "ID": "189",
-    "Name": "The Passage",
-    "Icon": "T_Map_dungeonIcon",
-    "Location": {
-      "x": 168011,
-      "y": -2263,
-      "z": -20009
-    },
-    "DiscoveryRadius": 1200,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "80",
-    "Name": "Priestking's Retreat",
-    "Icon": "T_Map_Icon_vista",
-    "Location": {
-      "x": -28442,
-      "y": 27185,
-      "z": -10858
-    },
-    "DiscoveryRadius": 10000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "81",
-    "Name": "Ruins of Old Nebthu",
-    "Icon": "T_Map_Icon_ruins",
-    "Location": {
-      "x": -119968,
-      "y": 11490,
-      "z": -8117
-    },
-    "DiscoveryRadius": 15000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "82",
-    "Name": "Tyros's Passage",
-    "Icon": "T_Map_Icon_ruins",
-    "Location": {
-      "x": -132241,
-      "y": -2874,
-      "z": -4130
-    },
-    "DiscoveryRadius": 7000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "83",
-    "Name": "The Tradeway",
-    "Icon": "T_Map_Icon_ruins",
-    "Location": {
-      "x": -149530,
-      "y": -10358,
-      "z": -3846
-    },
-    "DiscoveryRadius": 9000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "84",
-    "Name": "Deserter's Gutter",
-    "Icon": "T_Map_Icon_ruins",
-    "Location": {
-      "x": -152598,
-      "y": 4775,
-      "z": -3927
-    },
-    "DiscoveryRadius": 6500,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "85",
-    "Name": "Godsight Spire",
-    "Icon": "T_Map_Icon_vista",
-    "Location": {
-      "x": -135060,
-      "y": 74567,
-      "z": -4754
-    },
-    "DiscoveryRadius": 3000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "86",
-    "Name": "Fingerfang Rock",
-    "Icon": "T_Map_Icon_vista",
-    "Location": {
-      "x": -153851,
-      "y": 55926,
-      "z": -3617
-    },
-    "DiscoveryRadius": 9000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "87",
-    "Name": "Sandscour Pass",
-    "Icon": "T_Map_Icon_vista",
-    "Location": {
-      "x": -149118,
-      "y": 51216,
-      "z": -8179
-    },
-    "DiscoveryRadius": 8000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "88",
-    "Name": "Shattered Springs",
-    "Icon": "T_Map_Icon_vista",
-    "Location": {
-      "x": -193314,
-      "y": 21148,
-      "z": -11192
-    },
-    "DiscoveryRadius": 25000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "89",
-    "Name": "Westwatch Keep",
-    "Icon": "T_Map_Icon_ruins",
-    "Location": {
-      "x": -219023,
-      "y": -11389,
-      "z": -1980
-    },
-    "DiscoveryRadius": 10000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "190",
-    "Name": "Upper Staging Area",
-    "Icon": "T_Map_Icon_ruins",
-    "Location": {
-      "x": 190798,
-      "y": 10586,
-      "z": -19654
-    },
-    "DiscoveryRadius": 6000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "191",
-    "Name": "Ruined Outpost",
-    "Icon": "T_Map_Icon_ruins",
-    "Location": {
-      "x": 201212,
-      "y": 26050,
-      "z": -19091
-    },
-    "DiscoveryRadius": 2500,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "192",
-    "Name": "Canopy Outlook",
-    "Icon": "T_Map_Icon_vista",
-    "Location": {
-      "x": 220424,
-      "y": 43687,
-      "z": -8182
-    },
-    "DiscoveryRadius": 3000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "193",
-    "Name": "Lower Staging Area",
-    "Icon": "T_Map_Icon_ruins",
-    "Location": {
-      "x": 238359,
-      "y": 61081,
-      "z": -21807
-    },
-    "DiscoveryRadius": 4000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "194",
-    "Name": "Bay of Hulks",
-    "Icon": "T_Map_Icon_vista",
-    "Location": {
-      "x": 254059,
-      "y": 84626,
-      "z": -21807
-    },
-    "DiscoveryRadius": 10000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "195",
-    "Name": "Mire of Eternal Dreams",
-    "Icon": "T_Map_Icon_vista",
-    "Location": {
-      "x": 169045,
-      "y": 39663,
-      "z": -22542
-    },
-    "DiscoveryRadius": 11000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "196",
-    "Name": "Talier's Berth",
-    "Icon": "T_Map_Icon_camp_black_hand",
-    "Location": {
-      "x": 262469,
-      "y": 17046,
-      "z": -17492
-    },
-    "DiscoveryRadius": 3000,
-    "ExilesJourneyEvent": "ScoutBlackHandCamp"
-  },
-  {
-    "ID": "197",
-    "Name": "Wreck of the Wagtail",
-    "Icon": "T_Map_Icon_vista",
-    "Location": {
-      "x": 308604,
-      "y": 95275,
-      "z": -20584
-    },
-    "DiscoveryRadius": 3000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "198",
-    "Name": "Jamilla's Liberty",
-    "Icon": "T_Map_Icon_camp_black_hand",
-    "Location": {
-      "x": 335481,
-      "y": 57559,
-      "z": -17290
-    },
-    "DiscoveryRadius": 4500,
-    "ExilesJourneyEvent": "ScoutBlackHandCamp"
-  },
-  {
-    "ID": "199",
-    "Name": "Captain's Quarters",
-    "Icon": "T_Map_Icon_camp_black_hand",
-    "Location": {
-      "x": 346662,
-      "y": 46170,
-      "z": -14249
-    },
-    "DiscoveryRadius": 2000,
-    "ExilesJourneyEvent": "ScoutBlackHandCamp"
-  },
-  {
-    "ID": "90",
-    "Name": "The Crowngrove",
-    "Icon": "T_Map_Icon_vista",
-    "Location": {
-      "x": -256864,
-      "y": -10091,
-      "z": -1980
-    },
-    "DiscoveryRadius": 20000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "91",
-    "Name": "Klael’s Stronghold",
-    "Icon": "T_Map_Icon_ruins",
-    "Location": {
-      "x": -226091,
-      "y": 51950,
-      "z": -2634
-    },
-    "DiscoveryRadius": 8000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "92",
-    "Name": "Sepermeru, City of the Relic Hunters",
-    "Icon": "T_Map_Icon_capital_relic_hunters",
-    "Location": {
-      "x": -246530,
-      "y": 95930,
-      "z": -4282
-    },
-    "DiscoveryRadius": 25000,
-    "ExilesJourneyEvent": "VisitSepermeru"
-  },
-  {
-    "ID": "93",
-    "Name": "Sandswept Ruins",
-    "Icon": "T_Map_Icon_ruins",
-    "Location": {
-      "x": 190891,
-      "y": 215845,
-      "z": -17906
-    },
-    "DiscoveryRadius": 6000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "94",
-    "Name": "Temple Quarter",
-    "Icon": "T_Map_Icon_camp_relic_hunters",
-    "Location": {
-      "x": -230190,
-      "y": 89154,
-      "z": -3520
-    },
-    "DiscoveryRadius": 3000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "95",
-    "Name": "Waterside",
-    "Icon": "T_Map_Icon_camp_relic_hunters",
-    "Location": {
-      "x": -232795,
-      "y": 84267,
-      "z": -4427
-    },
-    "DiscoveryRadius": 4000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "96",
-    "Name": "Southlake",
-    "Icon": "T_Map_Icon_camp_relic_hunters",
-    "Location": {
-      "x": -250525,
-      "y": 102539,
-      "z": -3925
-    },
-    "DiscoveryRadius": 8000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "97",
-    "Name": "Westwall",
-    "Icon": "T_Map_Icon_camp_relic_hunters",
-    "Location": {
-      "x": -261307,
-      "y": 87287,
-      "z": -6143
-    },
-    "DiscoveryRadius": 10000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "98",
-    "Name": "Westwall Prison",
-    "Icon": "T_Map_Icon_camp_relic_hunters",
-    "Location": {
-      "x": -265969,
-      "y": 90242,
-      "z": -3624
-    },
-    "DiscoveryRadius": 2000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "99",
-    "Name": "Oasis of Nekhet",
-    "Icon": "T_Map_Icon_vista",
-    "Location": {
-      "x": -256741,
-      "y": 39990,
-      "z": -3974
-    },
-    "DiscoveryRadius": 20000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "200",
-    "Name": "Heliograph Heights",
-    "Icon": "T_Map_Icon_vista",
-    "Location": {
-      "x": 368581,
-      "y": 25973,
-      "z": -6685
-    },
-    "DiscoveryRadius": 3500,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "201",
-    "Name": "Buccaneer Bay",
-    "Icon": "T_Map_Icon_vista",
-    "Location": {
-      "x": 334798,
-      "y": 49441,
-      "z": -23366
-    },
-    "DiscoveryRadius": 32000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "202",
-    "Name": "Flotsam",
-    "Icon": "T_Map_Icon_camp_black_hand",
-    "Location": {
-      "x": 318191,
-      "y": 70772,
-      "z": -19505
-    },
-    "DiscoveryRadius": 10000,
-    "ExilesJourneyEvent": "ScoutBlackHandCamp"
-  },
-  {
-    "ID": "203",
-    "Name": "Inlet of the Hook",
-    "Icon": "T_Map_Icon_vista",
-    "Location": {
-      "x": 271109,
-      "y": 59871,
-      "z": -20660
-    },
-    "DiscoveryRadius": 10000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "204",
-    "Name": "The High Way",
-    "Icon": "T_Map_caveIcon",
-    "Location": {
-      "x": 42514,
-      "y": -142936,
-      "z": 25861
-    },
-    "DiscoveryRadius": 1200,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "205",
-    "Name": "Road of the Pilgrim",
-    "Icon": "T_Map_Icon_vista",
-    "Location": {
-      "x": -24276,
-      "y": -157927,
-      "z": 17783
-    },
-    "DiscoveryRadius": 11000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "206",
-    "Name": "Undergate",
-    "Icon": "T_Map_dungeonIcon",
-    "Location": {
-      "x": -80901,
-      "y": -130649,
-      "z": -1205
-    },
-    "DiscoveryRadius": 1500,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "207",
-    "Name": "Ring of Silence",
-    "Icon": "T_Map_Icon_ruins",
-    "Location": {
-      "x": -108880,
-      "y": -111737,
-      "z": 1199
-    },
-    "DiscoveryRadius": 2250,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "208",
-    "Name": "Ruins of Velstad",
-    "Icon": "T_Map_Icon_ruins",
-    "Location": {
-      "x": -126769,
-      "y": -82801,
-      "z": -192
-    },
-    "DiscoveryRadius": 3000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "209",
-    "Name": "Riversend",
-    "Icon": "T_Map_Icon_vista",
-    "Location": {
-      "x": -193946,
-      "y": -32219,
-      "z": -4899
-    },
-    "DiscoveryRadius": 4500,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "210",
-    "Name": "King's Niche",
-    "Icon": "T_Map_Icon_ruins",
-    "Location": {
-      "x": -219779,
-      "y": -47537,
-      "z": 2394
-    },
-    "DiscoveryRadius": 10000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "211",
-    "Name": "Wightwatch Lookout",
-    "Icon": "T_Map_campIcon",
-    "Location": {
-      "x": -219174,
-      "y": -78678,
-      "z": -3481
-    },
-    "DiscoveryRadius": 1000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "212",
-    "Name": "The Cursed Mound",
-    "Icon": "T_Map_Icon_ruins",
-    "Location": {
-      "x": -237612,
-      "y": -93167,
-      "z": -2982
-    },
-    "DiscoveryRadius": 3400,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "213",
-    "Name": "Crystalline Chasm",
-    "Icon": "T_Map_Icon_camp_frost_giant",
-    "Location": {
-      "x": -199983,
-      "y": -209220,
-      "z": 5074
-    },
-    "DiscoveryRadius": 2700,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "214",
-    "Name": "Frostneedle Forest",
-    "Icon": "T_Map_Icon_vista",
-    "Location": {
-      "x": -164744,
-      "y": -187437,
-      "z": -1007
-    },
-    "DiscoveryRadius": 10000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "215",
-    "Name": "Bleakwood Ruins",
-    "Icon": "T_Map_Icon_ruins",
-    "Location": {
-      "x": -162373,
-      "y": -190529,
-      "z": -1007
-    },
-    "DiscoveryRadius": 1250,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "216",
-    "Name": "The Disjunction",
-    "Icon": "T_Map_Icon_vista",
-    "Location": {
-      "x": -113499,
-      "y": -258099,
-      "z": 6603
-    },
-    "DiscoveryRadius": 1800,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "217",
-    "Name": "The Forge of Ymir",
-    "Icon": "T_Map_Icon_vista",
-    "Location": {
-      "x": -128001,
-      "y": -266287,
-      "z": 7162
-    },
-    "DiscoveryRadius": 2800,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "218",
-    "Name": "The Frozen Slopes",
-    "Icon": "T_Map_Icon_vista",
-    "Location": {
-      "x": -124272,
-      "y": -196645,
-      "z": 5261
-    },
-    "DiscoveryRadius": 10000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "219",
-    "Name": "Flamemist Camp",
-    "Icon": "T_Map_Icon_camp_frost_giant",
-    "Location": {
-      "x": -102300,
-      "y": -193771,
-      "z": 12692
-    },
-    "DiscoveryRadius": 3250,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "220",
-    "Name": "Carrowmore",
-    "Icon": "T_Map_Icon_ruins",
-    "Location": {
-      "x": -220949,
-      "y": -181485,
-      "z": 1262
-    },
-    "DiscoveryRadius": 3500,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "100",
-    "Name": "Oasis Overlook",
-    "Icon": "T_Map_Icon_vista",
-    "Location": {
-      "x": -253832,
-      "y": 16192,
-      "z": 1232
-    },
-    "DiscoveryRadius": 3000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "221",
-    "Name": "Bjornar's Stand",
-    "Icon": "T_Map_Icon_ruins",
-    "Location": {
-      "x": -151897,
-      "y": -108126,
-      "z": -1271
-    },
-    "DiscoveryRadius": 2500,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "101",
-    "Name": "Sullys's Ambush",
-    "Icon": "T_Map_Icon_camp_black_hand",
-    "Location": {
-      "x": 94769,
-      "y": 146311,
-      "z": -12844
-    },
-    "DiscoveryRadius": 2500,
-    "ExilesJourneyEvent": "ScoutBlackHandCamp"
-  },
-  {
-    "ID": "222",
-    "Name": "Skyfall Ridge",
-    "Icon": "T_Map_Icon_vista",
-    "Location": {
-      "x": -177478,
-      "y": -141985,
-      "z": 12424
-    },
-    "DiscoveryRadius": 15000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "102",
-    "Name": "Deathwhisper Camp",
-    "Icon": "T_Map_Icon_camp_black_hand",
-    "Location": {
-      "x": 90962,
-      "y": 141008,
-      "z": -8965
-    },
-    "DiscoveryRadius": 3500,
-    "ExilesJourneyEvent": "ScoutBlackHandCamp"
-  },
-  {
-    "ID": "223",
-    "Name": "Stargazer's Crest",
-    "Icon": "T_Map_Icon_camp_cimmerian",
-    "Location": {
-      "x": -197097,
-      "y": -125248,
-      "z": 200
-    },
-    "DiscoveryRadius": 1500,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "103",
-    "Name": "Fleshtearer Falls",
-    "Icon": "T_Map_Icon_camp_darfari",
-    "Location": {
-      "x": -88031,
-      "y": 167972,
-      "z": -12954
-    },
-    "DiscoveryRadius": 3500,
-    "ExilesJourneyEvent": "FindDarfariCamp"
-  },
-  {
-    "ID": "224",
-    "Name": "Ravaged Barrows",
-    "Icon": "T_Map_Icon_ruins",
-    "Location": {
-      "x": -212701,
-      "y": -101136,
-      "z": -4483
-    },
-    "DiscoveryRadius": 7000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "104",
-    "Name": "Chaosmouth",
-    "Icon": "T_Map_Icon_ruins",
-    "Location": {
-      "x": -60446,
-      "y": 13695,
-      "z": -6394
-    },
-    "DiscoveryRadius": 15000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "225",
-    "Name": "Shrine of the Oracle",
-    "Icon": "T_Map_Icon_ruins",
-    "Location": {
-      "x": 20581,
-      "y": -203775,
-      "z": 46820
-    },
-    "DiscoveryRadius": 6000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "105",
-    "Name": "Ironbreaker Ridge",
-    "Icon": "T_Map_Icon_vista",
-    "Location": {
-      "x": -219113,
-      "y": 69038,
-      "z": 1615
-    },
-    "DiscoveryRadius": 14000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "226",
-    "Name": "Terrace of the Tenders",
-    "Icon": "T_Map_Icon_vista",
-    "Location": {
-      "x": -3050,
-      "y": -206806,
-      "z": 44555
-    },
-    "DiscoveryRadius": 4500,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "106",
-    "Name": "Relicwatcher Rise",
-    "Icon": "T_Map_Icon_vista",
-    "Location": {
-      "x": -241405,
-      "y": 54935,
-      "z": -3027
-    },
-    "DiscoveryRadius": 9000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "227",
-    "Name": "Bridge of Voormithadreth",
-    "Icon": "T_Map_Icon_vista",
-    "Location": {
-      "x": -22769,
-      "y": -208748,
-      "z": 44555
-    },
-    "DiscoveryRadius": 6000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "107",
-    "Name": "Rhinohorn Ridge",
-    "Icon": "T_Map_Icon_vista",
-    "Location": {
-      "x": -221232,
-      "y": 115541,
-      "z": -2759
-    },
-    "DiscoveryRadius": 9000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "228",
-    "Name": "The Pens",
-    "Icon": "T_Map_Icon_vista",
-    "Location": {
-      "x": -37275,
-      "y": -207460,
-      "z": 44268
-    },
-    "DiscoveryRadius": 5500,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "108",
-    "Name": "The Jawbone",
-    "Icon": "T_Map_Icon_vista",
-    "Location": {
-      "x": -207474,
-      "y": 129210,
-      "z": -1292
-    },
-    "DiscoveryRadius": 14000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "229",
-    "Name": "Path of the Penitent",
-    "Icon": "T_Map_Icon_vista",
-    "Location": {
-      "x": 1310,
-      "y": -229183,
-      "z": 40639
-    },
-    "DiscoveryRadius": 7000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "109",
-    "Name": "The Slaveway",
-    "Icon": "T_Map_Icon_ruins",
-    "Location": {
-      "x": -158184,
-      "y": 30007,
-      "z": -1657
-    },
-    "DiscoveryRadius": 7000,
-    "ExilesJourneyEvent": "None"
-  },
-  {
-    "ID": "1090",
-    "Name": "Slithering Beach",
-    "Icon": "T_Map_Icon_vista",
-    "Location": {
-      "x": 215000,
-      "y": 115000,
-      "z": -1657
-    },
-    "DiscoveryRadius": 7000,
-    "ExilesJourneyEvent": "None"
-  }
+	{
+		"ID": "0",
+		"Name": "Slithering Beach",
+		"Icon": "T_Map_Icon_stamp_animal",
+		"Location":
+		{
+			"X": 215176,
+			"Y": 117179,
+			"Z": -19697
+		},
+		"DiscoveryRadius": 5000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "1",
+		"Name": "Skulker's End",
+		"Icon": "T_Map_Icon_camp_darfari",
+		"Location":
+		{
+			"X": -128702,
+			"Y": 216849,
+			"Z": -20861
+		},
+		"DiscoveryRadius": 7000,
+		"ExilesJourneyEvent": "FindDarfariCamp"
+	},
+	{
+		"ID": "2",
+		"Name": "Algar's Overlook",
+		"Icon": "T_Map_Icon_ruins",
+		"Location":
+		{
+			"X": -135854,
+			"Y": 200797,
+			"Z": -10837
+		},
+		"DiscoveryRadius": 5000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "3",
+		"Name": "The Dregs",
+		"Icon": "T_Map_dungeonIcon",
+		"Location":
+		{
+			"X": -139309,
+			"Y": 216880,
+			"Z": -18976
+		},
+		"DiscoveryRadius": 2200,
+		"ExilesJourneyEvent": "VisitDregs"
+	},
+	{
+		"ID": "4",
+		"Name": "Riverwatch Camp",
+		"Icon": "T_Map_Icon_camp_darfari",
+		"Location":
+		{
+			"X": -125726,
+			"Y": 203506,
+			"Z": -14098
+		},
+		"DiscoveryRadius": 4750,
+		"ExilesJourneyEvent": "FindDarfariCamp"
+	},
+	{
+		"ID": "5",
+		"Name": "Cavern of Fiends",
+		"Icon": "T_Map_caveIcon",
+		"Location":
+		{
+			"X": -73847,
+			"Y": 219233,
+			"Z": -17068
+		},
+		"DiscoveryRadius": 1000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "6",
+		"Name": "Shaman's Rise",
+		"Icon": "T_Map_campIcon",
+		"Location":
+		{
+			"X": -71317,
+			"Y": 214844,
+			"Z": -14286
+		},
+		"DiscoveryRadius": 2500,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "7",
+		"Name": "Shattered Bridge",
+		"Icon": "T_Map_Icon_ruins",
+		"Location":
+		{
+			"X": -66147,
+			"Y": 240150,
+			"Z": -27721
+		},
+		"DiscoveryRadius": 25000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "8",
+		"Name": "The Sentinels",
+		"Icon": "T_Map_Icon_ruins",
+		"Location":
+		{
+			"X": 15071,
+			"Y": 236620,
+			"Z": -33016
+		},
+		"DiscoveryRadius": 20000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "9",
+		"Name": "Hanuman's Grotto",
+		"Icon": "T_Map_caveIcon",
+		"Location":
+		{
+			"X": 46537,
+			"Y": 268929,
+			"Z": -19806
+		},
+		"DiscoveryRadius": 1000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "10",
+		"Name": "Narrowneck Span",
+		"Icon": "T_Map_Icon_camp_darfari",
+		"Location":
+		{
+			"X": 69641,
+			"Y": 233659,
+			"Z": -20628
+		},
+		"DiscoveryRadius": 5500,
+		"ExilesJourneyEvent": "FindDarfariCamp"
+	},
+	{
+		"ID": "11",
+		"Name": "Gallaman's Tomb",
+		"Icon": "T_Map_caveIcon",
+		"Location":
+		{
+			"X": 46591,
+			"Y": 201581,
+			"Z": -17809
+		},
+		"DiscoveryRadius": 1000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "12",
+		"Name": "Cannibal's Rest",
+		"Icon": "T_Map_Icon_camp_darfari",
+		"Location":
+		{
+			"X": 73309,
+			"Y": 202831,
+			"Z": -17922
+		},
+		"DiscoveryRadius": 2500,
+		"ExilesJourneyEvent": "FindDarfariCamp"
+	},
+	{
+		"ID": "13",
+		"Name": "Scavenger's Berth",
+		"Icon": "T_Map_Icon_camp_black_hand",
+		"Location":
+		{
+			"X": 93153,
+			"Y": 185167,
+			"Z": -20152
+		},
+		"DiscoveryRadius": 5000,
+		"ExilesJourneyEvent": "ScoutBlackHandCamp"
+	},
+	{
+		"ID": "14",
+		"Name": "Bonebreaker's Bend",
+		"Icon": "T_Map_Icon_camp_darfari",
+		"Location":
+		{
+			"X": 80291,
+			"Y": 173056,
+			"Z": -20294
+		},
+		"DiscoveryRadius": 2500,
+		"ExilesJourneyEvent": "FindDarfariCamp"
+	},
+	{
+		"ID": "15",
+		"Name": "Deathwhisper Ruins",
+		"Icon": "T_Map_Icon_ruins",
+		"Location":
+		{
+			"X": 83890,
+			"Y": 143937,
+			"Z": -16418
+		},
+		"DiscoveryRadius": 10000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "16",
+		"Name": "The Broken Highway",
+		"Icon": "T_Map_Icon_ruins",
+		"Location":
+		{
+			"X": -51421,
+			"Y": 312078,
+			"Z": -23402
+		},
+		"DiscoveryRadius": 9000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "17",
+		"Name": "The Broken Highway",
+		"Icon": "T_Map_Icon_ruins",
+		"Location":
+		{
+			"X": -16906,
+			"Y": 315743,
+			"Z": -20943
+		},
+		"DiscoveryRadius": 9000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "18",
+		"Name": "The Broken Highway",
+		"Icon": "T_Map_Icon_ruins",
+		"Location":
+		{
+			"X": 28780,
+			"Y": 310974,
+			"Z": -20303
+		},
+		"DiscoveryRadius": 9000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "19",
+		"Name": "The Broken Highway",
+		"Icon": "T_Map_Icon_ruins",
+		"Location":
+		{
+			"X": 59127,
+			"Y": 300462,
+			"Z": -20941
+		},
+		"DiscoveryRadius": 9000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "20",
+		"Name": "The Broken Highway",
+		"Icon": "T_Map_Icon_ruins",
+		"Location":
+		{
+			"X": 99921,
+			"Y": 308647,
+			"Z": -20920
+		},
+		"DiscoveryRadius": 9000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "21",
+		"Name": "The Broken Highway",
+		"Icon": "T_Map_Icon_ruins",
+		"Location":
+		{
+			"X": 125631,
+			"Y": 301811,
+			"Z": -20774
+		},
+		"DiscoveryRadius": 9000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "22",
+		"Name": "Carver's Crest",
+		"Icon": "T_Map_Icon_camp_darfari",
+		"Location":
+		{
+			"X": 39778,
+			"Y": 204427,
+			"Z": -17080
+		},
+		"DiscoveryRadius": 4500,
+		"ExilesJourneyEvent": "FindDarfariCamp"
+	},
+	{
+		"ID": "23",
+		"Name": "Lookout point",
+		"Icon": "T_Map_Icon_camp_black_hand",
+		"Location":
+		{
+			"X": 127725,
+			"Y": 157970,
+			"Z": -19504
+		},
+		"DiscoveryRadius": 3000,
+		"ExilesJourneyEvent": "ScoutBlackHandCamp"
+	},
+	{
+		"ID": "24",
+		"Name": "Tarman's Berth",
+		"Icon": "T_Map_Icon_camp_black_hand",
+		"Location":
+		{
+			"X": 118105,
+			"Y": 145138,
+			"Z": -19852
+		},
+		"DiscoveryRadius": 4500,
+		"ExilesJourneyEvent": "ScoutBlackHandCamp"
+	},
+	{
+		"ID": "25",
+		"Name": "Watchers Waystation",
+		"Icon": "T_Map_Icon_camp_black_hand",
+		"Location":
+		{
+			"X": 98633,
+			"Y": 152522,
+			"Z": -16421
+		},
+		"DiscoveryRadius": 2750,
+		"ExilesJourneyEvent": "ScoutBlackHandCamp"
+	},
+	{
+		"ID": "26",
+		"Name": "Mitra's Serenity",
+		"Icon": "T_Map_campIcon",
+		"Location":
+		{
+			"X": 63935,
+			"Y": 147015,
+			"Z": -15822
+		},
+		"DiscoveryRadius": 2000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "27",
+		"Name": "The Arena",
+		"Icon": "T_Map_Icon_ruins",
+		"Location":
+		{
+			"X": 56623,
+			"Y": 134356,
+			"Z": -13774
+		},
+		"DiscoveryRadius": 5000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "28",
+		"Name": "The Sinkhole",
+		"Icon": "T_Map_Icon_ruins",
+		"Location":
+		{
+			"X": 28266,
+			"Y": 134406,
+			"Z": -11150
+		},
+		"DiscoveryRadius": 6500,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "29",
+		"Name": "Spotter's Squat",
+		"Icon": "T_Map_Icon_camp_black_hand",
+		"Location":
+		{
+			"X": 121755,
+			"Y": 123080,
+			"Z": -9675
+		},
+		"DiscoveryRadius": 2500,
+		"ExilesJourneyEvent": "ScoutBlackHandCamp"
+	},
+	{
+		"ID": "30",
+		"Name": "Sailstitch Camp",
+		"Icon": "T_Map_Icon_camp_black_hand",
+		"Location":
+		{
+			"X": 112257,
+			"Y": 110446,
+			"Z": -9204
+		},
+		"DiscoveryRadius": 2500,
+		"ExilesJourneyEvent": "ScoutBlackHandCamp"
+	},
+	{
+		"ID": "31",
+		"Name": "The Sandspit",
+		"Icon": "T_Map_Icon_camp_black_hand",
+		"Location":
+		{
+			"X": 110203,
+			"Y": 96356,
+			"Z": -9714
+		},
+		"DiscoveryRadius": 3000,
+		"ExilesJourneyEvent": "ScoutBlackHandCamp"
+	},
+	{
+		"ID": "32",
+		"Name": "Anchor Point",
+		"Icon": "T_Map_Icon_camp_black_hand",
+		"Location":
+		{
+			"X": 100968,
+			"Y": 102995,
+			"Z": -12665
+		},
+		"DiscoveryRadius": 2000,
+		"ExilesJourneyEvent": "ScoutBlackHandCamp"
+	},
+	{
+		"ID": "33",
+		"Name": "Pariah's Overwatch",
+		"Icon": "T_Map_Icon_vista",
+		"Location":
+		{
+			"X": 92536,
+			"Y": 106267,
+			"Z": -5539
+		},
+		"DiscoveryRadius": 2000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "34",
+		"Name": "The Black Galleon",
+		"Icon": "T_Map_Icon_capital_black_hand",
+		"Location":
+		{
+			"X": 85711,
+			"Y": 95955,
+			"Z": -8357
+		},
+		"DiscoveryRadius": 10000,
+		"ExilesJourneyEvent": "VisitBlackGalleon"
+	},
+	{
+		"ID": "35",
+		"Name": "Voyager's Vigil",
+		"Icon": "T_Map_Icon_camp_black_hand",
+		"Location":
+		{
+			"X": 92429,
+			"Y": 81368,
+			"Z": -10918
+		},
+		"DiscoveryRadius": 6000,
+		"ExilesJourneyEvent": "ScoutBlackHandCamp"
+	},
+	{
+		"ID": "36",
+		"Name": "Marauder's Muster",
+		"Icon": "T_Map_Icon_camp_black_hand",
+		"Location":
+		{
+			"X": 72321,
+			"Y": 85595,
+			"Z": -10576
+		},
+		"DiscoveryRadius": 3500,
+		"ExilesJourneyEvent": "ScoutBlackHandCamp"
+	},
+	{
+		"ID": "37",
+		"Name": "Scoundrel's Gateway",
+		"Icon": "T_Map_Icon_camp_black_hand",
+		"Location":
+		{
+			"X": 67639,
+			"Y": 111652,
+			"Z": -4818
+		},
+		"DiscoveryRadius": 5500,
+		"ExilesJourneyEvent": "ScoutBlackHandCamp"
+	},
+	{
+		"ID": "38",
+		"Name": "Howling Plateau",
+		"Icon": "T_Map_Icon_camp_darfari",
+		"Location":
+		{
+			"X": -76128,
+			"Y": 210422,
+			"Z": -10599
+		},
+		"DiscoveryRadius": 2750,
+		"ExilesJourneyEvent": "FindDarfariCamp"
+	},
+	{
+		"ID": "39",
+		"Name": "Skittering Cavern",
+		"Icon": "T_Map_caveIcon",
+		"Location":
+		{
+			"X": -76203,
+			"Y": 175083,
+			"Z": -13989
+		},
+		"DiscoveryRadius": 1000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "40",
+		"Name": "Death's Shadow Camp",
+		"Icon": "T_Map_Icon_camp_darfari",
+		"Location":
+		{
+			"X": -86369,
+			"Y": 187085,
+			"Z": -10801
+		},
+		"DiscoveryRadius": 2000,
+		"ExilesJourneyEvent": "FindDarfariCamp"
+	},
+	{
+		"ID": "41",
+		"Name": "The Unnamed City",
+		"Icon": "T_Map_Icon_capital_unnamed_city",
+		"Location":
+		{
+			"X": -140355,
+			"Y": 128165,
+			"Z": -16424
+		},
+		"DiscoveryRadius": 40000,
+		"ExilesJourneyEvent": "ExploreUnnamedCity"
+	},
+	{
+		"ID": "42",
+		"Name": "The Tower of Bats",
+		"Icon": "T_Map_Icon_ruins",
+		"Location":
+		{
+			"X": -60261,
+			"Y": 159470,
+			"Z": -1762
+		},
+		"DiscoveryRadius": 5000,
+		"ExilesJourneyEvent": "ClimbTowerBats"
+	},
+	{
+		"ID": "43",
+		"Name": "Sinner's Refuge",
+		"Icon": "T_Map_caveIcon",
+		"Location":
+		{
+			"X": 5090,
+			"Y": 196489,
+			"Z": -15421
+		},
+		"DiscoveryRadius": 1000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "44",
+		"Name": "Dustdevil Ridge",
+		"Icon": "T_Map_Icon_camp_darfari",
+		"Location":
+		{
+			"X": -3570,
+			"Y": 173863,
+			"Z": -6984
+		},
+		"DiscoveryRadius": 2000,
+		"ExilesJourneyEvent": "FindDarfariCamp"
+	},
+	{
+		"ID": "45",
+		"Name": "The Summoning Place",
+		"Icon": "T_Map_Icon_capital_darfari",
+		"Location":
+		{
+			"X": 18463,
+			"Y": 164007,
+			"Z": -8181
+		},
+		"DiscoveryRadius": 7000,
+		"ExilesJourneyEvent": "VisitDarfariCapitol"
+	},
+	{
+		"ID": "46",
+		"Name": "The Cursed Way",
+		"Icon": "T_Map_Icon_camp_darfari",
+		"Location":
+		{
+			"X": -43214,
+			"Y": 163931,
+			"Z": -4434
+		},
+		"DiscoveryRadius": 2500,
+		"ExilesJourneyEvent": "FindDarfariCamp"
+	},
+	{
+		"ID": "47",
+		"Name": "Ravager's Cleft",
+		"Icon": "T_Map_Icon_camp_darfari",
+		"Location":
+		{
+			"X": -32098,
+			"Y": 164875,
+			"Z": -6958
+		},
+		"DiscoveryRadius": 3000,
+		"ExilesJourneyEvent": "FindDarfariCamp"
+	},
+	{
+		"ID": "48",
+		"Name": "Witness Camp",
+		"Icon": "T_Map_Icon_camp_darfari",
+		"Location":
+		{
+			"X": -51081,
+			"Y": 144927,
+			"Z": -8471
+		},
+		"DiscoveryRadius": 1500,
+		"ExilesJourneyEvent": "FindDarfariCamp"
+	},
+	{
+		"ID": "49",
+		"Name": "Raider's Ridge",
+		"Icon": "T_Map_Icon_camp_darfari",
+		"Location":
+		{
+			"X": 7927,
+			"Y": 136421,
+			"Z": -8578
+		},
+		"DiscoveryRadius": 2500,
+		"ExilesJourneyEvent": "FindDarfariCamp"
+	},
+	{
+		"ID": "50",
+		"Name": "Thugra's Stand",
+		"Icon": "T_Map_Icon_camp_darfari",
+		"Location":
+		{
+			"X": 16595,
+			"Y": 121536,
+			"Z": -7770
+		},
+		"DiscoveryRadius": 3000,
+		"ExilesJourneyEvent": "FindDarfariCamp"
+	},
+	{
+		"ID": "51",
+		"Name": "Bilgewater Break",
+		"Icon": "T_Map_Icon_camp_black_hand",
+		"Location":
+		{
+			"X": 83085,
+			"Y": 86333,
+			"Z": -12466
+		},
+		"DiscoveryRadius": 2500,
+		"ExilesJourneyEvent": "ScoutBlackHandCamp"
+	},
+	{
+		"ID": "52",
+		"Name": "Claw Outcrop",
+		"Icon": "T_Map_Icon_camp_dogs_of_the_desert",
+		"Location":
+		{
+			"X": 45901,
+			"Y": 116926,
+			"Z": -9375
+		},
+		"DiscoveryRadius": 1500,
+		"ExilesJourneyEvent": "ScoutDogsCamp"
+	},
+	{
+		"ID": "53",
+		"Name": "Waterhole Outlook",
+		"Icon": "T_Map_Icon_camp_dogs_of_the_desert",
+		"Location":
+		{
+			"X": 43843,
+			"Y": 101468,
+			"Z": -7063
+		},
+		"DiscoveryRadius": 1500,
+		"ExilesJourneyEvent": "ScoutDogsCamp"
+	},
+	{
+		"ID": "54",
+		"Name": "N'batu's Pack",
+		"Icon": "T_Map_Icon_camp_dogs_of_the_desert",
+		"Location":
+		{
+			"X": 30548,
+			"Y": 103014,
+			"Z": -6776
+		},
+		"DiscoveryRadius": 1500,
+		"ExilesJourneyEvent": "ScoutDogsCamp"
+	},
+	{
+		"ID": "55",
+		"Name": "Marrowman's Height",
+		"Icon": "T_Map_Icon_camp_darfari",
+		"Location":
+		{
+			"X": -88687,
+			"Y": 222498,
+			"Z": -11380
+		},
+		"DiscoveryRadius": 3750,
+		"ExilesJourneyEvent": "FindDarfariCamp"
+	},
+	{
+		"ID": "56",
+		"Name": "al-Merayah",
+		"Icon": "T_Map_Icon_Event_Combat",
+		"Location":
+		{
+			"X": 19634,
+			"Y": 83263,
+			"Z": -10190
+		},
+		"DiscoveryRadius": 7000,
+		"ExilesJourneyEvent": "ScoutDogsCamp"
+	},
+	{
+		"ID": "57",
+		"Name": "Sharptooth Passage",
+		"Icon": "T_Map_Icon_camp_dogs_of_the_desert",
+		"Location":
+		{
+			"X": -3404,
+			"Y": 95623,
+			"Z": -8663
+		},
+		"DiscoveryRadius": 3000,
+		"ExilesJourneyEvent": "ScoutDogsCamp"
+	},
+	{
+		"ID": "58",
+		"Name": "Weeping Ruin",
+		"Icon": "T_Map_Icon_ruins",
+		"Location":
+		{
+			"X": 5544,
+			"Y": 87174,
+			"Z": -8003
+		},
+		"DiscoveryRadius": 1750,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "59",
+		"Name": "Swagger Rock",
+		"Icon": "T_Map_Icon_vista",
+		"Location":
+		{
+			"X": 10503,
+			"Y": 66273,
+			"Z": -8049
+		},
+		"DiscoveryRadius": 4000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "60",
+		"Name": "Mek-kamoses's Spire",
+		"Icon": "T_Map_Icon_ruins",
+		"Location":
+		{
+			"X": -7664,
+			"Y": 85843,
+			"Z": -4192
+		},
+		"DiscoveryRadius": 7000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "61",
+		"Name": "Hunter's View",
+		"Icon": "T_Map_Icon_camp_dogs_of_the_desert",
+		"Location":
+		{
+			"X": -25505,
+			"Y": 123141,
+			"Z": -8084
+		},
+		"DiscoveryRadius": 4000,
+		"ExilesJourneyEvent": "ScoutDogsCamp"
+	},
+	{
+		"ID": "62",
+		"Name": "Hand of the Maker",
+		"Icon": "T_Map_Icon_ruins",
+		"Location":
+		{
+			"X": -13075,
+			"Y": 123925,
+			"Z": -8675
+		},
+		"DiscoveryRadius": 2500,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "63",
+		"Name": "Weaver's Hollow",
+		"Icon": "T_Map_caveIcon",
+		"Location":
+		{
+			"X": -59088,
+			"Y": 82928,
+			"Z": -11785
+		},
+		"DiscoveryRadius": 1000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "64",
+		"Name": "Scuttler's Shortcut",
+		"Icon": "T_Map_caveIcon",
+		"Location":
+		{
+			"X": -38691,
+			"Y": 59709,
+			"Z": -11293
+		},
+		"DiscoveryRadius": 1000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "65",
+		"Name": "Bonepicker Camp",
+		"Icon": "T_Map_Icon_camp_dogs_of_the_desert",
+		"Location":
+		{
+			"X": -14148,
+			"Y": 56611,
+			"Z": -8238
+		},
+		"DiscoveryRadius": 5000,
+		"ExilesJourneyEvent": "ScoutDogsCamp"
+	},
+	{
+		"ID": "66",
+		"Name": "Howler's Lode",
+		"Icon": "T_Map_Icon_camp_dogs_of_the_desert",
+		"Location":
+		{
+			"X": -40432,
+			"Y": 78605,
+			"Z": -9065
+		},
+		"DiscoveryRadius": 1500,
+		"ExilesJourneyEvent": "ScoutDogsCamp"
+	},
+	{
+		"ID": "67",
+		"Name": "The Shattered Basin",
+		"Icon": "T_Map_Icon_ruins",
+		"Location":
+		{
+			"X": -7621,
+			"Y": 31820,
+			"Z": -8403
+		},
+		"DiscoveryRadius": 4500,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "68",
+		"Name": "Boundary Spillway",
+		"Icon": "T_Map_Icon_vista",
+		"Location":
+		{
+			"X": 16547,
+			"Y": 44391,
+			"Z": -8846
+		},
+		"DiscoveryRadius": 15000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "69",
+		"Name": "The Slave Road",
+		"Icon": "T_Map_Icon_ruins",
+		"Location":
+		{
+			"X": -61829,
+			"Y": 110966,
+			"Z": -8296
+		},
+		"DiscoveryRadius": 7500,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "70",
+		"Name": "The Imperial Highway",
+		"Icon": "T_Map_Icon_ruins",
+		"Location":
+		{
+			"X": -75432,
+			"Y": 101283,
+			"Z": -8248
+		},
+		"DiscoveryRadius": 7500,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "71",
+		"Name": "The Dawn Gate",
+		"Icon": "T_Map_Icon_ruins",
+		"Location":
+		{
+			"X": -93062,
+			"Y": 114661,
+			"Z": -6986
+		},
+		"DiscoveryRadius": 6000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "72",
+		"Name": "The Archives",
+		"Icon": "T_Map_Icon_ruins",
+		"Location":
+		{
+			"X": -123789,
+			"Y": 104502,
+			"Z": -12113
+		},
+		"DiscoveryRadius": 3000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "73",
+		"Name": "The Aviary",
+		"Icon": "T_Map_Icon_ruins",
+		"Location":
+		{
+			"X": -125319,
+			"Y": 151189,
+			"Z": -10528
+		},
+		"DiscoveryRadius": 5000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "74",
+		"Name": "The Slave Pits",
+		"Icon": "T_Map_Icon_ruins",
+		"Location":
+		{
+			"X": -139653,
+			"Y": 115695,
+			"Z": -12847
+		},
+		"DiscoveryRadius": 7500,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "75",
+		"Name": "The Spawning Pools",
+		"Icon": "T_Map_Icon_ruins",
+		"Location":
+		{
+			"X": -165352,
+			"Y": 131622,
+			"Z": -13665
+		},
+		"DiscoveryRadius": 12500,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "76",
+		"Name": "Citadel of the Triumvirate",
+		"Icon": "T_Map_Icon_ruins",
+		"Location":
+		{
+			"X": -143035,
+			"Y": 143699,
+			"Z": -11330
+		},
+		"DiscoveryRadius": 7000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "77",
+		"Name": "The Southern Aqueduct",
+		"Icon": "T_Map_Icon_ruins",
+		"Location":
+		{
+			"X": -52478,
+			"Y": 63661,
+			"Z": -2108
+		},
+		"DiscoveryRadius": 30000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "78",
+		"Name": "Muriela's Hope",
+		"Icon": "T_Map_campIcon",
+		"Location":
+		{
+			"X": -103734,
+			"Y": 65737,
+			"Z": -8815
+		},
+		"DiscoveryRadius": 4000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "79",
+		"Name": "The Den",
+		"Icon": "T_Map_Icon_capital_dogs_of_the_desert",
+		"Location":
+		{
+			"X": -98174,
+			"Y": 22869,
+			"Z": -10589
+		},
+		"DiscoveryRadius": 15000,
+		"ExilesJourneyEvent": "ScoutDogsCamp"
+	},
+	{
+		"ID": "80",
+		"Name": "Priestking's Retreat",
+		"Icon": "T_Map_Icon_vista",
+		"Location":
+		{
+			"X": -28442,
+			"Y": 27185,
+			"Z": -10858
+		},
+		"DiscoveryRadius": 10000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "81",
+		"Name": "Ruins of Old Nebthu",
+		"Icon": "T_Map_Icon_ruins",
+		"Location":
+		{
+			"X": -119968,
+			"Y": 11490,
+			"Z": -8117
+		},
+		"DiscoveryRadius": 15000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "82",
+		"Name": "Tyros's Passage",
+		"Icon": "T_Map_Icon_ruins",
+		"Location":
+		{
+			"X": -132241,
+			"Y": -2874,
+			"Z": -4130
+		},
+		"DiscoveryRadius": 7000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "83",
+		"Name": "The Tradeway",
+		"Icon": "T_Map_Icon_ruins",
+		"Location":
+		{
+			"X": -149530,
+			"Y": -10358,
+			"Z": -3846
+		},
+		"DiscoveryRadius": 9000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "84",
+		"Name": "Deserter's Gutter",
+		"Icon": "T_Map_Icon_ruins",
+		"Location":
+		{
+			"X": -152598,
+			"Y": 4775,
+			"Z": -3927
+		},
+		"DiscoveryRadius": 6500,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "85",
+		"Name": "Godsight Spire",
+		"Icon": "T_Map_Icon_vista",
+		"Location":
+		{
+			"X": -135060,
+			"Y": 74567,
+			"Z": -4754
+		},
+		"DiscoveryRadius": 3000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "86",
+		"Name": "Fingerfang Rock",
+		"Icon": "T_Map_Icon_vista",
+		"Location":
+		{
+			"X": -153851,
+			"Y": 55926,
+			"Z": -3617
+		},
+		"DiscoveryRadius": 9000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "87",
+		"Name": "Sandscour Pass",
+		"Icon": "T_Map_Icon_vista",
+		"Location":
+		{
+			"X": -149118,
+			"Y": 51216,
+			"Z": -8179
+		},
+		"DiscoveryRadius": 8000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "88",
+		"Name": "Shattered Springs",
+		"Icon": "T_Map_Icon_vista",
+		"Location":
+		{
+			"X": -193314,
+			"Y": 21148,
+			"Z": -11192
+		},
+		"DiscoveryRadius": 25000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "89",
+		"Name": "Westwatch Keep",
+		"Icon": "T_Map_Icon_ruins",
+		"Location":
+		{
+			"X": -219023,
+			"Y": -11389,
+			"Z": -1980
+		},
+		"DiscoveryRadius": 10000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "90",
+		"Name": "The Crowngrove",
+		"Icon": "T_Map_Icon_vista",
+		"Location":
+		{
+			"X": -256864,
+			"Y": -10091,
+			"Z": -1980
+		},
+		"DiscoveryRadius": 20000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "91",
+		"Name": "Klael’s Stronghold",
+		"Icon": "T_Map_Icon_ruins",
+		"Location":
+		{
+			"X": -226091,
+			"Y": 51950,
+			"Z": -2634
+		},
+		"DiscoveryRadius": 8000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "92",
+		"Name": "Sepermeru, City of the Relic Hunters",
+		"Icon": "T_Map_Icon_capital_relic_hunters",
+		"Location":
+		{
+			"X": -246530,
+			"Y": 95930,
+			"Z": -4282
+		},
+		"DiscoveryRadius": 25000,
+		"ExilesJourneyEvent": "VisitSepermeru"
+	},
+	{
+		"ID": "93",
+		"Name": "Sandswept Ruins",
+		"Icon": "T_Map_Icon_ruins",
+		"Location":
+		{
+			"X": 190891,
+			"Y": 215845,
+			"Z": -17906
+		},
+		"DiscoveryRadius": 6000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "94",
+		"Name": "Temple Quarter",
+		"Icon": "T_Map_Icon_camp_relic_hunters",
+		"Location":
+		{
+			"X": -230190,
+			"Y": 89154,
+			"Z": -3520
+		},
+		"DiscoveryRadius": 3000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "95",
+		"Name": "Waterside",
+		"Icon": "T_Map_Icon_camp_relic_hunters",
+		"Location":
+		{
+			"X": -232795,
+			"Y": 84267,
+			"Z": -4427
+		},
+		"DiscoveryRadius": 4000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "96",
+		"Name": "Southlake",
+		"Icon": "T_Map_Icon_camp_relic_hunters",
+		"Location":
+		{
+			"X": -250525,
+			"Y": 102539,
+			"Z": -3925
+		},
+		"DiscoveryRadius": 8000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "97",
+		"Name": "Westwall",
+		"Icon": "T_Map_Icon_camp_relic_hunters",
+		"Location":
+		{
+			"X": -261307,
+			"Y": 87287,
+			"Z": -6143
+		},
+		"DiscoveryRadius": 10000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "98",
+		"Name": "Westwall Prison",
+		"Icon": "T_Map_Icon_camp_relic_hunters",
+		"Location":
+		{
+			"X": -265969,
+			"Y": 90242,
+			"Z": -3624
+		},
+		"DiscoveryRadius": 2000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "99",
+		"Name": "Oasis of Nekhet",
+		"Icon": "T_Map_Icon_vista",
+		"Location":
+		{
+			"X": -256741,
+			"Y": 39990,
+			"Z": -3974
+		},
+		"DiscoveryRadius": 20000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "100",
+		"Name": "Oasis Overlook",
+		"Icon": "T_Map_Icon_vista",
+		"Location":
+		{
+			"X": -253832,
+			"Y": 16192,
+			"Z": 1232
+		},
+		"DiscoveryRadius": 3000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "101",
+		"Name": "Sullys's Ambush",
+		"Icon": "T_Map_Icon_camp_black_hand",
+		"Location":
+		{
+			"X": 94769,
+			"Y": 146311,
+			"Z": -12844
+		},
+		"DiscoveryRadius": 2500,
+		"ExilesJourneyEvent": "ScoutBlackHandCamp"
+	},
+	{
+		"ID": "102",
+		"Name": "Deathwhisper Camp",
+		"Icon": "T_Map_Icon_camp_black_hand",
+		"Location":
+		{
+			"X": 90962,
+			"Y": 141008,
+			"Z": -8965
+		},
+		"DiscoveryRadius": 3500,
+		"ExilesJourneyEvent": "ScoutBlackHandCamp"
+	},
+	{
+		"ID": "103",
+		"Name": "Fleshtearer Falls",
+		"Icon": "T_Map_Icon_camp_darfari",
+		"Location":
+		{
+			"X": -88031,
+			"Y": 167972,
+			"Z": -12954
+		},
+		"DiscoveryRadius": 3500,
+		"ExilesJourneyEvent": "FindDarfariCamp"
+	},
+	{
+		"ID": "104",
+		"Name": "Chaosmouth",
+		"Icon": "T_Map_Icon_ruins",
+		"Location":
+		{
+			"X": -60446,
+			"Y": 13695,
+			"Z": -6394
+		},
+		"DiscoveryRadius": 15000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "105",
+		"Name": "Ironbreaker Ridge",
+		"Icon": "T_Map_Icon_vista",
+		"Location":
+		{
+			"X": -219113,
+			"Y": 69038,
+			"Z": 1615
+		},
+		"DiscoveryRadius": 14000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "106",
+		"Name": "Relicwatcher Rise",
+		"Icon": "T_Map_Icon_vista",
+		"Location":
+		{
+			"X": -241405,
+			"Y": 54935,
+			"Z": -3027
+		},
+		"DiscoveryRadius": 9000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "107",
+		"Name": "Rhinohorn Ridge",
+		"Icon": "T_Map_Icon_vista",
+		"Location":
+		{
+			"X": -221232,
+			"Y": 115541,
+			"Z": -2759
+		},
+		"DiscoveryRadius": 9000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "108",
+		"Name": "The Jawbone",
+		"Icon": "T_Map_Icon_vista",
+		"Location":
+		{
+			"X": -207474,
+			"Y": 129210,
+			"Z": -1292
+		},
+		"DiscoveryRadius": 14000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "109",
+		"Name": "The Slaveway",
+		"Icon": "T_Map_Icon_ruins",
+		"Location":
+		{
+			"X": -158184,
+			"Y": 30007,
+			"Z": -1657
+		},
+		"DiscoveryRadius": 7000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "110",
+		"Name": "Sanctuary Ruins",
+		"Icon": "T_Map_Icon_ruins",
+		"Location":
+		{
+			"X": 39503,
+			"Y": 28307,
+			"Z": -1018
+		},
+		"DiscoveryRadius": 4000,
+		"ExilesJourneyEvent": "DiscoverHauntsSanctuaryRuins"
+	},
+	{
+		"ID": "111",
+		"Name": "Telith's Island",
+		"Icon": "T_Map_Icon_vista",
+		"Location":
+		{
+			"X": 35197,
+			"Y": 24732,
+			"Z": -3000
+		},
+		"DiscoveryRadius": 9000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "112",
+		"Name": "The Pocket",
+		"Icon": "T_Map_Icon_camp_black_hand",
+		"Location":
+		{
+			"X": 65164,
+			"Y": 51887,
+			"Z": -758
+		},
+		"DiscoveryRadius": 3500,
+		"ExilesJourneyEvent": "ScoutBlackHandCamp"
+	},
+	{
+		"ID": "113",
+		"Name": "Scartalon Ridgeline",
+		"Icon": "T_Map_Icon_vista",
+		"Location":
+		{
+			"X": 42537,
+			"Y": -9892,
+			"Z": 96
+		},
+		"DiscoveryRadius": 15000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "114",
+		"Name": "Lockstone Cave",
+		"Icon": "T_Map_caveIcon",
+		"Location":
+		{
+			"X": 29967,
+			"Y": -37363,
+			"Z": 3604
+		},
+		"DiscoveryRadius": 1000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "115",
+		"Name": "Freya's Hovel",
+		"Icon": "T_Map_Icon_camp_vanir",
+		"Location":
+		{
+			"X": 8245,
+			"Y": -20004,
+			"Z": 3932
+		},
+		"DiscoveryRadius": 2500,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "116",
+		"Name": "Jhil's Roost",
+		"Icon": "T_Map_caveIcon",
+		"Location":
+		{
+			"X": 30208,
+			"Y": -47027,
+			"Z": 7774
+		},
+		"DiscoveryRadius": 1000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "117",
+		"Name": "Bit-Yakin's Seal",
+		"Icon": "T_Map_caveIcon",
+		"Location":
+		{
+			"X": 19457,
+			"Y": -79631,
+			"Z": 15663
+		},
+		"DiscoveryRadius": 1000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "118",
+		"Name": "Imi's Cradle",
+		"Icon": "T_Map_Icon_vista",
+		"Location":
+		{
+			"X": 32653,
+			"Y": 21022,
+			"Z": -2102
+		},
+		"DiscoveryRadius": 850,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "119",
+		"Name": "The Scraps",
+		"Icon": "T_Map_caveIcon",
+		"Location":
+		{
+			"X": 35323,
+			"Y": -55615,
+			"Z": 8641
+		},
+		"DiscoveryRadius": 1000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "120",
+		"Name": "The Breach",
+		"Icon": "T_Map_Icon_ruins",
+		"Location":
+		{
+			"X": -13993,
+			"Y": 3446,
+			"Z": -943
+		},
+		"DiscoveryRadius": 8000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "121",
+		"Name": "The Northern Aqueduct",
+		"Icon": "T_Map_Icon_ruins",
+		"Location":
+		{
+			"X": -14098,
+			"Y": -26056,
+			"Z": -4243
+		},
+		"DiscoveryRadius": 18000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "122",
+		"Name": "The Great Dam",
+		"Icon": "T_Map_Icon_ruins",
+		"Location":
+		{
+			"X": -14055,
+			"Y": -58701,
+			"Z": 4579
+		},
+		"DiscoveryRadius": 15000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "123",
+		"Name": "Trapper's Cabin",
+		"Icon": "T_Map_Icon_camp_vanir",
+		"Location":
+		{
+			"X": -25725,
+			"Y": -4205,
+			"Z": -5286
+		},
+		"DiscoveryRadius": 2500,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "124",
+		"Name": "Lian's Watch",
+		"Icon": "T_Map_Icon_camp_vanir",
+		"Location":
+		{
+			"X": -28446,
+			"Y": -52705,
+			"Z": -205
+		},
+		"DiscoveryRadius": 3000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "125",
+		"Name": "Coldfish Camp",
+		"Icon": "T_Map_Icon_camp_vanir",
+		"Location":
+		{
+			"X": -21130,
+			"Y": -71358,
+			"Z": 1229
+		},
+		"DiscoveryRadius": 2000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "126",
+		"Name": "Meadowwatch",
+		"Icon": "T_Map_Icon_camp_vanir",
+		"Location":
+		{
+			"X": -39741,
+			"Y": -61567,
+			"Z": 2570
+		},
+		"DiscoveryRadius": 4000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "127",
+		"Name": "New Asagarth",
+		"Icon": "T_Map_Icon_capital_vanir",
+		"Location":
+		{
+			"X": -76030,
+			"Y": -46615,
+			"Z": -1556
+		},
+		"DiscoveryRadius": 12000,
+		"ExilesJourneyEvent": "VisitNewAsagard"
+	},
+	{
+		"ID": "128",
+		"Name": "Mammothrider's  Shanty",
+		"Icon": "T_Map_Icon_camp_vanir",
+		"Location":
+		{
+			"X": -51070,
+			"Y": -47246,
+			"Z": -1311
+		},
+		"DiscoveryRadius": 2000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "129",
+		"Name": "Desertwatch",
+		"Icon": "T_Map_Icon_camp_vanir",
+		"Location":
+		{
+			"X": -53065,
+			"Y": -18695,
+			"Z": 2093
+		},
+		"DiscoveryRadius": 3000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "130",
+		"Name": "Devil's Squat",
+		"Icon": "T_Map_Icon_vista",
+		"Location":
+		{
+			"X": -88537,
+			"Y": -12284,
+			"Z": -6046
+		},
+		"DiscoveryRadius": 10000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "131",
+		"Name": "Stormwatch",
+		"Icon": "T_Map_Icon_camp_vanir",
+		"Location":
+		{
+			"X": -98469,
+			"Y": -30551,
+			"Z": 926
+		},
+		"DiscoveryRadius": 4000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "132",
+		"Name": "Nordhof",
+		"Icon": "T_Map_Icon_camp_vanir",
+		"Location":
+		{
+			"X": -74394,
+			"Y": -66343,
+			"Z": 2106
+		},
+		"DiscoveryRadius": 3500,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "133",
+		"Name": "Lakewatch",
+		"Icon": "T_Map_Icon_ruins",
+		"Location":
+		{
+			"X": -203528,
+			"Y": -26067,
+			"Z": 684
+		},
+		"DiscoveryRadius": 4000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "134",
+		"Name": "Rimefisher's Hut",
+		"Icon": "T_Map_Icon_camp_vanir",
+		"Location":
+		{
+			"X": -77957,
+			"Y": -80030,
+			"Z": 1160
+		},
+		"DiscoveryRadius": 2000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "135",
+		"Name": "Meltwater Crag",
+		"Icon": "T_Map_Icon_camp_vanir",
+		"Location":
+		{
+			"X": -53148,
+			"Y": -82237,
+			"Z": 1252
+		},
+		"DiscoveryRadius": 1500,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "136",
+		"Name": "Rockfall Canyon",
+		"Icon": "T_Map_Icon_vista",
+		"Location":
+		{
+			"X": 27116,
+			"Y": -153607,
+			"Z": 17735
+		},
+		"DiscoveryRadius": 11000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "137",
+		"Name": "Icespire Chasm",
+		"Icon": "T_Map_Icon_vista",
+		"Location":
+		{
+			"X": -20032,
+			"Y": -118630,
+			"Z": -0
+		},
+		"DiscoveryRadius": 20000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "138",
+		"Name": "The Black Keep",
+		"Icon": "T_Map_dungeonIcon",
+		"Location":
+		{
+			"X": -61375,
+			"Y": -136051,
+			"Z": 10342
+		},
+		"DiscoveryRadius": 3000,
+		"ExilesJourneyEvent": "VisitBlackKeep"
+	},
+	{
+		"ID": "139",
+		"Name": "Ruins of Xullan",
+		"Icon": "T_Map_Icon_ruins",
+		"Location":
+		{
+			"X": -60950,
+			"Y": -127451,
+			"Z": 1593
+		},
+		"DiscoveryRadius": 30000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "140",
+		"Name": "Bridge of the Betrayer",
+		"Icon": "T_Map_Icon_ruins",
+		"Location":
+		{
+			"X": -83473,
+			"Y": -96180,
+			"Z": 1593
+		},
+		"DiscoveryRadius": 17500,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "141",
+		"Name": "Godsclaw Passage",
+		"Icon": "T_Map_Icon_vista",
+		"Location":
+		{
+			"X": -107356,
+			"Y": -65497,
+			"Z": 1593
+		},
+		"DiscoveryRadius": 12500,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "142",
+		"Name": "Skyholme Ruins",
+		"Icon": "T_Map_Icon_ruins",
+		"Location":
+		{
+			"X": -121235,
+			"Y": -48133,
+			"Z": 1593
+		},
+		"DiscoveryRadius": 5000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "143",
+		"Name": "The Wardtowers",
+		"Icon": "T_Map_Icon_camp_vanir",
+		"Location":
+		{
+			"X": -156230,
+			"Y": -51064,
+			"Z": 3286
+		},
+		"DiscoveryRadius": 16000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "144",
+		"Name": "Ghostward Tower",
+		"Icon": "T_Map_Icon_camp_vanir",
+		"Location":
+		{
+			"X": -164687,
+			"Y": -47974,
+			"Z": 3599
+		},
+		"DiscoveryRadius": 4500,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "145",
+		"Name": "Sandward Tower",
+		"Icon": "T_Map_Icon_camp_vanir",
+		"Location":
+		{
+			"X": -148546,
+			"Y": -45103,
+			"Z": 5630
+		},
+		"DiscoveryRadius": 4500,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "146",
+		"Name": "Godsward Tower",
+		"Icon": "T_Map_Icon_camp_vanir",
+		"Location":
+		{
+			"X": -157022,
+			"Y": -58833,
+			"Z": 5421
+		},
+		"DiscoveryRadius": 4500,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "147",
+		"Name": "Circle of Swords",
+		"Icon": "T_Map_Icon_ruins",
+		"Location":
+		{
+			"X": -185894,
+			"Y": -66799,
+			"Z": 463
+		},
+		"DiscoveryRadius": 4000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "148",
+		"Name": "Mounds of the Dead",
+		"Icon": "T_Map_Icon_capital_cimmerian",
+		"Location":
+		{
+			"X": -227825,
+			"Y": -106406,
+			"Z": -771
+		},
+		"DiscoveryRadius": 27500,
+		"ExilesJourneyEvent": "VisitMoundsDead"
+	},
+	{
+		"ID": "149",
+		"Name": "The Dirgewood",
+		"Icon": "T_Map_Icon_vista",
+		"Location":
+		{
+			"X": -251754,
+			"Y": -126070,
+			"Z": -2765
+		},
+		"DiscoveryRadius": 15000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "150",
+		"Name": "The Barrow King",
+		"Icon": "T_Map_caveIcon",
+		"Location":
+		{
+			"X": -273229,
+			"Y": -109552,
+			"Z": 3456
+		},
+		"DiscoveryRadius": 1000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "151",
+		"Name": "The Outcast Camp",
+		"Icon": "T_Map_Icon_camp_frost_giant",
+		"Location":
+		{
+			"X": -201375,
+			"Y": -149670,
+			"Z": 9490
+		},
+		"DiscoveryRadius": 2500,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "152",
+		"Name": "The Temple of Frost",
+		"Icon": "T_Map_Icon_capital_frost_giant",
+		"Location":
+		{
+			"X": -121649,
+			"Y": -239594,
+			"Z": 9670
+		},
+		"DiscoveryRadius": 6000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "153",
+		"Name": "Eyelet Lake",
+		"Icon": "T_Map_Icon_vista",
+		"Location":
+		{
+			"X": -179517,
+			"Y": -170940,
+			"Z": -2535
+		},
+		"DiscoveryRadius": 9000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "154",
+		"Name": "Dragonmouth",
+		"Icon": "T_Map_caveIcon",
+		"Location":
+		{
+			"X": -83371,
+			"Y": -164022,
+			"Z": 8763
+		},
+		"DiscoveryRadius": 6000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "155",
+		"Name": "Dagon's Claw",
+		"Icon": "T_Map_Icon_vista",
+		"Location":
+		{
+			"X": 325402,
+			"Y": 193994,
+			"Z": -18774
+		},
+		"DiscoveryRadius": 9000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "156",
+		"Name": "The Silkwood",
+		"Icon": "T_Map_Icon_vista",
+		"Location":
+		{
+			"X": 284419,
+			"Y": 207900,
+			"Z": -27284
+		},
+		"DiscoveryRadius": 15000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "157",
+		"Name": "Hullshatter Cove",
+		"Icon": "T_Map_Icon_vista",
+		"Location":
+		{
+			"X": 288776,
+			"Y": 177298,
+			"Z": -21965
+		},
+		"DiscoveryRadius": 6000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "158",
+		"Name": "Xel-ha Docks",
+		"Icon": "T_Map_Icon_ruins",
+		"Location":
+		{
+			"X": 321035,
+			"Y": 170394,
+			"Z": -21530
+		},
+		"DiscoveryRadius": 7000,
+		"ExilesJourneyEvent": "VisitXelha"
+	},
+	{
+		"ID": "159",
+		"Name": "Pagoda of Boundless Lusts",
+		"Icon": "T_Map_Icon_camp_lemurian",
+		"Location":
+		{
+			"X": 343259,
+			"Y": 175687,
+			"Z": -14947
+		},
+		"DiscoveryRadius": 4000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "160",
+		"Name": "Dagon's Embrace",
+		"Icon": "T_Map_Icon_ruins",
+		"Location":
+		{
+			"X": 365078,
+			"Y": 145845,
+			"Z": -20646
+		},
+		"DiscoveryRadius": 12500,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "161",
+		"Name": "Palace of the Witch Queen",
+		"Icon": "T_Map_dungeonIcon",
+		"Location":
+		{
+			"X": 346656,
+			"Y": 145691,
+			"Z": -21764
+		},
+		"DiscoveryRadius": 2000,
+		"ExilesJourneyEvent": "EnterPalaceWitchQueen"
+	},
+	{
+		"ID": "162",
+		"Name": "The Celestial Plaza",
+		"Icon": "T_Map_Icon_ruins",
+		"Location":
+		{
+			"X": 335462,
+			"Y": 145691,
+			"Z": -22553
+		},
+		"DiscoveryRadius": 10000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "163",
+		"Name": "The Black Garden",
+		"Icon": "T_Map_Icon_ruins",
+		"Location":
+		{
+			"X": 316033,
+			"Y": 143851,
+			"Z": -22104
+		},
+		"DiscoveryRadius": 5000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "164",
+		"Name": "Forgotten City of Xel-ha",
+		"Icon": "T_Map_Icon_capital_lemurian",
+		"Location":
+		{
+			"X": 325512,
+			"Y": 146813,
+			"Z": -22104
+		},
+		"DiscoveryRadius": 27500,
+		"ExilesJourneyEvent": "VisitXelha"
+	},
+	{
+		"ID": "165",
+		"Name": "Avenue of the Sun",
+		"Icon": "T_Map_Icon_ruins",
+		"Location":
+		{
+			"X": 298406,
+			"Y": 147610,
+			"Z": -17550
+		},
+		"DiscoveryRadius": 3000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "166",
+		"Name": "Gate of the Moon",
+		"Icon": "T_Map_Icon_ruins",
+		"Location":
+		{
+			"X": 278026,
+			"Y": 150166,
+			"Z": -14242
+		},
+		"DiscoveryRadius": 2500,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "167",
+		"Name": "Xalthar's Crossing",
+		"Icon": "T_Map_Icon_vista",
+		"Location":
+		{
+			"X": 246151,
+			"Y": 146105,
+			"Z": -19401
+		},
+		"DiscoveryRadius": 10000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "168",
+		"Name": "Warrior's Walk",
+		"Icon": "T_Map_Icon_vista",
+		"Location":
+		{
+			"X": 258132,
+			"Y": 176715,
+			"Z": -13079
+		},
+		"DiscoveryRadius": 3000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "169",
+		"Name": "Forkspring Hollow",
+		"Icon": "T_Map_Icon_vista",
+		"Location":
+		{
+			"X": 237357,
+			"Y": 181616,
+			"Z": -20171
+		},
+		"DiscoveryRadius": 1000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "170",
+		"Name": "Drifter's Rest",
+		"Icon": "T_Map_campIcon",
+		"Location":
+		{
+			"X": 225064,
+			"Y": 153431,
+			"Z": -20194
+		},
+		"DiscoveryRadius": 1500,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "171",
+		"Name": "Penitent's Crossing",
+		"Icon": "T_Map_Icon_ruins",
+		"Location":
+		{
+			"X": 233601,
+			"Y": 121813,
+			"Z": -15141
+		},
+		"DiscoveryRadius": 2750,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "172",
+		"Name": "Descent of Dagon",
+		"Icon": "T_Map_Icon_ruins",
+		"Location":
+		{
+			"X": 252836,
+			"Y": 117057,
+			"Z": -18156
+		},
+		"DiscoveryRadius": 6000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "173",
+		"Name": "The Crevice",
+		"Icon": "T_Map_Icon_vista",
+		"Location":
+		{
+			"X": 267491,
+			"Y": 112156,
+			"Z": -20744
+		},
+		"DiscoveryRadius": 6000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "174",
+		"Name": "Dagon's Eye",
+		"Icon": "T_Map_Icon_ruins",
+		"Location":
+		{
+			"X": 315338,
+			"Y": 122673,
+			"Z": -10000
+		},
+		"DiscoveryRadius": 3000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "175",
+		"Name": "Watcher of the Passage",
+		"Icon": "T_Map_Icon_ruins",
+		"Location":
+		{
+			"X": 343849,
+			"Y": 106877,
+			"Z": -12045
+		},
+		"DiscoveryRadius": 4500,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "176",
+		"Name": "A Light to Guide Them Home",
+		"Icon": "T_Map_Icon_ruins",
+		"Location":
+		{
+			"X": 355264,
+			"Y": 120473,
+			"Z": -18983
+		},
+		"DiscoveryRadius": 4000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "177",
+		"Name": "Wreck of the Martyr",
+		"Icon": "T_Map_Icon_vista",
+		"Location":
+		{
+			"X": 387028,
+			"Y": 114618,
+			"Z": -20446
+		},
+		"DiscoveryRadius": 2000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "178",
+		"Name": "Island of Unsightly Sirens",
+		"Icon": "T_Map_Icon_vista",
+		"Location":
+		{
+			"X": 397385,
+			"Y": 159916,
+			"Z": -20446
+		},
+		"DiscoveryRadius": 3000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "179",
+		"Name": "Pitfall Pass",
+		"Icon": "T_Map_Icon_vista",
+		"Location":
+		{
+			"X": 179179,
+			"Y": 147928,
+			"Z": -18726
+		},
+		"DiscoveryRadius": 4500,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "180",
+		"Name": "Deckswab's Retreat",
+		"Icon": "T_Map_Icon_camp_black_hand",
+		"Location":
+		{
+			"X": 177269,
+			"Y": 102357,
+			"Z": -19472
+		},
+		"DiscoveryRadius": 4000,
+		"ExilesJourneyEvent": "ScoutBlackHandCamp"
+	},
+	{
+		"ID": "181",
+		"Name": "The Dryfalls",
+		"Icon": "T_Map_Icon_camp_darfari",
+		"Location":
+		{
+			"X": 152402,
+			"Y": 94758,
+			"Z": -14330
+		},
+		"DiscoveryRadius": 2500,
+		"ExilesJourneyEvent": "FindDarfariCamp"
+	},
+	{
+		"ID": "182",
+		"Name": "The Crossway",
+		"Icon": "T_Map_Icon_vista",
+		"Location":
+		{
+			"X": 183166,
+			"Y": 87543,
+			"Z": -17364
+		},
+		"DiscoveryRadius": 3000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "183",
+		"Name": "Boulevard of the North Star",
+		"Icon": "T_Map_Icon_ruins",
+		"Location":
+		{
+			"X": 146217,
+			"Y": 49932,
+			"Z": -15822
+		},
+		"DiscoveryRadius": 4000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "184",
+		"Name": "Xalthar's Refuge",
+		"Icon": "T_Map_caveIcon",
+		"Location":
+		{
+			"X": 127659,
+			"Y": 66359,
+			"Z": -14050
+		},
+		"DiscoveryRadius": 1000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "185",
+		"Name": "The Eye that Never Closes",
+		"Icon": "T_Map_Icon_ruins",
+		"Location":
+		{
+			"X": 156219,
+			"Y": 66974,
+			"Z": -13814
+		},
+		"DiscoveryRadius": 3000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "186",
+		"Name": "Messenger's Respite",
+		"Icon": "T_Map_Icon_vista",
+		"Location":
+		{
+			"X": 176979,
+			"Y": 70497,
+			"Z": -12235
+		},
+		"DiscoveryRadius": 4500,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "187",
+		"Name": "Eastern Barracks",
+		"Icon": "T_Map_Icon_ruins",
+		"Location":
+		{
+			"X": 208743,
+			"Y": 92416,
+			"Z": -20009
+		},
+		"DiscoveryRadius": 4000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "188",
+		"Name": "Scupper's Shelter",
+		"Icon": "T_Map_Icon_camp_black_hand",
+		"Location":
+		{
+			"X": 213468,
+			"Y": 61342,
+			"Z": -20009
+		},
+		"DiscoveryRadius": 3000,
+		"ExilesJourneyEvent": "ScoutBlackHandCamp"
+	},
+	{
+		"ID": "189",
+		"Name": "The Passage",
+		"Icon": "T_Map_dungeonIcon",
+		"Location":
+		{
+			"X": 168011,
+			"Y": -2263,
+			"Z": -20009
+		},
+		"DiscoveryRadius": 1200,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "190",
+		"Name": "Upper Staging Area",
+		"Icon": "T_Map_Icon_ruins",
+		"Location":
+		{
+			"X": 190798,
+			"Y": 10586,
+			"Z": -19654
+		},
+		"DiscoveryRadius": 6000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "191",
+		"Name": "Ruined Outpost",
+		"Icon": "T_Map_Icon_ruins",
+		"Location":
+		{
+			"X": 201212,
+			"Y": 26050,
+			"Z": -19091
+		},
+		"DiscoveryRadius": 2500,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "192",
+		"Name": "Canopy Outlook",
+		"Icon": "T_Map_Icon_vista",
+		"Location":
+		{
+			"X": 220424,
+			"Y": 43687,
+			"Z": -8182
+		},
+		"DiscoveryRadius": 3000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "193",
+		"Name": "Lower Staging Area",
+		"Icon": "T_Map_Icon_ruins",
+		"Location":
+		{
+			"X": 238359,
+			"Y": 61081,
+			"Z": -21807
+		},
+		"DiscoveryRadius": 4000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "194",
+		"Name": "Bay of Hulks",
+		"Icon": "T_Map_Icon_vista",
+		"Location":
+		{
+			"X": 254059,
+			"Y": 84626,
+			"Z": -21807
+		},
+		"DiscoveryRadius": 10000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "195",
+		"Name": "Mire of Eternal Dreams",
+		"Icon": "T_Map_Icon_vista",
+		"Location":
+		{
+			"X": 169045,
+			"Y": 39663,
+			"Z": -22542
+		},
+		"DiscoveryRadius": 11000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "196",
+		"Name": "Talier's Berth",
+		"Icon": "T_Map_Icon_camp_black_hand",
+		"Location":
+		{
+			"X": 262469,
+			"Y": 17046,
+			"Z": -17492
+		},
+		"DiscoveryRadius": 3000,
+		"ExilesJourneyEvent": "ScoutBlackHandCamp"
+	},
+	{
+		"ID": "197",
+		"Name": "Wreck of the Wagtail",
+		"Icon": "T_Map_Icon_vista",
+		"Location":
+		{
+			"X": 308604,
+			"Y": 95275,
+			"Z": -20584
+		},
+		"DiscoveryRadius": 3000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "198",
+		"Name": "Jamilla's Liberty",
+		"Icon": "T_Map_Icon_camp_black_hand",
+		"Location":
+		{
+			"X": 335481,
+			"Y": 57559,
+			"Z": -17290
+		},
+		"DiscoveryRadius": 4500,
+		"ExilesJourneyEvent": "ScoutBlackHandCamp"
+	},
+	{
+		"ID": "199",
+		"Name": "Captain's Quarters",
+		"Icon": "T_Map_Icon_camp_black_hand",
+		"Location":
+		{
+			"X": 346662,
+			"Y": 46170,
+			"Z": -14249
+		},
+		"DiscoveryRadius": 2000,
+		"ExilesJourneyEvent": "ScoutBlackHandCamp"
+	},
+	{
+		"ID": "200",
+		"Name": "Heliograph Heights",
+		"Icon": "T_Map_Icon_vista",
+		"Location":
+		{
+			"X": 368581,
+			"Y": 25973,
+			"Z": -6685
+		},
+		"DiscoveryRadius": 3500,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "201",
+		"Name": "Buccaneer Bay",
+		"Icon": "T_Map_Icon_vista",
+		"Location":
+		{
+			"X": 334798,
+			"Y": 49441,
+			"Z": -23366
+		},
+		"DiscoveryRadius": 32000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "202",
+		"Name": "Flotsam",
+		"Icon": "T_Map_Icon_camp_black_hand",
+		"Location":
+		{
+			"X": 318191,
+			"Y": 70772,
+			"Z": -19505
+		},
+		"DiscoveryRadius": 10000,
+		"ExilesJourneyEvent": "ScoutBlackHandCamp"
+	},
+	{
+		"ID": "203",
+		"Name": "Inlet of the Hook",
+		"Icon": "T_Map_Icon_vista",
+		"Location":
+		{
+			"X": 271109,
+			"Y": 59871,
+			"Z": -20660
+		},
+		"DiscoveryRadius": 10000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "204",
+		"Name": "The High Way",
+		"Icon": "T_Map_caveIcon",
+		"Location":
+		{
+			"X": 42514,
+			"Y": -142936,
+			"Z": 25861
+		},
+		"DiscoveryRadius": 1200,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "205",
+		"Name": "Road of the Pilgrim",
+		"Icon": "T_Map_Icon_vista",
+		"Location":
+		{
+			"X": -24276,
+			"Y": -157927,
+			"Z": 17783
+		},
+		"DiscoveryRadius": 11000,
+		"ExilesJourneyEvent": "VisitVolcano"
+	},
+	{
+		"ID": "206",
+		"Name": "Undergate",
+		"Icon": "T_Map_dungeonIcon",
+		"Location":
+		{
+			"X": -80901,
+			"Y": -130649,
+			"Z": -1205
+		},
+		"DiscoveryRadius": 1500,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "207",
+		"Name": "Ring of Silence",
+		"Icon": "T_Map_Icon_ruins",
+		"Location":
+		{
+			"X": -108880,
+			"Y": -111737,
+			"Z": 1199
+		},
+		"DiscoveryRadius": 2250,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "208",
+		"Name": "Ruins of Velstad",
+		"Icon": "T_Map_Icon_ruins",
+		"Location":
+		{
+			"X": -126769,
+			"Y": -82801,
+			"Z": -192
+		},
+		"DiscoveryRadius": 3000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "209",
+		"Name": "Riversend",
+		"Icon": "T_Map_Icon_vista",
+		"Location":
+		{
+			"X": -193946,
+			"Y": -32219,
+			"Z": -4899
+		},
+		"DiscoveryRadius": 4500,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "210",
+		"Name": "King's Niche",
+		"Icon": "T_Map_Icon_ruins",
+		"Location":
+		{
+			"X": -219779,
+			"Y": -47537,
+			"Z": 2394
+		},
+		"DiscoveryRadius": 10000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "211",
+		"Name": "Wightwatch Lookout",
+		"Icon": "T_Map_campIcon",
+		"Location":
+		{
+			"X": -219174,
+			"Y": -78678,
+			"Z": -3481
+		},
+		"DiscoveryRadius": 1000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "212",
+		"Name": "The Cursed Mound",
+		"Icon": "T_Map_Icon_ruins",
+		"Location":
+		{
+			"X": -237612,
+			"Y": -93167,
+			"Z": -2982
+		},
+		"DiscoveryRadius": 3400,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "213",
+		"Name": "Crystalline Chasm",
+		"Icon": "T_Map_Icon_camp_frost_giant",
+		"Location":
+		{
+			"X": -199983,
+			"Y": -209220,
+			"Z": 5074
+		},
+		"DiscoveryRadius": 2700,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "214",
+		"Name": "Frostneedle Forest",
+		"Icon": "T_Map_Icon_vista",
+		"Location":
+		{
+			"X": -164744,
+			"Y": -187437,
+			"Z": -1007
+		},
+		"DiscoveryRadius": 10000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "215",
+		"Name": "Bleakwood Ruins",
+		"Icon": "T_Map_Icon_ruins",
+		"Location":
+		{
+			"X": -162373,
+			"Y": -190529,
+			"Z": -1007
+		},
+		"DiscoveryRadius": 1250,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "216",
+		"Name": "The Disjunction",
+		"Icon": "T_Map_Icon_vista",
+		"Location":
+		{
+			"X": -113499,
+			"Y": -258099,
+			"Z": 6603
+		},
+		"DiscoveryRadius": 1800,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "217",
+		"Name": "The Forge of Ymir",
+		"Icon": "T_Map_Icon_vista",
+		"Location":
+		{
+			"X": -128001,
+			"Y": -266287,
+			"Z": 7162
+		},
+		"DiscoveryRadius": 2800,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "218",
+		"Name": "The Frozen Slopes",
+		"Icon": "T_Map_Icon_vista",
+		"Location":
+		{
+			"X": -124272,
+			"Y": -196645,
+			"Z": 5261
+		},
+		"DiscoveryRadius": 10000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "219",
+		"Name": "Flamemist Camp",
+		"Icon": "T_Map_Icon_camp_frost_giant",
+		"Location":
+		{
+			"X": -102300,
+			"Y": -193771,
+			"Z": 12692
+		},
+		"DiscoveryRadius": 3250,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "220",
+		"Name": "Carrowmore",
+		"Icon": "T_Map_Icon_ruins",
+		"Location":
+		{
+			"X": -220949,
+			"Y": -181485,
+			"Z": 1262
+		},
+		"DiscoveryRadius": 3500,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "221",
+		"Name": "Bjornar's Stand",
+		"Icon": "T_Map_Icon_ruins",
+		"Location":
+		{
+			"X": -151897,
+			"Y": -108126,
+			"Z": -1271
+		},
+		"DiscoveryRadius": 2500,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "222",
+		"Name": "Skyfall Ridge",
+		"Icon": "T_Map_Icon_vista",
+		"Location":
+		{
+			"X": -177478,
+			"Y": -141985,
+			"Z": 12424
+		},
+		"DiscoveryRadius": 15000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "223",
+		"Name": "Stargazer's Crest",
+		"Icon": "T_Map_Icon_camp_cimmerian",
+		"Location":
+		{
+			"X": -197097,
+			"Y": -125248,
+			"Z": 200
+		},
+		"DiscoveryRadius": 1500,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "224",
+		"Name": "Ravaged Barrows",
+		"Icon": "T_Map_Icon_ruins",
+		"Location":
+		{
+			"X": -212701,
+			"Y": -101136,
+			"Z": -4483
+		},
+		"DiscoveryRadius": 7000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "225",
+		"Name": "Shrine of the Oracle",
+		"Icon": "T_Map_Icon_ruins",
+		"Location":
+		{
+			"X": 20581,
+			"Y": -203775,
+			"Z": 46820
+		},
+		"DiscoveryRadius": 6000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "226",
+		"Name": "Terrace of the Tenders",
+		"Icon": "T_Map_Icon_vista",
+		"Location":
+		{
+			"X": -3050,
+			"Y": -206806,
+			"Z": 44555
+		},
+		"DiscoveryRadius": 4500,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "227",
+		"Name": "Bridge of Voormithadreth",
+		"Icon": "T_Map_Icon_vista",
+		"Location":
+		{
+			"X": -22769,
+			"Y": -208748,
+			"Z": 44555
+		},
+		"DiscoveryRadius": 6000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "228",
+		"Name": "The Pens",
+		"Icon": "T_Map_Icon_vista",
+		"Location":
+		{
+			"X": -37275,
+			"Y": -207460,
+			"Z": 44268
+		},
+		"DiscoveryRadius": 5500,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "229",
+		"Name": "Path of the Penitent",
+		"Icon": "T_Map_Icon_vista",
+		"Location":
+		{
+			"X": 1310,
+			"Y": -229183,
+			"Z": 40639
+		},
+		"DiscoveryRadius": 7000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "230",
+		"Name": "Walkway of the Devout",
+		"Icon": "T_Map_Icon_ruins",
+		"Location":
+		{
+			"X": -1983,
+			"Y": -251337,
+			"Z": 29974
+		},
+		"DiscoveryRadius": 7000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "231",
+		"Name": "The Well of Skelos",
+		"Icon": "T_Map_dungeonIcon",
+		"Location":
+		{
+			"X": -28576,
+			"Y": -249735,
+			"Z": 30466
+		},
+		"DiscoveryRadius": 5500,
+		"ExilesJourneyEvent": "VisitWellOfSkelos"
+	},
+	{
+		"ID": "232",
+		"Name": "Road of the Righteous",
+		"Icon": "T_Map_Icon_ruins",
+		"Location":
+		{
+			"X": -17043,
+			"Y": -173650,
+			"Z": 31969
+		},
+		"DiscoveryRadius": 4500,
+		"ExilesJourneyEvent": "VisitVolcano"
+	},
+	{
+		"ID": "233",
+		"Name": "The Hidden Way",
+		"Icon": "T_Map_Icon_vista",
+		"Location":
+		{
+			"X": -45906,
+			"Y": -171789,
+			"Z": 34543
+		},
+		"DiscoveryRadius": 8000,
+		"ExilesJourneyEvent": "VisitVolcano"
+	},
+	{
+		"ID": "234",
+		"Name": "The Shattered Stairs",
+		"Icon": "T_Map_Icon_ruins",
+		"Location":
+		{
+			"X": -56184,
+			"Y": -235224,
+			"Z": 33119
+		},
+		"DiscoveryRadius": 6000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "235",
+		"Name": "The Floe",
+		"Icon": "T_Map_caveIcon",
+		"Location":
+		{
+			"X": -96631,
+			"Y": -226716,
+			"Z": 26171
+		},
+		"DiscoveryRadius": 1000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "236",
+		"Name": "Blizzard's Overwatch",
+		"Icon": "T_Map_Icon_camp_frost_giant",
+		"Location":
+		{
+			"X": -248368,
+			"Y": -193194,
+			"Z": 18427
+		},
+		"DiscoveryRadius": 2500,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "237",
+		"Name": "Icekeeper Hollow",
+		"Icon": "T_Map_Icon_camp_frost_giant",
+		"Location":
+		{
+			"X": -147911,
+			"Y": -184373,
+			"Z": 745
+		},
+		"DiscoveryRadius": 2000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "238",
+		"Name": "Ymir's Delusion",
+		"Icon": "T_Map_Icon_camp_frost_giant",
+		"Location":
+		{
+			"X": -107826,
+			"Y": -133245,
+			"Z": 8031
+		},
+		"DiscoveryRadius": 5000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "239",
+		"Name": "The Crevice",
+		"Icon": "T_Map_caveIcon",
+		"Location":
+		{
+			"X": -144279,
+			"Y": -99072,
+			"Z": -1554
+		},
+		"DiscoveryRadius": 6000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "240",
+		"Name": "Warren of Degenerates",
+		"Icon": "T_Map_caveIcon",
+		"Location":
+		{
+			"X": -75148,
+			"Y": 140656,
+			"Z": -11464
+		},
+		"DiscoveryRadius": 1000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "241",
+		"Name": "Shaleback Hollow",
+		"Icon": "T_Map_caveIcon",
+		"Location":
+		{
+			"X": -100000,
+			"Y": 168155,
+			"Z": -11839
+		},
+		"DiscoveryRadius": 1000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "242",
+		"Name": "The Corner of Bones",
+		"Icon": "T_Map_Icon_camp_darfari",
+		"Location":
+		{
+			"X": -29972,
+			"Y": 193313,
+			"Z": -8539
+		},
+		"DiscoveryRadius": 3000,
+		"ExilesJourneyEvent": "FindDarfariCamp"
+	},
+	{
+		"ID": "243",
+		"Name": "Heartsblood Rise",
+		"Icon": "T_Map_Icon_camp_darfari",
+		"Location":
+		{
+			"X": -10923,
+			"Y": 158893,
+			"Z": -8709
+		},
+		"DiscoveryRadius": 2500,
+		"ExilesJourneyEvent": "FindDarfariCamp"
+	},
+	{
+		"ID": "244",
+		"Name": "Spinebreaker's Flank",
+		"Icon": "T_Map_Icon_camp_darfari",
+		"Location":
+		{
+			"X": 35268,
+			"Y": 163000,
+			"Z": -7924
+		},
+		"DiscoveryRadius": 4500,
+		"ExilesJourneyEvent": "FindDarfariCamp"
+	},
+	{
+		"ID": "245",
+		"Name": "Gallaman's Overlook",
+		"Icon": "T_Map_Icon_camp_darfari",
+		"Location":
+		{
+			"X": 35259,
+			"Y": 193990,
+			"Z": -12535
+		},
+		"DiscoveryRadius": 2000,
+		"ExilesJourneyEvent": "FindDarfariCamp"
+	},
+	{
+		"ID": "246",
+		"Name": "Executioners Entrance",
+		"Icon": "T_Map_caveIcon",
+		"Location":
+		{
+			"X": 104462,
+			"Y": 137647,
+			"Z": -13993
+		},
+		"DiscoveryRadius": 3000,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "247",
+		"Name": "Cave of Kurak",
+		"Icon": "T_Map_caveIcon",
+		"Location":
+		{
+			"X": -114990,
+			"Y": 167867,
+			"Z": -14177
+		},
+		"DiscoveryRadius": 1000,
+		"ExilesJourneyEvent": "VisitHiddenCave"
+	},
+	{
+		"ID": "249",
+		"Name": "Abandoned Silver Mine",
+		"Icon": "T_Map_caveIcon",
+		"Location":
+		{
+			"X": -213910,
+			"Y": 124255,
+			"Z": -3781
+		},
+		"DiscoveryRadius": 3000,
+		"ExilesJourneyEvent": "VisitSilvermine"
+	},
+	{
+		"ID": "253",
+		"Name": "The Passage",
+		"Icon": "T_Map_dungeonIcon",
+		"Location":
+		{
+			"X": 14079,
+			"Y": -89964,
+			"Z": 7905
+		},
+		"DiscoveryRadius": 1200,
+		"ExilesJourneyEvent": "None"
+	},
+	{
+		"ID": "1090",
+		"Name": "Slithering Beach",
+		"Icon": "T_Map_Icon_vista",
+		"Location": {
+			"x": 215000,
+			"y": 115000,
+			"z": -1657
+		},
+		"DiscoveryRadius": 7000,
+		"ExilesJourneyEvent": "None"
+	}
 ]
