@@ -1,13 +1,13 @@
 [
 	{
-		"ID": "0",
+		"ID": "1090",
 		"Name": "Slithering Beach",
-		"Icon": "T_Map_Icon_stamp_animal",
+		"Icon": "T_Map_Icon_vista",
 		"Location":
 		{
-			"X": 215176,
-			"Y": 117179,
-			"Z": -19697
+			"x": 215176,
+			"y": 117179,
+			"z": -19697
 		},
 		"DiscoveryRadius": 5000,
 		"ExilesJourneyEvent": "None"
@@ -18,9 +18,9 @@
 		"Icon": "T_Map_Icon_camp_darfari",
 		"Location":
 		{
-			"X": -128702,
-			"Y": 216849,
-			"Z": -20861
+			"x": -128702,
+			"y": 216849,
+			"z": -20861
 		},
 		"DiscoveryRadius": 7000,
 		"ExilesJourneyEvent": "FindDarfariCamp"
@@ -31,9 +31,9 @@
 		"Icon": "T_Map_Icon_ruins",
 		"Location":
 		{
-			"X": -135854,
-			"Y": 200797,
-			"Z": -10837
+			"x": -135854,
+			"y": 200797,
+			"z": -10837
 		},
 		"DiscoveryRadius": 5000,
 		"ExilesJourneyEvent": "None"
@@ -44,9 +44,9 @@
 		"Icon": "T_Map_dungeonIcon",
 		"Location":
 		{
-			"X": -139309,
-			"Y": 216880,
-			"Z": -18976
+			"x": -139309,
+			"y": 216880,
+			"z": -18976
 		},
 		"DiscoveryRadius": 2200,
 		"ExilesJourneyEvent": "VisitDregs"
@@ -57,9 +57,9 @@
 		"Icon": "T_Map_Icon_camp_darfari",
 		"Location":
 		{
-			"X": -125726,
-			"Y": 203506,
-			"Z": -14098
+			"x": -125726,
+			"y": 203506,
+			"z": -14098
 		},
 		"DiscoveryRadius": 4750,
 		"ExilesJourneyEvent": "FindDarfariCamp"
@@ -70,9 +70,9 @@
 		"Icon": "T_Map_caveIcon",
 		"Location":
 		{
-			"X": -73847,
-			"Y": 219233,
-			"Z": -17068
+			"x": -73847,
+			"y": 219233,
+			"z": -17068
 		},
 		"DiscoveryRadius": 1000,
 		"ExilesJourneyEvent": "None"
@@ -83,9 +83,9 @@
 		"Icon": "T_Map_campIcon",
 		"Location":
 		{
-			"X": -71317,
-			"Y": 214844,
-			"Z": -14286
+			"x": -71317,
+			"y": 214844,
+			"z": -14286
 		},
 		"DiscoveryRadius": 2500,
 		"ExilesJourneyEvent": "None"
@@ -96,9 +96,9 @@
 		"Icon": "T_Map_Icon_ruins",
 		"Location":
 		{
-			"X": -66147,
-			"Y": 240150,
-			"Z": -27721
+			"x": -66147,
+			"y": 240150,
+			"z": -27721
 		},
 		"DiscoveryRadius": 25000,
 		"ExilesJourneyEvent": "None"
@@ -109,9 +109,9 @@
 		"Icon": "T_Map_Icon_ruins",
 		"Location":
 		{
-			"X": 15071,
-			"Y": 236620,
-			"Z": -33016
+			"x": 15071,
+			"y": 236620,
+			"z": -33016
 		},
 		"DiscoveryRadius": 20000,
 		"ExilesJourneyEvent": "None"
@@ -122,9 +122,9 @@
 		"Icon": "T_Map_caveIcon",
 		"Location":
 		{
-			"X": 46537,
-			"Y": 268929,
-			"Z": -19806
+			"x": 46537,
+			"y": 268929,
+			"z": -19806
 		},
 		"DiscoveryRadius": 1000,
 		"ExilesJourneyEvent": "None"
@@ -135,9 +135,9 @@
 		"Icon": "T_Map_Icon_camp_darfari",
 		"Location":
 		{
-			"X": 69641,
-			"Y": 233659,
-			"Z": -20628
+			"x": 69641,
+			"y": 233659,
+			"z": -20628
 		},
 		"DiscoveryRadius": 5500,
 		"ExilesJourneyEvent": "FindDarfariCamp"
@@ -148,9 +148,9 @@
 		"Icon": "T_Map_caveIcon",
 		"Location":
 		{
-			"X": 46591,
-			"Y": 201581,
-			"Z": -17809
+			"x": 46591,
+			"y": 201581,
+			"z": -17809
 		},
 		"DiscoveryRadius": 1000,
 		"ExilesJourneyEvent": "None"
@@ -161,9 +161,9 @@
 		"Icon": "T_Map_Icon_camp_darfari",
 		"Location":
 		{
-			"X": 73309,
-			"Y": 202831,
-			"Z": -17922
+			"x": 73309,
+			"y": 202831,
+			"z": -17922
 		},
 		"DiscoveryRadius": 2500,
 		"ExilesJourneyEvent": "FindDarfariCamp"
@@ -174,9 +174,9 @@
 		"Icon": "T_Map_Icon_camp_black_hand",
 		"Location":
 		{
-			"X": 93153,
-			"Y": 185167,
-			"Z": -20152
+			"x": 93153,
+			"y": 185167,
+			"z": -20152
 		},
 		"DiscoveryRadius": 5000,
 		"ExilesJourneyEvent": "ScoutBlackHandCamp"
@@ -187,9 +187,9 @@
 		"Icon": "T_Map_Icon_camp_darfari",
 		"Location":
 		{
-			"X": 80291,
-			"Y": 173056,
-			"Z": -20294
+			"x": 80291,
+			"y": 173056,
+			"z": -20294
 		},
 		"DiscoveryRadius": 2500,
 		"ExilesJourneyEvent": "FindDarfariCamp"
@@ -200,9 +200,9 @@
 		"Icon": "T_Map_Icon_ruins",
 		"Location":
 		{
-			"X": 83890,
-			"Y": 143937,
-			"Z": -16418
+			"x": 83890,
+			"y": 143937,
+			"z": -16418
 		},
 		"DiscoveryRadius": 10000,
 		"ExilesJourneyEvent": "None"
@@ -213,9 +213,9 @@
 		"Icon": "T_Map_Icon_ruins",
 		"Location":
 		{
-			"X": -51421,
-			"Y": 312078,
-			"Z": -23402
+			"x": -51421,
+			"y": 312078,
+			"z": -23402
 		},
 		"DiscoveryRadius": 9000,
 		"ExilesJourneyEvent": "None"
@@ -226,9 +226,9 @@
 		"Icon": "T_Map_Icon_ruins",
 		"Location":
 		{
-			"X": -16906,
-			"Y": 315743,
-			"Z": -20943
+			"x": -16906,
+			"y": 315743,
+			"z": -20943
 		},
 		"DiscoveryRadius": 9000,
 		"ExilesJourneyEvent": "None"
@@ -239,9 +239,9 @@
 		"Icon": "T_Map_Icon_ruins",
 		"Location":
 		{
-			"X": 28780,
-			"Y": 310974,
-			"Z": -20303
+			"x": 28780,
+			"y": 310974,
+			"z": -20303
 		},
 		"DiscoveryRadius": 9000,
 		"ExilesJourneyEvent": "None"
@@ -252,9 +252,9 @@
 		"Icon": "T_Map_Icon_ruins",
 		"Location":
 		{
-			"X": 59127,
-			"Y": 300462,
-			"Z": -20941
+			"x": 59127,
+			"y": 300462,
+			"z": -20941
 		},
 		"DiscoveryRadius": 9000,
 		"ExilesJourneyEvent": "None"
@@ -265,9 +265,9 @@
 		"Icon": "T_Map_Icon_ruins",
 		"Location":
 		{
-			"X": 99921,
-			"Y": 308647,
-			"Z": -20920
+			"x": 99921,
+			"y": 308647,
+			"z": -20920
 		},
 		"DiscoveryRadius": 9000,
 		"ExilesJourneyEvent": "None"
@@ -278,9 +278,9 @@
 		"Icon": "T_Map_Icon_ruins",
 		"Location":
 		{
-			"X": 125631,
-			"Y": 301811,
-			"Z": -20774
+			"x": 125631,
+			"y": 301811,
+			"z": -20774
 		},
 		"DiscoveryRadius": 9000,
 		"ExilesJourneyEvent": "None"
@@ -291,9 +291,9 @@
 		"Icon": "T_Map_Icon_camp_darfari",
 		"Location":
 		{
-			"X": 39778,
-			"Y": 204427,
-			"Z": -17080
+			"x": 39778,
+			"y": 204427,
+			"z": -17080
 		},
 		"DiscoveryRadius": 4500,
 		"ExilesJourneyEvent": "FindDarfariCamp"
@@ -304,9 +304,9 @@
 		"Icon": "T_Map_Icon_camp_black_hand",
 		"Location":
 		{
-			"X": 127725,
-			"Y": 157970,
-			"Z": -19504
+			"x": 127725,
+			"y": 157970,
+			"z": -19504
 		},
 		"DiscoveryRadius": 3000,
 		"ExilesJourneyEvent": "ScoutBlackHandCamp"
@@ -317,9 +317,9 @@
 		"Icon": "T_Map_Icon_camp_black_hand",
 		"Location":
 		{
-			"X": 118105,
-			"Y": 145138,
-			"Z": -19852
+			"x": 118105,
+			"y": 145138,
+			"z": -19852
 		},
 		"DiscoveryRadius": 4500,
 		"ExilesJourneyEvent": "ScoutBlackHandCamp"
@@ -330,9 +330,9 @@
 		"Icon": "T_Map_Icon_camp_black_hand",
 		"Location":
 		{
-			"X": 98633,
-			"Y": 152522,
-			"Z": -16421
+			"x": 98633,
+			"y": 152522,
+			"z": -16421
 		},
 		"DiscoveryRadius": 2750,
 		"ExilesJourneyEvent": "ScoutBlackHandCamp"
@@ -343,9 +343,9 @@
 		"Icon": "T_Map_campIcon",
 		"Location":
 		{
-			"X": 63935,
-			"Y": 147015,
-			"Z": -15822
+			"x": 63935,
+			"y": 147015,
+			"z": -15822
 		},
 		"DiscoveryRadius": 2000,
 		"ExilesJourneyEvent": "None"
@@ -356,9 +356,9 @@
 		"Icon": "T_Map_Icon_ruins",
 		"Location":
 		{
-			"X": 56623,
-			"Y": 134356,
-			"Z": -13774
+			"x": 56623,
+			"y": 134356,
+			"z": -13774
 		},
 		"DiscoveryRadius": 5000,
 		"ExilesJourneyEvent": "None"
@@ -369,9 +369,9 @@
 		"Icon": "T_Map_Icon_ruins",
 		"Location":
 		{
-			"X": 28266,
-			"Y": 134406,
-			"Z": -11150
+			"x": 28266,
+			"y": 134406,
+			"z": -11150
 		},
 		"DiscoveryRadius": 6500,
 		"ExilesJourneyEvent": "None"
@@ -382,9 +382,9 @@
 		"Icon": "T_Map_Icon_camp_black_hand",
 		"Location":
 		{
-			"X": 121755,
-			"Y": 123080,
-			"Z": -9675
+			"x": 121755,
+			"y": 123080,
+			"z": -9675
 		},
 		"DiscoveryRadius": 2500,
 		"ExilesJourneyEvent": "ScoutBlackHandCamp"
@@ -395,9 +395,9 @@
 		"Icon": "T_Map_Icon_camp_black_hand",
 		"Location":
 		{
-			"X": 112257,
-			"Y": 110446,
-			"Z": -9204
+			"x": 112257,
+			"y": 110446,
+			"z": -9204
 		},
 		"DiscoveryRadius": 2500,
 		"ExilesJourneyEvent": "ScoutBlackHandCamp"
@@ -408,9 +408,9 @@
 		"Icon": "T_Map_Icon_camp_black_hand",
 		"Location":
 		{
-			"X": 110203,
-			"Y": 96356,
-			"Z": -9714
+			"x": 110203,
+			"y": 96356,
+			"z": -9714
 		},
 		"DiscoveryRadius": 3000,
 		"ExilesJourneyEvent": "ScoutBlackHandCamp"
@@ -421,9 +421,9 @@
 		"Icon": "T_Map_Icon_camp_black_hand",
 		"Location":
 		{
-			"X": 100968,
-			"Y": 102995,
-			"Z": -12665
+			"x": 100968,
+			"y": 102995,
+			"z": -12665
 		},
 		"DiscoveryRadius": 2000,
 		"ExilesJourneyEvent": "ScoutBlackHandCamp"
@@ -434,9 +434,9 @@
 		"Icon": "T_Map_Icon_vista",
 		"Location":
 		{
-			"X": 92536,
-			"Y": 106267,
-			"Z": -5539
+			"x": 92536,
+			"y": 106267,
+			"z": -5539
 		},
 		"DiscoveryRadius": 2000,
 		"ExilesJourneyEvent": "None"
@@ -447,9 +447,9 @@
 		"Icon": "T_Map_Icon_capital_black_hand",
 		"Location":
 		{
-			"X": 85711,
-			"Y": 95955,
-			"Z": -8357
+			"x": 85711,
+			"y": 95955,
+			"z": -8357
 		},
 		"DiscoveryRadius": 10000,
 		"ExilesJourneyEvent": "VisitBlackGalleon"
@@ -460,9 +460,9 @@
 		"Icon": "T_Map_Icon_camp_black_hand",
 		"Location":
 		{
-			"X": 92429,
-			"Y": 81368,
-			"Z": -10918
+			"x": 92429,
+			"y": 81368,
+			"z": -10918
 		},
 		"DiscoveryRadius": 6000,
 		"ExilesJourneyEvent": "ScoutBlackHandCamp"
@@ -473,9 +473,9 @@
 		"Icon": "T_Map_Icon_camp_black_hand",
 		"Location":
 		{
-			"X": 72321,
-			"Y": 85595,
-			"Z": -10576
+			"x": 72321,
+			"y": 85595,
+			"z": -10576
 		},
 		"DiscoveryRadius": 3500,
 		"ExilesJourneyEvent": "ScoutBlackHandCamp"
@@ -486,9 +486,9 @@
 		"Icon": "T_Map_Icon_camp_black_hand",
 		"Location":
 		{
-			"X": 67639,
-			"Y": 111652,
-			"Z": -4818
+			"x": 67639,
+			"y": 111652,
+			"z": -4818
 		},
 		"DiscoveryRadius": 5500,
 		"ExilesJourneyEvent": "ScoutBlackHandCamp"
@@ -499,9 +499,9 @@
 		"Icon": "T_Map_Icon_camp_darfari",
 		"Location":
 		{
-			"X": -76128,
-			"Y": 210422,
-			"Z": -10599
+			"x": -76128,
+			"y": 210422,
+			"z": -10599
 		},
 		"DiscoveryRadius": 2750,
 		"ExilesJourneyEvent": "FindDarfariCamp"
@@ -512,9 +512,9 @@
 		"Icon": "T_Map_caveIcon",
 		"Location":
 		{
-			"X": -76203,
-			"Y": 175083,
-			"Z": -13989
+			"x": -76203,
+			"y": 175083,
+			"z": -13989
 		},
 		"DiscoveryRadius": 1000,
 		"ExilesJourneyEvent": "None"
@@ -525,9 +525,9 @@
 		"Icon": "T_Map_Icon_camp_darfari",
 		"Location":
 		{
-			"X": -86369,
-			"Y": 187085,
-			"Z": -10801
+			"x": -86369,
+			"y": 187085,
+			"z": -10801
 		},
 		"DiscoveryRadius": 2000,
 		"ExilesJourneyEvent": "FindDarfariCamp"
@@ -538,9 +538,9 @@
 		"Icon": "T_Map_Icon_capital_unnamed_city",
 		"Location":
 		{
-			"X": -140355,
-			"Y": 128165,
-			"Z": -16424
+			"x": -140355,
+			"y": 128165,
+			"z": -16424
 		},
 		"DiscoveryRadius": 40000,
 		"ExilesJourneyEvent": "ExploreUnnamedCity"
@@ -551,9 +551,9 @@
 		"Icon": "T_Map_Icon_ruins",
 		"Location":
 		{
-			"X": -60261,
-			"Y": 159470,
-			"Z": -1762
+			"x": -60261,
+			"y": 159470,
+			"z": -1762
 		},
 		"DiscoveryRadius": 5000,
 		"ExilesJourneyEvent": "ClimbTowerBats"
@@ -564,9 +564,9 @@
 		"Icon": "T_Map_caveIcon",
 		"Location":
 		{
-			"X": 5090,
-			"Y": 196489,
-			"Z": -15421
+			"x": 5090,
+			"y": 196489,
+			"z": -15421
 		},
 		"DiscoveryRadius": 1000,
 		"ExilesJourneyEvent": "None"
@@ -577,9 +577,9 @@
 		"Icon": "T_Map_Icon_camp_darfari",
 		"Location":
 		{
-			"X": -3570,
-			"Y": 173863,
-			"Z": -6984
+			"x": -3570,
+			"y": 173863,
+			"z": -6984
 		},
 		"DiscoveryRadius": 2000,
 		"ExilesJourneyEvent": "FindDarfariCamp"
@@ -590,9 +590,9 @@
 		"Icon": "T_Map_Icon_capital_darfari",
 		"Location":
 		{
-			"X": 18463,
-			"Y": 164007,
-			"Z": -8181
+			"x": 18463,
+			"y": 164007,
+			"z": -8181
 		},
 		"DiscoveryRadius": 7000,
 		"ExilesJourneyEvent": "VisitDarfariCapitol"
@@ -603,9 +603,9 @@
 		"Icon": "T_Map_Icon_camp_darfari",
 		"Location":
 		{
-			"X": -43214,
-			"Y": 163931,
-			"Z": -4434
+			"x": -43214,
+			"y": 163931,
+			"z": -4434
 		},
 		"DiscoveryRadius": 2500,
 		"ExilesJourneyEvent": "FindDarfariCamp"
@@ -616,9 +616,9 @@
 		"Icon": "T_Map_Icon_camp_darfari",
 		"Location":
 		{
-			"X": -32098,
-			"Y": 164875,
-			"Z": -6958
+			"x": -32098,
+			"y": 164875,
+			"z": -6958
 		},
 		"DiscoveryRadius": 3000,
 		"ExilesJourneyEvent": "FindDarfariCamp"
@@ -629,9 +629,9 @@
 		"Icon": "T_Map_Icon_camp_darfari",
 		"Location":
 		{
-			"X": -51081,
-			"Y": 144927,
-			"Z": -8471
+			"x": -51081,
+			"y": 144927,
+			"z": -8471
 		},
 		"DiscoveryRadius": 1500,
 		"ExilesJourneyEvent": "FindDarfariCamp"
@@ -642,9 +642,9 @@
 		"Icon": "T_Map_Icon_camp_darfari",
 		"Location":
 		{
-			"X": 7927,
-			"Y": 136421,
-			"Z": -8578
+			"x": 7927,
+			"y": 136421,
+			"z": -8578
 		},
 		"DiscoveryRadius": 2500,
 		"ExilesJourneyEvent": "FindDarfariCamp"
@@ -655,9 +655,9 @@
 		"Icon": "T_Map_Icon_camp_darfari",
 		"Location":
 		{
-			"X": 16595,
-			"Y": 121536,
-			"Z": -7770
+			"x": 16595,
+			"y": 121536,
+			"z": -7770
 		},
 		"DiscoveryRadius": 3000,
 		"ExilesJourneyEvent": "FindDarfariCamp"
@@ -668,9 +668,9 @@
 		"Icon": "T_Map_Icon_camp_black_hand",
 		"Location":
 		{
-			"X": 83085,
-			"Y": 86333,
-			"Z": -12466
+			"x": 83085,
+			"y": 86333,
+			"z": -12466
 		},
 		"DiscoveryRadius": 2500,
 		"ExilesJourneyEvent": "ScoutBlackHandCamp"
@@ -681,9 +681,9 @@
 		"Icon": "T_Map_Icon_camp_dogs_of_the_desert",
 		"Location":
 		{
-			"X": 45901,
-			"Y": 116926,
-			"Z": -9375
+			"x": 45901,
+			"y": 116926,
+			"z": -9375
 		},
 		"DiscoveryRadius": 1500,
 		"ExilesJourneyEvent": "ScoutDogsCamp"
@@ -694,9 +694,9 @@
 		"Icon": "T_Map_Icon_camp_dogs_of_the_desert",
 		"Location":
 		{
-			"X": 43843,
-			"Y": 101468,
-			"Z": -7063
+			"x": 43843,
+			"y": 101468,
+			"z": -7063
 		},
 		"DiscoveryRadius": 1500,
 		"ExilesJourneyEvent": "ScoutDogsCamp"
@@ -707,9 +707,9 @@
 		"Icon": "T_Map_Icon_camp_dogs_of_the_desert",
 		"Location":
 		{
-			"X": 30548,
-			"Y": 103014,
-			"Z": -6776
+			"x": 30548,
+			"y": 103014,
+			"z": -6776
 		},
 		"DiscoveryRadius": 1500,
 		"ExilesJourneyEvent": "ScoutDogsCamp"
@@ -720,9 +720,9 @@
 		"Icon": "T_Map_Icon_camp_darfari",
 		"Location":
 		{
-			"X": -88687,
-			"Y": 222498,
-			"Z": -11380
+			"x": -88687,
+			"y": 222498,
+			"z": -11380
 		},
 		"DiscoveryRadius": 3750,
 		"ExilesJourneyEvent": "FindDarfariCamp"
@@ -733,9 +733,9 @@
 		"Icon": "T_Map_Icon_Event_Combat",
 		"Location":
 		{
-			"X": 19634,
-			"Y": 83263,
-			"Z": -10190
+			"x": 19634,
+			"y": 83263,
+			"z": -10190
 		},
 		"DiscoveryRadius": 7000,
 		"ExilesJourneyEvent": "ScoutDogsCamp"
@@ -746,9 +746,9 @@
 		"Icon": "T_Map_Icon_camp_dogs_of_the_desert",
 		"Location":
 		{
-			"X": -3404,
-			"Y": 95623,
-			"Z": -8663
+			"x": -3404,
+			"y": 95623,
+			"z": -8663
 		},
 		"DiscoveryRadius": 3000,
 		"ExilesJourneyEvent": "ScoutDogsCamp"
@@ -759,9 +759,9 @@
 		"Icon": "T_Map_Icon_ruins",
 		"Location":
 		{
-			"X": 5544,
-			"Y": 87174,
-			"Z": -8003
+			"x": 5544,
+			"y": 87174,
+			"z": -8003
 		},
 		"DiscoveryRadius": 1750,
 		"ExilesJourneyEvent": "None"
@@ -772,9 +772,9 @@
 		"Icon": "T_Map_Icon_vista",
 		"Location":
 		{
-			"X": 10503,
-			"Y": 66273,
-			"Z": -8049
+			"x": 10503,
+			"y": 66273,
+			"z": -8049
 		},
 		"DiscoveryRadius": 4000,
 		"ExilesJourneyEvent": "None"
@@ -785,9 +785,9 @@
 		"Icon": "T_Map_Icon_ruins",
 		"Location":
 		{
-			"X": -7664,
-			"Y": 85843,
-			"Z": -4192
+			"x": -7664,
+			"y": 85843,
+			"z": -4192
 		},
 		"DiscoveryRadius": 7000,
 		"ExilesJourneyEvent": "None"
@@ -798,9 +798,9 @@
 		"Icon": "T_Map_Icon_camp_dogs_of_the_desert",
 		"Location":
 		{
-			"X": -25505,
-			"Y": 123141,
-			"Z": -8084
+			"x": -25505,
+			"y": 123141,
+			"z": -8084
 		},
 		"DiscoveryRadius": 4000,
 		"ExilesJourneyEvent": "ScoutDogsCamp"
@@ -811,9 +811,9 @@
 		"Icon": "T_Map_Icon_ruins",
 		"Location":
 		{
-			"X": -13075,
-			"Y": 123925,
-			"Z": -8675
+			"x": -13075,
+			"y": 123925,
+			"z": -8675
 		},
 		"DiscoveryRadius": 2500,
 		"ExilesJourneyEvent": "None"
@@ -824,9 +824,9 @@
 		"Icon": "T_Map_caveIcon",
 		"Location":
 		{
-			"X": -59088,
-			"Y": 82928,
-			"Z": -11785
+			"x": -59088,
+			"y": 82928,
+			"z": -11785
 		},
 		"DiscoveryRadius": 1000,
 		"ExilesJourneyEvent": "None"
@@ -837,9 +837,9 @@
 		"Icon": "T_Map_caveIcon",
 		"Location":
 		{
-			"X": -38691,
-			"Y": 59709,
-			"Z": -11293
+			"x": -38691,
+			"y": 59709,
+			"z": -11293
 		},
 		"DiscoveryRadius": 1000,
 		"ExilesJourneyEvent": "None"
@@ -850,9 +850,9 @@
 		"Icon": "T_Map_Icon_camp_dogs_of_the_desert",
 		"Location":
 		{
-			"X": -14148,
-			"Y": 56611,
-			"Z": -8238
+			"x": -14148,
+			"y": 56611,
+			"z": -8238
 		},
 		"DiscoveryRadius": 5000,
 		"ExilesJourneyEvent": "ScoutDogsCamp"
@@ -863,9 +863,9 @@
 		"Icon": "T_Map_Icon_camp_dogs_of_the_desert",
 		"Location":
 		{
-			"X": -40432,
-			"Y": 78605,
-			"Z": -9065
+			"x": -40432,
+			"y": 78605,
+			"z": -9065
 		},
 		"DiscoveryRadius": 1500,
 		"ExilesJourneyEvent": "ScoutDogsCamp"
@@ -876,9 +876,9 @@
 		"Icon": "T_Map_Icon_ruins",
 		"Location":
 		{
-			"X": -7621,
-			"Y": 31820,
-			"Z": -8403
+			"x": -7621,
+			"y": 31820,
+			"z": -8403
 		},
 		"DiscoveryRadius": 4500,
 		"ExilesJourneyEvent": "None"
@@ -889,9 +889,9 @@
 		"Icon": "T_Map_Icon_vista",
 		"Location":
 		{
-			"X": 16547,
-			"Y": 44391,
-			"Z": -8846
+			"x": 16547,
+			"y": 44391,
+			"z": -8846
 		},
 		"DiscoveryRadius": 15000,
 		"ExilesJourneyEvent": "None"
@@ -902,9 +902,9 @@
 		"Icon": "T_Map_Icon_ruins",
 		"Location":
 		{
-			"X": -61829,
-			"Y": 110966,
-			"Z": -8296
+			"x": -61829,
+			"y": 110966,
+			"z": -8296
 		},
 		"DiscoveryRadius": 7500,
 		"ExilesJourneyEvent": "None"
@@ -915,9 +915,9 @@
 		"Icon": "T_Map_Icon_ruins",
 		"Location":
 		{
-			"X": -75432,
-			"Y": 101283,
-			"Z": -8248
+			"x": -75432,
+			"y": 101283,
+			"z": -8248
 		},
 		"DiscoveryRadius": 7500,
 		"ExilesJourneyEvent": "None"
@@ -928,9 +928,9 @@
 		"Icon": "T_Map_Icon_ruins",
 		"Location":
 		{
-			"X": -93062,
-			"Y": 114661,
-			"Z": -6986
+			"x": -93062,
+			"y": 114661,
+			"z": -6986
 		},
 		"DiscoveryRadius": 6000,
 		"ExilesJourneyEvent": "None"
@@ -941,9 +941,9 @@
 		"Icon": "T_Map_Icon_ruins",
 		"Location":
 		{
-			"X": -123789,
-			"Y": 104502,
-			"Z": -12113
+			"x": -123789,
+			"y": 104502,
+			"z": -12113
 		},
 		"DiscoveryRadius": 3000,
 		"ExilesJourneyEvent": "None"
@@ -954,9 +954,9 @@
 		"Icon": "T_Map_Icon_ruins",
 		"Location":
 		{
-			"X": -125319,
-			"Y": 151189,
-			"Z": -10528
+			"x": -125319,
+			"y": 151189,
+			"z": -10528
 		},
 		"DiscoveryRadius": 5000,
 		"ExilesJourneyEvent": "None"
@@ -967,9 +967,9 @@
 		"Icon": "T_Map_Icon_ruins",
 		"Location":
 		{
-			"X": -139653,
-			"Y": 115695,
-			"Z": -12847
+			"x": -139653,
+			"y": 115695,
+			"z": -12847
 		},
 		"DiscoveryRadius": 7500,
 		"ExilesJourneyEvent": "None"
@@ -980,9 +980,9 @@
 		"Icon": "T_Map_Icon_ruins",
 		"Location":
 		{
-			"X": -165352,
-			"Y": 131622,
-			"Z": -13665
+			"x": -165352,
+			"y": 131622,
+			"z": -13665
 		},
 		"DiscoveryRadius": 12500,
 		"ExilesJourneyEvent": "None"
@@ -993,9 +993,9 @@
 		"Icon": "T_Map_Icon_ruins",
 		"Location":
 		{
-			"X": -143035,
-			"Y": 143699,
-			"Z": -11330
+			"x": -143035,
+			"y": 143699,
+			"z": -11330
 		},
 		"DiscoveryRadius": 7000,
 		"ExilesJourneyEvent": "None"
@@ -1006,9 +1006,9 @@
 		"Icon": "T_Map_Icon_ruins",
 		"Location":
 		{
-			"X": -52478,
-			"Y": 63661,
-			"Z": -2108
+			"x": -52478,
+			"y": 63661,
+			"z": -2108
 		},
 		"DiscoveryRadius": 30000,
 		"ExilesJourneyEvent": "None"
@@ -1019,9 +1019,9 @@
 		"Icon": "T_Map_campIcon",
 		"Location":
 		{
-			"X": -103734,
-			"Y": 65737,
-			"Z": -8815
+			"x": -103734,
+			"y": 65737,
+			"z": -8815
 		},
 		"DiscoveryRadius": 4000,
 		"ExilesJourneyEvent": "None"
@@ -1032,9 +1032,9 @@
 		"Icon": "T_Map_Icon_capital_dogs_of_the_desert",
 		"Location":
 		{
-			"X": -98174,
-			"Y": 22869,
-			"Z": -10589
+			"x": -98174,
+			"y": 22869,
+			"z": -10589
 		},
 		"DiscoveryRadius": 15000,
 		"ExilesJourneyEvent": "ScoutDogsCamp"
@@ -1045,9 +1045,9 @@
 		"Icon": "T_Map_Icon_vista",
 		"Location":
 		{
-			"X": -28442,
-			"Y": 27185,
-			"Z": -10858
+			"x": -28442,
+			"y": 27185,
+			"z": -10858
 		},
 		"DiscoveryRadius": 10000,
 		"ExilesJourneyEvent": "None"
@@ -1058,9 +1058,9 @@
 		"Icon": "T_Map_Icon_ruins",
 		"Location":
 		{
-			"X": -119968,
-			"Y": 11490,
-			"Z": -8117
+			"x": -119968,
+			"y": 11490,
+			"z": -8117
 		},
 		"DiscoveryRadius": 15000,
 		"ExilesJourneyEvent": "None"
@@ -1071,9 +1071,9 @@
 		"Icon": "T_Map_Icon_ruins",
 		"Location":
 		{
-			"X": -132241,
-			"Y": -2874,
-			"Z": -4130
+			"x": -132241,
+			"y": -2874,
+			"z": -4130
 		},
 		"DiscoveryRadius": 7000,
 		"ExilesJourneyEvent": "None"
@@ -1084,9 +1084,9 @@
 		"Icon": "T_Map_Icon_ruins",
 		"Location":
 		{
-			"X": -149530,
-			"Y": -10358,
-			"Z": -3846
+			"x": -149530,
+			"y": -10358,
+			"z": -3846
 		},
 		"DiscoveryRadius": 9000,
 		"ExilesJourneyEvent": "None"
@@ -1097,9 +1097,9 @@
 		"Icon": "T_Map_Icon_ruins",
 		"Location":
 		{
-			"X": -152598,
-			"Y": 4775,
-			"Z": -3927
+			"x": -152598,
+			"y": 4775,
+			"z": -3927
 		},
 		"DiscoveryRadius": 6500,
 		"ExilesJourneyEvent": "None"
@@ -1110,9 +1110,9 @@
 		"Icon": "T_Map_Icon_vista",
 		"Location":
 		{
-			"X": -135060,
-			"Y": 74567,
-			"Z": -4754
+			"x": -135060,
+			"y": 74567,
+			"z": -4754
 		},
 		"DiscoveryRadius": 3000,
 		"ExilesJourneyEvent": "None"
@@ -1123,9 +1123,9 @@
 		"Icon": "T_Map_Icon_vista",
 		"Location":
 		{
-			"X": -153851,
-			"Y": 55926,
-			"Z": -3617
+			"x": -153851,
+			"y": 55926,
+			"z": -3617
 		},
 		"DiscoveryRadius": 9000,
 		"ExilesJourneyEvent": "None"
@@ -1136,9 +1136,9 @@
 		"Icon": "T_Map_Icon_vista",
 		"Location":
 		{
-			"X": -149118,
-			"Y": 51216,
-			"Z": -8179
+			"x": -149118,
+			"y": 51216,
+			"z": -8179
 		},
 		"DiscoveryRadius": 8000,
 		"ExilesJourneyEvent": "None"
@@ -1149,9 +1149,9 @@
 		"Icon": "T_Map_Icon_vista",
 		"Location":
 		{
-			"X": -193314,
-			"Y": 21148,
-			"Z": -11192
+			"x": -193314,
+			"y": 21148,
+			"z": -11192
 		},
 		"DiscoveryRadius": 25000,
 		"ExilesJourneyEvent": "None"
@@ -1162,9 +1162,9 @@
 		"Icon": "T_Map_Icon_ruins",
 		"Location":
 		{
-			"X": -219023,
-			"Y": -11389,
-			"Z": -1980
+			"x": -219023,
+			"y": -11389,
+			"z": -1980
 		},
 		"DiscoveryRadius": 10000,
 		"ExilesJourneyEvent": "None"
@@ -1175,9 +1175,9 @@
 		"Icon": "T_Map_Icon_vista",
 		"Location":
 		{
-			"X": -256864,
-			"Y": -10091,
-			"Z": -1980
+			"x": -256864,
+			"y": -10091,
+			"z": -1980
 		},
 		"DiscoveryRadius": 20000,
 		"ExilesJourneyEvent": "None"
@@ -1188,9 +1188,9 @@
 		"Icon": "T_Map_Icon_ruins",
 		"Location":
 		{
-			"X": -226091,
-			"Y": 51950,
-			"Z": -2634
+			"x": -226091,
+			"y": 51950,
+			"z": -2634
 		},
 		"DiscoveryRadius": 8000,
 		"ExilesJourneyEvent": "None"
@@ -1201,9 +1201,9 @@
 		"Icon": "T_Map_Icon_capital_relic_hunters",
 		"Location":
 		{
-			"X": -246530,
-			"Y": 95930,
-			"Z": -4282
+			"x": -246530,
+			"y": 95930,
+			"z": -4282
 		},
 		"DiscoveryRadius": 25000,
 		"ExilesJourneyEvent": "VisitSepermeru"
@@ -1214,9 +1214,9 @@
 		"Icon": "T_Map_Icon_ruins",
 		"Location":
 		{
-			"X": 190891,
-			"Y": 215845,
-			"Z": -17906
+			"x": 190891,
+			"y": 215845,
+			"z": -17906
 		},
 		"DiscoveryRadius": 6000,
 		"ExilesJourneyEvent": "None"
@@ -1227,9 +1227,9 @@
 		"Icon": "T_Map_Icon_camp_relic_hunters",
 		"Location":
 		{
-			"X": -230190,
-			"Y": 89154,
-			"Z": -3520
+			"x": -230190,
+			"y": 89154,
+			"z": -3520
 		},
 		"DiscoveryRadius": 3000,
 		"ExilesJourneyEvent": "None"
@@ -1240,9 +1240,9 @@
 		"Icon": "T_Map_Icon_camp_relic_hunters",
 		"Location":
 		{
-			"X": -232795,
-			"Y": 84267,
-			"Z": -4427
+			"x": -232795,
+			"y": 84267,
+			"z": -4427
 		},
 		"DiscoveryRadius": 4000,
 		"ExilesJourneyEvent": "None"
@@ -1253,9 +1253,9 @@
 		"Icon": "T_Map_Icon_camp_relic_hunters",
 		"Location":
 		{
-			"X": -250525,
-			"Y": 102539,
-			"Z": -3925
+			"x": -250525,
+			"y": 102539,
+			"z": -3925
 		},
 		"DiscoveryRadius": 8000,
 		"ExilesJourneyEvent": "None"
@@ -1266,9 +1266,9 @@
 		"Icon": "T_Map_Icon_camp_relic_hunters",
 		"Location":
 		{
-			"X": -261307,
-			"Y": 87287,
-			"Z": -6143
+			"x": -261307,
+			"y": 87287,
+			"z": -6143
 		},
 		"DiscoveryRadius": 10000,
 		"ExilesJourneyEvent": "None"
@@ -1279,9 +1279,9 @@
 		"Icon": "T_Map_Icon_camp_relic_hunters",
 		"Location":
 		{
-			"X": -265969,
-			"Y": 90242,
-			"Z": -3624
+			"x": -265969,
+			"y": 90242,
+			"z": -3624
 		},
 		"DiscoveryRadius": 2000,
 		"ExilesJourneyEvent": "None"
@@ -1292,9 +1292,9 @@
 		"Icon": "T_Map_Icon_vista",
 		"Location":
 		{
-			"X": -256741,
-			"Y": 39990,
-			"Z": -3974
+			"x": -256741,
+			"y": 39990,
+			"z": -3974
 		},
 		"DiscoveryRadius": 20000,
 		"ExilesJourneyEvent": "None"
@@ -1305,9 +1305,9 @@
 		"Icon": "T_Map_Icon_vista",
 		"Location":
 		{
-			"X": -253832,
-			"Y": 16192,
-			"Z": 1232
+			"x": -253832,
+			"y": 16192,
+			"z": 1232
 		},
 		"DiscoveryRadius": 3000,
 		"ExilesJourneyEvent": "None"
@@ -1318,9 +1318,9 @@
 		"Icon": "T_Map_Icon_camp_black_hand",
 		"Location":
 		{
-			"X": 94769,
-			"Y": 146311,
-			"Z": -12844
+			"x": 94769,
+			"y": 146311,
+			"z": -12844
 		},
 		"DiscoveryRadius": 2500,
 		"ExilesJourneyEvent": "ScoutBlackHandCamp"
@@ -1331,9 +1331,9 @@
 		"Icon": "T_Map_Icon_camp_black_hand",
 		"Location":
 		{
-			"X": 90962,
-			"Y": 141008,
-			"Z": -8965
+			"x": 90962,
+			"y": 141008,
+			"z": -8965
 		},
 		"DiscoveryRadius": 3500,
 		"ExilesJourneyEvent": "ScoutBlackHandCamp"
@@ -1344,9 +1344,9 @@
 		"Icon": "T_Map_Icon_camp_darfari",
 		"Location":
 		{
-			"X": -88031,
-			"Y": 167972,
-			"Z": -12954
+			"x": -88031,
+			"y": 167972,
+			"z": -12954
 		},
 		"DiscoveryRadius": 3500,
 		"ExilesJourneyEvent": "FindDarfariCamp"
@@ -1357,9 +1357,9 @@
 		"Icon": "T_Map_Icon_ruins",
 		"Location":
 		{
-			"X": -60446,
-			"Y": 13695,
-			"Z": -6394
+			"x": -60446,
+			"y": 13695,
+			"z": -6394
 		},
 		"DiscoveryRadius": 15000,
 		"ExilesJourneyEvent": "None"
@@ -1370,9 +1370,9 @@
 		"Icon": "T_Map_Icon_vista",
 		"Location":
 		{
-			"X": -219113,
-			"Y": 69038,
-			"Z": 1615
+			"x": -219113,
+			"y": 69038,
+			"z": 1615
 		},
 		"DiscoveryRadius": 14000,
 		"ExilesJourneyEvent": "None"
@@ -1383,9 +1383,9 @@
 		"Icon": "T_Map_Icon_vista",
 		"Location":
 		{
-			"X": -241405,
-			"Y": 54935,
-			"Z": -3027
+			"x": -241405,
+			"y": 54935,
+			"z": -3027
 		},
 		"DiscoveryRadius": 9000,
 		"ExilesJourneyEvent": "None"
@@ -1396,9 +1396,9 @@
 		"Icon": "T_Map_Icon_vista",
 		"Location":
 		{
-			"X": -221232,
-			"Y": 115541,
-			"Z": -2759
+			"x": -221232,
+			"y": 115541,
+			"z": -2759
 		},
 		"DiscoveryRadius": 9000,
 		"ExilesJourneyEvent": "None"
@@ -1409,9 +1409,9 @@
 		"Icon": "T_Map_Icon_vista",
 		"Location":
 		{
-			"X": -207474,
-			"Y": 129210,
-			"Z": -1292
+			"x": -207474,
+			"y": 129210,
+			"z": -1292
 		},
 		"DiscoveryRadius": 14000,
 		"ExilesJourneyEvent": "None"
@@ -1422,9 +1422,9 @@
 		"Icon": "T_Map_Icon_ruins",
 		"Location":
 		{
-			"X": -158184,
-			"Y": 30007,
-			"Z": -1657
+			"x": -158184,
+			"y": 30007,
+			"z": -1657
 		},
 		"DiscoveryRadius": 7000,
 		"ExilesJourneyEvent": "None"
@@ -1435,9 +1435,9 @@
 		"Icon": "T_Map_Icon_ruins",
 		"Location":
 		{
-			"X": 39503,
-			"Y": 28307,
-			"Z": -1018
+			"x": 39503,
+			"y": 28307,
+			"z": -1018
 		},
 		"DiscoveryRadius": 4000,
 		"ExilesJourneyEvent": "DiscoverHauntsSanctuaryRuins"
@@ -1448,9 +1448,9 @@
 		"Icon": "T_Map_Icon_vista",
 		"Location":
 		{
-			"X": 35197,
-			"Y": 24732,
-			"Z": -3000
+			"x": 35197,
+			"y": 24732,
+			"z": -3000
 		},
 		"DiscoveryRadius": 9000,
 		"ExilesJourneyEvent": "None"
@@ -1461,9 +1461,9 @@
 		"Icon": "T_Map_Icon_camp_black_hand",
 		"Location":
 		{
-			"X": 65164,
-			"Y": 51887,
-			"Z": -758
+			"x": 65164,
+			"y": 51887,
+			"z": -758
 		},
 		"DiscoveryRadius": 3500,
 		"ExilesJourneyEvent": "ScoutBlackHandCamp"
@@ -1474,9 +1474,9 @@
 		"Icon": "T_Map_Icon_vista",
 		"Location":
 		{
-			"X": 42537,
-			"Y": -9892,
-			"Z": 96
+			"x": 42537,
+			"y": -9892,
+			"z": 96
 		},
 		"DiscoveryRadius": 15000,
 		"ExilesJourneyEvent": "None"
@@ -1487,9 +1487,9 @@
 		"Icon": "T_Map_caveIcon",
 		"Location":
 		{
-			"X": 29967,
-			"Y": -37363,
-			"Z": 3604
+			"x": 29967,
+			"y": -37363,
+			"z": 3604
 		},
 		"DiscoveryRadius": 1000,
 		"ExilesJourneyEvent": "None"
@@ -1500,9 +1500,9 @@
 		"Icon": "T_Map_Icon_camp_vanir",
 		"Location":
 		{
-			"X": 8245,
-			"Y": -20004,
-			"Z": 3932
+			"x": 8245,
+			"y": -20004,
+			"z": 3932
 		},
 		"DiscoveryRadius": 2500,
 		"ExilesJourneyEvent": "None"
@@ -1513,9 +1513,9 @@
 		"Icon": "T_Map_caveIcon",
 		"Location":
 		{
-			"X": 30208,
-			"Y": -47027,
-			"Z": 7774
+			"x": 30208,
+			"y": -47027,
+			"z": 7774
 		},
 		"DiscoveryRadius": 1000,
 		"ExilesJourneyEvent": "None"
@@ -1526,9 +1526,9 @@
 		"Icon": "T_Map_caveIcon",
 		"Location":
 		{
-			"X": 19457,
-			"Y": -79631,
-			"Z": 15663
+			"x": 19457,
+			"y": -79631,
+			"z": 15663
 		},
 		"DiscoveryRadius": 1000,
 		"ExilesJourneyEvent": "None"
@@ -1539,9 +1539,9 @@
 		"Icon": "T_Map_Icon_vista",
 		"Location":
 		{
-			"X": 32653,
-			"Y": 21022,
-			"Z": -2102
+			"x": 32653,
+			"y": 21022,
+			"z": -2102
 		},
 		"DiscoveryRadius": 850,
 		"ExilesJourneyEvent": "None"
@@ -1552,9 +1552,9 @@
 		"Icon": "T_Map_caveIcon",
 		"Location":
 		{
-			"X": 35323,
-			"Y": -55615,
-			"Z": 8641
+			"x": 35323,
+			"y": -55615,
+			"z": 8641
 		},
 		"DiscoveryRadius": 1000,
 		"ExilesJourneyEvent": "None"
@@ -1565,9 +1565,9 @@
 		"Icon": "T_Map_Icon_ruins",
 		"Location":
 		{
-			"X": -13993,
-			"Y": 3446,
-			"Z": -943
+			"x": -13993,
+			"y": 3446,
+			"z": -943
 		},
 		"DiscoveryRadius": 8000,
 		"ExilesJourneyEvent": "None"
@@ -1578,9 +1578,9 @@
 		"Icon": "T_Map_Icon_ruins",
 		"Location":
 		{
-			"X": -14098,
-			"Y": -26056,
-			"Z": -4243
+			"x": -14098,
+			"y": -26056,
+			"z": -4243
 		},
 		"DiscoveryRadius": 18000,
 		"ExilesJourneyEvent": "None"
@@ -1591,9 +1591,9 @@
 		"Icon": "T_Map_Icon_ruins",
 		"Location":
 		{
-			"X": -14055,
-			"Y": -58701,
-			"Z": 4579
+			"x": -14055,
+			"y": -58701,
+			"z": 4579
 		},
 		"DiscoveryRadius": 15000,
 		"ExilesJourneyEvent": "None"
@@ -1604,9 +1604,9 @@
 		"Icon": "T_Map_Icon_camp_vanir",
 		"Location":
 		{
-			"X": -25725,
-			"Y": -4205,
-			"Z": -5286
+			"x": -25725,
+			"y": -4205,
+			"z": -5286
 		},
 		"DiscoveryRadius": 2500,
 		"ExilesJourneyEvent": "None"
@@ -1617,9 +1617,9 @@
 		"Icon": "T_Map_Icon_camp_vanir",
 		"Location":
 		{
-			"X": -28446,
-			"Y": -52705,
-			"Z": -205
+			"x": -28446,
+			"y": -52705,
+			"z": -205
 		},
 		"DiscoveryRadius": 3000,
 		"ExilesJourneyEvent": "None"
@@ -1630,9 +1630,9 @@
 		"Icon": "T_Map_Icon_camp_vanir",
 		"Location":
 		{
-			"X": -21130,
-			"Y": -71358,
-			"Z": 1229
+			"x": -21130,
+			"y": -71358,
+			"z": 1229
 		},
 		"DiscoveryRadius": 2000,
 		"ExilesJourneyEvent": "None"
@@ -1643,9 +1643,9 @@
 		"Icon": "T_Map_Icon_camp_vanir",
 		"Location":
 		{
-			"X": -39741,
-			"Y": -61567,
-			"Z": 2570
+			"x": -39741,
+			"y": -61567,
+			"z": 2570
 		},
 		"DiscoveryRadius": 4000,
 		"ExilesJourneyEvent": "None"
@@ -1656,9 +1656,9 @@
 		"Icon": "T_Map_Icon_capital_vanir",
 		"Location":
 		{
-			"X": -76030,
-			"Y": -46615,
-			"Z": -1556
+			"x": -76030,
+			"y": -46615,
+			"z": -1556
 		},
 		"DiscoveryRadius": 12000,
 		"ExilesJourneyEvent": "VisitNewAsagard"
@@ -1669,9 +1669,9 @@
 		"Icon": "T_Map_Icon_camp_vanir",
 		"Location":
 		{
-			"X": -51070,
-			"Y": -47246,
-			"Z": -1311
+			"x": -51070,
+			"y": -47246,
+			"z": -1311
 		},
 		"DiscoveryRadius": 2000,
 		"ExilesJourneyEvent": "None"
@@ -1682,9 +1682,9 @@
 		"Icon": "T_Map_Icon_camp_vanir",
 		"Location":
 		{
-			"X": -53065,
-			"Y": -18695,
-			"Z": 2093
+			"x": -53065,
+			"y": -18695,
+			"z": 2093
 		},
 		"DiscoveryRadius": 3000,
 		"ExilesJourneyEvent": "None"
@@ -1695,9 +1695,9 @@
 		"Icon": "T_Map_Icon_vista",
 		"Location":
 		{
-			"X": -88537,
-			"Y": -12284,
-			"Z": -6046
+			"x": -88537,
+			"y": -12284,
+			"z": -6046
 		},
 		"DiscoveryRadius": 10000,
 		"ExilesJourneyEvent": "None"
@@ -1708,9 +1708,9 @@
 		"Icon": "T_Map_Icon_camp_vanir",
 		"Location":
 		{
-			"X": -98469,
-			"Y": -30551,
-			"Z": 926
+			"x": -98469,
+			"y": -30551,
+			"z": 926
 		},
 		"DiscoveryRadius": 4000,
 		"ExilesJourneyEvent": "None"
@@ -1721,9 +1721,9 @@
 		"Icon": "T_Map_Icon_camp_vanir",
 		"Location":
 		{
-			"X": -74394,
-			"Y": -66343,
-			"Z": 2106
+			"x": -74394,
+			"y": -66343,
+			"z": 2106
 		},
 		"DiscoveryRadius": 3500,
 		"ExilesJourneyEvent": "None"
@@ -1734,9 +1734,9 @@
 		"Icon": "T_Map_Icon_ruins",
 		"Location":
 		{
-			"X": -203528,
-			"Y": -26067,
-			"Z": 684
+			"x": -203528,
+			"y": -26067,
+			"z": 684
 		},
 		"DiscoveryRadius": 4000,
 		"ExilesJourneyEvent": "None"
@@ -1747,9 +1747,9 @@
 		"Icon": "T_Map_Icon_camp_vanir",
 		"Location":
 		{
-			"X": -77957,
-			"Y": -80030,
-			"Z": 1160
+			"x": -77957,
+			"y": -80030,
+			"z": 1160
 		},
 		"DiscoveryRadius": 2000,
 		"ExilesJourneyEvent": "None"
@@ -1760,9 +1760,9 @@
 		"Icon": "T_Map_Icon_camp_vanir",
 		"Location":
 		{
-			"X": -53148,
-			"Y": -82237,
-			"Z": 1252
+			"x": -53148,
+			"y": -82237,
+			"z": 1252
 		},
 		"DiscoveryRadius": 1500,
 		"ExilesJourneyEvent": "None"
@@ -1773,9 +1773,9 @@
 		"Icon": "T_Map_Icon_vista",
 		"Location":
 		{
-			"X": 27116,
-			"Y": -153607,
-			"Z": 17735
+			"x": 27116,
+			"y": -153607,
+			"z": 17735
 		},
 		"DiscoveryRadius": 11000,
 		"ExilesJourneyEvent": "None"
@@ -1786,9 +1786,9 @@
 		"Icon": "T_Map_Icon_vista",
 		"Location":
 		{
-			"X": -20032,
-			"Y": -118630,
-			"Z": -0
+			"x": -20032,
+			"y": -118630,
+			"z": -0
 		},
 		"DiscoveryRadius": 20000,
 		"ExilesJourneyEvent": "None"
@@ -1799,9 +1799,9 @@
 		"Icon": "T_Map_dungeonIcon",
 		"Location":
 		{
-			"X": -61375,
-			"Y": -136051,
-			"Z": 10342
+			"x": -61375,
+			"y": -136051,
+			"z": 10342
 		},
 		"DiscoveryRadius": 3000,
 		"ExilesJourneyEvent": "VisitBlackKeep"
@@ -1812,9 +1812,9 @@
 		"Icon": "T_Map_Icon_ruins",
 		"Location":
 		{
-			"X": -60950,
-			"Y": -127451,
-			"Z": 1593
+			"x": -60950,
+			"y": -127451,
+			"z": 1593
 		},
 		"DiscoveryRadius": 30000,
 		"ExilesJourneyEvent": "None"
@@ -1825,9 +1825,9 @@
 		"Icon": "T_Map_Icon_ruins",
 		"Location":
 		{
-			"X": -83473,
-			"Y": -96180,
-			"Z": 1593
+			"x": -83473,
+			"y": -96180,
+			"z": 1593
 		},
 		"DiscoveryRadius": 17500,
 		"ExilesJourneyEvent": "None"
@@ -1838,9 +1838,9 @@
 		"Icon": "T_Map_Icon_vista",
 		"Location":
 		{
-			"X": -107356,
-			"Y": -65497,
-			"Z": 1593
+			"x": -107356,
+			"y": -65497,
+			"z": 1593
 		},
 		"DiscoveryRadius": 12500,
 		"ExilesJourneyEvent": "None"
@@ -1851,9 +1851,9 @@
 		"Icon": "T_Map_Icon_ruins",
 		"Location":
 		{
-			"X": -121235,
-			"Y": -48133,
-			"Z": 1593
+			"x": -121235,
+			"y": -48133,
+			"z": 1593
 		},
 		"DiscoveryRadius": 5000,
 		"ExilesJourneyEvent": "None"
@@ -1864,9 +1864,9 @@
 		"Icon": "T_Map_Icon_camp_vanir",
 		"Location":
 		{
-			"X": -156230,
-			"Y": -51064,
-			"Z": 3286
+			"x": -156230,
+			"y": -51064,
+			"z": 3286
 		},
 		"DiscoveryRadius": 16000,
 		"ExilesJourneyEvent": "None"
@@ -1877,9 +1877,9 @@
 		"Icon": "T_Map_Icon_camp_vanir",
 		"Location":
 		{
-			"X": -164687,
-			"Y": -47974,
-			"Z": 3599
+			"x": -164687,
+			"y": -47974,
+			"z": 3599
 		},
 		"DiscoveryRadius": 4500,
 		"ExilesJourneyEvent": "None"
@@ -1890,9 +1890,9 @@
 		"Icon": "T_Map_Icon_camp_vanir",
 		"Location":
 		{
-			"X": -148546,
-			"Y": -45103,
-			"Z": 5630
+			"x": -148546,
+			"y": -45103,
+			"z": 5630
 		},
 		"DiscoveryRadius": 4500,
 		"ExilesJourneyEvent": "None"
@@ -1903,9 +1903,9 @@
 		"Icon": "T_Map_Icon_camp_vanir",
 		"Location":
 		{
-			"X": -157022,
-			"Y": -58833,
-			"Z": 5421
+			"x": -157022,
+			"y": -58833,
+			"z": 5421
 		},
 		"DiscoveryRadius": 4500,
 		"ExilesJourneyEvent": "None"
@@ -1916,9 +1916,9 @@
 		"Icon": "T_Map_Icon_ruins",
 		"Location":
 		{
-			"X": -185894,
-			"Y": -66799,
-			"Z": 463
+			"x": -185894,
+			"y": -66799,
+			"z": 463
 		},
 		"DiscoveryRadius": 4000,
 		"ExilesJourneyEvent": "None"
@@ -1929,9 +1929,9 @@
 		"Icon": "T_Map_Icon_capital_cimmerian",
 		"Location":
 		{
-			"X": -227825,
-			"Y": -106406,
-			"Z": -771
+			"x": -227825,
+			"y": -106406,
+			"z": -771
 		},
 		"DiscoveryRadius": 27500,
 		"ExilesJourneyEvent": "VisitMoundsDead"
@@ -1942,9 +1942,9 @@
 		"Icon": "T_Map_Icon_vista",
 		"Location":
 		{
-			"X": -251754,
-			"Y": -126070,
-			"Z": -2765
+			"x": -251754,
+			"y": -126070,
+			"z": -2765
 		},
 		"DiscoveryRadius": 15000,
 		"ExilesJourneyEvent": "None"
@@ -1955,9 +1955,9 @@
 		"Icon": "T_Map_caveIcon",
 		"Location":
 		{
-			"X": -273229,
-			"Y": -109552,
-			"Z": 3456
+			"x": -273229,
+			"y": -109552,
+			"z": 3456
 		},
 		"DiscoveryRadius": 1000,
 		"ExilesJourneyEvent": "None"
@@ -1968,9 +1968,9 @@
 		"Icon": "T_Map_Icon_camp_frost_giant",
 		"Location":
 		{
-			"X": -201375,
-			"Y": -149670,
-			"Z": 9490
+			"x": -201375,
+			"y": -149670,
+			"z": 9490
 		},
 		"DiscoveryRadius": 2500,
 		"ExilesJourneyEvent": "None"
@@ -1981,9 +1981,9 @@
 		"Icon": "T_Map_Icon_capital_frost_giant",
 		"Location":
 		{
-			"X": -121649,
-			"Y": -239594,
-			"Z": 9670
+			"x": -121649,
+			"y": -239594,
+			"z": 9670
 		},
 		"DiscoveryRadius": 6000,
 		"ExilesJourneyEvent": "None"
@@ -1994,9 +1994,9 @@
 		"Icon": "T_Map_Icon_vista",
 		"Location":
 		{
-			"X": -179517,
-			"Y": -170940,
-			"Z": -2535
+			"x": -179517,
+			"y": -170940,
+			"z": -2535
 		},
 		"DiscoveryRadius": 9000,
 		"ExilesJourneyEvent": "None"
@@ -2007,9 +2007,9 @@
 		"Icon": "T_Map_caveIcon",
 		"Location":
 		{
-			"X": -83371,
-			"Y": -164022,
-			"Z": 8763
+			"x": -83371,
+			"y": -164022,
+			"z": 8763
 		},
 		"DiscoveryRadius": 6000,
 		"ExilesJourneyEvent": "None"
@@ -2020,9 +2020,9 @@
 		"Icon": "T_Map_Icon_vista",
 		"Location":
 		{
-			"X": 325402,
-			"Y": 193994,
-			"Z": -18774
+			"x": 325402,
+			"y": 193994,
+			"z": -18774
 		},
 		"DiscoveryRadius": 9000,
 		"ExilesJourneyEvent": "None"
@@ -2033,9 +2033,9 @@
 		"Icon": "T_Map_Icon_vista",
 		"Location":
 		{
-			"X": 284419,
-			"Y": 207900,
-			"Z": -27284
+			"x": 284419,
+			"y": 207900,
+			"z": -27284
 		},
 		"DiscoveryRadius": 15000,
 		"ExilesJourneyEvent": "None"
@@ -2046,9 +2046,9 @@
 		"Icon": "T_Map_Icon_vista",
 		"Location":
 		{
-			"X": 288776,
-			"Y": 177298,
-			"Z": -21965
+			"x": 288776,
+			"y": 177298,
+			"z": -21965
 		},
 		"DiscoveryRadius": 6000,
 		"ExilesJourneyEvent": "None"
@@ -2059,9 +2059,9 @@
 		"Icon": "T_Map_Icon_ruins",
 		"Location":
 		{
-			"X": 321035,
-			"Y": 170394,
-			"Z": -21530
+			"x": 321035,
+			"y": 170394,
+			"z": -21530
 		},
 		"DiscoveryRadius": 7000,
 		"ExilesJourneyEvent": "VisitXelha"
@@ -2072,9 +2072,9 @@
 		"Icon": "T_Map_Icon_camp_lemurian",
 		"Location":
 		{
-			"X": 343259,
-			"Y": 175687,
-			"Z": -14947
+			"x": 343259,
+			"y": 175687,
+			"z": -14947
 		},
 		"DiscoveryRadius": 4000,
 		"ExilesJourneyEvent": "None"
@@ -2085,9 +2085,9 @@
 		"Icon": "T_Map_Icon_ruins",
 		"Location":
 		{
-			"X": 365078,
-			"Y": 145845,
-			"Z": -20646
+			"x": 365078,
+			"y": 145845,
+			"z": -20646
 		},
 		"DiscoveryRadius": 12500,
 		"ExilesJourneyEvent": "None"
@@ -2098,9 +2098,9 @@
 		"Icon": "T_Map_dungeonIcon",
 		"Location":
 		{
-			"X": 346656,
-			"Y": 145691,
-			"Z": -21764
+			"x": 346656,
+			"y": 145691,
+			"z": -21764
 		},
 		"DiscoveryRadius": 2000,
 		"ExilesJourneyEvent": "EnterPalaceWitchQueen"
@@ -2111,9 +2111,9 @@
 		"Icon": "T_Map_Icon_ruins",
 		"Location":
 		{
-			"X": 335462,
-			"Y": 145691,
-			"Z": -22553
+			"x": 335462,
+			"y": 145691,
+			"z": -22553
 		},
 		"DiscoveryRadius": 10000,
 		"ExilesJourneyEvent": "None"
@@ -2124,9 +2124,9 @@
 		"Icon": "T_Map_Icon_ruins",
 		"Location":
 		{
-			"X": 316033,
-			"Y": 143851,
-			"Z": -22104
+			"x": 316033,
+			"y": 143851,
+			"z": -22104
 		},
 		"DiscoveryRadius": 5000,
 		"ExilesJourneyEvent": "None"
@@ -2137,9 +2137,9 @@
 		"Icon": "T_Map_Icon_capital_lemurian",
 		"Location":
 		{
-			"X": 325512,
-			"Y": 146813,
-			"Z": -22104
+			"x": 325512,
+			"y": 146813,
+			"z": -22104
 		},
 		"DiscoveryRadius": 27500,
 		"ExilesJourneyEvent": "VisitXelha"
@@ -2150,9 +2150,9 @@
 		"Icon": "T_Map_Icon_ruins",
 		"Location":
 		{
-			"X": 298406,
-			"Y": 147610,
-			"Z": -17550
+			"x": 298406,
+			"y": 147610,
+			"z": -17550
 		},
 		"DiscoveryRadius": 3000,
 		"ExilesJourneyEvent": "None"
@@ -2163,9 +2163,9 @@
 		"Icon": "T_Map_Icon_ruins",
 		"Location":
 		{
-			"X": 278026,
-			"Y": 150166,
-			"Z": -14242
+			"x": 278026,
+			"y": 150166,
+			"z": -14242
 		},
 		"DiscoveryRadius": 2500,
 		"ExilesJourneyEvent": "None"
@@ -2176,9 +2176,9 @@
 		"Icon": "T_Map_Icon_vista",
 		"Location":
 		{
-			"X": 246151,
-			"Y": 146105,
-			"Z": -19401
+			"x": 246151,
+			"y": 146105,
+			"z": -19401
 		},
 		"DiscoveryRadius": 10000,
 		"ExilesJourneyEvent": "None"
@@ -2189,9 +2189,9 @@
 		"Icon": "T_Map_Icon_vista",
 		"Location":
 		{
-			"X": 258132,
-			"Y": 176715,
-			"Z": -13079
+			"x": 258132,
+			"y": 176715,
+			"z": -13079
 		},
 		"DiscoveryRadius": 3000,
 		"ExilesJourneyEvent": "None"
@@ -2202,9 +2202,9 @@
 		"Icon": "T_Map_Icon_vista",
 		"Location":
 		{
-			"X": 237357,
-			"Y": 181616,
-			"Z": -20171
+			"x": 237357,
+			"y": 181616,
+			"z": -20171
 		},
 		"DiscoveryRadius": 1000,
 		"ExilesJourneyEvent": "None"
@@ -2215,9 +2215,9 @@
 		"Icon": "T_Map_campIcon",
 		"Location":
 		{
-			"X": 225064,
-			"Y": 153431,
-			"Z": -20194
+			"x": 225064,
+			"y": 153431,
+			"z": -20194
 		},
 		"DiscoveryRadius": 1500,
 		"ExilesJourneyEvent": "None"
@@ -2228,9 +2228,9 @@
 		"Icon": "T_Map_Icon_ruins",
 		"Location":
 		{
-			"X": 233601,
-			"Y": 121813,
-			"Z": -15141
+			"x": 233601,
+			"y": 121813,
+			"z": -15141
 		},
 		"DiscoveryRadius": 2750,
 		"ExilesJourneyEvent": "None"
@@ -2241,9 +2241,9 @@
 		"Icon": "T_Map_Icon_ruins",
 		"Location":
 		{
-			"X": 252836,
-			"Y": 117057,
-			"Z": -18156
+			"x": 252836,
+			"y": 117057,
+			"z": -18156
 		},
 		"DiscoveryRadius": 6000,
 		"ExilesJourneyEvent": "None"
@@ -2254,9 +2254,9 @@
 		"Icon": "T_Map_Icon_vista",
 		"Location":
 		{
-			"X": 267491,
-			"Y": 112156,
-			"Z": -20744
+			"x": 267491,
+			"y": 112156,
+			"z": -20744
 		},
 		"DiscoveryRadius": 6000,
 		"ExilesJourneyEvent": "None"
@@ -2267,9 +2267,9 @@
 		"Icon": "T_Map_Icon_ruins",
 		"Location":
 		{
-			"X": 315338,
-			"Y": 122673,
-			"Z": -10000
+			"x": 315338,
+			"y": 122673,
+			"z": -10000
 		},
 		"DiscoveryRadius": 3000,
 		"ExilesJourneyEvent": "None"
@@ -2280,9 +2280,9 @@
 		"Icon": "T_Map_Icon_ruins",
 		"Location":
 		{
-			"X": 343849,
-			"Y": 106877,
-			"Z": -12045
+			"x": 343849,
+			"y": 106877,
+			"z": -12045
 		},
 		"DiscoveryRadius": 4500,
 		"ExilesJourneyEvent": "None"
@@ -2293,9 +2293,9 @@
 		"Icon": "T_Map_Icon_ruins",
 		"Location":
 		{
-			"X": 355264,
-			"Y": 120473,
-			"Z": -18983
+			"x": 355264,
+			"y": 120473,
+			"z": -18983
 		},
 		"DiscoveryRadius": 4000,
 		"ExilesJourneyEvent": "None"
@@ -2306,9 +2306,9 @@
 		"Icon": "T_Map_Icon_vista",
 		"Location":
 		{
-			"X": 387028,
-			"Y": 114618,
-			"Z": -20446
+			"x": 387028,
+			"y": 114618,
+			"z": -20446
 		},
 		"DiscoveryRadius": 2000,
 		"ExilesJourneyEvent": "None"
@@ -2319,9 +2319,9 @@
 		"Icon": "T_Map_Icon_vista",
 		"Location":
 		{
-			"X": 397385,
-			"Y": 159916,
-			"Z": -20446
+			"x": 397385,
+			"y": 159916,
+			"z": -20446
 		},
 		"DiscoveryRadius": 3000,
 		"ExilesJourneyEvent": "None"
@@ -2332,9 +2332,9 @@
 		"Icon": "T_Map_Icon_vista",
 		"Location":
 		{
-			"X": 179179,
-			"Y": 147928,
-			"Z": -18726
+			"x": 179179,
+			"y": 147928,
+			"z": -18726
 		},
 		"DiscoveryRadius": 4500,
 		"ExilesJourneyEvent": "None"
@@ -2345,9 +2345,9 @@
 		"Icon": "T_Map_Icon_camp_black_hand",
 		"Location":
 		{
-			"X": 177269,
-			"Y": 102357,
-			"Z": -19472
+			"x": 177269,
+			"y": 102357,
+			"z": -19472
 		},
 		"DiscoveryRadius": 4000,
 		"ExilesJourneyEvent": "ScoutBlackHandCamp"
@@ -2358,9 +2358,9 @@
 		"Icon": "T_Map_Icon_camp_darfari",
 		"Location":
 		{
-			"X": 152402,
-			"Y": 94758,
-			"Z": -14330
+			"x": 152402,
+			"y": 94758,
+			"z": -14330
 		},
 		"DiscoveryRadius": 2500,
 		"ExilesJourneyEvent": "FindDarfariCamp"
@@ -2371,9 +2371,9 @@
 		"Icon": "T_Map_Icon_vista",
 		"Location":
 		{
-			"X": 183166,
-			"Y": 87543,
-			"Z": -17364
+			"x": 183166,
+			"y": 87543,
+			"z": -17364
 		},
 		"DiscoveryRadius": 3000,
 		"ExilesJourneyEvent": "None"
@@ -2384,9 +2384,9 @@
 		"Icon": "T_Map_Icon_ruins",
 		"Location":
 		{
-			"X": 146217,
-			"Y": 49932,
-			"Z": -15822
+			"x": 146217,
+			"y": 49932,
+			"z": -15822
 		},
 		"DiscoveryRadius": 4000,
 		"ExilesJourneyEvent": "None"
@@ -2397,9 +2397,9 @@
 		"Icon": "T_Map_caveIcon",
 		"Location":
 		{
-			"X": 127659,
-			"Y": 66359,
-			"Z": -14050
+			"x": 127659,
+			"y": 66359,
+			"z": -14050
 		},
 		"DiscoveryRadius": 1000,
 		"ExilesJourneyEvent": "None"
@@ -2410,9 +2410,9 @@
 		"Icon": "T_Map_Icon_ruins",
 		"Location":
 		{
-			"X": 156219,
-			"Y": 66974,
-			"Z": -13814
+			"x": 156219,
+			"y": 66974,
+			"z": -13814
 		},
 		"DiscoveryRadius": 3000,
 		"ExilesJourneyEvent": "None"
@@ -2423,9 +2423,9 @@
 		"Icon": "T_Map_Icon_vista",
 		"Location":
 		{
-			"X": 176979,
-			"Y": 70497,
-			"Z": -12235
+			"x": 176979,
+			"y": 70497,
+			"z": -12235
 		},
 		"DiscoveryRadius": 4500,
 		"ExilesJourneyEvent": "None"
@@ -2436,9 +2436,9 @@
 		"Icon": "T_Map_Icon_ruins",
 		"Location":
 		{
-			"X": 208743,
-			"Y": 92416,
-			"Z": -20009
+			"x": 208743,
+			"y": 92416,
+			"z": -20009
 		},
 		"DiscoveryRadius": 4000,
 		"ExilesJourneyEvent": "None"
@@ -2449,9 +2449,9 @@
 		"Icon": "T_Map_Icon_camp_black_hand",
 		"Location":
 		{
-			"X": 213468,
-			"Y": 61342,
-			"Z": -20009
+			"x": 213468,
+			"y": 61342,
+			"z": -20009
 		},
 		"DiscoveryRadius": 3000,
 		"ExilesJourneyEvent": "ScoutBlackHandCamp"
@@ -2462,9 +2462,9 @@
 		"Icon": "T_Map_dungeonIcon",
 		"Location":
 		{
-			"X": 168011,
-			"Y": -2263,
-			"Z": -20009
+			"x": 168011,
+			"y": -2263,
+			"z": -20009
 		},
 		"DiscoveryRadius": 1200,
 		"ExilesJourneyEvent": "None"
@@ -2475,9 +2475,9 @@
 		"Icon": "T_Map_Icon_ruins",
 		"Location":
 		{
-			"X": 190798,
-			"Y": 10586,
-			"Z": -19654
+			"x": 190798,
+			"y": 10586,
+			"z": -19654
 		},
 		"DiscoveryRadius": 6000,
 		"ExilesJourneyEvent": "None"
@@ -2488,9 +2488,9 @@
 		"Icon": "T_Map_Icon_ruins",
 		"Location":
 		{
-			"X": 201212,
-			"Y": 26050,
-			"Z": -19091
+			"x": 201212,
+			"y": 26050,
+			"z": -19091
 		},
 		"DiscoveryRadius": 2500,
 		"ExilesJourneyEvent": "None"
@@ -2501,9 +2501,9 @@
 		"Icon": "T_Map_Icon_vista",
 		"Location":
 		{
-			"X": 220424,
-			"Y": 43687,
-			"Z": -8182
+			"x": 220424,
+			"y": 43687,
+			"z": -8182
 		},
 		"DiscoveryRadius": 3000,
 		"ExilesJourneyEvent": "None"
@@ -2514,9 +2514,9 @@
 		"Icon": "T_Map_Icon_ruins",
 		"Location":
 		{
-			"X": 238359,
-			"Y": 61081,
-			"Z": -21807
+			"x": 238359,
+			"y": 61081,
+			"z": -21807
 		},
 		"DiscoveryRadius": 4000,
 		"ExilesJourneyEvent": "None"
@@ -2527,9 +2527,9 @@
 		"Icon": "T_Map_Icon_vista",
 		"Location":
 		{
-			"X": 254059,
-			"Y": 84626,
-			"Z": -21807
+			"x": 254059,
+			"y": 84626,
+			"z": -21807
 		},
 		"DiscoveryRadius": 10000,
 		"ExilesJourneyEvent": "None"
@@ -2540,9 +2540,9 @@
 		"Icon": "T_Map_Icon_vista",
 		"Location":
 		{
-			"X": 169045,
-			"Y": 39663,
-			"Z": -22542
+			"x": 169045,
+			"y": 39663,
+			"z": -22542
 		},
 		"DiscoveryRadius": 11000,
 		"ExilesJourneyEvent": "None"
@@ -2553,9 +2553,9 @@
 		"Icon": "T_Map_Icon_camp_black_hand",
 		"Location":
 		{
-			"X": 262469,
-			"Y": 17046,
-			"Z": -17492
+			"x": 262469,
+			"y": 17046,
+			"z": -17492
 		},
 		"DiscoveryRadius": 3000,
 		"ExilesJourneyEvent": "ScoutBlackHandCamp"
@@ -2566,9 +2566,9 @@
 		"Icon": "T_Map_Icon_vista",
 		"Location":
 		{
-			"X": 308604,
-			"Y": 95275,
-			"Z": -20584
+			"x": 308604,
+			"y": 95275,
+			"z": -20584
 		},
 		"DiscoveryRadius": 3000,
 		"ExilesJourneyEvent": "None"
@@ -2579,9 +2579,9 @@
 		"Icon": "T_Map_Icon_camp_black_hand",
 		"Location":
 		{
-			"X": 335481,
-			"Y": 57559,
-			"Z": -17290
+			"x": 335481,
+			"y": 57559,
+			"z": -17290
 		},
 		"DiscoveryRadius": 4500,
 		"ExilesJourneyEvent": "ScoutBlackHandCamp"
@@ -2592,9 +2592,9 @@
 		"Icon": "T_Map_Icon_camp_black_hand",
 		"Location":
 		{
-			"X": 346662,
-			"Y": 46170,
-			"Z": -14249
+			"x": 346662,
+			"y": 46170,
+			"z": -14249
 		},
 		"DiscoveryRadius": 2000,
 		"ExilesJourneyEvent": "ScoutBlackHandCamp"
@@ -2605,9 +2605,9 @@
 		"Icon": "T_Map_Icon_vista",
 		"Location":
 		{
-			"X": 368581,
-			"Y": 25973,
-			"Z": -6685
+			"x": 368581,
+			"y": 25973,
+			"z": -6685
 		},
 		"DiscoveryRadius": 3500,
 		"ExilesJourneyEvent": "None"
@@ -2618,9 +2618,9 @@
 		"Icon": "T_Map_Icon_vista",
 		"Location":
 		{
-			"X": 334798,
-			"Y": 49441,
-			"Z": -23366
+			"x": 334798,
+			"y": 49441,
+			"z": -23366
 		},
 		"DiscoveryRadius": 32000,
 		"ExilesJourneyEvent": "None"
@@ -2631,9 +2631,9 @@
 		"Icon": "T_Map_Icon_camp_black_hand",
 		"Location":
 		{
-			"X": 318191,
-			"Y": 70772,
-			"Z": -19505
+			"x": 318191,
+			"y": 70772,
+			"z": -19505
 		},
 		"DiscoveryRadius": 10000,
 		"ExilesJourneyEvent": "ScoutBlackHandCamp"
@@ -2644,9 +2644,9 @@
 		"Icon": "T_Map_Icon_vista",
 		"Location":
 		{
-			"X": 271109,
-			"Y": 59871,
-			"Z": -20660
+			"x": 271109,
+			"y": 59871,
+			"z": -20660
 		},
 		"DiscoveryRadius": 10000,
 		"ExilesJourneyEvent": "None"
@@ -2657,9 +2657,9 @@
 		"Icon": "T_Map_caveIcon",
 		"Location":
 		{
-			"X": 42514,
-			"Y": -142936,
-			"Z": 25861
+			"x": 42514,
+			"y": -142936,
+			"z": 25861
 		},
 		"DiscoveryRadius": 1200,
 		"ExilesJourneyEvent": "None"
@@ -2670,9 +2670,9 @@
 		"Icon": "T_Map_Icon_vista",
 		"Location":
 		{
-			"X": -24276,
-			"Y": -157927,
-			"Z": 17783
+			"x": -24276,
+			"y": -157927,
+			"z": 17783
 		},
 		"DiscoveryRadius": 11000,
 		"ExilesJourneyEvent": "VisitVolcano"
@@ -2683,9 +2683,9 @@
 		"Icon": "T_Map_dungeonIcon",
 		"Location":
 		{
-			"X": -80901,
-			"Y": -130649,
-			"Z": -1205
+			"x": -80901,
+			"y": -130649,
+			"z": -1205
 		},
 		"DiscoveryRadius": 1500,
 		"ExilesJourneyEvent": "None"
@@ -2696,9 +2696,9 @@
 		"Icon": "T_Map_Icon_ruins",
 		"Location":
 		{
-			"X": -108880,
-			"Y": -111737,
-			"Z": 1199
+			"x": -108880,
+			"y": -111737,
+			"z": 1199
 		},
 		"DiscoveryRadius": 2250,
 		"ExilesJourneyEvent": "None"
@@ -2709,9 +2709,9 @@
 		"Icon": "T_Map_Icon_ruins",
 		"Location":
 		{
-			"X": -126769,
-			"Y": -82801,
-			"Z": -192
+			"x": -126769,
+			"y": -82801,
+			"z": -192
 		},
 		"DiscoveryRadius": 3000,
 		"ExilesJourneyEvent": "None"
@@ -2722,9 +2722,9 @@
 		"Icon": "T_Map_Icon_vista",
 		"Location":
 		{
-			"X": -193946,
-			"Y": -32219,
-			"Z": -4899
+			"x": -193946,
+			"y": -32219,
+			"z": -4899
 		},
 		"DiscoveryRadius": 4500,
 		"ExilesJourneyEvent": "None"
@@ -2735,9 +2735,9 @@
 		"Icon": "T_Map_Icon_ruins",
 		"Location":
 		{
-			"X": -219779,
-			"Y": -47537,
-			"Z": 2394
+			"x": -219779,
+			"y": -47537,
+			"z": 2394
 		},
 		"DiscoveryRadius": 10000,
 		"ExilesJourneyEvent": "None"
@@ -2748,9 +2748,9 @@
 		"Icon": "T_Map_campIcon",
 		"Location":
 		{
-			"X": -219174,
-			"Y": -78678,
-			"Z": -3481
+			"x": -219174,
+			"y": -78678,
+			"z": -3481
 		},
 		"DiscoveryRadius": 1000,
 		"ExilesJourneyEvent": "None"
@@ -2761,9 +2761,9 @@
 		"Icon": "T_Map_Icon_ruins",
 		"Location":
 		{
-			"X": -237612,
-			"Y": -93167,
-			"Z": -2982
+			"x": -237612,
+			"y": -93167,
+			"z": -2982
 		},
 		"DiscoveryRadius": 3400,
 		"ExilesJourneyEvent": "None"
@@ -2774,9 +2774,9 @@
 		"Icon": "T_Map_Icon_camp_frost_giant",
 		"Location":
 		{
-			"X": -199983,
-			"Y": -209220,
-			"Z": 5074
+			"x": -199983,
+			"y": -209220,
+			"z": 5074
 		},
 		"DiscoveryRadius": 2700,
 		"ExilesJourneyEvent": "None"
@@ -2787,9 +2787,9 @@
 		"Icon": "T_Map_Icon_vista",
 		"Location":
 		{
-			"X": -164744,
-			"Y": -187437,
-			"Z": -1007
+			"x": -164744,
+			"y": -187437,
+			"z": -1007
 		},
 		"DiscoveryRadius": 10000,
 		"ExilesJourneyEvent": "None"
@@ -2800,9 +2800,9 @@
 		"Icon": "T_Map_Icon_ruins",
 		"Location":
 		{
-			"X": -162373,
-			"Y": -190529,
-			"Z": -1007
+			"x": -162373,
+			"y": -190529,
+			"z": -1007
 		},
 		"DiscoveryRadius": 1250,
 		"ExilesJourneyEvent": "None"
@@ -2813,9 +2813,9 @@
 		"Icon": "T_Map_Icon_vista",
 		"Location":
 		{
-			"X": -113499,
-			"Y": -258099,
-			"Z": 6603
+			"x": -113499,
+			"y": -258099,
+			"z": 6603
 		},
 		"DiscoveryRadius": 1800,
 		"ExilesJourneyEvent": "None"
@@ -2826,9 +2826,9 @@
 		"Icon": "T_Map_Icon_vista",
 		"Location":
 		{
-			"X": -128001,
-			"Y": -266287,
-			"Z": 7162
+			"x": -128001,
+			"y": -266287,
+			"z": 7162
 		},
 		"DiscoveryRadius": 2800,
 		"ExilesJourneyEvent": "None"
@@ -2839,9 +2839,9 @@
 		"Icon": "T_Map_Icon_vista",
 		"Location":
 		{
-			"X": -124272,
-			"Y": -196645,
-			"Z": 5261
+			"x": -124272,
+			"y": -196645,
+			"z": 5261
 		},
 		"DiscoveryRadius": 10000,
 		"ExilesJourneyEvent": "None"
@@ -2852,9 +2852,9 @@
 		"Icon": "T_Map_Icon_camp_frost_giant",
 		"Location":
 		{
-			"X": -102300,
-			"Y": -193771,
-			"Z": 12692
+			"x": -102300,
+			"y": -193771,
+			"z": 12692
 		},
 		"DiscoveryRadius": 3250,
 		"ExilesJourneyEvent": "None"
@@ -2865,9 +2865,9 @@
 		"Icon": "T_Map_Icon_ruins",
 		"Location":
 		{
-			"X": -220949,
-			"Y": -181485,
-			"Z": 1262
+			"x": -220949,
+			"y": -181485,
+			"z": 1262
 		},
 		"DiscoveryRadius": 3500,
 		"ExilesJourneyEvent": "None"
@@ -2878,9 +2878,9 @@
 		"Icon": "T_Map_Icon_ruins",
 		"Location":
 		{
-			"X": -151897,
-			"Y": -108126,
-			"Z": -1271
+			"x": -151897,
+			"y": -108126,
+			"z": -1271
 		},
 		"DiscoveryRadius": 2500,
 		"ExilesJourneyEvent": "None"
@@ -2891,9 +2891,9 @@
 		"Icon": "T_Map_Icon_vista",
 		"Location":
 		{
-			"X": -177478,
-			"Y": -141985,
-			"Z": 12424
+			"x": -177478,
+			"y": -141985,
+			"z": 12424
 		},
 		"DiscoveryRadius": 15000,
 		"ExilesJourneyEvent": "None"
@@ -2904,9 +2904,9 @@
 		"Icon": "T_Map_Icon_camp_cimmerian",
 		"Location":
 		{
-			"X": -197097,
-			"Y": -125248,
-			"Z": 200
+			"x": -197097,
+			"y": -125248,
+			"z": 200
 		},
 		"DiscoveryRadius": 1500,
 		"ExilesJourneyEvent": "None"
@@ -2917,9 +2917,9 @@
 		"Icon": "T_Map_Icon_ruins",
 		"Location":
 		{
-			"X": -212701,
-			"Y": -101136,
-			"Z": -4483
+			"x": -212701,
+			"y": -101136,
+			"z": -4483
 		},
 		"DiscoveryRadius": 7000,
 		"ExilesJourneyEvent": "None"
@@ -2930,9 +2930,9 @@
 		"Icon": "T_Map_Icon_ruins",
 		"Location":
 		{
-			"X": 20581,
-			"Y": -203775,
-			"Z": 46820
+			"x": 20581,
+			"y": -203775,
+			"z": 46820
 		},
 		"DiscoveryRadius": 6000,
 		"ExilesJourneyEvent": "None"
@@ -2943,9 +2943,9 @@
 		"Icon": "T_Map_Icon_vista",
 		"Location":
 		{
-			"X": -3050,
-			"Y": -206806,
-			"Z": 44555
+			"x": -3050,
+			"y": -206806,
+			"z": 44555
 		},
 		"DiscoveryRadius": 4500,
 		"ExilesJourneyEvent": "None"
@@ -2956,9 +2956,9 @@
 		"Icon": "T_Map_Icon_vista",
 		"Location":
 		{
-			"X": -22769,
-			"Y": -208748,
-			"Z": 44555
+			"x": -22769,
+			"y": -208748,
+			"z": 44555
 		},
 		"DiscoveryRadius": 6000,
 		"ExilesJourneyEvent": "None"
@@ -2969,9 +2969,9 @@
 		"Icon": "T_Map_Icon_vista",
 		"Location":
 		{
-			"X": -37275,
-			"Y": -207460,
-			"Z": 44268
+			"x": -37275,
+			"y": -207460,
+			"z": 44268
 		},
 		"DiscoveryRadius": 5500,
 		"ExilesJourneyEvent": "None"
@@ -2982,9 +2982,9 @@
 		"Icon": "T_Map_Icon_vista",
 		"Location":
 		{
-			"X": 1310,
-			"Y": -229183,
-			"Z": 40639
+			"x": 1310,
+			"y": -229183,
+			"z": 40639
 		},
 		"DiscoveryRadius": 7000,
 		"ExilesJourneyEvent": "None"
@@ -2995,9 +2995,9 @@
 		"Icon": "T_Map_Icon_ruins",
 		"Location":
 		{
-			"X": -1983,
-			"Y": -251337,
-			"Z": 29974
+			"x": -1983,
+			"y": -251337,
+			"z": 29974
 		},
 		"DiscoveryRadius": 7000,
 		"ExilesJourneyEvent": "None"
@@ -3008,9 +3008,9 @@
 		"Icon": "T_Map_dungeonIcon",
 		"Location":
 		{
-			"X": -28576,
-			"Y": -249735,
-			"Z": 30466
+			"x": -28576,
+			"y": -249735,
+			"z": 30466
 		},
 		"DiscoveryRadius": 5500,
 		"ExilesJourneyEvent": "VisitWellOfSkelos"
@@ -3021,9 +3021,9 @@
 		"Icon": "T_Map_Icon_ruins",
 		"Location":
 		{
-			"X": -17043,
-			"Y": -173650,
-			"Z": 31969
+			"x": -17043,
+			"y": -173650,
+			"z": 31969
 		},
 		"DiscoveryRadius": 4500,
 		"ExilesJourneyEvent": "VisitVolcano"
@@ -3034,9 +3034,9 @@
 		"Icon": "T_Map_Icon_vista",
 		"Location":
 		{
-			"X": -45906,
-			"Y": -171789,
-			"Z": 34543
+			"x": -45906,
+			"y": -171789,
+			"z": 34543
 		},
 		"DiscoveryRadius": 8000,
 		"ExilesJourneyEvent": "VisitVolcano"
@@ -3047,9 +3047,9 @@
 		"Icon": "T_Map_Icon_ruins",
 		"Location":
 		{
-			"X": -56184,
-			"Y": -235224,
-			"Z": 33119
+			"x": -56184,
+			"y": -235224,
+			"z": 33119
 		},
 		"DiscoveryRadius": 6000,
 		"ExilesJourneyEvent": "None"
@@ -3060,9 +3060,9 @@
 		"Icon": "T_Map_caveIcon",
 		"Location":
 		{
-			"X": -96631,
-			"Y": -226716,
-			"Z": 26171
+			"x": -96631,
+			"y": -226716,
+			"z": 26171
 		},
 		"DiscoveryRadius": 1000,
 		"ExilesJourneyEvent": "None"
@@ -3073,9 +3073,9 @@
 		"Icon": "T_Map_Icon_camp_frost_giant",
 		"Location":
 		{
-			"X": -248368,
-			"Y": -193194,
-			"Z": 18427
+			"x": -248368,
+			"y": -193194,
+			"z": 18427
 		},
 		"DiscoveryRadius": 2500,
 		"ExilesJourneyEvent": "None"
@@ -3086,9 +3086,9 @@
 		"Icon": "T_Map_Icon_camp_frost_giant",
 		"Location":
 		{
-			"X": -147911,
-			"Y": -184373,
-			"Z": 745
+			"x": -147911,
+			"y": -184373,
+			"z": 745
 		},
 		"DiscoveryRadius": 2000,
 		"ExilesJourneyEvent": "None"
@@ -3099,9 +3099,9 @@
 		"Icon": "T_Map_Icon_camp_frost_giant",
 		"Location":
 		{
-			"X": -107826,
-			"Y": -133245,
-			"Z": 8031
+			"x": -107826,
+			"y": -133245,
+			"z": 8031
 		},
 		"DiscoveryRadius": 5000,
 		"ExilesJourneyEvent": "None"
@@ -3112,9 +3112,9 @@
 		"Icon": "T_Map_caveIcon",
 		"Location":
 		{
-			"X": -144279,
-			"Y": -99072,
-			"Z": -1554
+			"x": -144279,
+			"y": -99072,
+			"z": -1554
 		},
 		"DiscoveryRadius": 6000,
 		"ExilesJourneyEvent": "None"
@@ -3125,9 +3125,9 @@
 		"Icon": "T_Map_caveIcon",
 		"Location":
 		{
-			"X": -75148,
-			"Y": 140656,
-			"Z": -11464
+			"x": -75148,
+			"y": 140656,
+			"z": -11464
 		},
 		"DiscoveryRadius": 1000,
 		"ExilesJourneyEvent": "None"
@@ -3138,9 +3138,9 @@
 		"Icon": "T_Map_caveIcon",
 		"Location":
 		{
-			"X": -100000,
-			"Y": 168155,
-			"Z": -11839
+			"x": -100000,
+			"y": 168155,
+			"z": -11839
 		},
 		"DiscoveryRadius": 1000,
 		"ExilesJourneyEvent": "None"
@@ -3151,9 +3151,9 @@
 		"Icon": "T_Map_Icon_camp_darfari",
 		"Location":
 		{
-			"X": -29972,
-			"Y": 193313,
-			"Z": -8539
+			"x": -29972,
+			"y": 193313,
+			"z": -8539
 		},
 		"DiscoveryRadius": 3000,
 		"ExilesJourneyEvent": "FindDarfariCamp"
@@ -3164,9 +3164,9 @@
 		"Icon": "T_Map_Icon_camp_darfari",
 		"Location":
 		{
-			"X": -10923,
-			"Y": 158893,
-			"Z": -8709
+			"x": -10923,
+			"y": 158893,
+			"z": -8709
 		},
 		"DiscoveryRadius": 2500,
 		"ExilesJourneyEvent": "FindDarfariCamp"
@@ -3177,9 +3177,9 @@
 		"Icon": "T_Map_Icon_camp_darfari",
 		"Location":
 		{
-			"X": 35268,
-			"Y": 163000,
-			"Z": -7924
+			"x": 35268,
+			"y": 163000,
+			"z": -7924
 		},
 		"DiscoveryRadius": 4500,
 		"ExilesJourneyEvent": "FindDarfariCamp"
@@ -3190,9 +3190,9 @@
 		"Icon": "T_Map_Icon_camp_darfari",
 		"Location":
 		{
-			"X": 35259,
-			"Y": 193990,
-			"Z": -12535
+			"x": 35259,
+			"y": 193990,
+			"z": -12535
 		},
 		"DiscoveryRadius": 2000,
 		"ExilesJourneyEvent": "FindDarfariCamp"
@@ -3203,9 +3203,9 @@
 		"Icon": "T_Map_caveIcon",
 		"Location":
 		{
-			"X": 104462,
-			"Y": 137647,
-			"Z": -13993
+			"x": 104462,
+			"y": 137647,
+			"z": -13993
 		},
 		"DiscoveryRadius": 3000,
 		"ExilesJourneyEvent": "None"
@@ -3216,9 +3216,9 @@
 		"Icon": "T_Map_caveIcon",
 		"Location":
 		{
-			"X": -114990,
-			"Y": 167867,
-			"Z": -14177
+			"x": -114990,
+			"y": 167867,
+			"z": -14177
 		},
 		"DiscoveryRadius": 1000,
 		"ExilesJourneyEvent": "VisitHiddenCave"
@@ -3229,9 +3229,9 @@
 		"Icon": "T_Map_caveIcon",
 		"Location":
 		{
-			"X": -213910,
-			"Y": 124255,
-			"Z": -3781
+			"x": -213910,
+			"y": 124255,
+			"z": -3781
 		},
 		"DiscoveryRadius": 3000,
 		"ExilesJourneyEvent": "VisitSilvermine"
@@ -3242,23 +3242,11 @@
 		"Icon": "T_Map_dungeonIcon",
 		"Location":
 		{
-			"X": 14079,
-			"Y": -89964,
-			"Z": 7905
+			"x": 14079,
+			"y": -89964,
+			"z": 7905
 		},
 		"DiscoveryRadius": 1200,
-		"ExilesJourneyEvent": "None"
-	},
-	{
-		"ID": "1090",
-		"Name": "Slithering Beach",
-		"Icon": "T_Map_Icon_vista",
-		"Location": {
-			"x": 215000,
-			"y": 115000,
-			"z": -1657
-		},
-		"DiscoveryRadius": 7000,
 		"ExilesJourneyEvent": "None"
 	}
 ]
